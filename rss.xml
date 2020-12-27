@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Dec 2020 14:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2020 15:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国共和党参议员toomey：支持有针对性的失业援助，而不是2000美元现金支付。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8845675.d.html</link>
+            <guid>1946591</guid>
+            <pubDate>Sun, 27 Dec 2020 14:53:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议员Sanders：目睹了美国现代史上最高水平的饥饿。]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8845660.d.html</link>
+            <guid>1946590</guid>
+            <pubDate>Sun, 27 Dec 2020 14:53:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【下游备货需求推动 粘胶短纤集体涨价】百川资讯数据显示，25日山东、江苏等地粘胶短纤价格创反弹新高，当日上调幅度100元-300元/吨不等，四季度以来累计涨22%。另外，由于环保问题，宿迁翔盛30万吨产能降负50%，行业开工率从80%降至77%。分析认为，环保限产叠加下游需求增长，粘胶短纤供需错配加剧。12月中旬以来，粘胶累计上涨700元/吨，维持产销两旺，行业景气度将持续上行。公司方面，三友化工、中泰化学等粘胶短纤产能位居行业前列。（上证资讯）]]></title>
             <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8843705.d.html</link>
@@ -50,6 +62,12 @@
             <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8835755.d.html</link>
             <guid>1946575</guid>
             <pubDate>Sun, 27 Dec 2020 13:07:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【大商所组合保证金仿真系统上线运行】从大连商品交易所获悉，大商所RuLe组合保证金仿真系统近日正式上线，并陆续有5家试点会员接入测试。在仿真系统上线运行后，大商所将逐步扩大参与RuLe仿真系统测试的会员和客户范围，持续优化RuLe仿真系统；同时，强化业务创新与实践，以RuLe仿真系统助推大商所保证金系统体系建设完善，实现市场运行质量和风险防范在更高水平上的平衡。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8835226.d.html</link>
+            <guid>1946574</guid>
+            <pubDate>Sun, 27 Dec 2020 13:03:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[   【小米加入取消附送充电器行列 氮化镓充电器望再度迎风口】小米手机官方微博消息，在小米11产品包装中将取消随机附送充电器。此前苹果、三星两大厂商宣布取消随机附送充电器。分析认为，多家手机厂商取消赠送充电器的行为，对手机充电器兼容性有了更高要求，今年大热的GaN（氮化镓）充电器有望再度迎来风口。三方快充头将成为明年重要的需求方向，并迎来重大发展机遇。随着GaN产品在消费电子渗透率提升，应用场景将进一步扩大。相关公司有海能实业、富满电子等。（怀新资讯）]]></title>
@@ -589,24 +607,6 @@
             <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9209994.d.html</link>
             <guid>1946468</guid>
             <pubDate>Sun, 27 Dec 2020 07:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【经济日报：扎牢金融科技发展的制度“篱笆”】经济日报再评蚂蚁集团被二次约谈称，从国家发展大局出发，金融管理部门及时立规矩、强监管，扎紧金融科技发展制度“篱笆”，正当其时。对金融科技行业来说，加强监管非但不是“冬天”，反而是更好更健康发展的新起点。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznezxs9209537.d.html</link>
-            <guid>1946467</guid>
-            <pubDate>Sun, 27 Dec 2020 07:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  越南第四季度GDP同比增长4.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8787947.d.html</link>
-            <guid>1946465</guid>
-            <pubDate>Sun, 27 Dec 2020 06:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度阅兵彩排发生聚集性感染，150余名士兵新冠病毒检测呈阳性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2020-12-27/detail-iiznctke8787789.d.html</link>
-            <guid>1946464</guid>
-            <pubDate>Sun, 27 Dec 2020 06:51:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
