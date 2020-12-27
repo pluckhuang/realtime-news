@@ -1,16 +1,26 @@
 {
-  "name": "sina-news",
-  "version": "1.0.0",
-  "description": "",
-  "main": "sina.js",
+  "name": "realtime-news",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "feed": "^4.2.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "vue": "^2.6.11",
+    "vue-head": "^2.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-vue": "^6.2.2",
+    "prettier": "^1.19.1",
+    "vue-template-compiler": "^2.6.11"
   }
 }

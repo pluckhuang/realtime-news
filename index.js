@@ -40,11 +40,11 @@ async function main() {
     });
     console.log(`successfully generating new feed.`);
 
-    await fs.rmdir('./dist', { recursive: true });
-    console.log(`successfully deleted ./dist`);
+    // await fs.rmdir('./dist', { recursive: true });
+    // console.log(`successfully deleted ./dist`);
 
-    await fs.mkdir('./dist');
-    console.log(`successfully create ./dist`);
+    // await fs.mkdir('./dist');
+    // console.log(`successfully create ./dist`);
 
     await fs.writeFile('./dist/rss.json', feed.json1());
     console.log(`successfully write rss.json`);
@@ -52,8 +52,6 @@ async function main() {
     await fs.writeFile('./dist/rss.xml', feed.rss2());
     console.log(`successfully write rss.xml`);
 
-    await fs.copyFile('./template/index.html', `./dist/index.html`);
-    await fs.copyFile('./template/page.js', `./dist/page.js`);
     console.log(`successfully copy asset files`);
 
   } catch (err) {
