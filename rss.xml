@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 03 Jan 2021 13:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2021 14:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国立过敏与传染病研究所（NIAID）所长福奇：“想要避免”广泛的封锁，关注其他措施。预计一周内发运2000万剂新冠病毒疫苗，过去72小时内运送了大约150万剂疫苗。美国有30万例新冠肺炎死亡的“数字是真实的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0390757.d.html</link>
+            <guid>1957268</guid>
+            <pubDate>Sun, 03 Jan 2021 14:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【招商证券：比特币和A50指数期货价格均有相当的相关性】都由于富时A50在新加坡有指数期货，因此，比特币和A50指数期货都已看成是美元的镜像资产。弱势美元时，全球剩余资金可以流入比特币或者A50指数期货。当前，比特币价格已经突破3万美金，暗示全球资金可能会继续涌入A股。这也可能是北上资金持续流入A股的重要理由。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0388720.d.html</link>
+            <guid>1957023</guid>
+            <pubDate>Sun, 03 Jan 2021 13:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【黑河市爱辉区新增一处中风险地区 】2021年1月3日，通过对前期确诊的新冠肺炎病例张某某、赵某的密接者开展核酸检测筛查，新确定新冠肺炎确诊病例1例。根据国务院联防联控机制相关文件规定，经黑河市应对新型冠状病毒感染肺炎疫情工作领导小组指挥部研究决定，自1月3日15时起，将黑河市爱辉区热电社区兴边集资楼（2号楼）作为中风险地区。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0388327.d.html</link>
+            <guid>1956996</guid>
+            <pubDate>Sun, 03 Jan 2021 13:48:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以太坊日内暴涨逾100美元，现报876.54美元/枚，日内涨幅达12.94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9969773.d.html</link>
+            <guid>1956972</guid>
+            <pubDate>Sun, 03 Jan 2021 13:45:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  以太坊上破860美元/枚，日内涨幅扩大至10.88%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9968829.d.html</link>
@@ -584,30 +608,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9936114.d.html</link>
             <guid>1956049</guid>
             <pubDate>Sun, 03 Jan 2021 08:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京顺义四地环境样本检测出阳性】北京顺义：累计采样5365个环境样本，四地环境样本检测出阳性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9935548.d.html</link>
-            <guid>1956047</guid>
-            <pubDate>Sun, 03 Jan 2021 08:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现代投资：获湖南轨道交通控股集团有限公司举牌，持股达5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0353895.d.html</link>
-            <guid>1956046</guid>
-            <pubDate>Sun, 03 Jan 2021 08:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京文化：公司因信披违规，收到证监会调查通知书，公司及相关人员收到北京证监局警示函。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznctke9935377.d.html</link>
-            <guid>1956045</guid>
-            <pubDate>Sun, 03 Jan 2021 08:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京新冠疫苗接种未发生严重不良反应】北京两天接种新冠疫苗73537剂，未发生严重不良反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-03/detail-iiznezxt0353494.d.html</link>
-            <guid>1956044</guid>
-            <pubDate>Sun, 03 Jan 2021 08:31:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
