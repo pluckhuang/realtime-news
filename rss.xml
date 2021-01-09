@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 17:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 18:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  以色列卫生部发布消息称，该国首次发现4例南非变种新冠病毒感染病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1566544.d.html</link>
+            <guid>1965982</guid>
+            <pubDate>Sat, 09 Jan 2021 18:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  波音公司：与航司客户保持联系，随时准备提供支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1565465.d.html</link>
+            <guid>1965981</guid>
+            <pubDate>Sat, 09 Jan 2021 17:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约州新增16943例新冠肺炎确诊病例，新增188例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1565263.d.html</link>
+            <guid>1965979</guid>
+            <pubDate>Sat, 09 Jan 2021 17:48:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据华盛顿邮报：法律专家称，总统试图干预正在进行的调查这一行为，可能构成妨碍司法或其他违法犯罪行为，不过这类案件通常难以被证明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1564552.d.html</link>
+            <guid>1965978</guid>
+            <pubDate>Sat, 09 Jan 2021 17:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据华盛顿邮报：消息人士称，特朗普曾在12月打电话向佐治亚州一名选举调查员施压，要求他“找到欺诈行为”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1145901.d.html</link>
+            <guid>1965977</guid>
+            <pubDate>Sat, 09 Jan 2021 17:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联邦航空管理局（FAA）在特朗普支持者导致航班中断后发布声明，称将采用强制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1562885.d.html</link>
+            <guid>1965976</guid>
+            <pubDate>Sat, 09 Jan 2021 17:17:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  美国参议员沃纳：保留国会骚乱的电子证据。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1143095.d.html</link>
@@ -570,42 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1484478.d.html</link>
             <guid>1965756</guid>
             <pubDate>Sat, 09 Jan 2021 07:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  石家庄：第二次全员检测时间会更短。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1484448.d.html</link>
-            <guid>1965755</guid>
-            <pubDate>Sat, 09 Jan 2021 07:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北石家庄核酸检测单日混检能力达380万份】目前石家庄市所有二级以上医疗机构和疾控中心都全部建成了核酸检测实验室，具备开展核酸检测能力的机构共有107家，单日单管日最大检测能力达到38万份，如果单日是混检，一个管里有10个样本，最大可以到380万份的能力。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1065757.d.html</link>
-            <guid>1965754</guid>
-            <pubDate>Sat, 09 Jan 2021 07:48:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【石家庄为何实行7天居家防控？代市长这样说】石家庄市代市长马宇骏介绍，在全员核酸检测后，倡导全体居民继续居家防控7天。这是石家庄市委市政府从科学防控新冠疫情的角度，确保人民群众生命安全的角度，确保石家庄的疫情不扩散的角度，做出的决定。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1484001.d.html</link>
-            <guid>1965752</guid>
-            <pubDate>Sat, 09 Jan 2021 07:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家超算郑州中心首批创新生态系统建设科技专项启动】从河南省科技厅获悉，河南近日启动实施国家超级计算郑州中心首批创新生态系统建设科技专项，支持国家超级计算郑州中心建设发展。首批超算专项共立项13个项目，获河南省财政支持经费4310万元，主要围绕数字经济、精准医学、生物育种、高端装备、人工智能等八大重点领域部署实施，包括“黄河模拟器”“黄河水沙模拟与智能决策”等服务国家重大战略实施类项目。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1064630.d.html</link>
-            <guid>1965748</guid>
-            <pubDate>Sat, 09 Jan 2021 07:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石家庄：本轮疫情还不能确定出现拐点 溯源工作还在进行】今天（1月9日）下午，河北省召开疫情防控第二场新闻发布会，介绍疫情防控最新情况。发布会上，相关负责人表示，本次疫情还没有看到明显的拐点，尽管这两天有的时候新增的阳性病例确诊病例出现了下降，但是据专家们判断，还不能确定现在已经出现了拐点。另外溯源工作还在进行，病情蔓延的状态还没有萎缩的趋势，扩散的风险依然存在。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1063634.d.html</link>
-            <guid>1965745</guid>
-            <pubDate>Sat, 09 Jan 2021 07:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【石家庄商超已暂停线下营业 转入线上销售】相关负责人表示，在生活物资方面石家庄市主城区共有社区537个，小区3089个，农产品批发市场及便民的菜市场有90家，大中超市有59家，连锁便利店359家，社区便利店1200家，石家庄市商超等全部都已经暂停了线下的营业，转入线上销售，实行网上下单和无接触配送，确保居家期间群众生活物资不断档。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1062786.d.html</link>
-            <guid>1965741</guid>
-            <pubDate>Sat, 09 Jan 2021 07:30:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
