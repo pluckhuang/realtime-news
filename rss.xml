@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Jan 2021 21:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2021 22:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【石家庄邢台完成首轮全员核酸检测】记者从9日举行的河北省新冠肺炎疫情防控工作新闻发布会上获悉：1月9日零时至10时，新增确诊病例2例。1月2日至1月9日10时，全省本土确诊病例139例，尚在医学观察的无症状感染者197例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznctkf1165316.d.html</link>
+            <guid>1966715</guid>
+            <pubDate>Sat, 09 Jan 2021 22:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎超2206万例】美国约翰斯·霍普金斯大学统计数据显示，截至美东时间1月9日16时43分，美国累计新冠肺炎确诊病例已达到22060588例，死亡病例达到371616例。过去24小时内，美国单日新增新冠确诊超26万例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1583398.d.html</link>
+            <guid>1966699</guid>
+            <pubDate>Sat, 09 Jan 2021 22:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国新冠肺炎确诊病例累计2767312例】根据法国公共卫生署9日晚发布的数据，截至当天14点，法国新冠肺炎确诊病例24小时新增20177例，累计确诊2767312例。死亡病例累计67599例，新增168例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-10/detail-iiznezxt1580456.d.html</link>
@@ -594,18 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1498087.d.html</link>
             <guid>1965779</guid>
             <pubDate>Sat, 09 Jan 2021 09:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币日内转涨，报40700美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznctkf1078883.d.html</link>
-            <guid>1965778</guid>
-            <pubDate>Sat, 09 Jan 2021 09:05:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币短线走高逾360美元，现报40597美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-09/detail-iiznezxt1497013.d.html</link>
-            <guid>1965777</guid>
-            <pubDate>Sat, 09 Jan 2021 09:04:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
