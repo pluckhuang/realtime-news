@@ -4,11 +4,432 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 12 Jan 2021 06:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2021 07:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【黑龙江省绥化市严格实行道路交通管制和小区管控措施：主城区所有进出城口全部封闭】 自2021年1月12日15时起，绥化市严格实行道路交通管制和小区（村屯）管控措施。主城区所有进出城口全部封闭，禁止车辆和人员通行；各乡镇、村屯进出机动车通道只保留1条应急道路，其余全部封闭。关闭火车站候车大厅和进站通道，禁止旅客进站上车。出站通道设置检查点，出站人员携带三日内核酸检测报告，佩戴口罩、扫码、测温后允许通行。（界面）]]></title>
+            <guid>1970539</guid>
+            <pubDate>Tue, 12 Jan 2021 07:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安琪酵母：预计2020年净利润为4.51亿-4.96亿元，同比增长50%-55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5111500.d.html</link>
+            <guid>1970538</guid>
+            <pubDate>Tue, 12 Jan 2021 07:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝斯美：近期公司主要产品价格确有上升】贝斯美在互动平台表示，近期公司主要产品价格确有上升。根据中农立华原药价格指数，截至2021年1月10日，二甲戊灵原药市场销售价格约为5万元/吨。公司目前订单饱满，生产平稳有序。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5111095.d.html</link>
+            <guid>1970537</guid>
+            <pubDate>Tue, 12 Jan 2021 07:49:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯石油运输公司：哈萨克斯坦周一恢复了通过俄罗斯管道系统运输石油。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6091246.d.html</link>
+            <guid>1970536</guid>
+            <pubDate>Tue, 12 Jan 2021 07:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中共中央办公厅、国务院办公厅印发《关于全面推行林长制的意见》。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6091122.d.html</link>
+            <guid>1970535</guid>
+            <pubDate>Tue, 12 Jan 2021 07:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百亿私募调研路线：34家机构全年调研高达3000多次 电子板块最受青睐】虽然2020年上半年有疫情的影响，但是私募机构的调研并未受到明显影响，线上调研依旧如火如荼进行。在下半年疫情出现拐点后，现场调研也是逐步恢复。根据私募排排网统计数据显示，2932家投资机构在2020年共计调研上市公司32183次，中小板个股最受关注，调研次数高达9786次，其次是创业板，获调研8480次，科创板也获得2767次调研。头部私募机构是调研主力军，34家百亿私募在2020年累计调研3474次。淡水泉是年度“最勤奋”百亿私募，在2020年调研次数达到304次，也是唯一调研次数在300次以上的私募机构。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6090535.d.html</link>
+            <guid>1970534</guid>
+            <pubDate>Tue, 12 Jan 2021 07:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中集模块化建筑首次在海南自贸港中标】中集建筑设计院与中建科工集团组成的联合体，成功中标海南自贸港海口江东新区企业港1.5级项目（一期）设计施工一体化EPC总承包工程，项目合同金额超过1.7亿元。（中集集团）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6090437.d.html</link>
+            <guid>1970533</guid>
+            <pubDate>Tue, 12 Jan 2021 07:46:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2020年11月日本经常项目顺差同比增加29%】日本财务省12日公布的国际收支初步统计报告显示，受进口减少等因素影响，2020年11月日本经常项目顺差同比增加29%至18784亿日元（1美元约合104日元）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6090067.d.html</link>
+            <guid>1970532</guid>
+            <pubDate>Tue, 12 Jan 2021 07:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏州十四五规划建议：规划建设民用机场，积极融入对接上海】近日，《苏州日报》刊发了《中共苏州市委关于制定苏州市国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》，苏州市在文件中提出将在“十四五”时期规划建设民用机场。苏州提出将在“十四五”时期构建现代综合立体交通运输体系，加快综合立体交通网规划建设，将苏州打造成为上海国际性综合交通枢纽的重要组成部分，加快通苏嘉甬、苏锡常都市快线等干线铁路、城际铁路及城市轨道规划建设。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6089592.d.html</link>
+            <guid>1970531</guid>
+            <pubDate>Tue, 12 Jan 2021 07:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北：对进京、出省车辆和人员实施“四必”措施】河北省公安厅常务副厅长安忠起在发布会上介绍，河北在北京周边，省内有进京班次的火车站、汽车站、进京主要高速公路路口、国省道以及河北省界全部设立疫情管控站点，对石家庄、邢台常住人员、暂住人员、近期有旅居史人员一律劝返。对省内其他地区人员车辆严格执行非必要不进京、非必要不出省，对进京、出省车辆和人员实施最严格的“四必”措施，也就是逢车必检查、逢人必测温、必核身份、必验健康码。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5108808.d.html</link>
+            <guid>1970530</guid>
+            <pubDate>Tue, 12 Jan 2021 07:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币日内涨超3%，现报36530.62美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5108356.d.html</link>
+            <guid>1970529</guid>
+            <pubDate>Tue, 12 Jan 2021 07:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[优彩资源：预计2020年净利润为1.2亿-1.4亿元，同比增长37.21%-60.08%，主要原因是公司部分新产品和原材料的价差增大，盈利空间增大，毛利率上升，毛利增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5107798.d.html</link>
+            <guid>1970528</guid>
+            <pubDate>Tue, 12 Jan 2021 07:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[复旦复华：拟以自筹资金的方式在上海市奉贤区设立全资子公司上海复华复贤科技开发有限公司，投资金额4800万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6087659.d.html</link>
+            <guid>1970527</guid>
+            <pubDate>Tue, 12 Jan 2021 07:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾龙股份：预计2020年净利润与上年同期相比将增加4748万元到7460万元，同比增加35%到55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6087300.d.html</link>
+            <guid>1970526</guid>
+            <pubDate>Tue, 12 Jan 2021 07:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳新增一名输入无症状感染者，为港籍货车司机】1月12日，深圳新增1名境外输入无症状感染者，为港籍货车司机。经排查，初步判断林某在深圳有密切接触者2名，密切接触者的密切接触者13名，以上15人均已及时接受集中隔离医学观察。此外，疾控部门还对林某驾驶的货柜车和车上货物等采集了11份外环境样本进行新冠病毒核酸检测，结果均为阴性。（深圳卫健委）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5106820.d.html</link>
+            <guid>1970525</guid>
+            <pubDate>Tue, 12 Jan 2021 07:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马来西亚制药集团与中国科兴生物签署1400万剂新冠疫苗采购协议】12日，马来西亚制药集团发马公司与中国科兴生物签署新冠疫苗购买协议，马方计划购买1400万剂由科兴生物研发的克尔来福新冠疫苗。目前该公司已经与马来西亚国家药品监督管理局(NPRA)商讨疫苗批准注册等事宜，计划在今年3月底之前将疫苗分发至当地医院。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6086983.d.html</link>
+            <guid>1970524</guid>
+            <pubDate>Tue, 12 Jan 2021 07:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江山欧派：预计2020年净利润为4.44亿-4.7亿元，同比增长70%-80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5106518.d.html</link>
+            <guid>1970523</guid>
+            <pubDate>Tue, 12 Jan 2021 07:37:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【同业存单计划发行量增长真相：股份行结构性存款压降 民营银行存款减少】截至1月12日，包括浦发银行等7家股份行、富民银行等7家民营银行同业存单发行计划显示，其中13家银行今年计划发行量较去年有所增长，最高涨幅为100%，但均严格控制在监管要求的同业负债不超过总负债1/3范围内。同业存单计划发行量增长，一方面源于银行总负债的增长，但另一方面，对于股份行、民营银行来说也有特定原因：股份行在结构性存款压降后，缺乏较为稳定的负债，需要同业存单来管理流动性；民营银行创新性存款产品、互联网平台吸储行为被规范后，负债难度进一步加大。 (第一财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6086707.d.html</link>
+            <guid>1970522</guid>
+            <pubDate>Tue, 12 Jan 2021 07:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格力地产：下属公司中标港珠澳大桥珠澳人工岛珠海口岸国有建设用地使用权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5106280.d.html</link>
+            <guid>1970521</guid>
+            <pubDate>Tue, 12 Jan 2021 07:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河北省疾控中心主任、流行病学专家李琦在发布会上介绍，石家庄疫情主要分布在农村地区，以农民为主。截至目前，农民占所有病例的70.07%，发病人群以中老年为主，以普通型和无症状为主。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5105978.d.html</link>
+            <guid>1970520</guid>
+            <pubDate>Tue, 12 Jan 2021 07:35:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：新西兰前景展望为正面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6086134.d.html</link>
+            <guid>1970519</guid>
+            <pubDate>Tue, 12 Jan 2021 07:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北：患者全部集中救治石家庄两医院共有2400张床位】河北省副省长徐建培12日通报，河北省将患者全部集中到定点医院救治，石家庄市将患者全部集中在河北省胸科医院、石家庄市人民医院，共有2400张床位；邢台市将患者全部集中在邢台市第二医院，共有510张床位；廊坊市确诊病例已经转运至廊坊市第三人民医院进行定点集中救治。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5105551.d.html</link>
+            <guid>1970518</guid>
+            <pubDate>Tue, 12 Jan 2021 07:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受疫情影响，连接山西太原、晋中两地城际公交暂时停运】从太原公交公司获悉，受疫情影响，连接太原、晋中两地的城际公交线路于2021年1月12日13时起暂时停运（包括：901路、901路支线、902路、903路、903路支线、909路、912路、916路），开通时间另行通知。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5105108.d.html</link>
+            <guid>1970517</guid>
+            <pubDate>Tue, 12 Jan 2021 07:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲总统下令停止Tumbagan岛采矿业务，该小岛矿点已基本枯竭】据菲律宾当地媒体报道，总统杜特尔特已下令停止在塔维-塔维朗古扬的Tumbagan岛的所有采矿作业，并指示对该地区进行大规模修复，此前有报道称该岛因采矿作业而遭到破坏。据调研了解，此次停止的为在Tumbagan岛的所有采矿活动，但该小岛上的矿点基本枯竭，近两三年无出货，目前该岛上有新矿山Strong Minmig Site开始出货，但该矿山出货量尚未稳，月均一船不到，出货量较少。另外该小岛的采矿业务禁止可能会影响SR Languyan Mining出货，该矿山2020年出货量2-3船。目前尚未确定的是，事情是否会进一步发酵至整个塔维-塔维岛。（上海有色网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5104436.d.html</link>
+            <guid>1970516</guid>
+            <pubDate>Tue, 12 Jan 2021 07:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 1月12日（周二）收盘上涨0.78%报387.45元/克；上海黄金交易所白银T+D 1月12日（周二）收盘下跌0.79%报5244.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5103956.d.html</link>
+            <guid>1970515</guid>
+            <pubDate>Tue, 12 Jan 2021 07:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石家庄疫情呈局部高度聚集性】河北疫情防控发布会通报：从第一轮全员核酸检测和部分第二轮检测数据看，所有阳性患者分布均呈局部高度聚集性。截至1月11日24时，石家庄的疫情分布在12个县区，其中#石家庄76.39%病例在藁城区#，藁城区95.62%病例发生在增村镇，石家庄裕华区、长安区、桥西区等多呈散发态势，邢台南宫市呈现的也是局部的小规模的聚集疫情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6083183.d.html</link>
+            <guid>1970514</guid>
+            <pubDate>Tue, 12 Jan 2021 07:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台湾首次出现医生感染新冠肺炎 病毒已传至社区】台湾流行疫情指挥中心宣布，12日台湾新增4例新冠肺炎确诊病例，其中2例为境外输入，2例为本土病例。本土病例为台湾北部某医院医师及其护理师女友，这是台湾第二次发生院内感染，且首次有医师染疫，也将病毒传至社区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5102832.d.html</link>
+            <guid>1970513</guid>
+            <pubDate>Tue, 12 Jan 2021 07:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：新西兰有效遏制疫情，宏观政策的反应促成了V型复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5101937.d.html</link>
+            <guid>1970512</guid>
+            <pubDate>Tue, 12 Jan 2021 07:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北省累计发现本土确诊病例326例】1月12日下午召开的河北省新冠肺炎疫情防控工作新闻发布会上，河北省副省长徐建培说，1月12日0时至10时，河北省新增21例本土新冠肺炎确诊病例，其中石家庄市新增16例，邢台市新增5例。自1月2日以来，河北省累计发现本土确诊病例326例，本土无症状感染者234例。其中石家庄市累计发现本土确诊病例304例，本土无症状感染者229例；邢台市累计发现本土确诊病例21例，本土无症状感染者5例；廊坊市固安县报告1例本土确诊病例。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6081721.d.html</link>
+            <guid>1970511</guid>
+            <pubDate>Tue, 12 Jan 2021 07:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京至河北北三县地区公交路线临时采取措施】因受廊坊市北三县疫情防控部分道路封闭措施的影响，今天下午起，北京至三河、燕郊、大厂、香河等北三县地区的公交线路均受到影响，将临时采取区间，加大行车间隔，等停等措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6081425.d.html</link>
+            <guid>1970510</guid>
+            <pubDate>Tue, 12 Jan 2021 07:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡新增17例输入性新冠肺炎确诊病例，无新增本地确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5101021.d.html</link>
+            <guid>1970509</guid>
+            <pubDate>Tue, 12 Jan 2021 07:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据路透社旗下媒体IFR：腾讯音乐考虑在香港二次上市中募资20亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5100856.d.html</link>
+            <guid>1970508</guid>
+            <pubDate>Tue, 12 Jan 2021 07:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石家庄疫情呈局部高度聚集性 76.39%发生在藁城区】河北省疾控中心主任、流行病专家李琦在发布会上介绍，从第一轮全员核酸检测和部分第二轮检测数据看，所有阳性患者分布均呈局部高度聚集性。截至1月11日24时，石家庄的疫情分布在12个县区，其中76.39%病例发生在藁城区，藁城区95.62%病例发生在增村镇，石家庄裕华区、长安区、桥西区等多呈散发态势，邢台南宫市呈现的也是局部的小规模的聚集疫情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6080369.d.html</link>
+            <guid>1970507</guid>
+            <pubDate>Tue, 12 Jan 2021 07:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[外媒报道称，腾讯音乐考虑在港二次上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6079793.d.html</link>
+            <guid>1970506</guid>
+            <pubDate>Tue, 12 Jan 2021 07:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：由于新冠影响降低了税收收入，日本地区和地方政府2021财年前景调为负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5099464.d.html</link>
+            <guid>1970505</guid>
+            <pubDate>Tue, 12 Jan 2021 07:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对重症患者，国家卫健委第一时间调集武汉康复者血浆用于救治。（河北日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5099353.d.html</link>
+            <guid>1970504</guid>
+            <pubDate>Tue, 12 Jan 2021 07:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲律宾总统府：6月前 中国新冠疫苗是菲民众唯一选择】据菲律宾ABS-CBN新闻网消息，当地时间12日，菲律宾总统府发言人哈里·洛克表示，今年6月前，中国科兴生物新冠疫苗将是菲律宾民众接种的唯一选择。 (海外网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6078213.d.html</link>
+            <guid>1970503</guid>
+            <pubDate>Tue, 12 Jan 2021 07:19:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河北：对藁城发现病例最多的3个村实行集中隔离。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5097013.d.html</link>
+            <guid>1970502</guid>
+            <pubDate>Tue, 12 Jan 2021 07:16:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国债期货收涨，十年期国债涨0.18%，五年期国债涨0.2%，二年期国债涨0.11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5096670.d.html</link>
+            <guid>1970501</guid>
+            <pubDate>Tue, 12 Jan 2021 07:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：坚持系统观念统筹推进加快建设交通强国 加快推进川藏铁路等一批重大项目】今日，中共交通运输部党组书面通报2020年度民主生活会情况。部党组书记杨传堂强调，坚持系统观念统筹推进加快建设交通强国。健全和完善“十四五”规划体系，加快推进川藏铁路等一批重大项目，加强对交通强国建设试点的评估督导，加快试点经验复制推广，推动形成适应高质量发展的指标、政策、标准、考核评价等体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5096068.d.html</link>
+            <guid>1970500</guid>
+            <pubDate>Tue, 12 Jan 2021 07:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河北：对石家庄、邢台、廊坊全域实行封闭管理，人员、车辆非必要不外出。（央视新闻）]]></title>
+            <guid>1970499</guid>
+            <pubDate>Tue, 12 Jan 2021 07:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山西晋中进入“战时状态” 河北来晋中人员须在落地当日重新做核酸】山西省晋中市疫情防控办12日发布通知，要求全市迅速进入“战时状态”。全市迅速组织开展中高风险地区特别是从河北来（返）晋中人员的拉网式、全覆盖追踪排查，隔离管控措施由“7+1”升级为“14+2”。凡从河北来（返）晋中人员一律在落地当日重新做核酸检测。对2020年12月25日以来河北等来（返）晋中人员，在落实隔离措施的基础上，进行2次核酸检测。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5095105.d.html</link>
+            <guid>1970498</guid>
+            <pubDate>Tue, 12 Jan 2021 07:12:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度9地区发生禽流感 全国鸡肉销量暴跌八成】当地时间11日，印度官方发布消息称，目前已经确认在新德里等9个地区出现禽流感疫情。目前，印度多地已经停止了邦与邦之间的禽类制品交易。印度家禽业协会披露，因为禽流感疫情，近一周以来，印度全国的鸡肉销售下滑了70-80%，鸡肉价格下跌了50%，鸡蛋的售价也下滑了15-20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5094626.d.html</link>
+            <guid>1970497</guid>
+            <pubDate>Tue, 12 Jan 2021 07:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海：到2025年 基本建立农业高质量发展制度框架体系】在今天举行的上海市政府新闻发布会上，上海市农业农村委主任张国坤介绍了最新出台的《上海市推进农业高质量发展行动方案(2021-2025年)》相关情况。《行动方案》提出，上海农业高质量发展应以推进农业绿色发展为核心，深入贯彻落实“人民城市人民建，人民城市为人民”重要理念，努力实现“五高”（高品质生产、高科技装备、高水平经营、高值化利用、高效益产出）。以农业“三区”为重点，通过实施五大行动，构筑五大保障机制，聚焦打造一批绿色田园先行片区，不断优化农业资源要素配置、产业结构、空间布局和管理方式，提高农业综合效益和竞争力，推进上海农业高质量发展。到2025年，基本建立农业高质量发展制度框架体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6074352.d.html</link>
+            <guid>1970496</guid>
+            <pubDate>Tue, 12 Jan 2021 07:10:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京银行自主研发“顺天”技术平台发布】1月11日，北京银行正式发布分布式研发运营一体化平台——“顺天”技术平台。北京银行相关人士表示，“顺天”技术平台将凭借其低成本、高安全、强可控的特性，成为北京银行数字化转型的推进器。“顺天”技术平台是金融科技领域最新成果的综合应用，它基于云原生应用技术架构体系，采用业界主流的微服务、分布式架构设计，全面支持敏捷转型，助推线上业务快速发展。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6074188.d.html</link>
+            <guid>1970495</guid>
+            <pubDate>Tue, 12 Jan 2021 07:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：泰国计划在2个月内发放3500泰铢的现金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6073702.d.html</link>
+            <guid>1970494</guid>
+            <pubDate>Tue, 12 Jan 2021 07:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[廊坊市从今天开始启动全员核酸检测，人员、车辆非必要一律不得进出。（河北日报）]]></title>
+            <guid>1970493</guid>
+            <pubDate>Tue, 12 Jan 2021 07:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国300万家乳制品相关企业或将迎来高景气】据报道，我国目前共有304万家企业名称或经营范围含“乳制品、奶制品”，且状态为在业、存续、迁入、迁出的乳制品相关企业。其中83%的相关企业为个体工商户，13%为有限责任公司。从地域分布上看，广东的乳制品相关企业数量最多，超过24万家。机构人士表示，政策加码助推行业发展同时，提价预期下的乳制品行业有望在2021年迎来高景气。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6073433.d.html</link>
+            <guid>1970492</guid>
+            <pubDate>Tue, 12 Jan 2021 07:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：泰国批准向受疫情影响的人发放现金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5093072.d.html</link>
+            <guid>1970490</guid>
+            <pubDate>Tue, 12 Jan 2021 07:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受疫情影响，连接山西太原、晋中两地的城际公交12日13时起暂时停运。（央视新闻）]]></title>
+            <guid>1970489</guid>
+            <pubDate>Tue, 12 Jan 2021 07:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北再新增21例本土确诊病例】河北卫健委：今天0-10点，河北新增本土确诊21例，石家庄16例，邢台5例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6072443.d.html</link>
+            <guid>1970488</guid>
+            <pubDate>Tue, 12 Jan 2021 07:05:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[辽宁省第十三届人民代表大会第五次会议推迟召开。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6071664.d.html</link>
+            <guid>1970486</guid>
+            <pubDate>Tue, 12 Jan 2021 07:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金全天实际净买入84.45亿元。其中，深股通净买入44.58亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6071091.d.html</link>
+            <guid>1970485</guid>
+            <pubDate>Tue, 12 Jan 2021 07:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股电信股继续拉升，中国电信涨幅扩大至10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6071011.d.html</link>
+            <guid>1970484</guid>
+            <pubDate>Tue, 12 Jan 2021 07:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收评：沪指涨超2%站上3600点 券商股午后集体发力】1月12日消息，两市股指低开，开盘后下探回升，创业板指早盘一度跌逾1%。临近午盘，三大指数震荡上行，创业板涨逾1%，盘面上，钛白粉板块大涨，券商板块由弱走强，白酒板块再度上行，贵州茅台股价刷新历史新高。午后三大指数集体拉升，临近尾盘，沪指站上3600点，为2015年12月以来首次，日内涨超2%，沪深两市成交额连续第7个交易日突破万亿元，盘面上，券商股板块持续拉升，航天军工概念股继续走强。截至收盘，沪指涨2.18%，报收3608点；深成指涨2.28%，报收15460点；创业板指涨2.83%，报收3180点。盘面上，中船系、钛白粉、证券板块涨幅居前，云游戏、酒店餐饮板块跌幅居前。]]></title>
+            <guid>1970483</guid>
+            <pubDate>Tue, 12 Jan 2021 07:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内商品期货走势分化 黑色系跌幅居前】国内商品期货走势分化，纸浆、尿素涨超2%，郑煤、菜粕、豆粕涨超1%。焦炭跌超3%，橡胶、生猪、纯碱、焦煤、不锈钢跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5090462.d.html</link>
+            <guid>1970481</guid>
+            <pubDate>Tue, 12 Jan 2021 07:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达130亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5090085.d.html</link>
+            <guid>1970479</guid>
+            <pubDate>Tue, 12 Jan 2021 07:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50指数期货日内涨幅达3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5089037.d.html</link>
+            <guid>1970474</guid>
+            <pubDate>Tue, 12 Jan 2021 06:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达110亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5088869.d.html</link>
+            <guid>1970473</guid>
+            <pubDate>Tue, 12 Jan 2021 06:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农业农村部：全国农产品批发市场猪肉平均价格为46.70元/公斤 比昨天下降0.2%】据农业农村部监测，截至今日14：00时，全国农产品批发市场猪肉平均价格为46.70元/公斤，比昨天下降0.2%；鸡蛋8.96元/公斤，比昨天上升2.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5088674.d.html</link>
+            <guid>1970472</guid>
+            <pubDate>Tue, 12 Jan 2021 06:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒起底印尼失事客机航司：低价购买老旧飞机、专注冷门线路】据路透社12日报道，三佛齐航空公司总部位于印尼雅加达，主要营运国内航线及少量国际航线。截至空难事件发生时，三佛齐已是继印尼狮航和鹰航之后的该国第三大航运公司。报道称，三佛齐的成功得益于其以低廉价格购买老旧飞机，并专注为竞争对手所忽略的航线提供服务的商业战略。比如1月9日发生空难的飞机于1994年5月试飞，机龄26年，加入三佛齐航空机队8年。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6068217.d.html</link>
+            <guid>1970471</guid>
+            <pubDate>Tue, 12 Jan 2021 06:55:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据外媒：泰国政府预计将在3月底前遏制新的疫情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6067987.d.html</link>
+            <guid>1970470</guid>
+            <pubDate>Tue, 12 Jan 2021 06:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达100亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5087407.d.html</link>
+            <guid>1970469</guid>
+            <pubDate>Tue, 12 Jan 2021 06:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银冲上25.5美元/盎司，日内涨2.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5087284.d.html</link>
+            <guid>1970468</guid>
+            <pubDate>Tue, 12 Jan 2021 06:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金上破1860美元/盎司，日内涨近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5087209.d.html</link>
+            <guid>1970467</guid>
+            <pubDate>Tue, 12 Jan 2021 06:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达90亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6066919.d.html</link>
+            <guid>1970466</guid>
+            <pubDate>Tue, 12 Jan 2021 06:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【银保监会通报兴业银行互联网保险销售违规问题】近日，银保监会消费者权益保护局在银行保险业内部通报了“兴业银行互联网保险销售违规问题”。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5085853.d.html</link>
+            <guid>1970465</guid>
+            <pubDate>Tue, 12 Jan 2021 06:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[农业种植股尾盘拉升，丰乐种业涨停，农发种业、神农科技、万向德农等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5085408.d.html</link>
+            <guid>1970464</guid>
+            <pubDate>Tue, 12 Jan 2021 06:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南向资金净流入达100亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6065260.d.html</link>
+            <guid>1970463</guid>
+            <pubDate>Tue, 12 Jan 2021 06:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场监管总局发布《化妆品注册备案管理办法》，保护新原料研发企业的积极性】办法提出，国家对特殊化妆品和风险程度较高的化妆品新原料实行注册管理，对普通化妆品和其他化妆品新原料实行备案管理。办法明确，安全监测中的新原料经新原料注册人、备案人同意后，化妆品注册人、备案人方可用于化妆品生产，保护新原料研发企业的积极性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6065113.d.html</link>
+            <guid>1970462</guid>
+            <pubDate>Tue, 12 Jan 2021 06:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1月12日，国家粮食和物资储备局粮食储备司司长秦玉云表示，当前企业和农户主动存粮意识明显增强。企业商品库存创近15年来的最高水平，东北地区玉米商品库存已达到上年同期的3倍。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6064965.d.html</link>
+            <guid>1970461</guid>
+            <pubDate>Tue, 12 Jan 2021 06:47:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据韩联社：韩国即将达成购买诺瓦瓦克斯公司的新冠肺炎疫苗的协议。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftssan5084409.d.html</link>
@@ -181,428 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2375651.d.html</link>
             <guid>1970430</guid>
             <pubDate>Tue, 12 Jan 2021 06:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾央行行长：2021年第二季度将出现两位数的GDP增长，2021年第四季度的增长也将是稳健的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2374668.d.html</link>
-            <guid>1970429</guid>
-            <pubDate>Tue, 12 Jan 2021 06:19:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国文旅投融资项目遴选结果公布 320个项目拟融资2325.4亿元】近日，文化和旅游部、国家开发银行、中国进出口银行、中国农业发展银行、中国工商银行、中国银行、中国光大银行等7家单位联合公布了全国文化和旅游投融资项目遴选结果，遴选结果包括320个项目，总投资6194.1亿元，拟融资2325.4亿元。据悉，本次遴选的项目将纳入全国文化和旅游投融资项目库，作为各级文化和旅游行政部门及金融机构开展政策支持和金融服务的参考。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2374598.d.html</link>
-            <guid>1970428</guid>
-            <pubDate>Tue, 12 Jan 2021 06:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马来西亚应对疫情即日起进入紧急状态 或将再次影响再生铜生产、出口】马来西亚总理宣布，从1月13日至26日，对吉隆坡、普特拉贾亚、雪兰莪州、沙巴州、柔佛州等地收紧行动管控措施，禁止一切群聚活动，只允许制造业、建筑业、服务业、贸易及运输业、种植等五个领域继续营业。据了解，行动管控升级再次将对马来西亚再生铜生产、出口等造成不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6051738.d.html</link>
-            <guid>1970427</guid>
-            <pubDate>Tue, 12 Jan 2021 06:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金净流入达90亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2373535.d.html</link>
-            <guid>1970426</guid>
-            <pubDate>Tue, 12 Jan 2021 06:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[转基因板块午后异动拉升，丰乐种业涨4.97%，大北农、农发种业、荃银高科等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6051290.d.html</link>
-            <guid>1970425</guid>
-            <pubDate>Tue, 12 Jan 2021 06:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神州数码中标中国移动设备采购项目】中移动信息2020-2021年安全产品二级-全流量溯源取证设备采购项目的中标结果公示，神州数码和成都科来两家中标。其中，神州数码系统集成服务有限公司中标份额为40%，总价7289.366万元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2372917.d.html</link>
-            <guid>1970424</guid>
-            <pubDate>Tue, 12 Jan 2021 06:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际奥委会：会确保东京奥运会在今夏成功安全举办】近日，国际奥委会（IOC）最资深的高级官员庞德（Dick Pound）在接受英媒采访时，对延期一年后的东京奥运会能否在今夏按时举行时表示，“非常不确定”。他认为，当前左右奥运会举办的最大变数依旧是疫情的反复。随后，有日媒报道称，东京奥运会即将宣布取消、转而放到2032年举办。这一论调在互联网上迅速发酵。对此，国际奥委会表示，国际奥委会充分相信日本政府以及日本方面为确保奥运会顺利召开采取的举措，“我们将会和日本伙伴一起，继续致力于在今夏举办一届安全且成功的夏季奥林匹克运动会和残奥会。”（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2371823.d.html</link>
-            <guid>1970422</guid>
-            <pubDate>Tue, 12 Jan 2021 06:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩政府拟本周末公布防疫响应措施调整方案】韩国中央应急处置本部战略企划组组长孙映莱12日在记者会上表示，将于16日左右举行记者会公布防疫响应措施的调整方案，具体公布日期将在敲定后通知。就是否调整防疫响应级别的问题，孙映莱表示，将重点参考2.5级响应的启动标准，即单日新增确诊病例在400～600例之间，同时结合本周的疫情发展情况研究防疫响应级别的调整事宜。（韩联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2371258.d.html</link>
-            <guid>1970421</guid>
-            <pubDate>Tue, 12 Jan 2021 06:12:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰卫生部长：乌克兰新冠病毒肺炎相关死亡总人数超过2万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6048790.d.html</link>
-            <guid>1970420</guid>
-            <pubDate>Tue, 12 Jan 2021 06:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国药管局前局长：美国疫苗分发和接种存在问题】美国食品和药物管理局前局长斯科特·戈特利布10日在接受美国哥伦比亚广播公司的采访时表示，美国当前的新冠疫苗的分发和接种流程存在问题，他呼吁美国公共卫生官员“按下重启键”，采取新方法以便更快为美国人接种疫苗。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6047988.d.html</link>
-            <guid>1970419</guid>
-            <pubDate>Tue, 12 Jan 2021 06:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国近14万人已接种辉瑞疫苗】当地时间11日晚间，法国卫生总局（DGS）宣布，自2020年12月27日以来，法国已有超过13.8万人接种了第一剂美国辉瑞与德国BioNTech生物技术公司研发的新冠疫苗。 (海外网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2369115.d.html</link>
-            <guid>1970418</guid>
-            <pubDate>Tue, 12 Jan 2021 06:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顾雏军向广东省高级人民法院递交国家赔偿申请书】记者获悉，格林柯尔创始人、科龙前董事长顾雏军已向广东省高级人民法院递交国家赔偿申请书。据了解，2019年10月15日，北京高级人民法院就顾雏军诉中国证监会信息公开的两个案件作出终审判决。法院维持一审判决，要求中国证监会向顾雏军公开当年科龙案相关调查文件。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2368069.d.html</link>
-            <guid>1970417</guid>
-            <pubDate>Tue, 12 Jan 2021 06:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州仁怀市政府回应：暂未接到对茅台酒厂员工核酸】1月12日，贵州仁怀，石家庄一新增确诊病例曾在1月4日前往茅台酒厂卸货。对此，仁怀市政府表示正在排查，暂未接到对茅台酒厂员工的核酸检测通知，仁怀市疾控中心回应，酒厂还在继续营业，相关人员会做核酸检测。（潇湘晨报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2367581.d.html</link>
-            <guid>1970416</guid>
-            <pubDate>Tue, 12 Jan 2021 06:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币突破36000美元/枚，日内涨1.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2367426.d.html</link>
-            <guid>1970415</guid>
-            <pubDate>Tue, 12 Jan 2021 06:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民航2021年力争旅客运输量恢复至疫情前90%左右】今日，2021年全国民航工作会议、全国民航安全工作会议召开。会议指出，2021年，民航力争完成运输总周转量1062亿吨公里、旅客运输量5.9亿人次、货邮运输量753万吨，分别恢复至疫情前80%以上、90%左右以及与疫情前基本持平；努力实现航空企业减亏增盈。充分发挥规划引领作用，持续推进民航高水平对外开放，加大基础设施补短板力度，加强行业宏观调控力度，促进航空产业协调发展，建立扶贫工作长效机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2367325.d.html</link>
-            <guid>1970414</guid>
-            <pubDate>Tue, 12 Jan 2021 06:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日经225指数收涨0.16%，报28185点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6044540.d.html</link>
-            <guid>1970412</guid>
-            <pubDate>Tue, 12 Jan 2021 06:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[航天军工概念股继续走强，中天火箭拉升封板，航天电子、航天工程、航天晨光、航天科技等十余股此前涨停。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6042710.d.html</link>
-            <guid>1970409</guid>
-            <pubDate>Tue, 12 Jan 2021 05:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外长：（谈及与美国的贸易谈判）如果美国下届政府有兴趣，我们当然会对可能性持开放态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6042376.d.html</link>
-            <guid>1970408</guid>
-            <pubDate>Tue, 12 Jan 2021 05:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[券商板块持续拉升，招商证券涨停，东方财富大涨9%，中信证券、湘财股份、兴业证券、中金公司、国金证券等纷纷拉升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2364016.d.html</link>
-            <guid>1970407</guid>
-            <pubDate>Tue, 12 Jan 2021 05:55:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入达70亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6041144.d.html</link>
-            <guid>1970405</guid>
-            <pubDate>Tue, 12 Jan 2021 05:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货涨幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6040958.d.html</link>
-            <guid>1970404</guid>
-            <pubDate>Tue, 12 Jan 2021 05:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上证50午后大涨2%，反包昨日阴线，再创年内新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6040101.d.html</link>
-            <guid>1970403</guid>
-            <pubDate>Tue, 12 Jan 2021 05:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货铂金日内涨幅逾3%，现报1064.50美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6039528.d.html</link>
-            <guid>1970402</guid>
-            <pubDate>Tue, 12 Jan 2021 05:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财经网站Fxempire：卖家可能在金价回升至1889.80水平时重新进场】分析师James Hyerczyk表示，当前现货黄金小幅反弹可能表明，在目前的价格水平上买盘力度大于卖盘力度，上行阻力位为1864.90和1889.80美元。但由于目前主要趋势是下跌，卖家可能在黄金测试1889.80水平的时候进场。下行方面，失守1817.10水平则表明抛售压力越来越大，或触发金价进一步走低至1780.50至1767.20水平，跌破1767.20则将再次确认黄金的下跌趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2360463.d.html</link>
-            <guid>1970401</guid>
-            <pubDate>Tue, 12 Jan 2021 05:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨幅扩大至2%，现报25.37美元/盎司；现货黄金涨0.86%，现报1857.8美元/盎司。]]></title>
-            <guid>1970400</guid>
-            <pubDate>Tue, 12 Jan 2021 05:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东方财富午后大涨8%，成交额超110亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2360202.d.html</link>
-            <guid>1970399</guid>
-            <pubDate>Tue, 12 Jan 2021 05:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本共同网：日本政府12日基本决定，13日将基于新型冠状病毒特别措施法向京都、大阪、兵库关西3府县再次发布紧急事态宣言。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2359681.d.html</link>
-            <guid>1970398</guid>
-            <pubDate>Tue, 12 Jan 2021 05:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[创业板指涨超2%，国防军工、旅游综合板块涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6037365.d.html</link>
-            <guid>1970397</guid>
-            <pubDate>Tue, 12 Jan 2021 05:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高近5美元，现报1856.04美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2358607.d.html</link>
-            <guid>1970396</guid>
-            <pubDate>Tue, 12 Jan 2021 05:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外长：相当乐观的是，还有四种疫苗将很快投入生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6036637.d.html</link>
-            <guid>1970395</guid>
-            <pubDate>Tue, 12 Jan 2021 05:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走高0.14美元，现报25.28美元/盎司，日内涨1.66%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6036078.d.html</link>
-            <guid>1970394</guid>
-            <pubDate>Tue, 12 Jan 2021 05:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金净流入达80亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6036042.d.html</link>
-            <guid>1970393</guid>
-            <pubDate>Tue, 12 Jan 2021 05:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货涨幅扩大至1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6035182.d.html</link>
-            <guid>1970392</guid>
-            <pubDate>Tue, 12 Jan 2021 05:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为4G相关供应已获许可证 5G仍未松动】记者从供应链多位人士处独家获悉，华为4G接近全部电子元器件、设备和技术供应商已获美国商务部许可证。消息人士称：“获得许可证的品类非常多，几乎是有关4G的全部，但是5G相关还没松动。”（财联社）]]></title>
-            <guid>1970391</guid>
-            <pubDate>Tue, 12 Jan 2021 05:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台湾加权指数1月12日（周二）收盘下跌56.6点，跌幅0.36%，报15500.7点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2356425.d.html</link>
-            <guid>1970390</guid>
-            <pubDate>Tue, 12 Jan 2021 05:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华夏幸福债券跌幅扩大，“18华夏01”跌逾12%，“19华夏01”跌近10%，“18华夏02”跌近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-ikftpnnx6034636.d.html</link>
-            <guid>1970389</guid>
-            <pubDate>Tue, 12 Jan 2021 05:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为4G相关供应已获许可证 5G仍未松动】记者从供应链多位人士处独家获悉，华为4G接近全部电子元器件、设备和技术供应商已获美国商务部许可证。消息人士称：“获得许可证的品类非常多，几乎是有关4G的全部，但是5G相关还没松动。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2356178.d.html</link>
-            <guid>1970387</guid>
-            <pubDate>Tue, 12 Jan 2021 05:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[券商股午后再度拉升，锦龙股份午后拉升涨停，东方财富涨超7%，招商证券、兴业证券等个股纷纷跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2355303.d.html</link>
-            <guid>1970386</guid>
-            <pubDate>Tue, 12 Jan 2021 05:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工程机械板块拉升，三一重工涨超7%，再创历史新高；柳工、恒立液压、徐工机械等涨幅居前。]]></title>
-            <guid>1970385</guid>
-            <pubDate>Tue, 12 Jan 2021 05:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾财长：到2020年底，提供了2.66万亿比索应对疫情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2354498.d.html</link>
-            <guid>1970384</guid>
-            <pubDate>Tue, 12 Jan 2021 05:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【林郑月娥：香港新冠疫苗接种计划自愿及免费】香港特区行政长官林郑月娥12日表示，香港将开展新冠疫苗接种计划，希望早日走出疫情困境。她透露，全港市民将免费获得新冠疫苗接种，且接种疫苗属于自愿行为，特区政府不会提供金钱方面的鼓励。林郑月娥预计，其中一款新冠疫苗最快于本月来到香港，另外两款分别于今年第一季及下半年抵港。她亦重申，当疫苗抵港后，她会第一时间接种。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1934309.d.html</link>
-            <guid>1970383</guid>
-            <pubDate>Tue, 12 Jan 2021 05:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL否认撤出美国市场传闻：核心原因面板涨价影响备货】据韩国Money today网站1月4日报道，中国最大的电视制造商TCL近期在美国大型卖场陆续下架，预计三星电子和LG电子将会从中受益。对于外媒报道TCL产品是否在美国大卖场陆续撤出，TCL电子相关负责人回应称，核心原因是面板涨价，目前备货不足。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1934073.d.html</link>
-            <guid>1970382</guid>
-            <pubDate>Tue, 12 Jan 2021 05:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股中资券商股午后走强，光大证券涨3.36%，中信证券涨超3%，中信建投证券涨2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1933760.d.html</link>
-            <guid>1970381</guid>
-            <pubDate>Tue, 12 Jan 2021 05:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国央行：经济复苏仍然脆弱，面临不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2353379.d.html</link>
-            <guid>1970379</guid>
-            <pubDate>Tue, 12 Jan 2021 05:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股低开高走，沪指涨幅扩大至1%，深成指涨约1.4%，创业板指涨约1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1933237.d.html</link>
-            <guid>1970378</guid>
-            <pubDate>Tue, 12 Jan 2021 05:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风华高科：目前主营产品产能满负荷运转 市场订单饱满】风华高科在最新披露的投资者关系活动记录表中透露，截至目前，公司主营产品产能满负荷运转，市场订单饱满，生产经营正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1933065.d.html</link>
-            <guid>1970377</guid>
-            <pubDate>Tue, 12 Jan 2021 05:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国央行：预计通胀将在2021年年中恢复到目标水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1932961.d.html</link>
-            <guid>1970376</guid>
-            <pubDate>Tue, 12 Jan 2021 05:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾财长：菲律宾经济第四季度可能进一步改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1932910.d.html</link>
-            <guid>1970375</guid>
-            <pubDate>Tue, 12 Jan 2021 05:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[家电板块持续走强，海信家电午后封住涨停板，北鼎股份涨超12%，奥佳华、小熊电器等股涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1932791.d.html</link>
-            <guid>1970374</guid>
-            <pubDate>Tue, 12 Jan 2021 05:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国央行：没有通缩的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1932594.d.html</link>
-            <guid>1970373</guid>
-            <pubDate>Tue, 12 Jan 2021 05:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：美元小幅走高，与美债收益率亦步亦趋】美元连续第四个交易日上涨，与美国国债收益率持续攀升之势相当。美国国债全线进一步走软，10年期国债收益率连续第六天攀升，一度至1.15%上方，美股期货也在上涨。澳大利亚国民银行悉尼高级外汇策略师Rodrigo Catril表示，“随着市场重新评估潜在的额外美国财政刺激计划的纠结形势以及仍然存在的美国政治不确定性，美元在巩固近期涨势。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2352569.d.html</link>
-            <guid>1970372</guid>
-            <pubDate>Tue, 12 Jan 2021 05:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[滴滴：今起在京暂停青菜拼车、远程特惠拼车和顺风车拼座功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1930891.d.html</link>
-            <guid>1970370</guid>
-            <pubDate>Tue, 12 Jan 2021 05:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股特斯拉概念股午后走强，赣锋锂业涨超4%，耐世特涨2.58%，恒大汽车涨1.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1930717.d.html</link>
-            <guid>1970369</guid>
-            <pubDate>Tue, 12 Jan 2021 05:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消费电子龙头持续走强，TCL科技涨停，京东方A涨逾5%创阶段新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1930426.d.html</link>
-            <guid>1970368</guid>
-            <pubDate>Tue, 12 Jan 2021 05:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华为：今年鸿蒙OS目标覆盖3亿-4亿台设备】1月12日，在2020科技风云榜会议上，华为消费者BG软件部总裁王成录表示，2021年华为自有设备的装机量保守估计是2亿台，或远超2亿台。鸿蒙OS也会开放给第三方设备，保守装机量达1亿台。这样加起来，今年鸿蒙系统富设备的硬件基础就有3亿到4亿台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1930378.d.html</link>
-            <guid>1970367</guid>
-            <pubDate>Tue, 12 Jan 2021 05:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TCL科技午后涨停，成交额超70亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1930144.d.html</link>
-            <guid>1970366</guid>
-            <pubDate>Tue, 12 Jan 2021 05:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL回应撤出美国电视机市场：假的】针对外媒报道的“中国电视制造商TCL近期在美国大型卖场陆续下架”相关消息，TCL方面表示，假的，后续会有回应。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1928814.d.html</link>
-            <guid>1970365</guid>
-            <pubDate>Tue, 12 Jan 2021 05:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锂电池板块午后再度拉升，天齐锂业封板，永兴材料大涨8%，赣锋锂业、盛新锂能等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1928513.d.html</link>
-            <guid>1970364</guid>
-            <pubDate>Tue, 12 Jan 2021 05:13:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入达60亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2348257.d.html</link>
-            <guid>1970363</guid>
-            <pubDate>Tue, 12 Jan 2021 05:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华夏幸福”18华夏01“跌幅扩大， 现跌14.5%，报68.4元，日内跌近12元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2348226.d.html</link>
-            <guid>1970362</guid>
-            <pubDate>Tue, 12 Jan 2021 05:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金净流入达70亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2347722.d.html</link>
-            <guid>1970361</guid>
-            <pubDate>Tue, 12 Jan 2021 05:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【常山北明大部分员工已放假 具体复工时间须等本周五通知】记者从相关渠道获悉，受石家庄当地疫情防控要求影响，常山北明处于停工状态，除少量人员留守值班，目前大部分员工已放假，具体复工时间须等待本周五通知。据了解，常山北明纺织板块主要在石家庄地区。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1927535.d.html</link>
-            <guid>1970360</guid>
-            <pubDate>Tue, 12 Jan 2021 05:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股区块链板块午后拉升，火币科技(01611.HK)涨5.2%，欧科云链(01499.HK)涨4.4%，金山软件(03888.HK)涨4.23%，雄岸科技(01647.HK)涨3.17%。]]></title>
-            <guid>1970359</guid>
-            <pubDate>Tue, 12 Jan 2021 05:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深成指日内涨幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2346145.d.html</link>
-            <guid>1970358</guid>
-            <pubDate>Tue, 12 Jan 2021 05:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12月经济观察者调查：日本政府表示，由于疫情影响，日本经济最近出现疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1925754.d.html</link>
-            <guid>1970357</guid>
-            <pubDate>Tue, 12 Jan 2021 05:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国哥伦比亚广播公司刚刚消息，特朗普当地时间11日承认，自己对本月6日发生的国会骚乱事件“至少负一部分责任”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2345269.d.html</link>
-            <guid>1970356</guid>
-            <pubDate>Tue, 12 Jan 2021 05:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知情人士：英特尔拟委托台积电生产第二代独立显卡DG2】据知情人士称，英特尔计划委托台积电生产用于个人电脑的第二代独立显卡，希望藉此对抗英伟达的崛起。这款名为“DG2”的芯片将采用台积电的一种新的芯片制造工艺，该工艺尚未正式命名，但是其7纳米工艺的强化版。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2345188.d.html</link>
-            <guid>1970355</guid>
-            <pubDate>Tue, 12 Jan 2021 05:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长江存储计划今年产量提高一倍 将生产先进3D NAND闪存】据日经亚洲引述未具名人士报道，长江存储计划今年把产量提高一倍，并生产先进的3D NAND闪存，计划到下半年将每月的存储芯片产量提高到10万片晶圆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1924809.d.html</link>
-            <guid>1970354</guid>
-            <pubDate>Tue, 12 Jan 2021 05:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本12月经济观察家现况指数 35.5，预期 36.8，前值 45.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznezxt2344726.d.html</link>
-            <guid>1970353</guid>
-            <pubDate>Tue, 12 Jan 2021 05:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美团月付逾期影响个人征信？客服称不影响个人信用但有罚息】美团表示，月付不上报征信，但逾期会有罚息。但有业内人士称，采集用户信用信息，并对用户提供相应授信额度的产品一般会纳入征信，逾期未还款很有可能会受影响。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1924491.d.html</link>
-            <guid>1970352</guid>
-            <pubDate>Tue, 12 Jan 2021 05:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BioNTech创始人兼CEO Ugur Sahin在第39届摩根大通医疗健康年会上表示，目前BioNTech的新冠mRNA疫苗COMIRANTY（BNT162b2）已在超过45个国家获得紧急使用授权/临时授权/有条件批准。截至2021年1月10日，已完成3290万剂量的分发。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-12/detail-iiznctkf1923866.d.html</link>
-            <guid>1970351</guid>
-            <pubDate>Tue, 12 Jan 2021 05:00:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
