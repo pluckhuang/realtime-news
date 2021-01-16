@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 16 Jan 2021 17:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 19:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【加拿大新冠肺炎确诊病例累计超过70万例】截止到加拿大东部时间16日12时，加拿大新增新冠肺炎确诊病例5267例，累计确诊达到700974例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7197176.d.html</link>
+            <guid>1977090</guid>
+            <pubDate>Sat, 16 Jan 2021 18:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  卡塔尔新增204例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8175959.d.html</link>
+            <guid>1977089</guid>
+            <pubDate>Sat, 16 Jan 2021 18:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国基民盟领导人拉斯切特：预计德国政府下周将决定加强封锁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7192575.d.html</link>
+            <guid>1977088</guid>
+            <pubDate>Sat, 16 Jan 2021 18:36:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新当选德国执政党基民盟领导人的拉斯切特表示，将在今年春季决定总理候选人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7191689.d.html</link>
+            <guid>1977087</guid>
+            <pubDate>Sat, 16 Jan 2021 18:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  人社部等鼓励企业发“留岗红包” 让务工人员在就业地过好年。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8169789.d.html</link>
+            <guid>1977086</guid>
+            <pubDate>Sat, 16 Jan 2021 18:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊下破1250美元/枚，日涨幅收窄至6.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8166895.d.html</link>
+            <guid>1977085</guid>
+            <pubDate>Sat, 16 Jan 2021 18:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丹麦新增879新冠肺炎确诊病例，全国累计确诊188199例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7184051.d.html</link>
+            <guid>1977084</guid>
+            <pubDate>Sat, 16 Jan 2021 18:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿联酋阿布扎比：17日起入境人员须持有48小时核酸检测阴性报告。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8164620.d.html</link>
+            <guid>1977083</guid>
+            <pubDate>Sat, 16 Jan 2021 17:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国政府的数据显示，英国已有接近360万人接种新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7177367.d.html</link>
+            <guid>1977082</guid>
+            <pubDate>Sat, 16 Jan 2021 17:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西圣保罗州政府计划提前一周开始疫苗接种计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8156439.d.html</link>
+            <guid>1977081</guid>
+            <pubDate>Sat, 16 Jan 2021 17:23:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【天齐锂业收关注函：控股股东减持后又认购公司非公开发行股份的行为 是否会损害中小股东利益】天齐锂业收关注函，深交所要求公告说明，控股股东减持后又认购公司非公开发行股份的行为，是否实质上构成短线交易，是否会损害中小股东利益；60个交易日公司股票价格涨幅达到201.82%，说明是否存在内幕信息提前被知悉的情形；说明此次非公开发行募集资金总额是否合理可行，是否存在忽悠式定增的情形等多项内容。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7171378.d.html</link>
@@ -543,65 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7010045.d.html</link>
             <guid>1976790</guid>
             <pubDate>Sat, 16 Jan 2021 07:51:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿塞拜疆卫生部官员表示，阿塞拜疆订购了400万剂科兴生物新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7985212.d.html</link>
-            <guid>1976788</guid>
-            <pubDate>Sat, 16 Jan 2021 07:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北本轮疫情排除与既往本土疫情相关性】河北疫情防控发布会通报：经过中国疾控中心与河北省疾控中心共同对来自石家庄、邢台市多例病例样本进行基因测序比对，排除与我国既往本土疫情的相关性，提示引发本次疫情的病毒由境外输入。现在多条线索都在紧张排查过程中，目前还没有得到最终的结论。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7003461.d.html</link>
-            <guid>1976787</guid>
-            <pubDate>Sat, 16 Jan 2021 07:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【怡亚通与巨瑞能签订战略合作协议】深圳市怡亚通供应链股份有限公司与深圳巨瑞能科技有限公司战略合作签约仪式在怡亚通总部大厦隆重举行。未来双方将在政企采购电商平台服务、供应链采购与销售服务、供应链金融服务等多维度展开深度合作，联合携手助力改造提升学校教室照明条件，综合防控学生近视，维护学生视觉健康。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7002991.d.html</link>
-            <guid>1976786</guid>
-            <pubDate>Sat, 16 Jan 2021 07:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  河北：邢台疫情已控制在一定范围，新检出阳性均为集中隔离人员。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan6999074.d.html</link>
-            <guid>1976785</guid>
-            <pubDate>Sat, 16 Jan 2021 07:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  文件显示，快手科技周一将启动香港首次公开募股投资者需求评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan6997691.d.html</link>
-            <guid>1976784</guid>
-            <pubDate>Sat, 16 Jan 2021 07:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  河北：石家庄、邢台南宫市继续封闭管理至1月19日，廊坊市固安县继续封闭管理至1月25日。(央视新闻)]]></title>
-            <guid>1976783</guid>
-            <pubDate>Sat, 16 Jan 2021 07:15:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  石家庄第二轮核酸检测检出阳性病例247例，检出阳性病例的县市区8个，均较第一轮有所下降。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan6994235.d.html</link>
-            <guid>1976780</guid>
-            <pubDate>Sat, 16 Jan 2021 07:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北新增32例本土确诊】河北疫情防控发布会通报：16日0时至10时，河北新增32例本土确诊，新增无症状感染者9例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan6992912.d.html</link>
-            <guid>1976779</guid>
-            <pubDate>Sat, 16 Jan 2021 07:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉中国高管：上海工厂本地化率进展非常顺利，正稳步提升】特斯拉中国区总经理王昊在第七届中国电动汽车百人会论坛上表示，车辆和零配件的生产运输环节也是碳排放的重要来源。所以我们坚持本地化的生产，并不断提高零配件的国产化率。上海工厂本地化率进展非常顺利，目前正在稳步的提升中，同时也带动了上下游产业的发展。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7972194.d.html</link>
-            <guid>1976777</guid>
-            <pubDate>Sat, 16 Jan 2021 07:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  捷克新增新冠肺炎确诊病例9230例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan6989964.d.html</link>
-            <guid>1976773</guid>
-            <pubDate>Sat, 16 Jan 2021 06:57:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
