@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 16 Jan 2021 14:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2021 14:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【辽宁大连：11个封闭管控社区将于17日0时解封】2021年1月16日晚，大连市统筹推进新冠肺炎疫情防控和经济社会发展工作总指挥部发布，经大连市统筹推进新冠肺炎疫情防控和经济社会发展工作总指挥部批准，大连金普新区先进街道金润小区B区等11个社区自2021年1月17日0时起解除封闭管控。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan7121846.d.html</link>
+            <guid>1976879</guid>
+            <pubDate>Sat, 16 Jan 2021 14:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【宁德时代董事长曾毓群：未来5年锂电产业市场将进入TWh时代】宁德时代新能源科技股份有限公司创始人、董事长曾毓群在中国电动汽车百人会论坛(2021)上表示，未来5年，锂电产业市场将迎来井喷期，快速进入到TWh时代。从2021年开始，全球锂电池市场需求会有明显的提升，但反观供给端，目前全产业链的产能供给增长相对较慢，有效供给不足。（中证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx8097558.d.html</link>
@@ -596,12 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftpnnx7935371.d.html</link>
             <guid>1976748</guid>
             <pubDate>Sat, 16 Jan 2021 05:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ST乐凯(300446)在互动平台表示，公司目前生产经营正常，暂未受到疫情影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-16/detail-ikftssan6953355.d.html</link>
-            <guid>1976747</guid>
-            <pubDate>Sat, 16 Jan 2021 05:08:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
