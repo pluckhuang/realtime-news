@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 17 Jan 2021 20:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 21:38:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【消息人士：耶伦将重申市场决定汇率承诺】美国财长提名人耶伦将于周二出席参议院财政委员会会议，该会议将确认对她的提名。知情人士称，耶伦预计将会议上重申对市场决定汇率的承诺，明确美国不会寻求弱势美元在获得竞争优势（既不会寻求本币贬值，也反对其他国家做这样的尝试）。这一表态将代表美国放弃对美元的放任态度，特朗普经常公开呼吁降低美元汇率。官员称，耶伦将在证词中使用更精确的措辞，以反映过去二十年来美国的长期货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftpnnx8633846.d.html</link>
+            <guid>1977928</guid>
+            <pubDate>Sun, 17 Jan 2021 21:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币短线拉升，以太坊冲高逾30美元至1257美元/枚，比特币涨至36569美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan7649093.d.html</link>
+            <guid>1977927</guid>
+            <pubDate>Sun, 17 Jan 2021 21:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据媒体援引消息人士：预计美国财长提名人耶伦将重申对市场决定美元汇率的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan7646630.d.html</link>
+            <guid>1977926</guid>
+            <pubDate>Sun, 17 Jan 2021 21:04:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  1.5万名国民警卫队士兵抵达华盛顿，保障美国总统就职仪式的安全。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-18/detail-ikftssan7641302.d.html</link>
@@ -587,24 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7456273.d.html</link>
             <guid>1977684</guid>
             <pubDate>Sun, 17 Jan 2021 09:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两处进京高速服务区24小时免费核酸检测】今天下午，在北京市新型冠状病毒肺炎疫情防控工作第212场新闻发布会上，市商务局副局长吴向阳介绍，北京市在大广、京台高速位于河北界内的牛驼、万庄服务区开设核酸检测点，对为本市运输生活必需品的司乘人员在进京前来不及做核酸检测的提供24小时免费核酸检测服务。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7456160.d.html</link>
-            <guid>1977683</guid>
-            <pubDate>Sun, 17 Jan 2021 09:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴林计划新增阿斯利康和强生作为新冠疫苗供应商】巴林国家卫生监督管理局负责人表示，巴林于2020年12月17日启动新冠疫苗免费接种，并计划在2021年3月底之前接种尽可能多的人。该局此前已经批准了国药生物和美国辉瑞公司生产的新冠疫苗，并完成了100万剂的采购订单。为加快推进疫苗接种工作，该局正在评估阿斯利康和强生公司的新冠疫苗资料。如果通过评估，巴政府将考虑另外从这两家公司采购新冠疫苗，但当前还无法确定采购量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8436716.d.html</link>
-            <guid>1977682</guid>
-            <pubDate>Sun, 17 Jan 2021 08:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【湖北向河北捐赠价值1000万元防疫物资】湖北省政府向河北省捐赠的价值1000万元的防疫物资17日运抵石家庄，这批物资包括一台移动核酸检测车、两套检测系统，以及湖北省生产的医用防护口罩、儿童口罩、医用防护服、额温枪等防疫物品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8436670.d.html</link>
-            <guid>1977681</guid>
-            <pubDate>Sun, 17 Jan 2021 08:58:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
