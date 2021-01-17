@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 17 Jan 2021 09:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2021 11:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【香港新增确诊55例，其中16例本地感染源头不明】香港特区政府卫生署1月17日通报，截至凌晨零时，全港新增55例新冠肺炎确诊病例，其中51例为本地感染。另有逾80人初步检测呈阳性，正等待复检。香港至今累计确诊病例达9557例。今日新增的本地病例中，16人暂时未能找到确切的传播源头。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7482969.d.html</link>
+            <guid>1977714</guid>
+            <pubDate>Sun, 17 Jan 2021 10:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【邢台一核酸检测机构瞒报3例阳性 责任人被控制】河北邢台隆尧县委托济南华曦医学检验有限公司进行核酸检测，该机构瞒报3例阳性，责任人被控制。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7482678.d.html</link>
+            <guid>1977713</guid>
+            <pubDate>Sun, 17 Jan 2021 10:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至17日下午2时，河北邢台初步核查隆尧县报告新增2例新冠肺炎确诊病例，1例无症状感染者。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8461157.d.html</link>
+            <guid>1977712</guid>
+            <pubDate>Sun, 17 Jan 2021 10:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马来西亚新增3339例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8460108.d.html</link>
+            <guid>1977711</guid>
+            <pubDate>Sun, 17 Jan 2021 10:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国外交大臣拉布：现在就讨论在2月份放松管制措施还太早了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7478395.d.html</link>
+            <guid>1977710</guid>
+            <pubDate>Sun, 17 Jan 2021 10:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龙源电力拟换股吸并*ST平能 实现A+H两地上市】*ST平能：龙源电力拟换股吸收合并平庄能源，同时平庄能源拟将全部或部分资产和负债出售给国家能源集团全资子公司国家能源集团内蒙古电力有限公司或其子公司，且龙源电力拟以现金购买国家能源集团其他下属公司持有的部分新能源业务资产。合并完成后，平庄能源将终止上市，龙源电力作为存续公司将实现A+H两地上市。公司股票18日复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7476366.d.html</link>
+            <guid>1977709</guid>
+            <pubDate>Sun, 17 Jan 2021 10:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗新增6016例新冠肺炎确诊病例，新增86例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8457507.d.html</link>
+            <guid>1977708</guid>
+            <pubDate>Sun, 17 Jan 2021 10:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莱特币日内跌幅达5%，现报136.67美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8456819.d.html</link>
+            <guid>1977707</guid>
+            <pubDate>Sun, 17 Jan 2021 10:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币跌破3.4万美元/枚，日内跌幅扩大至5.61%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7475222.d.html</link>
+            <guid>1977706</guid>
+            <pubDate>Sun, 17 Jan 2021 10:02:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据交易平台Coinbase，比特币短线跌幅扩大，最低触及34000美元/枚，日内跌超5%。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7473671.d.html</link>
@@ -552,60 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7365595.d.html</link>
             <guid>1977357</guid>
             <pubDate>Sun, 17 Jan 2021 04:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国将于6月举办G7峰会，约翰逊邀请各国领导人线下参会】英国是今年七国集团（G7）轮值主席国，首相约翰逊周六（16日）宣布将于6月11日至13日在英格兰康沃尔郡举行G7峰会，讨论气候变化、疫后经济复苏等议题。本届峰会将是两年来首场实体峰会，2020年原定在美国戴维营举行，但因新冠肺炎疫情而改为视频会议。此次峰会，约翰逊还邀请了澳大利亚、印度和韩国参加。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7365143.d.html</link>
-            <guid>1977347</guid>
-            <pubDate>Sun, 17 Jan 2021 04:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非新增新冠肺炎确诊病例13973例，累计确诊1325659例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7363259.d.html</link>
-            <guid>1977344</guid>
-            <pubDate>Sun, 17 Jan 2021 04:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国约翰斯·霍普金斯大学发布的实时统计数据，美国累计新冠肺炎确诊病例达23747781例，死亡病例增至395691例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8344321.d.html</link>
-            <guid>1977343</guid>
-            <pubDate>Sun, 17 Jan 2021 04:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长春：按暴露风险顺序 加快疫苗紧急接种进度】长春市卫健委党组书记、主任高玉堂在发布会上表示，做好统筹安排，按暴露风险顺序，优先安排重点人群接种，加快疫苗紧急接种进度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7359431.d.html</link>
-            <guid>1977336</guid>
-            <pubDate>Sun, 17 Jan 2021 04:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据辽宁台网测定：01月17日11时21分51.4秒在辽宁省大连市普兰店市发生M2.5级地震，震源深度7Km。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8341280.d.html</link>
-            <guid>1977333</guid>
-            <pubDate>Sun, 17 Jan 2021 04:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安信证券：煤价涨势已经超出市场预期 动板块估值有望回升】短期供需矛盾突出，煤价持续上涨，目前已创历史新高。目前煤价涨势已经超出市场预期，目前煤炭板块估值处于历史底部，煤价上涨有望推动上市公司业绩增长进而拉动板块估值回升。建议关注1）低估值，高盈利动力煤标的，如陕西煤业、露天煤业、中国神华等，2）受益于焦炭涨价的标的：金能科技、山西焦化、开滦股份、陕西黑猫等，3）山西国改标的：山西焦煤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftssan7357158.d.html</link>
-            <guid>1977297</guid>
-            <pubDate>Sun, 17 Jan 2021 03:58:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国计划6月初举办G7实体会议，或成两年来首次】据《卫报》1月17日报道，英国计划在今年6月初，在康沃尔郡举行七国集团峰会（G7）的实体会议，如果一切顺利，这将是近两年来七国领袖首次举行面对面会议。2020年G7峰会原定在美国马里兰州大卫营举行，但因疫情取消。沙特在去年也将G20峰会转为线上进行。英国政府期望透过峰会，邀请拜登首次以美国总统身份到访欧洲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8332873.d.html</link>
-            <guid>1977250</guid>
-            <pubDate>Sun, 17 Jan 2021 03:43:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广汽埃安总经理古惠南：欧阳明高的话不要理解偏了】广汽埃安总经理古惠南今日在电动车百人会线上论坛表示，欧阳明高的话，大家要注意，不要理解偏了。他说又要这个又要那个，还要便宜，这肯定做不到。8分钟快充也不光是电池的问题，也跟充电桩有关。不要把技术问题和推广运营的问题混为一谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8330534.d.html</link>
-            <guid>1977234</guid>
-            <pubDate>Sun, 17 Jan 2021 03:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院四个委员会宣布开始调查1月6日的国会大厦骚乱。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-17/detail-ikftpnnx8328861.d.html</link>
-            <guid>1977224</guid>
-            <pubDate>Sun, 17 Jan 2021 03:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
