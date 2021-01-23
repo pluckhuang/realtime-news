@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Jan 2021 14:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 14:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：01月23日22时28分在南海海域发生3.1级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1042260.d.html</link>
+            <guid>1988663</guid>
+            <pubDate>Sat, 23 Jan 2021 14:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【截至1月23日18时 黑龙江哈尔滨新增确诊病例3例】黑龙江省哈尔滨市政府新闻办召开第十四场疫情防控新闻发布会，对最新确诊病例相关情况进行通报。截至1月23日18时，哈尔滨市新增新冠肺炎确诊病例3例，无症状感染者11例。其中，新增的3例新冠肺炎确诊病例和10例无症状感染者，均是在集中隔离医学观察中，通过“应检尽检”核酸检测发现，为正大实业的关联病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0053641.d.html</link>
+            <guid>1988652</guid>
+            <pubDate>Sat, 23 Jan 2021 14:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【工信部：QQ同步助手、360清理大师、永辉生活等157款APP未完成整改 应在1月29日前完成整改落实工作】工信部发布关于侵害用户权益行为的APP通报，近期组织第三方检测机构对手机应用软件进行检查，督促存在问题的企业进行整改。。截至目前，尚有包括QQ同步助手、360清理大师、永辉生活等157款APP未完成整改，上述APP应在1月29日前完成整改落实工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny1036222.d.html</link>
+            <guid>1988621</guid>
+            <pubDate>Sat, 23 Jan 2021 14:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特殊目的收购公司Climate Change目前涨58%，盘初一度涨近80%；报道称美国充电站企业EVgo将与该公司合并上市，交易最早于今日完成。]]></title>
+            <guid>1988609</guid>
+            <pubDate>Sat, 23 Jan 2021 14:07:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  俄外交部发言人谈及美国大使馆发布“示威路线”时说，俄外交部将召见美国外交官并要求美方给出解释。（卫星新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssap0047790.d.html</link>
@@ -580,30 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9935961.d.html</link>
             <guid>1988031</guid>
             <pubDate>Sat, 23 Jan 2021 06:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至1月22日24时，针对上海9个本地确诊病例，累计排查到病例密切接触者160人，目前均已落实集中隔离措施，其中153人核酸检测结果为阴性；5人阳性已确诊；2人在检测中。（看看新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0919853.d.html</link>
-            <guid>1988029</guid>
-            <pubDate>Sat, 23 Jan 2021 06:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国新增191897例新冠肺炎确诊病例，新增3902例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0919830.d.html</link>
-            <guid>1988028</guid>
-            <pubDate>Sat, 23 Jan 2021 06:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  根据国务院联防联控机制有关要求，经上海市防疫指挥部研究决定，将宝山区友谊路街道临江新村（一、二村）小区列为中风险地区。（看看新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0919472.d.html</link>
-            <guid>1988027</guid>
-            <pubDate>Sat, 23 Jan 2021 06:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海：累计确诊本地病例9例，排查密切接触者160人】1月23日，上海市举行疫情防控新闻发布会。上海市卫健委主任邬惊雷通报，截至目前上海累计确诊本地9例，8例为普通型。累计排查密切接触者160人，密接的密接者299人。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0919236.d.html</link>
-            <guid>1988026</guid>
-            <pubDate>Sat, 23 Jan 2021 06:07:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
