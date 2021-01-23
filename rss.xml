@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Jan 2021 15:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2021 17:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列新增4550例新冠肺炎确诊病例 累计确诊593578例】当地时间1月23日，以色列卫生部公布的疫情通报显示，1月22日16时至23日17时，以色列新增4550例新冠肺炎确诊病例，累计确诊达593578例。新增死亡病例60例，累计死亡4326人。截至目前，以色列现存确诊病例76783例，有1171人病情危重。以色列累计已有512469人治愈。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1069577.d.html</link>
+            <guid>1988758</guid>
+            <pubDate>Sat, 23 Jan 2021 17:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【福奇警告：新冠引发的长期症状是一大问题】美国公共卫生专家福奇表示，在关注疫情形势之外，感染或康复后遗留的长期症状应该被给予重视。福奇称，这是一个切实存在的问题，他本人就在帮助一些曾确诊新冠的患者对抗这些遗留症状。据疾控中心报告显示，新冠患者治愈后仍可能发生体虚、气短、咳嗽、胸口疼痛和关节疼痛等长期症状。福奇表示，由于全美有约2500万人确诊新冠，即使长期症状的发病率很低，也必须对其给予高度重视。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1065137.d.html</link>
+            <guid>1988757</guid>
+            <pubDate>Sat, 23 Jan 2021 16:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国总理让·卡斯泰：目前已有100万名法国公民接种了新冠肺炎疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1063802.d.html</link>
+            <guid>1988756</guid>
+            <pubDate>Sat, 23 Jan 2021 16:36:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利总理孔特：将采取一切可行的法律工具来确保合约得以履行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0079286.d.html</link>
+            <guid>1988755</guid>
+            <pubDate>Sat, 23 Jan 2021 16:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利总理孔特：疫苗交付延期相当于是违反了合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0078667.d.html</link>
+            <guid>1988754</guid>
+            <pubDate>Sat, 23 Jan 2021 16:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利总理孔特：辉瑞与阿斯利康推迟疫苗的供应，这是无法接受的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1062779.d.html</link>
+            <guid>1988753</guid>
+            <pubDate>Sat, 23 Jan 2021 16:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【张伯礼称今冬散发疫情有望3月初疫霾尽】中国工程院院士张伯礼：我老提1月份、2月份两个月最关键，你看现在北京、河北、黑龙江、吉林，这些地方也都有散发的。所以这两个月确实关键，后边还有一个月，2月份又是关键的一个月。真正到了2月底，特别是到了3月初，我们就可以开始说春暖花开，“疫霾”尽。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1062130.d.html</link>
+            <guid>1988752</guid>
+            <pubDate>Sat, 23 Jan 2021 16:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国目前已有586万人接种了第一剂新冠肺炎疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1057410.d.html</link>
+            <guid>1988732</guid>
+            <pubDate>Sat, 23 Jan 2021 16:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  云南省卫健委：1月23日0时至24时，我省无新增确诊病例和无症状感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1057389.d.html</link>
+            <guid>1988731</guid>
+            <pubDate>Sat, 23 Jan 2021 16:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增33552例新冠肺炎确诊病例，前一日为新增40261例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1056558.d.html</link>
+            <guid>1988725</guid>
+            <pubDate>Sat, 23 Jan 2021 16:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增新冠肺炎死亡病例488例，前一日为新增472例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftssap0071736.d.html</link>
+            <guid>1988724</guid>
+            <pubDate>Sat, 23 Jan 2021 16:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增13331例新冠肺炎确诊病例，前一日为新增13633例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-24/detail-ikftpnny1055985.d.html</link>
+            <guid>1988723</guid>
+            <pubDate>Sat, 23 Jan 2021 16:02:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【吉林松原一地区24日0时起调整为中风险区】记者从吉林省松原市新冠肺炎疫情防控工作领导小组获悉，根据国务院应对新冠肺炎疫情联防联控机制关于科学划分、精准防控等工作要求，自1月24日0时起，松原市宁江区善友镇新屯村调整为中风险区。（新华视点）]]></title>
             <guid>1988697</guid>
@@ -530,78 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0941019.d.html</link>
             <guid>1988058</guid>
             <pubDate>Sat, 23 Jan 2021 07:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据美国媒体22日报道，加州洛杉矶县确诊病例已超过105万。洛杉矶县是当前疫情的重灾区，但当地目前的新冠疫苗供应不足。当地卫生官员称，按照当前速度，可能需要一年才能为当地所有成年居民接种上疫苗。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9956890.d.html</link>
-            <guid>1988057</guid>
-            <pubDate>Sat, 23 Jan 2021 07:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南：“十三五”期间投入26.8亿元推动养老服务设施建设】据云南省民政厅消息，“十三五”期间，云南累计投入养老服务设施建设资金26.8亿元，推动养老机构、农村幸福院等养老服务设施建设，养老服务领域有效供给持续改善。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9956601.d.html</link>
-            <guid>1988056</guid>
-            <pubDate>Sat, 23 Jan 2021 07:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【福奇：政府未传递真实信息导致美国疫情危机】美国国家过敏症和传染病研究所所长福奇22日表示，美国政府此前在应对新冠肺炎疫情方面并未向公众传递真实信息，导致这么多美国人失去生命。福奇当天还表示，美国仍未就抗击疫情做好充分准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0940354.d.html</link>
-            <guid>1988055</guid>
-            <pubDate>Sat, 23 Jan 2021 07:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  近日邢台南宫市和隆尧县也完成了新一轮的核酸检测。20日至22日，邢台市累计报告8例阳性病例，其中南宫7例、隆尧县1例，其中有5例来自于密接筛查，2例来自集中隔离的筛查，1例来自重点人群的筛查 。（河北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0939139.d.html</link>
-            <guid>1988054</guid>
-            <pubDate>Sat, 23 Jan 2021 07:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北疫情防控形势总体向好，但疫情没有完全见底】河北省人民政府副省长徐建培说，当前全省疫情防控形势总体向好，但是疫情没有完全见底，仍存在不确定性和传播风险。我们将继续查找薄弱环节，加大工作力度，有效防范疫情反弹、扩散和输出。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0938263.d.html</link>
-            <guid>1988052</guid>
-            <pubDate>Sat, 23 Jan 2021 07:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  1月23日0时到10时，河北省新增新冠肺炎本地确诊病例2例，均在石家庄市。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0935867.d.html</link>
-            <guid>1988051</guid>
-            <pubDate>Sat, 23 Jan 2021 07:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织谈“新冠肺炎疫苗实施计划”：2月开始交付疫苗 年底前提供20亿剂】当地时间22日，在世卫组织举行的新冠肺炎疫情例行发布会上，世卫组织总干事谭德塞表示，“新冠肺炎疫苗实施计划”预计可从今年2月开始向各国交付疫苗，今年年底前可提供20亿剂的疫苗。同时，谭德塞强调，新冠疫苗不能取代已被证明可以遏制病毒传播、拯救生命的公共卫生措施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9949009.d.html</link>
-            <guid>1988046</guid>
-            <pubDate>Sat, 23 Jan 2021 06:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  捷克新增8423例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0932829.d.html</link>
-            <guid>1988044</guid>
-            <pubDate>Sat, 23 Jan 2021 06:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海明确：商场超市、餐饮企业，负责人是疫情防控第一责任人】上海市商务委副主任刘敏介绍了近期本市商场、超市以及餐饮服务单位开展疫情防控工作须采取的一些具体措施。完善疫情防控制度。落实主体责任，明确商场超市负责人是疫情防控第一责任人，加强培训和应急演练，建立员工健康监测制度。储备适量防疫物资，鼓励设置无感测温设备，设置应急区域。（上观）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9948433.d.html</link>
-            <guid>1988042</guid>
-            <pubDate>Sat, 23 Jan 2021 06:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海倡导就地过年居家过年 餐饮烹饪行业协会公布首批年夜饭半成品、成品外卖43家企业434个门店名单】 在今天下午召开的疫情防控新闻发布会上，市商务委副主任刘敏表示，为了减少人员聚集，加强疫情防控，市餐饮烹饪行业协会发出倡议，餐饮企业要主动担当社会责任，与消费者协商沟通，妥善处理。同时，为了倡导就地过年、居家过年，协会还公布了首批年夜饭半成品、成品外卖43家企业434个门店名单。（浦东发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0930514.d.html</link>
-            <guid>1988041</guid>
-            <pubDate>Sat, 23 Jan 2021 06:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市交通委副主任刘斌介绍，除了“筑”好公共交通“防疫墙”，市交通委持续推进交通口岸领域和公共交通领域高风险一线人群疫苗接种，包括机场、铁路、港口、邮政从业人员，以及轨道交通、地面交通、出租车驾驶员等。此外，将继续做好网约车驾驶员接种疫苗组织工作。（浦东发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftpnny0928962.d.html</link>
-            <guid>1988039</guid>
-            <pubDate>Sat, 23 Jan 2021 06:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海某区全员核酸检测为谣言】今天下午2时，上海市举行第92场疫情防控新闻发布会，市政府新闻发言人尹欣在回答记者提问时表示，网传某区开展全员核酸检测，经过了解情况，该传言不属实。（浦东发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-23/detail-ikftssan9943338.d.html</link>
-            <guid>1988038</guid>
-            <pubDate>Sat, 23 Jan 2021 06:31:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
