@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Feb 2021 06:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2021 07:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  新加坡新增9例输入性新冠肺炎确诊病例，无新增本地传播病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5639505.d.html</link>
+            <guid>2023092</guid>
+            <pubDate>Sat, 13 Feb 2021 07:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  捷克新增新冠肺炎确诊病例8782例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5638109.d.html</link>
+            <guid>2023091</guid>
+            <pubDate>Sat, 13 Feb 2021 07:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  来自国务院联防联控机制春运工作专班数据显示，2月13日大年初二，春运进入第17日，全国预计发送旅客996万人次。其中铁路预计发送旅客210万人次，公路720万人次，水路32万人次，民航34万人次。预计全国高速公路流量3399万辆，各项数据保持低位运行，就地过年成为各地群众欢度新春的首选。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5636745.d.html</link>
+            <guid>2023089</guid>
+            <pubDate>Sat, 13 Feb 2021 06:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：阿富汗警方表示，阿富汗南部的坎大哈省发生汽车炸弹爆炸事件，造成7名警察受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6620251.d.html</link>
+            <guid>2023088</guid>
+            <pubDate>Sat, 13 Feb 2021 06:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印度新增新冠肺炎确诊病例12143例 累计确诊超1089万例】据印度卫生部当地时间13日早8时（北京时间10时30分）发布消息，印度新冠肺炎确诊病例累计达10892746例，其中死亡病例155550例，治愈出院10600625例，现存确诊病例136571例。详细数据显示，24小时之内，印度新增新冠肺炎确诊病例12143例，死亡病例新增103例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6619804.d.html</link>
+            <guid>2023087</guid>
+            <pubDate>Sat, 13 Feb 2021 06:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以太坊失守1830美元/枚，日内跌幅0.89%，此前一度涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5633932.d.html</link>
+            <guid>2023086</guid>
+            <pubDate>Sat, 13 Feb 2021 06:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本厚劳省要求简化新冠疫苗冷柜通关手续】据日本共同社，为了厂家从海外工厂向日本运送保管新冠疫苗的冷柜之际能够顺利通关，厚生劳动省已向财务省提出了要求。海关由财务省管辖，将通过厂方提前告知冷柜抵达日期和数量并进行协调，简化手续。官民将携手确保疫苗供应万无一失。政府计划在经过疫苗正式批准手续后，下周开始率先给已征得同意的医生等接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5633593.d.html</link>
+            <guid>2023085</guid>
+            <pubDate>Sat, 13 Feb 2021 06:31:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据路透统计，美国周五新增至少98429例新冠肺炎确诊病例，累计确诊2756万例；新增至少5444例死亡病例，累计死亡481258例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6617357.d.html</link>
@@ -559,48 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5568302.d.html</link>
             <guid>2022487</guid>
             <pubDate>Fri, 12 Feb 2021 21:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国银行CEO Moynihan的2020年总薪酬降至2450万美元，之前一年为2650万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5568207.d.html</link>
-            <guid>2022486</guid>
-            <pubDate>Fri, 12 Feb 2021 21:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲地中海地震中心：新喀里多尼亚忠诚岛发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553507.d.html</link>
-            <guid>2022485</guid>
-            <pubDate>Fri, 12 Feb 2021 21:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Facebook正在打造一款智能手表，希望明年开始销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553426.d.html</link>
-            <guid>2022484</guid>
-            <pubDate>Fri, 12 Feb 2021 21:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国迈阿密市长Francis Suarez提议，用比特币支付市政工人薪资、税款、以及市政费用；该市管理委员会已经以4-1票批准相关的解决方案，措辞与初稿存在明显的出入，根据原始建议，该委员会仅仅同意研究相关措施的可行性，而不是立即付诸实践。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567859.d.html</link>
-            <guid>2022483</guid>
-            <pubDate>Fri, 12 Feb 2021 21:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恐慌指数VIX收于20下方，为2020年2月份以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6553372.d.html</link>
-            <guid>2022482</guid>
-            <pubDate>Fri, 12 Feb 2021 21:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股荔枝网和亿邦国际涨超20%，斗鱼涨约9%，跟谁学涨约8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftssap5567388.d.html</link>
-            <guid>2022481</guid>
-            <pubDate>Fri, 12 Feb 2021 21:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大麻股涨跌各异，AGFY涨约12%，Aphria微涨约0.1%，Tilray则跌超9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-13/detail-ikftpnny6552936.d.html</link>
-            <guid>2022480</guid>
-            <pubDate>Fri, 12 Feb 2021 21:03:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
