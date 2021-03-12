@@ -4,11 +4,209 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 12 Mar 2021 19:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Mar 2021 22:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国新冠肺炎超2933万例】美国约翰斯·霍普金斯大学统计数据显示，截至美东时间3月12日16时23分，美国累计新冠肺炎确诊病例达29330642例，累计死亡病例532151例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9930689.d.html</link>
+            <guid>2066611</guid>
+            <pubDate>Fri, 12 Mar 2021 22:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：希望第一批月度紧急援助款项能在3月份发放，但也可能在4月份发放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3083404.d.html</link>
+            <guid>2066610</guid>
+            <pubDate>Fri, 12 Mar 2021 21:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：将为巴西制定一个失业救济计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9914569.d.html</link>
+            <guid>2066609</guid>
+            <pubDate>Fri, 12 Mar 2021 21:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数11个板块普遍收涨，房地产、工业、公用事业、金融板块均涨超1%，仅仅科技和通信板块收跌，分别跌0.7%和0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3055729.d.html</link>
+            <guid>2066608</guid>
+            <pubDate>Fri, 12 Mar 2021 21:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指本周累涨约1280点，周度增幅创去年11月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3053974.d.html</link>
+            <guid>2066607</guid>
+            <pubDate>Fri, 12 Mar 2021 21:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数、道指本周均创下2月初以来的最大单周涨幅，涨幅分别为2.64%和4.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3053095.d.html</link>
+            <guid>2066606</guid>
+            <pubDate>Fri, 12 Mar 2021 21:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西在过去24小时中报告85663例新增新冠肺炎确诊病例，新增2216例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3051527.d.html</link>
+            <guid>2066605</guid>
+            <pubDate>Fri, 12 Mar 2021 21:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西新冠肺炎累计确诊病例数超过印度，成为全球第二高国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9892417.d.html</link>
+            <guid>2066604</guid>
+            <pubDate>Fri, 12 Mar 2021 21:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：将挪威评级定为“ AAA/A-1+”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9891224.d.html</link>
+            <guid>2066603</guid>
+            <pubDate>Fri, 12 Mar 2021 21:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股收盘，三大股指涨跌互现，道指续刷新高，初步收涨约290点，教育股、航空股造好，电商股、科技股走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3046491.d.html</link>
+            <guid>2066602</guid>
+            <pubDate>Fri, 12 Mar 2021 21:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国洛杉矶将于3月15日起重新开放重点行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3042729.d.html</link>
+            <guid>2066601</guid>
+            <pubDate>Fri, 12 Mar 2021 20:54:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：预计新冠病毒将继续进化 未来会出现更多变异】世卫组织卫生紧急项目技术主管玛丽亚·范·科霍夫表示，世卫组织预计新冠病毒将继续进化，未来会出现更多变异。世卫组织已设置跟踪病毒进化的系统，世卫组织还与其区域办事处合作提升各地基因测序能力，从而了解新冠病毒的演变过程，并评估每一种变异株的传播性，现已拿到超过60万个新冠病毒完整基因序列。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3040505.d.html</link>
+            <guid>2066600</guid>
+            <pubDate>Fri, 12 Mar 2021 20:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指尾盘涨幅扩大至300点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3039635.d.html</link>
+            <guid>2066599</guid>
+            <pubDate>Fri, 12 Mar 2021 20:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：投机者最近一周将美元净空头押注削减至至223亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9873588.d.html</link>
+            <guid>2066598</guid>
+            <pubDate>Fri, 12 Mar 2021 20:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，CBOT美国5年期国债期货净空头持仓14305手，一周前为净多头持仓26487手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3030639.d.html</link>
+            <guid>2066597</guid>
+            <pubDate>Fri, 12 Mar 2021 20:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，CBOT美国2年期国债期货净空头持仓增加149837手至407364手，美国10年期国债期货净多头持仓减少49480手至46131手，超长期国债期货净空头持仓减少4781手至250679手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3029448.d.html</link>
+            <guid>2066596</guid>
+            <pubDate>Fri, 12 Mar 2021 20:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，WTI原油期货投机性净多头头寸增加8656手至407876手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3027673.d.html</link>
+            <guid>2066595</guid>
+            <pubDate>Fri, 12 Mar 2021 20:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，COMEX铜期货投机性净多头头寸减少14284手至51222手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9868339.d.html</link>
+            <guid>2066594</guid>
+            <pubDate>Fri, 12 Mar 2021 20:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，COMEX白银期货投机性净多头头寸减少3829手至27677手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9867976.d.html</link>
+            <guid>2066593</guid>
+            <pubDate>Fri, 12 Mar 2021 20:29:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国商品期货交易委员会（CFTC）：截至3月9日当周，COMEX黄金期货投机性净多头头寸减少15961手至41896手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9867610.d.html</link>
+            <guid>2066592</guid>
+            <pubDate>Fri, 12 Mar 2021 20:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：智利将在2021年底前将基准利率上调75个基点至1.25%，将在2022年底前将利率上调至2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3019888.d.html</link>
+            <guid>2066591</guid>
+            <pubDate>Fri, 12 Mar 2021 20:19:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国新冠疫苗接种量超过1亿剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9859971.d.html</link>
+            <guid>2066590</guid>
+            <pubDate>Fri, 12 Mar 2021 20:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国明尼阿波利斯市议会批准2700万美元的拨款 与弗洛伊德家人达成和解协议】当地时间3月12日，美国明尼阿波利斯市议会批准了一项价值2700万美元的民事和解协议，与乔治·弗洛伊德的家人就去年警方执法手段不当导致弗洛伊德死亡的案件达成和解。市议会以13票赞成、0票反对的结果全票通过了这项协议，并拨款50万美元用于建造芝加哥的乔治·弗洛伊德纪念地。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9850728.d.html</link>
+            <guid>2066589</guid>
+            <pubDate>Fri, 12 Mar 2021 20:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际奥委会全会通过《奥林匹克2020+5议程》】当地时间3月12日，国际奥委会第137次全会一致通过了《奥林匹克2020+5议程》，将其作为国际奥委会在未来5年的新战略路线图。《奥林匹克2020+5议程》以《奥林匹克2020议程》已经取得的成就为基础，增加了15条新的改革建议，旨在未来五年更好地应对后疫情时代的挑战。国际奥委会主席巴赫表示，新冠病毒大流行从根本上改变了我们的世界。世界将永远不会再像以前那样。即使我们最终克服了健康危机，我们也将面临深远的社会，金融，经济和政治影响。为了塑造我们的未来，我们需要对这个新世界有一个新愿景。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9850007.d.html</link>
+            <guid>2066588</guid>
+            <pubDate>Fri, 12 Mar 2021 20:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  洲际交易所（ICE）：截至3月9日当周，投机者所持布伦特原油净多头头寸减少4816手至340159手，创近六周新低；投机者所持汽油净多头头寸增加5207手至99611手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi3007995.d.html</link>
+            <guid>2066587</guid>
+            <pubDate>Fri, 12 Mar 2021 20:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大5年期国债收益率触及去年3月以来的最高点1.038%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9849129.d.html</link>
+            <guid>2066586</guid>
+            <pubDate>Fri, 12 Mar 2021 20:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国批准强生旗下杨森制药公司的新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9845430.d.html</link>
+            <guid>2066585</guid>
+            <pubDate>Fri, 12 Mar 2021 19:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大央行宣布对证券回购操作进行调整，将操作的最大投标金额上调至20亿加元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2996847.d.html</link>
+            <guid>2066583</guid>
+            <pubDate>Fri, 12 Mar 2021 19:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IoT云平台涂鸦智能公布美国IPO股票发行价指导区间，拟募资不超过9亿美元】涂鸦智能（TUYA）将美国IPO股票发行价指导区间设在每份ADS 17-22美元，计划发行4359万份ADS，寻求募资最多8.718亿美元。 承销商还可能会在30天内认购最多650万份ADS，以覆盖超配部分的股票。 该公司计划将美国IPO募集到的资金用于研发，科技与基建方面的投资，以及其他整体性的公司用途。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9836251.d.html</link>
+            <guid>2066582</guid>
+            <pubDate>Fri, 12 Mar 2021 19:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  经合组织任命澳大利亚前任财政部长MATHIAS CORMANN为新秘书长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2994889.d.html</link>
+            <guid>2066581</guid>
+            <pubDate>Fri, 12 Mar 2021 19:40:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非新冠肺炎确诊病例累计达1526873例，新增69例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2994748.d.html</link>
+            <guid>2066580</guid>
+            <pubDate>Fri, 12 Mar 2021 19:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 4月原油期货收跌0.41美元，跌幅0.62%，报65.61美元/桶，本周累计上涨2.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2991227.d.html</link>
+            <guid>2066579</guid>
+            <pubDate>Fri, 12 Mar 2021 19:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿斯利康准备本月或下月申请美国紧急使用授权】据了解临床试验情况的知情人士透露，阿斯利康准备本月底或下月初为其新冠疫苗在美国申请紧急使用授权。知情人士称，该公司1月份完成超过32,000名试验志愿者的招募，目前有至少150例新冠肺炎确诊病例的数据。该公司发言人表示，“美国III期试验结果对于美国食品药品监督管理局（FDA）评估疫苗紧急使用授权申请来说是必不可少的。预计试验数据将在未来几周之内很快就会得出，我们计划随后就申请紧急使用授权。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2989320.d.html</link>
+            <guid>2066578</guid>
+            <pubDate>Fri, 12 Mar 2021 19:31:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  波音公司：任命Ed Clark JR.为737 MAX飞机总经理兼副总裁，以取代即将离职的Walter Odisho。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2981756.d.html</link>
@@ -405,201 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikkntiak9694140.d.html</link>
             <guid>2066511</guid>
             <pubDate>Fri, 12 Mar 2021 16:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国新增6609例新冠肺炎确诊病例，新增175例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2850679.d.html</link>
-            <guid>2066510</guid>
-            <pubDate>Fri, 12 Mar 2021 16:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  世卫组织将强生疫苗列入抗击疫情的应急工具清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-13/detail-ikknscsi2848929.d.html</link>
-            <guid>2066509</guid>
-            <pubDate>Fri, 12 Mar 2021 16:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国三十年期国债收益率涨至2.3957%，超过2月25日的高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2846402.d.html</link>
-            <guid>2066508</guid>
-            <pubDate>Fri, 12 Mar 2021 15:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度外长：同意与日本、美国和澳大利亚就疫苗生产进行合作，并发挥各自的优势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2843060.d.html</link>
-            <guid>2066507</guid>
-            <pubDate>Fri, 12 Mar 2021 15:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  比特币短线走高近500美元， 日内再度回升至57000美元/枚上方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9684335.d.html</link>
-            <guid>2066506</guid>
-            <pubDate>Fri, 12 Mar 2021 15:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国30年期国债价格下跌超过2个基点；收益率报2.385%。]]></title>
-            <guid>2066505</guid>
-            <pubDate>Fri, 12 Mar 2021 15:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  百世集团(BEST.N)涨近9%，今日与国金涌富达成5.17亿元卡车租赁资产的战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2840526.d.html</link>
-            <guid>2066504</guid>
-            <pubDate>Fri, 12 Mar 2021 15:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.5088元，较周四夜盘收盘跌143点。成交量416.09亿美元，较周四增加46.72亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2840426.d.html</link>
-            <guid>2066503</guid>
-            <pubDate>Fri, 12 Mar 2021 15:46:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  从接近监管的人士处获悉，3月11日，监管已经召集深圳各大商业银行开会，要求对经营贷、消费贷流入房地产市场进行排查。某股份制银行人士亦称，已经接到对经营贷、消费贷违规炒房进行排查的通知。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2835412.d.html</link>
-            <guid>2066502</guid>
-            <pubDate>Fri, 12 Mar 2021 15:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本首相菅义伟：美国、日本、印度和澳大利亚四国同意成立新冠疫苗合作工作组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9676657.d.html</link>
-            <guid>2066501</guid>
-            <pubDate>Fri, 12 Mar 2021 15:38:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国税局：深入推进税务执法、服务和监管的理念方式手段变革】国税局召开党委（扩大）会议，要求认真贯彻落实中央深改委第17次会议精神，将进一步优化税务执法方式、深化税收征管改革作为“十四五”时期推动税收改革发展的重要抓手，紧紧扭住创新这个牛鼻子，深入推进税务执法、服务和监管的理念方式手段变革，深入推进精确执法、精细服务、精准监管、精诚共治，深入推进“智慧税务”建设，深入推进新发展阶段税收现代化实现高质量、跨越式发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2834723.d.html</link>
-            <guid>2066500</guid>
-            <pubDate>Fri, 12 Mar 2021 15:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10年期美债收益率一年来首次涨穿1.63%，带动银行股上涨，但美股大盘仍然分化，道指涨超百点纳指跌1.7%】美国10年期国债收益率涨穿1.63%，为2020年2月份以来首次，日内涨幅扩大至将近10个基点。标普500指数维持0.5%的跌幅，道指维持超过100点的涨幅，纳指目前跌超1.7%。费城半导体指数跌超2.2%。大型银行股普遍上涨，富国银行涨超2.1%，美国银行、摩根士丹利、高盛、花旗、摩根大通等均涨超1.0%。科技股中，苹果目前跌2.2%，特斯拉跌约4.0%。半导体类股中，CREE、安森美、BRKS仍然跌超3.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2832590.d.html</link>
-            <guid>2066499</guid>
-            <pubDate>Fri, 12 Mar 2021 15:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国至3月5日当周ECRI领先指标年率录得24.4%，为591周以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9673060.d.html</link>
-            <guid>2066498</guid>
-            <pubDate>Fri, 12 Mar 2021 15:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国2年期国债收益率与10年期国债收益率的息差接近148个基点，创2015年以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2830116.d.html</link>
-            <guid>2066497</guid>
-            <pubDate>Fri, 12 Mar 2021 15:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽元兑美元NZD/USD跌幅达1%，现报0.7155。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9668936.d.html</link>
-            <guid>2066496</guid>
-            <pubDate>Fri, 12 Mar 2021 15:25:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国十年期国债收益率突破前高1.625%，为去年1月12日以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2825431.d.html</link>
-            <guid>2066495</guid>
-            <pubDate>Fri, 12 Mar 2021 15:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标准普尔500银行指数触及14年高位，涨约1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2825204.d.html</link>
-            <guid>2066494</guid>
-            <pubDate>Fri, 12 Mar 2021 15:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股激光雷达概念股涨跌互现，维视图像(MVIS.O)涨超9%，Thunder Bridge Acquisition II(THBR.O)涨5%，Luminar(LAZR.O)涨1.6%，Velodyne(VLDR.O)跌近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2824696.d.html</link>
-            <guid>2066493</guid>
-            <pubDate>Fri, 12 Mar 2021 15:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月密歇根大学消费者信心指数83，创2020年3月以来最高水平。其中，当前经济状况指数从上个月的86.2升至91.5，预期指数从上个月的70.7升至77.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9666123.d.html</link>
-            <guid>2066492</guid>
-            <pubDate>Fri, 12 Mar 2021 15:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国十年期国债收益率触及前高1.625%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2823016.d.html</link>
-            <guid>2066491</guid>
-            <pubDate>Fri, 12 Mar 2021 15:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内商品期货夜盘多数收跌 铁矿石跌超4%】国内商品期货夜盘多数收跌，能源化工品表现分化，PVC涨0.91%，纸浆涨0.71%，聚丙烯涨0.42%，20号胶跌2.39%，橡胶跌1.69%，短纤跌1.45%。黑色系多数下跌，铁矿石跌4.38%，焦炭跌1.61%，焦煤跌1.17%，螺纹钢跌0.99%，热轧卷板跌0.4%，动力煤涨0.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9661201.d.html</link>
-            <guid>2066490</guid>
-            <pubDate>Fri, 12 Mar 2021 15:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为62，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9658737.d.html</link>
-            <guid>2066489</guid>
-            <pubDate>Fri, 12 Mar 2021 15:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳指跌幅收窄至不足1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2814407.d.html</link>
-            <guid>2066488</guid>
-            <pubDate>Fri, 12 Mar 2021 15:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国3月密歇根大学消费者信心指数初值录得83，创下2020年3月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9655206.d.html</link>
-            <guid>2066487</guid>
-            <pubDate>Fri, 12 Mar 2021 15:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【波罗的海干散货运价指数连续第二周录得上涨】波罗的海干散货运价指数周五跌10点或0.5%，报1960点，尽管如此，该指数本周累涨7.2%，一度触及5个月高位。海岬型船运价指数跌73或3.5%，报2019点，日均获利减少612美元至16741美元，本周累涨13.2%，为连续第二周录得上涨。巴拿马型船运价指数涨25点或1.1%，报2242点，日均获利增加222美元至20178美元，本周累涨4.7%。超灵便型船运价指数涨26点，报2077点，为2017年4月以来新高，本周累涨8.5%，为连续第五周录得上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9655147.d.html</link>
-            <guid>2066486</guid>
-            <pubDate>Fri, 12 Mar 2021 15:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国密歇根大学消费调查主管Curtin：总体而言，数据显示未来一年消费者支出将强劲增长，包括旅游和餐饮在内的服务业增幅最大，而汽车和住宅增幅最小。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9655106.d.html</link>
-            <guid>2066485</guid>
-            <pubDate>Fri, 12 Mar 2021 15:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国密歇根大学消费调查主管Curtin：消费者信心在3月初上升到一年来的最高水平，这是由于疫苗接种数量的增加以及广泛预期的拜登刺激法案的通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9654228.d.html</link>
-            <guid>2066484</guid>
-            <pubDate>Fri, 12 Mar 2021 15:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股在线教育板块普遍反弹，新东方(EDU.N)涨近6%，跟谁学(GSX.N)涨近5%，好未来(TAL.N)涨超3%。]]></title>
-            <guid>2066483</guid>
-            <pubDate>Fri, 12 Mar 2021 15:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   美国密歇根大学3月份消费者信心指数报83.0；预期为78.5。]]></title>
-            <guid>2066482</guid>
-            <pubDate>Fri, 12 Mar 2021 15:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【弘宇股份：披露重大资产重组预案 股票复牌】弘宇股份公告，公司拟将除保留资产之外的全部资产及负债作为置出资产，与刘小红、刘立新、博克森管理等合计79名交易对方所持博克森合计100%的股权的等值部分进行置换。公司拟向不超过35名特定投资者非公开发行股票募集配套资金总额不超过10亿元。公司股票将于2021年3月15日开市起复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2809346.d.html</link>
-            <guid>2066481</guid>
-            <pubDate>Fri, 12 Mar 2021 14:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银短线回升0.15美元，报25.66美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9650781.d.html</link>
-            <guid>2066480</guid>
-            <pubDate>Fri, 12 Mar 2021 14:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  AMC院线短线拉升，涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikknscsi2808938.d.html</link>
-            <guid>2066479</guid>
-            <pubDate>Fri, 12 Mar 2021 14:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线：预计到2021年第四季度，观众人数将恢复到疫情前的90%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-12/detail-ikkntiak9650338.d.html</link>
-            <guid>2066478</guid>
-            <pubDate>Fri, 12 Mar 2021 14:56:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
