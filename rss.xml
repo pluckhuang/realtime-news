@@ -4,11 +4,212 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Mar 2021 13:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 16:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  英国目前已有27630970人接种了首剂新冠疫苗，2228772人接种了第二剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6023726.d.html</link>
+            <guid>2081401</guid>
+            <pubDate>Sun, 21 Mar 2021 16:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国新增5312例新冠肺炎确诊病例，前一日为新增5587例；新增死亡病例33例，前一日为新增96例。]]></title>
+            <guid>2081400</guid>
+            <pubDate>Sun, 21 Mar 2021 16:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分固收+基金净值大幅回撤】春节后至今，机构重仓股接连遭遇重挫，投资者将目光转向“进可攻、退可守的”固收+基金，然而部分该类产品同样遭遇大幅回撤。Wind显示，截至3月19日，2月18日以来，市场上包括偏债混合、二级债基在内的共计891只固收+基金（A/C份额合并统计），有150只实现了正收益，占比不到两成。其中最大净值回撤超过10%的有29只，跌幅堪比偏股型基金。（中国基金报）]]></title>
+            <guid>2081399</guid>
+            <pubDate>Sun, 21 Mar 2021 16:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【芯片制造商瑞萨的厂房火灾可能会连带损害苹果的供应链】苹果的产品不太可能直接受到瑞萨芯片厂火灾的影响，因为该工厂被认为主要服务于汽车客户。但是，瑞萨在主要供应商名单中被列为苹果的供应商之一，该工厂被确定为其为苹果产品生产组件的生产基地之一。这意味着对其他设施和芯片生产商的压力增加，对苹果来说可能会受到连带伤害，因为从该工厂采购的任何组件在不久的将来都必须在其它地方制造。（cnBeta）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6021861.d.html</link>
+            <guid>2081365</guid>
+            <pubDate>Sun, 21 Mar 2021 15:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节前后新基金发行冰火两重天】Wind数据显示，按照认购起始日统计，2月18日以来合计有211只新基金发行，其中104只是主动偏股型基金，占比近一半。然而，截至3月21日仅有53只基金成立，平均认购天数为10天，平均发行规模28亿元。仅4只主动偏股基金一日售罄，且3月以来未有1只偏股“日光基”诞生。Wind数据显示，年初至2月10日有213只新基金启动募集，101只为主动偏股基金。这些新基金平均募集时间仅6天，平均成立规模52亿元，绝大多数限额发行的基金均达到了目标；多达35只主动偏股基金一日售罄。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6021212.d.html</link>
+            <guid>2081327</guid>
+            <pubDate>Sun, 21 Mar 2021 15:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【商务部副部长钱克明：商务部将从五方面推动更高水平开放】商务部副部长钱克明21日晚在中国发展高层论坛2021年会上表示，新发展格局下的高水平对外开放，将进一步促进中国与世界市场相通、产业相融、创新相促、规则相联，让中国从过去的“世界工厂”更大程度迈向“世界市场”，为世界各国和跨国公司发展带来更大机遇。下一步，商务部将从降低外商投资准入门槛，做实自贸试验区、自由贸易港、国家级经开区等开放平台，加快规则、规制、管理、标准等制度型开放，优化营商环境，深化开放合作五方面入手，推动新发展格局下更高水平开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6020528.d.html</link>
+            <guid>2081302</guid>
+            <pubDate>Sun, 21 Mar 2021 15:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  强生：昨天共有873784人接种了强生疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6019984.d.html</link>
+            <guid>2081287</guid>
+            <pubDate>Sun, 21 Mar 2021 15:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  强生：昨天打破了疫苗分发的数量纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6019942.d.html</link>
+            <guid>2081286</guid>
+            <pubDate>Sun, 21 Mar 2021 15:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华测检测：子公司华测认证具有国内外权威温室气体排放与减排机制的第三方审核资质】华测检测在互动平台表示，公司的子公司华测认证是中国合格评定国家认可委员会认可的第三方温室气体审定/核查机构，具有国内外权威温室气体排放与减排机制的第三方审核资质。华测认证自2010年开始在气候变化与可持续发展领域持续布局，在低碳领域已获得CDM、VCS、GS、CCER等国内外多个温室气体和节能服务领域相关资格。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9178789.d.html</link>
+            <guid>2081285</guid>
+            <pubDate>Sun, 21 Mar 2021 15:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新任央行行长卡夫哲奥卢在与银行家的电话会议上表示，央行不会立即改变政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9178575.d.html</link>
+            <guid>2081274</guid>
+            <pubDate>Sun, 21 Mar 2021 15:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“碳中和”首部蓝皮书项目及城市监测平台启动】今日，由中国人民大学重阳金融研究院主办、中国人民大学生态金融研究中心承办的第二届“碳中和与绿色金融论坛”在中国人民大学召开，论坛上启动了首部“碳中和”蓝皮书项目和首个“碳中和”智慧监测管理平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9178554.d.html</link>
+            <guid>2081272</guid>
+            <pubDate>Sun, 21 Mar 2021 15:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲地中海地震中心：玻利维亚发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9177862.d.html</link>
+            <guid>2081271</guid>
+            <pubDate>Sun, 21 Mar 2021 14:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞萨电子CEO：周五公司工厂的火灾将对车载芯片供应产生重大影响】 日本重要汽车半导体供应商瑞萨电子（Renesas）CEO柴田英利：公司旗下芯片生产设施周五发生的火灾事故可能对汽车行业芯片产生重大影响。公司计划在一个月内恢复受灾工厂的生产，一个月停产可能会带来170亿日元（1.56亿美元）的收入损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9176841.d.html</link>
+            <guid>2081258</guid>
+            <pubDate>Sun, 21 Mar 2021 14:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【又一国产PD-1治疗肺癌适应证上市 或惠及超半数肺癌患者】中国肺癌患者又有了新的国产抗癌药物。21日，礼来制药和信达生物宣布，双方联合开发的PD-1抗癌药信迪利单抗一线治疗非鳞状非小细胞肺癌新适应证正式上市。中山大学附属肿瘤医院张力教授表示，最初进口的PD-1抗癌药在中国获得一线治疗肺癌适应证时价格近4万元/月，只有5%左右的肺癌患者可用到这类创新药。随着国产PD-1抑制剂获批肺癌适应证，并通过医保谈判进入医保，预计在两三年惠及超50%的中国肺癌患者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9176764.d.html</link>
+            <guid>2081257</guid>
+            <pubDate>Sun, 21 Mar 2021 14:39:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【月内北向资金净买入近145亿元，22只活跃股受青睐】尽管市场震荡，北向资金却在3月9日-3月18日期间连续8个交易日持续净流入，总体来看，3月份以来，北向资金期间净买入额为144.85亿元。22只活跃股期间处于净买入状态，北向资金合计净买入195.18亿元。格力电器、招商银行、万华化学、隆基股份等4只个股，北向资金期间净买入额均超20亿元。上述22只个股涉及15个申万一级行业类别，其中，电气设备、食品饮料、银行等3个行业个股数排名居前。（证券日报）]]></title>
+            <guid>2081252</guid>
+            <pubDate>Sun, 21 Mar 2021 14:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数据显示，睡眠产业规模2030年或超万亿元】 阿里健康天猫医药平台数据显示，2020年12月至今，安神助眠、提升睡眠质量等有助于缓解失眠的医药健康类产品销量大幅增加。2020年全年，购买褪黑素一类助眠膳食营养品的用户同比增长了4倍。仅在2021年头2个月，购买有辅助睡眠作用的酸枣仁的人数已是去年全年的一倍。京东大数据研究院日前发布的《“熊猫族”自救指南——Z世代五感助眠消费报告》显示，超过4成受访者有过助眠消费，有近4成受访者表示愿意尝鲜，助眠商品市场潜力巨大。有数据显示， 2020年我国睡眠产业的市场规模已超4000多亿元，2030年将突破万亿元。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6016492.d.html</link>
+            <guid>2081222</guid>
+            <pubDate>Sun, 21 Mar 2021 14:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【本周末38股获机构深度覆盖 9股上涨空间超20%】本周末获机构深度覆盖个股数量有38家，以公布的预测目标价与最新收盘价进行对比显示，共有9股上涨空间超20%，健友股份上涨空间最高，国金证券预计公司目标价为57.08元，上涨空间达47.04%。此外还有分众传媒（46.61%）、福昕软件（41.76%）、中联重科（41.01%）、精达股份（29.83%）、湘佳股份（27.80%）、宇通客车（27.35%）、中信证券（23.52%）、宝信软件（21.88%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9174487.d.html</link>
+            <guid>2081205</guid>
+            <pubDate>Sun, 21 Mar 2021 14:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分航线机票预订量翻番，国内民航市场回暖明显】进入3月，随着国内疫情继续呈现稳中向好的趋势，旅客出行热度也在持续升温，国内民航市场回暖明显。有平台表示，以京沪、京蓉、京广这种商务航线为代表的订量，上升非常明显，五一机票的预订已经超过2019年同期的两倍。热门航线票价也开始有所反弹，从目的地看来，4月3日和5月1日出发到达三亚、成都、海口、长沙、西双版纳、丽江、青岛的搜索量同比2019年增长显著，超过200%。出行需求增加，机票均价也有小幅增长。订票平台数据显示，3月以来，国内机票平均支付价格为637元，与2月同期相比增长约一成。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6014779.d.html</link>
+            <guid>2081192</guid>
+            <pubDate>Sun, 21 Mar 2021 13:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗最高领袖哈梅内伊：伊朗不急于恢复核协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9173344.d.html</link>
+            <guid>2081191</guid>
+            <pubDate>Sun, 21 Mar 2021 13:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗最高领袖哈梅内伊：核协议的任何改变都必须对伊朗有利。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9173339.d.html</link>
+            <guid>2081190</guid>
+            <pubDate>Sun, 21 Mar 2021 13:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗最高领袖哈梅内伊：美国必须取消对伊朗的所有制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6014711.d.html</link>
+            <guid>2081189</guid>
+            <pubDate>Sun, 21 Mar 2021 13:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：土耳其里拉近期出现间断走软的风险很大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6014663.d.html</link>
+            <guid>2081188</guid>
+            <pubDate>Sun, 21 Mar 2021 13:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国防部长奥斯汀在访问阿富汗期间会见了阿富汗总统加尼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6014656.d.html</link>
+            <guid>2081187</guid>
+            <pubDate>Sun, 21 Mar 2021 13:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：土耳其的通胀将限制任何的降息举措，预计到年底通胀达12.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9173021.d.html</link>
+            <guid>2081186</guid>
+            <pubDate>Sun, 21 Mar 2021 13:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：预计土耳其央行将出现“更超前的降息周期”，此前预测将在第四季度进行首次降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6014340.d.html</link>
+            <guid>2081183</guid>
+            <pubDate>Sun, 21 Mar 2021 13:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  高盛：土耳其央行任命新任行长后，土耳其里拉可能承压。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9172663.d.html</link>
+            <guid>2081182</guid>
+            <pubDate>Sun, 21 Mar 2021 13:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【朝阳永续与银河证券联合设立私募证券投资母基金联盟】3月21日，朝阳永续与银河证券共同牵头发起设立了“朝阳永续-银河证券母基金联盟”。该母基金联盟初期预计吸纳成熟母基金管理人约10家，中等规模母基金管理人约50家，机构类型覆盖FOF机构、券商、银行理财子公司等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9172389.d.html</link>
+            <guid>2081180</guid>
+            <pubDate>Sun, 21 Mar 2021 13:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构调研聚焦“碳中和”，中科创达接待309家机构，社保基金现身调研首钢股份】iFinD统计数据显示，两市上周共有82家上市公司披露调研报告。近日，中国提出2030年碳达峰和2060年碳中和目标。围绕这一热点，机构调研人员齐齐出动，希望了解碳中和对对公司的影响。 另外，从被调研企业的行业分布来看，被调研公司集中在电子、化工、机械设备等行业。这些也是今年以来机构重点关注的行业。个股方面，中科创达上周累计接待机构达309家，位居首位；一心堂接待301家调研机构，排名第二，兆易创新接待261家机构，排名第三位。 一向低调的社保基金再度现身，调研首钢股份。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9171895.d.html</link>
+            <guid>2081179</guid>
+            <pubDate>Sun, 21 Mar 2021 13:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【月内北向资金净买入近145亿元，22只活跃股受青睐】尽管市场震荡，北向资金却在3月9日-3月18日期间连续8个交易日持续净流入，总体来看，3月份以来，北向资金期间净买入额为144.85亿元。22只活跃股期间处于净买入状态，北向资金合计净买入195.18亿元。格力电器、招商银行、万华化学、隆基股份等4只个股，北向资金期间净买入额均超20亿元。上述22只个股涉及15个申万一级行业类别，其中，电气设备、食品饮料、银行等3个行业个股数排名居前。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6013275.d.html</link>
+            <guid>2081178</guid>
+            <pubDate>Sun, 21 Mar 2021 13:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗最高领袖哈梅内伊：美国和以色列正在试图影响6月的选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6013159.d.html</link>
+            <guid>2081177</guid>
+            <pubDate>Sun, 21 Mar 2021 13:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【336份年报下周出炉，172家公司已披露预告，84家预增】根据沪深交易所定期报告预披露时间安排，下周（3月22日至3月27日）将有336家公司披露2020年年报业绩。在上述即将披露2020年年报业绩的公司中，有172家公司已披露2020年年度业绩预告，具体来看，84家公司业绩预增，3家公司业绩续盈，24家公司业绩略增，12家公司业绩扭亏，26家公司业绩预减，12家公司业绩略减，1家公司业绩续亏，8家公司业绩首亏，2家公司业绩不确定，业绩预喜公司家数达到123家，占比71.51%。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9171517.d.html</link>
+            <guid>2081176</guid>
+            <pubDate>Sun, 21 Mar 2021 13:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国防部长上任后首次访问阿富汗，撤军时间仍未定】美国国防部长奥斯汀3月21日抵达阿富汗首都喀布尔，这是他就任美国国防部长后首次访问阿富汗。美联社报道称，奥斯汀当日从印度飞抵喀布尔，预计他将会见阿富汗政府的官员，包括总统加尼。美国总统拜登上周在接受采访时表示说，美国要在当地时间5月1日的最后期限前完成从阿富汗撤军的任务有可能，但是“很难”。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9171494.d.html</link>
+            <guid>2081175</guid>
+            <pubDate>Sun, 21 Mar 2021 13:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【十大券商策略：市场将迎来修复窗口 结构性高估值仍需时间消化】近期市场总体表现颓靡，但与2月中旬以来大幅调整相比，市场杀跌动能有所减弱，且市场上局部行情仍然此起彼伏，碳中和等题材股的炒作热情高涨。对于下周的行情预判，券商观点依然有所分歧，但大部分机构认为当下市场已有阶段性企稳的可能，不过对于结构性高估值板块仍需观察。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6012884.d.html</link>
+            <guid>2081174</guid>
+            <pubDate>Sun, 21 Mar 2021 13:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高瓴创始人张磊解析碳中和：蕴含数百万亿级投资机会，高瓴已经下手】3月20日，高瓴创始人兼CEO张磊表示，中国实现碳中和可能需要数百万亿级的投资和持续数十年的努力。张磊认为，在电力、交通、工业、新材料、建筑、农业、负碳排放以及信息通信与数字化等领域孕育着重要投资机遇。张磊提到，在新能源技术、材料、工艺等“绿色新基建”领域，高瓴按照“碳中和”技术路线图，深入布局了光伏、新能源汽车和芯片等产业链上下游。（中国证券网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6012168.d.html</link>
+            <guid>2081173</guid>
+            <pubDate>Sun, 21 Mar 2021 13:25:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【激光行业国产替代进程全面提速】在第八届中国激光市场高峰论坛上，中国光学学会激光加工专委会主任王又良介绍，2020年中国激光产业产值680亿元，同比增幅18%，仍然保持较高增速。王又良介绍，2020年中国激光光源和激光加工系统，技术创新和市场规模均取得较大进步。国产化全面替代进程加快，替代质量显著提升。（上证报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9169969.d.html</link>
@@ -402,207 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9147625.d.html</link>
             <guid>2081097</guid>
             <pubDate>Sun, 21 Mar 2021 09:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【桂林三金：孙公司BC006单抗注射液获临床试验批准】桂林三金公告，公司控股孙公司宝船生物收到国家药监局核准签发的BC006单抗注射液的临床试验批件。BC006单抗注射液拟用于治疗晚期恶性肿瘤，有望解决在多种实体瘤、血液肿瘤、骨关节疾病等疾病领域未能满足的医疗需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5988737.d.html</link>
-            <guid>2081096</guid>
-            <pubDate>Sun, 21 Mar 2021 09:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部今年将制定出台更加严格的钢铁行业产能置换实施办法】生态环境部应对气候变化司司长李高近日表示，钢铁行业作为我国经济发展重要支撑产业和碳排放重点行业，应强化对碳减排共识，将挑战转化为自身高质量发展动力。记者了解到，工信部今年将制定出台更加严格的钢铁行业产能置换实施办法，完善产能信息预警发布机制，实施产能产量双控，组织开展钢铁去产能回头看，逐步研究建立以碳排放、污染物排放、能耗总量等为依据的产量约束机制。目前，我国钢铁行业在制造业31个门类中碳排放量最大，粗钢产量占全球粗钢产量一半以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5988722.d.html</link>
-            <guid>2081095</guid>
-            <pubDate>Sun, 21 Mar 2021 09:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南自贸试验区昆明片区加入世界自由区组织】从中国（云南）自贸试验区昆明片区（昆明经开区）管委会了解到，自贸试验区昆明片区已于日前正式成为世界自由区组织（World Free Zones Organization）会员单位。自贸试验区昆明片区制度创新部有关负责人介绍，将充分利用世界自由区组织提供的支持服务和交流平台，探索符合昆明片区目标定位的建设发展路径，加强中国（云南）自贸试验区在国际贸易领域的影响力。]]></title>
-            <guid>2081093</guid>
-            <pubDate>Sun, 21 Mar 2021 09:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【超级打新周！下周13只新股连发】根据发行安排，下周将有13只新股申购，其中，科创板有6只、创业板有3只。日程安排上，下周一(3月22日)可申购盛剑环境、元琛科技，下周二可申购恒宇信通、昀冢科技、芯碁微装、富信科技，下周三可申购罗曼股份，下周四可申购真爱美家、中农联合、中金辐照，下周五可申购中洲特材、智洋创新、智明达，下周即将发行新股合计预计募资金额为67.18亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9147005.d.html</link>
-            <guid>2081092</guid>
-            <pubDate>Sun, 21 Mar 2021 09:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴基斯坦总理伊姆兰·汗的夫人确诊感染新冠病毒】巴基斯坦负责国家卫生服务的总理特别助理费萨尔·苏尔坦当地时间3月21日宣布，继巴总理伊姆兰·汗20日新冠病毒检测结果呈阳性后，总理夫人也确诊感染新冠病毒。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5987141.d.html</link>
-            <guid>2081091</guid>
-            <pubDate>Sun, 21 Mar 2021 09:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国国防大臣华莱士：如果欧盟违反疫苗合同，其声誉将受损。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9145163.d.html</link>
-            <guid>2081090</guid>
-            <pubDate>Sun, 21 Mar 2021 08:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【凯盛科技：拟投建超薄柔性玻璃(UTG)二期项目】凯盛科技公告，公司2020年12月投建了超薄柔性玻璃(UTG)一期项目，目前UTG一期项目进展良好，预计2021年上半年具备量产供货条件；但一期项目产能较小，公司根据市场和未来柔性折叠技术发展趋势判断，拟新增投资约10.25亿元，在凯盛科技新型显示产业园西侧购置土地、新建厂房，建设超薄柔性玻璃(UTG)二期项目，形成1500万片/年的产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5986118.d.html</link>
-            <guid>2081089</guid>
-            <pubDate>Sun, 21 Mar 2021 08:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【虹软科技：拟回购2亿元-3亿元公司股份】虹软科技公告，公司拟回购部分公司股份，回购资金总额不低于2亿元，不超过3亿元；回购价格不超过75元/股；用于员工持股计划或股权激励。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5985753.d.html</link>
-            <guid>2081088</guid>
-            <pubDate>Sun, 21 Mar 2021 08:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【香港新增新冠肺炎确诊病例8例 累计确诊11380例】香港特区政府卫生署卫生防护中心3月21日介绍，截至当日零时，香港新增8例新冠肺炎确诊病例，包括本地感染病例4例、输入性个案4例。香港累计报告新冠肺炎确诊病例11380例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9144398.d.html</link>
-            <guid>2081087</guid>
-            <pubDate>Sun, 21 Mar 2021 08:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾禁止进出马尼拉地区的非必要旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5985307.d.html</link>
-            <guid>2081086</guid>
-            <pubDate>Sun, 21 Mar 2021 08:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信策略：把握配置节奏 提前布局通胀预期拐点】中信证券今日发文表示，市场将经历海外基本面预期的下修和流动性预期上修，通胀预期和美债收益率的拐点最终凝聚配置共识。交易层面，从公募基金配置结构再平衡的角度，当前机构显著低配的行业短期仍将受益于“填仓位”行情，如电力及公用事业、商贸零售、纺织服装、钢铁和建筑。同时，建议紧扣通胀预期和美债收益率趋势，把握配置节奏，建议提前布局通胀预期拐点。具体配置方向上，通胀预期拐点前，建议继续配置地产、保险等低估值高性价比防御板块；通胀预期拐点后，建议增配中下游成本端预期好转的制造板块，包括汽车零部件、家电、家居等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9143812.d.html</link>
-            <guid>2081085</guid>
-            <pubDate>Sun, 21 Mar 2021 08:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：拼多多现有团队和管理机制足以支撑起公司未来发展蓝图】中信证券研报认为，黄峥辞去拼多多董事长职位引发市场担忧，实际上去年7月黄峥卸任CEO后就不再参与公司一线运营，边际上并无重大变化。考虑到去年四季度以来公司在多多买菜业务上展现的快速迭代能力和超强执行力，公司现有团队和管理机制足以支撑起公司未来发展蓝图。公司在渠道效率、用户运营上具备领先地位，强执行力的团队和高活跃度的用户为持续成长保驾护航，中信证券表示，仍对公司长期业务发展和平台生态价值充满信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9143635.d.html</link>
-            <guid>2081084</guid>
-            <pubDate>Sun, 21 Mar 2021 08:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士：土耳其新任央行行长将于周日下午晚些时候与银行家们举行电话会议，评估当前形势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9143412.d.html</link>
-            <guid>2081083</guid>
-            <pubDate>Sun, 21 Mar 2021 08:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锦鸡股份：2020年净利润同比下降76%】锦鸡股份(300798)3月21日晚间披露年报，公司2020年实现营业收入7.54亿元，同比下滑32.96%；净利润2289.22万元，同比下滑76.24%；基本每股收益0.05元。公司拟每10股派发红利0.2元（含税）。另外，公司拟向全资子公司泰兴锦云染料有限公司增资1.5亿元用于补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5984018.d.html</link>
-            <guid>2081082</guid>
-            <pubDate>Sun, 21 Mar 2021 08:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海通证券：未来市场重新向上有望由智能制造引领 大众消费跟随】海通证券最新研报指出，①2月18日以来市场下跌类似07年第一季度、14年第四季度，属于牛市中后期的回撤。②借鉴历史，这个阶段盘面冰火两重天，市场风格短期摇摆，调整结束后会延续前期风格。③调整需要时间消化，未来市场重新向上有望由智能制造引领，大众消费跟随。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5983978.d.html</link>
-            <guid>2081081</guid>
-            <pubDate>Sun, 21 Mar 2021 08:28:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北首个智能网联汽车城市开放路网从测试转向商用】记者从河北省沧州市政府获悉，日前，沧州市工业和信息化局等三部门联合颁发了首批智能网联汽车道路测试通知书和示范运营通知书，标志着河北首个智能网联汽车城市开放路网从测试转向商用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5983958.d.html</link>
-            <guid>2081080</guid>
-            <pubDate>Sun, 21 Mar 2021 08:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国重症监护病房新冠患者人数创纪录】法国卫生部20日通报，66名新冠患者当天入住重症监护病房，法国医院重症监护病房新冠患者总数达到4353人，为今年以来最高水平。法国每日新增确诊病例呈上升趋势。截至20日，法国累计确诊病例超过425万例，累计死亡病例逾9.2万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5983122.d.html</link>
-            <guid>2081079</guid>
-            <pubDate>Sun, 21 Mar 2021 08:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【横店东磁：一季度净利预增150%至195%】横店东磁(002056)3月21日晚间发布业绩预告，一季度预计净利2.2亿元-2.6亿元，同比增长150%至195%。得益于公司技术创新、市场拓展、经营效率的不断提升，公司各业务板块发展强劲，进一步拓展了产业发展的空间，使得产销持续增长，盈利能力也实现了大幅增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5983075.d.html</link>
-            <guid>2081078</guid>
-            <pubDate>Sun, 21 Mar 2021 08:23:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST江特：一季度预盈6800万元-7800万元】*ST江特(002176)3月21日晚间发布业绩预告，一季度预计净利6800万元-7800万元，同比扭亏。2020年12月开始，碳酸锂业务外部环境持续向好，下游需求量增长旺盛，近期其价格有较大幅度上涨。公司碳酸锂产品一季度产销量较上年同期大幅增长，营业收入、销售价格和盈利能力有较大幅度增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9140987.d.html</link>
-            <guid>2081077</guid>
-            <pubDate>Sun, 21 Mar 2021 08:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球已经累计接种了超过7千万剂科兴疫苗】北京科兴公司品牌与公共关系总监刘沛诚表示，科兴中维新冠灭活疫苗克尔来福自去年12月以来，已经陆续在中国、智利、巴西、土耳其等近30个国家获批使用，包括紧急使用、附条件上市或正式上市，并且陆续启动了大规模接种工作。截止到目前，包括中国在内，我们在全球已经累计接种了超过7千万剂克尔来福。（中国网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9140438.d.html</link>
-            <guid>2081076</guid>
-            <pubDate>Sun, 21 Mar 2021 08:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【协鑫能科：拟与中金资本签署战略合作协议】协鑫能科公告，公司拟与中金资本签署《战略合作协议》。双方拟合作发起设立一支以“碳中和”为主题的产业基金，通过对移动能源产业链上下游优质项目和充换电平台企业进行股权投资，并借助新能源汽车出行平台实现向充换电平台的导流，完成充换电数据平台的建设，构建全新的移动能源产业生态。基金总规模不超过100亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9140120.d.html</link>
-            <guid>2081075</guid>
-            <pubDate>Sun, 21 Mar 2021 08:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【光洋股份：成为一汽-大众Magotan车型轮毂轴承批量供应商】光洋股份公告，公司近日收到一汽-大众的《一汽-大众供应商提名信》，公司成为一汽-大众Magotan车型轮毂轴承的批量供应商。该款轮毂轴承是运用最广的大众MQB平台产品，开发认可通过后将为后续平台化拓展奠定坚实基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9139910.d.html</link>
-            <guid>2081074</guid>
-            <pubDate>Sun, 21 Mar 2021 08:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部：新冠病毒疫苗生产的整个物料供应相对稳定】工信部消费品工业司副司长毛俊锋表示，从目前来看，新冠病毒疫苗生产的整个物料供应是相对稳定的，整个供应链也是畅通的。比如，前期有媒体很关注疫苗用的中硼硅玻璃瓶，还有疫苗接种所需要使用的一次性注射器等，这些物料都是有保障的，所以请大家放心。下一步，工业和信息化部将继续按照中央和国务院的决策部署，着力做好新冠病毒疫苗生产的供应链保障工作，确保疫苗的生产是稳定的、可持续的。（中国网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5980960.d.html</link>
-            <guid>2081073</guid>
-            <pubDate>Sun, 21 Mar 2021 08:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【为什么接种疫苗了还会感染？疾控专家：疫苗有保护失败的可能】中国疾控中心免疫规划首席专家王华庆介绍，实际上，在国外目前已用的疫苗上市后的评估结果来看，确实有打完疫苗后，有一小部分人保护失败的情况的发生，这可能因为个体的原因以及一些其他的原因导致。（健康时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5980650.d.html</link>
-            <guid>2081072</guid>
-            <pubDate>Sun, 21 Mar 2021 08:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  菲律宾新增7757例新冠肺炎确诊病例，累计确诊663794例；累计死亡12968例。]]></title>
-            <guid>2081071</guid>
-            <pubDate>Sun, 21 Mar 2021 08:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯新增9299例新冠肺炎确诊病例，累计确诊446万例；新增371例死亡病例，累计死亡95030例。]]></title>
-            <guid>2081070</guid>
-            <pubDate>Sun, 21 Mar 2021 08:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【重庆2021年将新建2.1万个5G基站】从重庆市通信管理局获悉，重庆2021年将新建2.1万个5G基站，并将以5G为牵引，赋能千行百业，促进数字化转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5979434.d.html</link>
-            <guid>2081069</guid>
-            <pubDate>Sun, 21 Mar 2021 07:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【金宏气体年度报告：2020年净利润同比增长11% 拟10派2.5元】金宏气体披露年报，2020年公司实现营业收入12.43亿元，同比增长7.13%；归属于上市公司股东的净利润1.97亿元，同比增长11.43%。拟向全体股东每10股派人民币现金2.5元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9137704.d.html</link>
-            <guid>2081068</guid>
-            <pubDate>Sun, 21 Mar 2021 07:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中疾控：暂不对疫苗接种者免除检测和隔离的措施】中国疾控中心副主任冯子健表示，在外防输入方面，我们将继续严格实施远端防控措施，做好入境人员的卫生检疫、集中隔离观察和核酸检测，暂不对疫苗接种者免除检测和隔离的措施，有效阻断边境非法越境通道，并坚持人物同防。同时，将考虑根据不同国家疫苗接种水平和疫情水平来实施差异化的签证发放、航班和入境人员数量管控政策，同时关注疫苗护照的国际进展，国内民众达到较高的免疫保护水平且具备可行性后再适时调整防控措施。（中国网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5978182.d.html</link>
-            <guid>2081067</guid>
-            <pubDate>Sun, 21 Mar 2021 07:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新加坡新增12例境外输入确诊病例，无新增本地病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9136543.d.html</link>
-            <guid>2081065</guid>
-            <pubDate>Sun, 21 Mar 2021 07:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中疾控：新冠疫苗不良反应情况与同类品种相比无异常。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5977071.d.html</link>
-            <guid>2081064</guid>
-            <pubDate>Sun, 21 Mar 2021 07:43:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中疾控：疑似不良反应的调查需要一定的时间】中国疾控中心免疫规划首席专家王华庆表示，现在不良反应报告上来的是疑似预防接种异常反应，也就是说是疑似不良反应，怀疑和疫苗有关的反应，实际上后续我们要对这里面涉及到的比较严重的疑似不良反应进行调查，在调查的过程中，对有些病例还要开展补充的检查，要了解他的接种史，了解整个疾病的发生情况，最后由专家组做出诊断。这是需要一个过程，也需要一定的时间，后续我们会对这些进行持续的跟踪和相关的评估。（中国网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9135035.d.html</link>
-            <guid>2081063</guid>
-            <pubDate>Sun, 21 Mar 2021 07:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【打过疫苗后仍需戴口罩】中国疾控中心副主任冯子健21日在国务院联防联控机制新闻发布会上说，由于当前全球新冠疫情仍在持续流行，国内疫苗接种率较低，来自高流行地区的人员或物品入境，仍有导致在境内传播的风险。因此，我国在人群疫苗接种达到较高免疫水平之前，无论是否接种疫苗，在人群聚集的室内或封闭场所，仍然需要继续佩戴口罩，并遵循各地的具体的防控措施要求。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5976032.d.html</link>
-            <guid>2081062</guid>
-            <pubDate>Sun, 21 Mar 2021 07:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国家卫生健康委疾控局一级巡视员贺青华：关于不同企业生产的疫苗是否可以叠加或替代接种的问题，还需要开展更多的研究，等研究结果出来以后，我们将根据研究结果提出明确的政策措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9134239.d.html</link>
-            <guid>2081061</guid>
-            <pubDate>Sun, 21 Mar 2021 07:33:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
