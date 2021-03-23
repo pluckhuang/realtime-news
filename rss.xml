@@ -4,606 +4,608 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 23 Mar 2021 16:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 19:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  流行文化消费产品公司Funko(FNKO.O)盘中直线拉涨至12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0287160.d.html</link>
-            <guid>2085348</guid>
-            <pubDate>Tue, 23 Mar 2021 16:10:14 GMT</pubDate>
+            <title><![CDATA[  现货白银重挫3%，触及25美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7192307.d.html</link>
+            <guid>2085473</guid>
+            <pubDate>Tue, 23 Mar 2021 19:04:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  消息人士称，伊拉克2月原油产量增加4万桶/日，至389万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0287111.d.html</link>
-            <guid>2085347</guid>
-            <pubDate>Tue, 23 Mar 2021 16:10:06 GMT</pubDate>
+            <title><![CDATA[  阿根廷国家统计局：阿根廷2020全年GDP同比萎缩9.9%，第四季度GDP同比萎缩4.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0352043.d.html</link>
+            <guid>2085472</guid>
+            <pubDate>Tue, 23 Mar 2021 19:02:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股固态电池板块跌幅居前，QuantumScapeCorp(QS.N)跌12.48%，Romeo Power(RMO.N)跌超5%，Tuscan Holdings(THCB.O)跌3.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0286289.d.html</link>
-            <guid>2085346</guid>
-            <pubDate>Tue, 23 Mar 2021 16:08:01 GMT</pubDate>
+            <title><![CDATA[  恒指期货夜盘收跌0.17%，报28435点，低水62点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7191071.d.html</link>
+            <guid>2085471</guid>
+            <pubDate>Tue, 23 Mar 2021 19:00:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国众议员沃特斯：美国财长耶伦与IMF协商了增加6500亿美元的特别提款权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7125077.d.html</link>
-            <guid>2085345</guid>
-            <pubDate>Tue, 23 Mar 2021 16:05:26 GMT</pubDate>
+            <title><![CDATA[  纽元兑美元NZD/USD跌破0.70整数关口，日内跌幅扩大至2.28%，创去年11月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7190676.d.html</link>
+            <guid>2085470</guid>
+            <pubDate>Tue, 23 Mar 2021 18:59:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据港交所文件：归创通桥医疗科技股份有限公司向港交所提交上市申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0284303.d.html</link>
-            <guid>2085344</guid>
-            <pubDate>Tue, 23 Mar 2021 16:03:18 GMT</pubDate>
+            <title><![CDATA[道指跌超200点，成分股陶氏化学跌超4.5%，波音跌3.9%，卡特彼勒跌超3.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7189899.d.html</link>
+            <guid>2085469</guid>
+            <pubDate>Tue, 23 Mar 2021 18:57:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  希腊单日新增新冠肺炎确诊病例创纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7124029.d.html</link>
-            <guid>2085343</guid>
-            <pubDate>Tue, 23 Mar 2021 16:03:00 GMT</pubDate>
+            <title><![CDATA[  游戏驿站跌近8%，将于今日美股盘后公布财报业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0349509.d.html</link>
+            <guid>2085468</guid>
+            <pubDate>Tue, 23 Mar 2021 18:55:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  英国新增5379例新冠肺炎确诊病例，新增112例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0283686.d.html</link>
-            <guid>2085342</guid>
-            <pubDate>Tue, 23 Mar 2021 16:01:41 GMT</pubDate>
+            <title><![CDATA[  加拿大财长：将于4月19日公布2021-2022年度的预算案，为两年以来首度公布预算案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0347684.d.html</link>
+            <guid>2085467</guid>
+            <pubDate>Tue, 23 Mar 2021 18:50:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧盟金融服务负责人麦吉尼斯：伦敦金融城在欧盟市场准入上的对等地位将根据具体情况而定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7121462.d.html</link>
-            <guid>2085341</guid>
-            <pubDate>Tue, 23 Mar 2021 15:56:37 GMT</pubDate>
+            <title><![CDATA[  【高盛称实际收益率低迷将能支撑股市，即便美联储明年开始减码】高盛集团策略师彼得·奥本海默表示，即使美联储明年开始缩减资产购买规模，持续低迷的实际收益率仍将为股市未来走势提供支撑。考虑到实际利率水平，相对于债券而言，它仍然可能在很大程度上支持股票走势。减码开始并不一定足以引发股市大幅下跌。与名义收益率相比，实际收益率扣除了通货膨胀。尽管最近几周有所攀升，但以10年期美国通胀保值债券（TIPS）利率来衡量的实际收益率始终稳定在零以下。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7187315.d.html</link>
+            <guid>2085466</guid>
+            <pubDate>Tue, 23 Mar 2021 18:49:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国品牌管理公司Genius Brands International(GNUS.O)盘中走高，现涨超22%。]]></title>
-            <guid>2085340</guid>
-            <pubDate>Tue, 23 Mar 2021 15:53:05 GMT</pubDate>
+            <title><![CDATA[  市场消息：美国总统拜登计划下周展示开支要求的优先级，将于未来数月公布全面的预算提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0346868.d.html</link>
+            <guid>2085465</guid>
+            <pubDate>Tue, 23 Mar 2021 18:47:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[数据显示，浙江吉利控股集团有限公司早在2018年12月就在国家商标局提交了对“极氪”商标的申请，类别为12、37等汽车相关分类，2021年2月25-26日又增加了接近全部类别该商标的申请。除此之外还申请了“极氪原力”，“极氪零世代”，“极氪空间”，“极氪闪电侠”，“极氪就来”等相关商标。之后在3月5-11日申请了各类别“ZEEKR”相关的商标，包括“ZEEKR OS”，“ZEEKR POWER”，“ZEEKR CLUB”等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7119298.d.html</link>
-            <guid>2085339</guid>
-            <pubDate>Tue, 23 Mar 2021 15:51:13 GMT</pubDate>
+            <title><![CDATA[  华特迪士尼现跌1.7%，报189.6美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7185409.d.html</link>
+            <guid>2085464</guid>
+            <pubDate>Tue, 23 Mar 2021 18:44:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  辉瑞一度下跌将近1.6%，刷新日低至35.43美元，该公司开始针对新冠肺炎病毒口服药品进行第一阶段临床试验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7118819.d.html</link>
-            <guid>2085338</guid>
-            <pubDate>Tue, 23 Mar 2021 15:50:00 GMT</pubDate>
+            <title><![CDATA[迪士尼：《黑寡妇》的上映被推迟到7月9日。从6月18日开始，迪士尼的皮克斯电影《卢卡》将在全球范围内通过迪士尼+独家播出。宣布将漫威电影《上气与十环传奇》推迟到9月3日在院线上映。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0345621.d.html</link>
+            <guid>2085463</guid>
+            <pubDate>Tue, 23 Mar 2021 18:44:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【携带18个国家的38颗卫星，俄“联盟”号火箭发射升空】 据俄罗斯卫星网22日报道，俄国家航天集团网站上的转播显示，“联盟-2.1a”运载火箭已携带18个国家的38颗卫星，从拜科努尔发射场发射升空。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7118561.d.html</link>
-            <guid>2085337</guid>
-            <pubDate>Tue, 23 Mar 2021 15:49:17 GMT</pubDate>
+            <title><![CDATA[高盛：即便美联储2022年开始缩减QE力度，预计实际收益率低迷的状况也将支撑股市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0344875.d.html</link>
+            <guid>2085462</guid>
+            <pubDate>Tue, 23 Mar 2021 18:42:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  趣店盘中跌幅扩大，一度跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7118207.d.html</link>
-            <guid>2085336</guid>
-            <pubDate>Tue, 23 Mar 2021 15:48:22 GMT</pubDate>
+            <title><![CDATA[  喜满客影城短线下挫，跌幅扩大至7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7183817.d.html</link>
+            <guid>2085461</guid>
+            <pubDate>Tue, 23 Mar 2021 18:39:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  保时捷汽车控股公司：对大众汽车的持股有改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7115793.d.html</link>
-            <guid>2085335</guid>
-            <pubDate>Tue, 23 Mar 2021 15:42:13 GMT</pubDate>
+            <title><![CDATA[  AMC院线走低，日内跌幅扩大至15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0343662.d.html</link>
+            <guid>2085460</guid>
+            <pubDate>Tue, 23 Mar 2021 18:38:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国30年期盈亏平衡通胀率升至2.30%，为2014年以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7115625.d.html</link>
-            <guid>2085334</guid>
-            <pubDate>Tue, 23 Mar 2021 15:41:49 GMT</pubDate>
+            <title><![CDATA[迪士尼出品《黑寡妇》（Black Widow）将于同一天在网上和影院同时首映。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7183090.d.html</link>
+            <guid>2085459</guid>
+            <pubDate>Tue, 23 Mar 2021 18:37:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.5160元，较周一夜盘收盘跌76点。成交量337.69亿美元，较周一增加34.36亿美元。]]></title>
-            <guid>2085333</guid>
-            <pubDate>Tue, 23 Mar 2021 15:40:13 GMT</pubDate>
+            <title><![CDATA[WTI 5月原油期货收跌3.80美元，跌幅6.17%，报57.76美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0342919.d.html</link>
+            <guid>2085458</guid>
+            <pubDate>Tue, 23 Mar 2021 18:36:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.5160元，较周一夜盘收盘跌76点。成交量337.69亿美元，较周一增加34.36亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0274377.d.html</link>
-            <guid>2085332</guid>
-            <pubDate>Tue, 23 Mar 2021 15:37:53 GMT</pubDate>
+            <title><![CDATA[  上海黄金交易所黄金T+D 3月23日（周二）晚盘收盘下跌0.39%报363.57元/克；上海黄金交易所白银T+D 3月23日（周二）晚盘收盘下跌2.1%报5170.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0340858.d.html</link>
+            <guid>2085457</guid>
+            <pubDate>Tue, 23 Mar 2021 18:31:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国俄克拉荷马州将于3月29日向16岁以上的人开放疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0273942.d.html</link>
-            <guid>2085331</guid>
-            <pubDate>Tue, 23 Mar 2021 15:36:51 GMT</pubDate>
+            <title><![CDATA[  上海原油期货主力合约收跌4.23%，报375.6元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7180415.d.html</link>
+            <guid>2085456</guid>
+            <pubDate>Tue, 23 Mar 2021 18:30:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部拍卖42天期现金管理票据，得标利率0.010%；拍卖52周期国债，得标利率0.070%。]]></title>
-            <guid>2085330</guid>
-            <pubDate>Tue, 23 Mar 2021 15:33:13 GMT</pubDate>
+            <title><![CDATA[  美国首席贸易谈判代表与法国财长勒梅尔就飞机补贴问题进行了磋商。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0337773.d.html</link>
+            <guid>2085455</guid>
+            <pubDate>Tue, 23 Mar 2021 18:22:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  跟谁学盘中持续下挫，现跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0272297.d.html</link>
-            <guid>2085329</guid>
-            <pubDate>Tue, 23 Mar 2021 15:32:31 GMT</pubDate>
+            <title><![CDATA[  意大利总理德拉基与土耳其总统埃尔多安就利比亚问题和G20进行了通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0336394.d.html</link>
+            <guid>2085454</guid>
+            <pubDate>Tue, 23 Mar 2021 18:18:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  加密货币交易平台Crypto.com：新成立的NFT平台拥有Aston Martin Cognizant Formula One车队、美国饶舌歌手Snoop Dogg等的独家内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0271953.d.html</link>
-            <guid>2085328</guid>
-            <pubDate>Tue, 23 Mar 2021 15:31:36 GMT</pubDate>
+            <title><![CDATA[  【提示】美国财长耶伦和美联储主席鲍威尔在众议院金融服务委员会的作证结束。]]></title>
+            <guid>2085453</guid>
+            <pubDate>Tue, 23 Mar 2021 18:18:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  加密货币交易平台Crypto.com：NFT平台将在3月26日正式上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7111124.d.html</link>
-            <guid>2085327</guid>
-            <pubDate>Tue, 23 Mar 2021 15:30:30 GMT</pubDate>
+            <title><![CDATA[美国财长耶伦：美国的企业税在发达国家中是最低的。积极参与经合组织关于税收问题的讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7175969.d.html</link>
+            <guid>2085452</guid>
+            <pubDate>Tue, 23 Mar 2021 18:18:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  墨西哥总统洛佩斯：墨西哥与美国的疫苗协议与边境行动是分开的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0271502.d.html</link>
-            <guid>2085326</guid>
-            <pubDate>Tue, 23 Mar 2021 15:30:26 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：我们已经失去了950万个工作岗位，如果加上失业人口，失业率将超过9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7174730.d.html</link>
+            <guid>2085451</guid>
+            <pubDate>Tue, 23 Mar 2021 18:14:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国铝业跌近10%，年度股东应占净利润同比减少13.14%至7.41亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0270918.d.html</link>
-            <guid>2085325</guid>
-            <pubDate>Tue, 23 Mar 2021 15:28:58 GMT</pubDate>
+            <title><![CDATA[【俄罗斯总统普京接种新冠疫苗】 3月23日，据俄新社消息，俄罗斯总统普京接种了第一针新冠疫苗，目前感觉良好。克里姆林宫此前表示，普京接种的是俄三款注册疫苗的其中一种，接种过程不对外公开。根据俄罗斯疫苗接种第二针后能在2至3周内产生抗体的推测，普京将在5月9日俄罗斯胜利日之前产生抗体。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7174668.d.html</link>
+            <guid>2085450</guid>
+            <pubDate>Tue, 23 Mar 2021 18:14:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国白宫：美国总统拜登今天将就科罗拉多（枪击案）发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7109700.d.html</link>
-            <guid>2085324</guid>
-            <pubDate>Tue, 23 Mar 2021 15:26:44 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：一旦疫情结束，拜登可能会寻求使经济更具生产力的长期投资，这一投资将持续10年，并需要一些额外的资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7174226.d.html</link>
+            <guid>2085449</guid>
+            <pubDate>Tue, 23 Mar 2021 18:13:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：空白支票公司Avanea Energy Acquisition公司申请美国IPO，筹资高达2亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7107398.d.html</link>
-            <guid>2085323</guid>
-            <pubDate>Tue, 23 Mar 2021 15:20:37 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：近期的法案将帮助我们渡过难关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0334291.d.html</link>
+            <guid>2085448</guid>
+            <pubDate>Tue, 23 Mar 2021 18:12:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[辉瑞：启动针对新冠病毒的口服抗病毒治疗药物一期研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0267582.d.html</link>
-            <guid>2085322</guid>
-            <pubDate>Tue, 23 Mar 2021 15:20:03 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：目前由于疫情蔓延，经济正处于危机之中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7173676.d.html</link>
+            <guid>2085447</guid>
+            <pubDate>Tue, 23 Mar 2021 18:11:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[石油公司正在勒紧裤腰带。受新冠疫情影响，沙特阿美在最新财报电话会议上报告称，2020年净利润下降了44％，由于全球石油需求至少要到2022年才能完全恢复，该公司表示，今年的资本支出计划将削减100亿美元。埃克森美孚本月初亦宣布了类似的支出削减计划。与此同时，太阳能和风力发电支出则创下了新的纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7106454.d.html</link>
-            <guid>2085321</guid>
-            <pubDate>Tue, 23 Mar 2021 15:18:11 GMT</pubDate>
+            <title><![CDATA[  克里姆林宫：俄罗斯总统普京接种了首剂新冠疫苗，感觉良好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7173644.d.html</link>
+            <guid>2085446</guid>
+            <pubDate>Tue, 23 Mar 2021 18:11:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据黎巴嫩“广场”电视台（AL MAYADEEN）报道， 美国在叙利亚代尔祖尔省的军事基地遭火箭弹袭击，美军有人受伤。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7104834.d.html</link>
-            <guid>2085320</guid>
-            <pubDate>Tue, 23 Mar 2021 15:13:49 GMT</pubDate>
+            <title><![CDATA[  据俄新社：俄罗斯总统普京接种了新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7170626.d.html</link>
+            <guid>2085445</guid>
+            <pubDate>Tue, 23 Mar 2021 18:03:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【媒体：IMF考虑发行高达6500亿美元的外汇储备】 据悉，IMF正考虑新增高达6500亿美元的储备资金，用于帮助发展中国家应对新冠肺炎疫情，预计将于4月份就此做决定。IMF董事会将于3月23日开会，讨论工作人员层面关于特别提款权（SDR）的建议，SDR建议将是前述6500亿美元融资计划的组成部分，IMF此前讨论的是5000亿美元规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0264848.d.html</link>
-            <guid>2085319</guid>
-            <pubDate>Tue, 23 Mar 2021 15:12:45 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：（被问及扩大特别提款权时）我们的国家利益包括增加有需要的国家的储备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0330300.d.html</link>
+            <guid>2085444</guid>
+            <pubDate>Tue, 23 Mar 2021 18:01:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧盟可能限制疫苗出口到疫苗接种率高的国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7104093.d.html</link>
-            <guid>2085318</guid>
-            <pubDate>Tue, 23 Mar 2021 15:11:55 GMT</pubDate>
+            <title><![CDATA[  加拿大央行副行长Toni Gravelle：虽然衡量通胀预期的市场指标并不令人担忧，但我们会担心“国债收益率的剧烈、不稳定波动”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0329962.d.html</link>
+            <guid>2085443</guid>
+            <pubDate>Tue, 23 Mar 2021 18:00:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：欧盟的出口条件适用于所有疫苗生产商，而不仅仅是阿斯利康。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7103741.d.html</link>
-            <guid>2085317</guid>
-            <pubDate>Tue, 23 Mar 2021 15:11:08 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：气候变化是一个新兴风险，仍处于考虑压力情景的早期阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0329500.d.html</link>
+            <guid>2085442</guid>
+            <pubDate>Tue, 23 Mar 2021 17:59:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：欧盟将取消所有国家的疫苗出口限制的豁免。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7103333.d.html</link>
-            <guid>2085316</guid>
-            <pubDate>Tue, 23 Mar 2021 15:10:17 GMT</pubDate>
+            <title><![CDATA[  美、布两油期货短线回升约0.5美元，现分别报57.97美元/桶和61.07美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0329444.d.html</link>
+            <guid>2085441</guid>
+            <pubDate>Tue, 23 Mar 2021 17:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  泛美卫生组织：巴西新冠肺炎病例激增，巴西疫情的严峻形势正在影响周边国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7102697.d.html</link>
-            <guid>2085315</guid>
-            <pubDate>Tue, 23 Mar 2021 15:08:38 GMT</pubDate>
+            <title><![CDATA[【最新研究显示：北半球的夏天“长”了17天】 据中国科学院南海海洋研究所发布的消息，该所管玉平研究员联合有关专家研究认为，全球变暖可以影响一年四季的节奏。相关论文近日在线发表于《地球物理研究快报》。研究人员将夏天的开始时间定义为气温达到最热的25%时，而冬天的开始时间是在气温达到最冷的25%时。研究发现，1952年至2011年间，夏季的平均天数从78天增加到95天，而冬季则从76天减少到73天。春季和秋季也分别从124天、87天减少到115天、82天。也就是说，春天和夏天开始得更早，秋天和冬天开始得更晚了。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0329255.d.html</link>
+            <guid>2085440</guid>
+            <pubDate>Tue, 23 Mar 2021 17:58:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【西班牙第四次延长来自巴西和南非航班的入境限制法令】当地时间3月23日，西班牙政府第四次延长了来自巴西和南非的航班入境该国的限制法令，本次延长将从当地时间3月30日开始，持续至当地时间4月13日。在此期间，除西班牙和安道尔公民以及两国长期居留许可持有者之外，不允许来自巴西和南非的旅客入境西班牙，该措施的施行是为了控制变种新冠病毒感染病例的输入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0260947.d.html</link>
-            <guid>2085314</guid>
-            <pubDate>Tue, 23 Mar 2021 15:03:28 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：正计划提出可持续基础设施和就业的提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0329054.d.html</link>
+            <guid>2085439</guid>
+            <pubDate>Tue, 23 Mar 2021 17:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  布伦特原油期货主力跌破62.00美元/桶关口，最新报61.98美元/桶，日图跌3.94%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0260416.d.html</link>
-            <guid>2085313</guid>
-            <pubDate>Tue, 23 Mar 2021 15:02:13 GMT</pubDate>
+            <title><![CDATA[  加拿大央行副行长Toni Gravelle：（被问及控制通胀波动的范围）我们会对通胀率升至3%以上表示担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7168591.d.html</link>
+            <guid>2085438</guid>
+            <pubDate>Tue, 23 Mar 2021 17:57:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【大商所、郑商所夜盘收盘 玻璃跌超2%】大商所、郑商所夜盘收盘，涨跌参半，豆一涨超2%，豆粕、菜粕等涨超1%，玉米、郑油等小幅上涨；玻璃、纯碱跌超2%，焦煤、棉纱等跌超1%，PP、PTA等小幅下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0259849.d.html</link>
-            <guid>2085312</guid>
-            <pubDate>Tue, 23 Mar 2021 15:00:52 GMT</pubDate>
+            <title><![CDATA[美国财长耶伦：许多没有工作的人不工作是出于安全考虑或因为孩子不在学校。不同意增加失业救济金会导致民众不工作的观点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0327569.d.html</link>
+            <guid>2085437</guid>
+            <pubDate>Tue, 23 Mar 2021 17:53:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【波罗的海干散货运价指数结束连续6天上涨，因船舶需求下降】波罗的海干散货运价指数结束连续6个交易日的上涨，因所有船舶类别的需求均有所减弱。波罗的海干散货运价指数周二下跌48点或2.1%，至2271点。海岬型船运价指数下跌77点或3.2%，至2305点。海岬型船日均获利下降637美元，至19114美元。巴拿马型船运价指数下跌75点或2.5%，至2983点，结束7个交易日的涨势。巴拿马型船日均获利下降674美元，至26846美元。超灵便型船运价指数下跌7点，至2126点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0259696.d.html</link>
-            <guid>2085311</guid>
-            <pubDate>Tue, 23 Mar 2021 15:00:33 GMT</pubDate>
+            <title><![CDATA[  【欧盟领导人称美国总统拜登将出席本周举行的欧盟视频峰会】当地时间23日，欧洲理事会主席米歇尔在社交媒体上表示，他已邀请美国总统拜登出席即将于本周举行的欧盟视频峰会，拜登将就欧美未来合作发表看法。米歇尔说，现在正是时候重塑跨大西洋关系。新一轮欧盟峰会原定于3月25日至26日在布鲁塞尔举行，欧盟方面近日宣布，因新冠疫情形势严峻，峰会改为通过视频形式举行。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0327077.d.html</link>
+            <guid>2085436</guid>
+            <pubDate>Tue, 23 Mar 2021 17:52:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股航空股齐挫，美国航空集团、美国联合航空跌超4%，达美航空跌近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7097960.d.html</link>
-            <guid>2085310</guid>
-            <pubDate>Tue, 23 Mar 2021 14:57:12 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：在推行《反洗钱条例草案》方面取得了进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7166529.d.html</link>
+            <guid>2085435</guid>
+            <pubDate>Tue, 23 Mar 2021 17:52:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[奈飞涨幅扩大至超3%，领涨FAANMG，此前Argus将该公司评级从持有上调至买入。亚马逊、微软涨超1%，苹果是FAANMG中唯一下跌个股，跌0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7096987.d.html</link>
-            <guid>2085309</guid>
-            <pubDate>Tue, 23 Mar 2021 14:54:45 GMT</pubDate>
+            <title><![CDATA[COMEX 4月黄金期货收跌约0.8%，报1725.10美元/盎司，投资者关注美联储主席鲍威尔和美国财长耶伦的听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7166387.d.html</link>
+            <guid>2085434</guid>
+            <pubDate>Tue, 23 Mar 2021 17:51:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为52，表明市场处在中性状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0257219.d.html</link>
-            <guid>2085308</guid>
-            <pubDate>Tue, 23 Mar 2021 14:54:09 GMT</pubDate>
+            <title><![CDATA[  美国宇航局：火星漫游者本周将抵达垂直飞行区域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7166267.d.html</link>
+            <guid>2085433</guid>
+            <pubDate>Tue, 23 Mar 2021 17:51:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  英国央行：资产购买工具（APF）的国债购买操作的覆盖比率为2.14。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0257013.d.html</link>
-            <guid>2085307</guid>
-            <pubDate>Tue, 23 Mar 2021 14:53:41 GMT</pubDate>
+            <title><![CDATA[  加拿大央行副行长Toni Gravelle：我们将在5月的金融稳定报告获得更多关于推动房价上涨因素的细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7166007.d.html</link>
+            <guid>2085432</guid>
+            <pubDate>Tue, 23 Mar 2021 17:50:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德州仪器目前维持在平盘水平附近，在美股一众芯片股中表现居前；此前Longbow将该公司评级从持有上调至买入。其他芯片股普遍下跌，美光科技、西部数据跌超3%，恩智浦跌超2%，AMD、英特尔跌超1%。]]></title>
-            <guid>2085306</guid>
-            <pubDate>Tue, 23 Mar 2021 14:52:35 GMT</pubDate>
+            <title><![CDATA[  法国总统马克龙：法国将于周一重新开放驻的黎波里的大使馆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7165986.d.html</link>
+            <guid>2085431</guid>
+            <pubDate>Tue, 23 Mar 2021 17:50:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股邮轮概念普跌，挪威邮轮、嘉年华邮轮跌超6%，皇家加勒比邮轮跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0256349.d.html</link>
-            <guid>2085305</guid>
-            <pubDate>Tue, 23 Mar 2021 14:52:02 GMT</pubDate>
+            <title><![CDATA[  法国总统马克龙：土耳其、俄罗斯军队必须尽快撤离利比亚，法国将与合作伙伴一起捍卫利比亚的主权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7165081.d.html</link>
+            <guid>2085430</guid>
+            <pubDate>Tue, 23 Mar 2021 17:48:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：巴基斯坦方面将于3月底收到100万剂科兴公司和康希诺的新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0255777.d.html</link>
-            <guid>2085304</guid>
-            <pubDate>Tue, 23 Mar 2021 14:50:44 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：完全私有的数字美元体系并不可行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7164736.d.html</link>
+            <guid>2085429</guid>
+            <pubDate>Tue, 23 Mar 2021 17:47:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  昆仑能源：全年净利润60.6亿元人民币，市场预估56.2亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0255702.d.html</link>
-            <guid>2085303</guid>
-            <pubDate>Tue, 23 Mar 2021 14:50:35 GMT</pubDate>
+            <title><![CDATA[  加拿大央行副行长Toni Gravelle：（被问及是否考虑在危机中购买股权时）加拿大央行有能力，这将是一种“打破玻璃”（即打破常规）的举动。]]></title>
+            <guid>2085428</guid>
+            <pubDate>Tue, 23 Mar 2021 17:47:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  昆仑能源：全年营收1092.5亿元，市场预期1166.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0255624.d.html</link>
-            <guid>2085302</guid>
-            <pubDate>Tue, 23 Mar 2021 14:50:24 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：要小心有关使用数字货币进行非法融资的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7163827.d.html</link>
+            <guid>2085427</guid>
+            <pubDate>Tue, 23 Mar 2021 17:45:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  昆仑能源：全年息税折旧及摊销前利润128.9亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0255332.d.html</link>
-            <guid>2085301</guid>
-            <pubDate>Tue, 23 Mar 2021 14:49:44 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：目前没有延长美国国债投资组合期限的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0323604.d.html</link>
+            <guid>2085426</guid>
+            <pubDate>Tue, 23 Mar 2021 17:43:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股区块链概念股走低，第九城市跌逾17%，迅雷跌逾7%，RiotBlockchain跌逾4%，MarathonDigital跌逾2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7094793.d.html</link>
-            <guid>2085300</guid>
-            <pubDate>Tue, 23 Mar 2021 14:49:17 GMT</pubDate>
+            <title><![CDATA[  布伦特原油期货跌幅达6%，短线下挫超0.5美元，现报60.72美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0323533.d.html</link>
+            <guid>2085425</guid>
+            <pubDate>Tue, 23 Mar 2021 17:43:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【李东辉回应：新公司“极氪”海外注册，意在国际资本市场上市】3月23日，吉利汽车发布公告称，该公司已与控股股东浙江吉利控股集团有限公司（“吉利控股”）订立框架协议，二者将在境外成立合资公司，并透过合资公司在中国成立的一家间接全资拥有的外商独资企业。第一财经记者获悉，上述合资公司的注册地在英属开曼群岛。一家计划在中国开展业务的公司，为何选择在海外注册，再通过外商独资的方式“迂回”布局市场？今日（3月23日）晚间，吉利控股CEO李东辉独家回应第一财经记者的提问称，“这个安排既是为了便于开拓国际市场，也是考虑保持极氪未来在海外资本市场融资和上市的机会。”（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0254962.d.html</link>
-            <guid>2085299</guid>
-            <pubDate>Tue, 23 Mar 2021 14:48:47 GMT</pubDate>
+            <title><![CDATA[  美元兑加元USD/CAD短线回升逾20点，现报1.2558。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0323086.d.html</link>
+            <guid>2085424</guid>
+            <pubDate>Tue, 23 Mar 2021 17:41:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国债价格涨幅扩大，10年期英债收益率跌5个基点，暂报0.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0253880.d.html</link>
-            <guid>2085298</guid>
-            <pubDate>Tue, 23 Mar 2021 14:46:00 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：金融稳定监管委员会没有告诉银行业有关它们可以提供何种贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0323046.d.html</link>
+            <guid>2085423</guid>
+            <pubDate>Tue, 23 Mar 2021 17:41:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST围海年度报告：2020年净亏损2.72亿元】*ST围海发布2020年年报，2020年净亏损2.72亿元，上年同期净亏损16.06亿元，亏损缩窄；营业收入19.75亿元，同比减少42.54%；基本每股收益-0.24元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0253453.d.html</link>
-            <guid>2085297</guid>
-            <pubDate>Tue, 23 Mar 2021 14:44:47 GMT</pubDate>
+            <title><![CDATA[  WTI原油期货大跌6%，现报57.82美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0322703.d.html</link>
+            <guid>2085422</guid>
+            <pubDate>Tue, 23 Mar 2021 17:40:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副财长MAKSIMOV：美国的制裁威胁可能会让外国投资者感到不安，但不会影响我们的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7092857.d.html</link>
-            <guid>2085296</guid>
-            <pubDate>Tue, 23 Mar 2021 14:44:32 GMT</pubDate>
+            <title><![CDATA[  美联储理事布雷纳德：近几个月，美联储一直在采取行动，以更有效地应对气候风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7161581.d.html</link>
+            <guid>2085421</guid>
+            <pubDate>Tue, 23 Mar 2021 17:39:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[游戏驿站盘中跌超5%，该公司首席客户官Hamlin将于3月31日辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7092218.d.html</link>
-            <guid>2085295</guid>
-            <pubDate>Tue, 23 Mar 2021 14:43:04 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：美联储将提前很长时间就缩减债券购买规模进行沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7161348.d.html</link>
+            <guid>2085420</guid>
+            <pubDate>Tue, 23 Mar 2021 17:38:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[吉利控股集团CEO李东辉：极氪未来将寻求海外上市，目前的股权设计也是为引入战略投资者保持灵活性。据悉，极氪公司的注册地在英属开曼群岛。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0252419.d.html</link>
-            <guid>2085293</guid>
-            <pubDate>Tue, 23 Mar 2021 14:42:18 GMT</pubDate>
+            <title><![CDATA[  英国首相约翰逊：将继续与欧盟就疫苗研发问题展开合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0321863.d.html</link>
+            <guid>2085419</guid>
+            <pubDate>Tue, 23 Mar 2021 17:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：墨西哥本周将从辉瑞和科兴生物获得165.8万剂疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0252281.d.html</link>
-            <guid>2085292</guid>
-            <pubDate>Tue, 23 Mar 2021 14:41:59 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：部分资产价格较高，银行业资本充足。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0321493.d.html</link>
+            <guid>2085418</guid>
+            <pubDate>Tue, 23 Mar 2021 17:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微美全息跌超20%，此前该公司宣布增发8380万美元证券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7091468.d.html</link>
-            <guid>2085291</guid>
-            <pubDate>Tue, 23 Mar 2021 14:41:16 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：货币政策是高度宽松的，当前是适当的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0321253.d.html</link>
+            <guid>2085417</guid>
+            <pubDate>Tue, 23 Mar 2021 17:36:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【锂矿产能出清导致供应偏紧 碳酸锂报价不断上调】据报道，23日电池级碳酸锂均价再度上调每吨1000元，达8.75万元/吨的年内新高，较上月涨12%。目前澳洲锂矿供应紧张问题仍未缓解，成本端支撑显著。国信证券认为，本轮碳酸锂行情由需求主导驱动，之后有望叠加澳洲锂辉石矿山产能出清，原料锂辉石价格启动推动碳酸锂和氢氧化锂价格共振，行业景气度有望持续提升。雅化集团子公司年产2万吨电池级碳酸锂产线已投产；永兴材料将有年产1万吨电池级碳酸锂项目等投产。（上证资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7090243.d.html</link>
-            <guid>2085290</guid>
-            <pubDate>Tue, 23 Mar 2021 14:38:37 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：资产估值按历史标准来说是上升的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0320812.d.html</link>
+            <guid>2085416</guid>
+            <pubDate>Tue, 23 Mar 2021 17:35:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德意志银行预计，大众汽车电动汽车业务价值可能达到2300亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7089785.d.html</link>
-            <guid>2085289</guid>
-            <pubDate>Tue, 23 Mar 2021 14:37:33 GMT</pubDate>
+            <title><![CDATA[现货白银刷新日低，逼近25美元整数关口，报25.05美元/盎司，日内下跌超2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0320488.d.html</link>
+            <guid>2085415</guid>
+            <pubDate>Tue, 23 Mar 2021 17:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股盘中再度下行，道指跌幅超100点，标普500指数跌0.2%，纳指跌0.42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7089598.d.html</link>
-            <guid>2085288</guid>
-            <pubDate>Tue, 23 Mar 2021 14:37:02 GMT</pubDate>
+            <title><![CDATA[  美、布两油期货短线下挫近0.4美元，分别报58.23美元/桶和61.32美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0319778.d.html</link>
+            <guid>2085414</guid>
+            <pubDate>Tue, 23 Mar 2021 17:33:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股部分区块链概念股大跌，第九城市跌超14%，嘉楠科技跌超10%，迅雷跌超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7089426.d.html</link>
-            <guid>2085287</guid>
-            <pubDate>Tue, 23 Mar 2021 14:36:34 GMT</pubDate>
+            <title><![CDATA[【经合组织发布报告：加强经济韧性是后疫情时代的全球挑战】 当地时间3月23日，总部位于法国巴黎的经济合作与发展组织（OECD）发布了其团队为七国集团撰写的政策建议报告。报告指出，各国应当从过去及当前的危机中吸取经验教训，着力填补经济体系存在的漏洞，从而加强经济韧性，尤其是必要商品全球供应链的韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7159224.d.html</link>
+            <guid>2085413</guid>
+            <pubDate>Tue, 23 Mar 2021 17:32:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据Techcrunch报道，美国企业服务公司ActionIQ在C轮融资中融资1亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0249220.d.html</link>
-            <guid>2085286</guid>
-            <pubDate>Tue, 23 Mar 2021 14:34:46 GMT</pubDate>
+            <title><![CDATA[  WTI原油期货跌幅扩大至5%，现报58.39美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7159066.d.html</link>
+            <guid>2085412</guid>
+            <pubDate>Tue, 23 Mar 2021 17:32:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：空白支票公司Belong Acquisition提交IPO申请，筹资1.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7088416.d.html</link>
-            <guid>2085285</guid>
-            <pubDate>Tue, 23 Mar 2021 14:34:02 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：对寻求解决可负担住房问题的方案持开放性态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7157863.d.html</link>
+            <guid>2085411</guid>
+            <pubDate>Tue, 23 Mar 2021 17:28:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股大型科技股逆市上行，奈飞涨逾3%，微软、亚马逊、谷歌A涨逾1%，Facebook涨近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7088029.d.html</link>
-            <guid>2085284</guid>
-            <pubDate>Tue, 23 Mar 2021 14:33:10 GMT</pubDate>
+            <title><![CDATA[  美联储理事布雷纳德：强制披露气候风险“可能很重要”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0317936.d.html</link>
+            <guid>2085410</guid>
+            <pubDate>Tue, 23 Mar 2021 17:27:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[受新冠疫情影响，美国三大股指于2020年3月23日触底。自那以来，道指、标普500指数和纳指分别上涨了76％、76％和95％，为二战以来最好的12个月表现之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7087704.d.html</link>
-            <guid>2085283</guid>
-            <pubDate>Tue, 23 Mar 2021 14:32:22 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：美联储将成立金融稳定气候委员会。金融市场必须为气候变化的挑战做好准备。不做好应对气候风险的准备可能会带来巨大损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0317511.d.html</link>
+            <guid>2085409</guid>
+            <pubDate>Tue, 23 Mar 2021 17:26:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【弘阳服务发布上市以来首份年报，营收、净利润双双增超50%】3月23日晚，弘阳服务发布2020年报，报告期内实现营收7.7亿元，同比增长52.7%，实现净利润0.9亿元，同比增长63.5%，毛利率同比提升2.6个百分点达27.9%。截至2020年12月31日，弘阳服务签约项目250个，总合同建筑面积3990万平方米。其中在管项目159个，在管建筑总面积2701万平方米，较2019年大增71.4%]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0248152.d.html</link>
-            <guid>2085282</guid>
-            <pubDate>Tue, 23 Mar 2021 14:32:09 GMT</pubDate>
+            <title><![CDATA[  热门中概股走低，跟谁学跌11.77%，虎牙跌近9%，蓝城兄弟跌8.37%，华住酒店、金山云跌超6%，趣头条跌5.37%，贝壳、陆金所跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7155958.d.html</link>
+            <guid>2085408</guid>
+            <pubDate>Tue, 23 Mar 2021 17:23:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中小尺寸石英元件供应紧缺 行业景气持续向上】据报道，石英元件产业市场持续向上。供应链最新透露，目前市场上小尺寸石英元件供需依旧吃紧，台系石英元件大厂晶技以及希华2020年完成的新产能建置，几乎都是顺产即满载，凸显火热的市况。石英股份是国内唯一从高纯石英砂到电子级石英管棒类材料及下游石英器件全产业链布局的优质企业；惠伦晶体建立业内唯一国家级实验室“压电石英晶体元器件研究开发中心”；泰晶科技是国内石英晶振龙头企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0248038.d.html</link>
-            <guid>2085281</guid>
-            <pubDate>Tue, 23 Mar 2021 14:31:50 GMT</pubDate>
+            <title><![CDATA[  市场消息：美国总统拜登将于周四与欧盟领导人就美欧合作进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0316268.d.html</link>
+            <guid>2085407</guid>
+            <pubDate>Tue, 23 Mar 2021 17:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【碳中和技术路线即将制定 碳捕获技术迎风口】据报道，全国两会后，发改委等相关部门密集召开座谈会，加快碳达峰、碳中和顶层设计。部分行业编制的碳达峰、碳中和技术路线图已上报发改委，最快有可能上半年浮出水面。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0247947.d.html</link>
-            <guid>2085280</guid>
-            <pubDate>Tue, 23 Mar 2021 14:31:38 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：美联储密切关注CRE工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0315884.d.html</link>
+            <guid>2085406</guid>
+            <pubDate>Tue, 23 Mar 2021 17:22:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTO总干事恩戈齐·奥孔乔：对欧盟限制疫苗出口感到“失望”，正在与他们讨论这一限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0247745.d.html</link>
-            <guid>2085279</guid>
-            <pubDate>Tue, 23 Mar 2021 14:31:06 GMT</pubDate>
+            <title><![CDATA[  加拿大央行并未提及开始削减QE的时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7155460.d.html</link>
+            <guid>2085405</guid>
+            <pubDate>Tue, 23 Mar 2021 17:21:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西钢铁经销商协会：4月以后钢铁价格将很难上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7086759.d.html</link>
-            <guid>2085278</guid>
-            <pubDate>Tue, 23 Mar 2021 14:30:05 GMT</pubDate>
+            <title><![CDATA[加拿大央行副行长Toni Gravelle：预计加拿大央行的资产负债表会在4月底降至4750亿加元。加拿大央行削减量化宽松与政策利率决定无关，央行削减QE会是渐进且可衡量的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7155177.d.html</link>
+            <guid>2085404</guid>
+            <pubDate>Tue, 23 Mar 2021 17:20:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[深康佳A发布2020年年度报告，实现营业收入503.52亿元，同比下降8.65%；归母净利润4.78亿元，同比增长125.26%；基本每股收益0.1984元，拟每10股派发现金红利1元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0246958.d.html</link>
-            <guid>2085277</guid>
-            <pubDate>Tue, 23 Mar 2021 14:29:02 GMT</pubDate>
+            <title><![CDATA[  加拿大央行就未来政策正常化发布指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7154313.d.html</link>
+            <guid>2085403</guid>
+            <pubDate>Tue, 23 Mar 2021 17:18:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  世行行长马尔帕斯：如果发达经济体放弃过量的新冠疫苗供应和选择权，这将是有益的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0246737.d.html</link>
-            <guid>2085276</guid>
-            <pubDate>Tue, 23 Mar 2021 14:28:30 GMT</pubDate>
+            <title><![CDATA[  加拿大央行副行长Toni Gravelle：加拿大央行将不会对商业票据、省政府和企业债购买进行评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7154279.d.html</link>
+            <guid>2085402</guid>
+            <pubDate>Tue, 23 Mar 2021 17:18:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[世行行长马尔帕斯：疫苗供应问题是一个贸易问题和透明度问题，我们需要找到增加供应的方法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7085492.d.html</link>
-            <guid>2085275</guid>
-            <pubDate>Tue, 23 Mar 2021 14:27:05 GMT</pubDate>
+            <title><![CDATA[  美元兑加元USD/CAD短线跌逾30点，现报1.2538。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7153651.d.html</link>
+            <guid>2085401</guid>
+            <pubDate>Tue, 23 Mar 2021 17:17:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：欧盟只向英国提供一小部分有争议的荷兰产的阿斯利康疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7085143.d.html</link>
-            <guid>2085274</guid>
-            <pubDate>Tue, 23 Mar 2021 14:26:15 GMT</pubDate>
+            <title><![CDATA[  加拿大央行：央行下一阶段将是将量化宽松净购买量降至零。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7153611.d.html</link>
+            <guid>2085400</guid>
+            <pubDate>Tue, 23 Mar 2021 17:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国贸易代表Tai与韩国贸易部长YOO MYUNG-HEE进行了通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0245451.d.html</link>
-            <guid>2085273</guid>
-            <pubDate>Tue, 23 Mar 2021 14:25:17 GMT</pubDate>
+            <title><![CDATA[  苏丹内阁接受了有关让阿联酋调解与其埃塞俄比亚边界争端的建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0313740.d.html</link>
+            <guid>2085399</guid>
+            <pubDate>Tue, 23 Mar 2021 17:16:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金山办公年度报告：2020年度净利润同比增长119% 拟10派6元】金山办公发布2020年年度报告，实现营业收入22.61亿元，同比增长43.14%；归母净利润8.78亿元，同比增长119.22%；基本每股收益1.90元，拟每10股派发现金股利人民币6元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0245374.d.html</link>
-            <guid>2085272</guid>
-            <pubDate>Tue, 23 Mar 2021 14:25:06 GMT</pubDate>
+            <title><![CDATA[  加拿大央行将暂停所有余下的危机流动性计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7153348.d.html</link>
+            <guid>2085398</guid>
+            <pubDate>Tue, 23 Mar 2021 17:16:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[金山办公发布2020年度财报，2020年公司营业收入22.61亿，同比增长43.14%；实现归母净利润8.78亿，较上年增长119.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7084561.d.html</link>
-            <guid>2085271</guid>
-            <pubDate>Tue, 23 Mar 2021 14:24:46 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：我们没有（获得）新的授权，这与现有的监管授权是一致的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0311845.d.html</link>
+            <guid>2085397</guid>
+            <pubDate>Tue, 23 Mar 2021 17:11:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【孚能科技收问询函：要求披露涉及召回的相关产品存在安全隐患的具体情况】孚能科技收到问询函，上交所要求公司补充披露涉及召回的相关产品存在安全隐患的具体情况，相关产品是否配套于北汽集团其他车型或其他客户车型，如是，进一步说明其他相关产品是否存在被召回风险；本次召回事件对公司的影响，并说明已采取及拟采取的应对举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7084452.d.html</link>
-            <guid>2085270</guid>
-            <pubDate>Tue, 23 Mar 2021 14:24:30 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：各机构正在自行进行气候变化分析。气候变化可能对我们的经济产生长期影响，我们需要开始了解这种影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7151405.d.html</link>
+            <guid>2085396</guid>
+            <pubDate>Tue, 23 Mar 2021 17:11:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[匈牙利央行副行长VIRAG：新兴市场的避险情绪仍然是市场波动的主要原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7084070.d.html</link>
-            <guid>2085269</guid>
-            <pubDate>Tue, 23 Mar 2021 14:23:36 GMT</pubDate>
+            <title><![CDATA[  美、布两油期货短线波动不大，现分别报58.85美元/桶和62.03美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0311064.d.html</link>
+            <guid>2085395</guid>
+            <pubDate>Tue, 23 Mar 2021 17:09:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[BioNTech SE盘中下挫，现跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7083674.d.html</link>
-            <guid>2085268</guid>
-            <pubDate>Tue, 23 Mar 2021 14:22:35 GMT</pubDate>
+            <title><![CDATA[  阿联酋能源部长：欧佩克+不打算生产超过石油市场承受能力的石油。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0310890.d.html</link>
+            <guid>2085394</guid>
+            <pubDate>Tue, 23 Mar 2021 17:08:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泛欧交易所：ETF的交易问题已解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7083479.d.html</link>
-            <guid>2085267</guid>
-            <pubDate>Tue, 23 Mar 2021 14:22:10 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：情景分析的目的是让机构和监管者更好地了解气候变化带来的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7150459.d.html</link>
+            <guid>2085393</guid>
+            <pubDate>Tue, 23 Mar 2021 17:08:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[布伦特原油期货最新报63.02美元/桶，日跌幅为2.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7083012.d.html</link>
-            <guid>2085266</guid>
-            <pubDate>Tue, 23 Mar 2021 14:20:56 GMT</pubDate>
+            <title><![CDATA[  英国首相约翰逊：将达到新冠疫苗接种目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0310235.d.html</link>
+            <guid>2085392</guid>
+            <pubDate>Tue, 23 Mar 2021 17:07:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[雅乐科技盘中下挫，现跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0243164.d.html</link>
-            <guid>2085265</guid>
-            <pubDate>Tue, 23 Mar 2021 14:19:55 GMT</pubDate>
+            <title><![CDATA[【内盘期货夜盘基础金属集体收跌】 国际铜夜盘收跌0.87%，沪铜收跌0.60%，沪铝收跌0.58%，沪锌收跌0.86%，沪铅收跌0.43%，沪镍收跌2.43%，沪锡收跌0.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7149475.d.html</link>
+            <guid>2085391</guid>
+            <pubDate>Tue, 23 Mar 2021 17:06:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储博斯蒂克：美联储肯定会密切关注通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0242986.d.html</link>
-            <guid>2085264</guid>
-            <pubDate>Tue, 23 Mar 2021 14:19:24 GMT</pubDate>
+            <title><![CDATA[挪威卫生部长：我们必须在全国范围内采取更多措施来控制新冠疫情。挪威因新冠肺炎感染率上升而收紧疫情限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7149353.d.html</link>
+            <guid>2085390</guid>
+            <pubDate>Tue, 23 Mar 2021 17:06:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储博斯蒂克：预计通胀上升是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0242693.d.html</link>
-            <guid>2085263</guid>
-            <pubDate>Tue, 23 Mar 2021 14:18:43 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：金融服务的广泛包容性是优先目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7148206.d.html</link>
+            <guid>2085389</guid>
+            <pubDate>Tue, 23 Mar 2021 17:03:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储博斯蒂克：通胀“肯定”值得关注，但不认为它会回到上世纪70年代的动态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7081709.d.html</link>
-            <guid>2085262</guid>
-            <pubDate>Tue, 23 Mar 2021 14:17:42 GMT</pubDate>
+            <title><![CDATA[  美国财政部拍卖600亿美元2年期国债，得标利率0.152%，投标倍数2.54。（预发行交易利率为0.152%，上月投标倍数为2.44）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0308469.d.html</link>
+            <guid>2085388</guid>
+            <pubDate>Tue, 23 Mar 2021 17:03:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股三大股指悉数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0242075.d.html</link>
-            <guid>2085261</guid>
-            <pubDate>Tue, 23 Mar 2021 14:17:12 GMT</pubDate>
+            <title><![CDATA[  美国总统拜登：国会应该采取行动禁止突击武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7147915.d.html</link>
+            <guid>2085387</guid>
+            <pubDate>Tue, 23 Mar 2021 17:02:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储博斯蒂克：经济刺激“不会永远持续下去”，一旦经济刺激流入经济，解读通胀信号可能会更容易。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7081438.d.html</link>
-            <guid>2085260</guid>
-            <pubDate>Tue, 23 Mar 2021 14:17:03 GMT</pubDate>
+            <title><![CDATA[  市场消息：滴滴在拉丁美洲的几个城市恢复了80-90%的交通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7147506.d.html</link>
+            <guid>2085386</guid>
+            <pubDate>Tue, 23 Mar 2021 17:01:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油5分钟内上涨0.63美元/桶，报59.92美元/桶，日内跌幅收窄至2.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0241342.d.html</link>
-            <guid>2085259</guid>
-            <pubDate>Tue, 23 Mar 2021 14:15:20 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：我们同意金融监管机构应该通过压力测试来评估气候变化带来的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7147353.d.html</link>
+            <guid>2085385</guid>
+            <pubDate>Tue, 23 Mar 2021 17:00:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元兑美元刷新日低至1.1862，逼近200日均线切入位1.1860。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0240990.d.html</link>
-            <guid>2085258</guid>
-            <pubDate>Tue, 23 Mar 2021 14:14:25 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：长期修正方案将解决美国国债等超安全资产的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0307263.d.html</link>
+            <guid>2085384</guid>
+            <pubDate>Tue, 23 Mar 2021 17:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：参议院将讨论美国的枪支暴力问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0240715.d.html</link>
-            <guid>2085257</guid>
-            <pubDate>Tue, 23 Mar 2021 14:13:45 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：将在杠杆率比率问题上采取透明的流程。我们正处于削弱气候变化对金融机构风险影响的初始阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0307231.d.html</link>
+            <guid>2085383</guid>
+            <pubDate>Tue, 23 Mar 2021 17:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[穆迪：由于基数效应、停电和价格上涨，大宗商品中的化学商品将出现最强劲的复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0240606.d.html</link>
-            <guid>2085256</guid>
-            <pubDate>Tue, 23 Mar 2021 14:13:29 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：很难说SLR豁免对美国国债市场的运作有什么影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0306215.d.html</link>
+            <guid>2085382</guid>
+            <pubDate>Tue, 23 Mar 2021 16:57:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华能国际电力股份：2020年四季度公司合并层需计提资产减值共计人民币60.37亿元。国际准则下，因受同一控制下收购准则差异形成资产价值差异等原因，公司合并层需要多计提减值准备人民币28.65亿元，共计需计提资产减值为人民币89.02亿元；中国准则下，2020年四季度公司母公司需计提资产减值共计人民币12.25亿元，其中长期股权投资减值计提人民币10.36亿元；单项资产拟关停报废等计提减值人民币1.30亿元，前期费减值人民币0.34亿元；应收款项及存货等减值人民币0.25亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0240486.d.html</link>
-            <guid>2085255</guid>
-            <pubDate>Tue, 23 Mar 2021 14:13:13 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：需要立法帮助实现LIBOR过渡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0305043.d.html</link>
+            <guid>2085381</guid>
+            <pubDate>Tue, 23 Mar 2021 16:54:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美元指数DXY升至两周高点92.25，日内涨0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0240087.d.html</link>
-            <guid>2085254</guid>
-            <pubDate>Tue, 23 Mar 2021 14:12:16 GMT</pubDate>
+            <title><![CDATA[  土耳其卫生部：单日新增逾26000例新冠肺炎确诊病例，为今年以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikknscsk0304979.d.html</link>
+            <guid>2085380</guid>
+            <pubDate>Tue, 23 Mar 2021 16:54:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  泛欧交易所：已经确认了ETF板块的技术问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0239624.d.html</link>
-            <guid>2085253</guid>
-            <pubDate>Tue, 23 Mar 2021 14:11:15 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：我们的最佳预期是今年物价有适度上涨压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7142752.d.html</link>
+            <guid>2085379</guid>
+            <pubDate>Tue, 23 Mar 2021 16:49:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【业内人士：真正的旺季到来后 水泥价格仍有上涨空间】进入3月以来，各地集中开工的重大项目更多。记者此前从各地发改委获悉，各地重大项目集中开工如雨后春笋，包括东北哈尔滨也提前集中开工了一批重大项目，总投资超过2300亿元。多位业内人士向记者表示，目前水泥市场属于启动阶段，从绝对价格看，上述涨价区域的水泥价格，仍较2020年高点有近百元的差距，这也意味着真正的旺季到来后，水泥价格仍有上涨空间。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7078943.d.html</link>
-            <guid>2085252</guid>
-            <pubDate>Tue, 23 Mar 2021 14:11:00 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：较长期的经济计划将包括增加收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7142270.d.html</link>
+            <guid>2085378</guid>
+            <pubDate>Tue, 23 Mar 2021 16:48:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  库客音乐涨超12%，报9.6美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikknscsk0238475.d.html</link>
-            <guid>2085251</guid>
-            <pubDate>Tue, 23 Mar 2021 14:08:39 GMT</pubDate>
+            <title><![CDATA[美国财长耶伦：政府不会提出伤害企业的政策。最近的刺激计划不是靠增税来融资的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7142221.d.html</link>
+            <guid>2085377</guid>
+            <pubDate>Tue, 23 Mar 2021 16:48:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行资产负债表规模在最近一周扩大0.3%，至7.16万亿欧元，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7077691.d.html</link>
-            <guid>2085250</guid>
-            <pubDate>Tue, 23 Mar 2021 14:08:18 GMT</pubDate>
+            <title><![CDATA[美国财长耶伦：我们将研究税收政策的变化。税改将有助于支付经济项目的费用。企业税对物价、消费者的影响尚不清楚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7141666.d.html</link>
+            <guid>2085376</guid>
+            <pubDate>Tue, 23 Mar 2021 16:46:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧洲斯托克600指数抹去跌幅，接近平盘。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7077323.d.html</link>
-            <guid>2085249</guid>
-            <pubDate>Tue, 23 Mar 2021 14:07:25 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：在接下来的一揽子计划中，希望解决妇女的工资和工作问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7140933.d.html</link>
+            <guid>2085375</guid>
+            <pubDate>Tue, 23 Mar 2021 16:44:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美指刷新3月9日以来高位至92.251，日内涨幅扩大到0.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-23/detail-ikkntiam7077044.d.html</link>
-            <guid>2085248</guid>
-            <pubDate>Tue, 23 Mar 2021 14:06:47 GMT</pubDate>
+            <title><![CDATA[  美国财长耶伦：实施反洗钱法是当务之急。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-24/detail-ikkntiam7140303.d.html</link>
+            <guid>2085374</guid>
+            <pubDate>Tue, 23 Mar 2021 16:43:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
