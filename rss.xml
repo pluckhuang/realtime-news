@@ -4,11 +4,543 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Apr 2021 16:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 19:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【 加密货币市值超过2万亿美元】随着机构需求激增，加密货币的总市值首次突破2万亿美元，在约两个月的时间里翻了一番，仅比特币的市值就超过1万亿美元，紧随其后的以太币、币安币、波卡币、泰达币和艾达币总市值约4220亿美元。随着机构投资者涉足加密货币，以期在近零利率的世界中提高现金回报率，比特币不断上涨。特斯拉投入10亿美元购买比特币，并开始接受比特币付款。摩根士丹利允许一些最富有的客户将加密货币加入他们的投资组合，而万事达、PayPal等公司均已采取措施接纳比特币。]]></title>
+            <guid>2106193</guid>
+            <pubDate>Mon, 05 Apr 2021 19:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：预计今年下半年将出现强劲增长，但离政策目标仍有距离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7366561.d.html</link>
+            <guid>2106192</guid>
+            <pubDate>Mon, 05 Apr 2021 19:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：美联储仍远未达到其政策目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7366421.d.html</link>
+            <guid>2106191</guid>
+            <pubDate>Mon, 05 Apr 2021 19:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：就业报告很棒，但仍有850万人失业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4510409.d.html</link>
+            <guid>2106190</guid>
+            <pubDate>Mon, 05 Apr 2021 19:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：需要更多像3月份这样的就业报告。 美国经济前景光明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7365454.d.html</link>
+            <guid>2106189</guid>
+            <pubDate>Mon, 05 Apr 2021 19:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：英特尔CEO将参加拜登政府讨论芯片短缺问题的会议】 据悉，英特尔首席执行官Pat Gelsinger将于下周一（4月12日）通过线上参加拜登政府召开的会议，讨论使美国汽车业生产受到扰乱的半导体供应链问题。此前，拜登的经济和国家安全幕僚确定4月12日举行峰会讨论芯片短缺。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4507372.d.html</link>
+            <guid>2106188</guid>
+            <pubDate>Mon, 05 Apr 2021 19:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：经济已经取得了V型复苏，这是不可否认的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7362765.d.html</link>
+            <guid>2106187</guid>
+            <pubDate>Mon, 05 Apr 2021 19:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【消息人士：印度国有炼油商预计5月份购买的沙特石油将比平均月度购买量少36%】三名消息人士称，印度国有炼油商预计5月份从沙特购买的石油将比正常情况减少36%，这表明尽管上周沙特支持欧佩克及其产油盟国增产，但印度与沙特的紧张关系仍在升级。印度是世界第三大石油进口国和消费国，随着全球油价飙升，印度和沙特的能源关系已经恶化。印度指责沙特和其他产油国的减产推高了原油价格，而印度经济正努力从疫情中恢复过来。消息人士称，印度国营炼油商已下单购买950万桶沙特石油，而此前计划的购买量为1080万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7361094.d.html</link>
+            <guid>2106186</guid>
+            <pubDate>Mon, 05 Apr 2021 19:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爆款助力，招行工行一季度新基金托管规模超千亿】 Wind数据显示，一季度总计有37家托管机构累计托管新基金规模1.07万亿元。其中，招商银行延续去年四季度势头，今年新托管的60只基金总规模1568.74亿元，市场占比14.66%，位居榜首；工商银行以1234.52亿元规模紧随其后，占比为11.53%；建设银行、中国银行托管规模均超过930亿元，分列三、四位；交通银行、兴业银行、农业银行同期托管规模超过800亿元，位居第二梯队。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7355436.d.html</link>
+            <guid>2106185</guid>
+            <pubDate>Mon, 05 Apr 2021 19:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：印度国有炼油商预计5月份购买的沙特石油将比平均月度购买量少36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7352675.d.html</link>
+            <guid>2106184</guid>
+            <pubDate>Mon, 05 Apr 2021 18:58:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：将游戏驿站(GME.N)前景展望从“稳定”调整为“积极”，评级为B-不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4489941.d.html</link>
+            <guid>2106182</guid>
+            <pubDate>Mon, 05 Apr 2021 18:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  谷歌：已经意识到航班信息软件ITA中断的问题，正在进行修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7345386.d.html</link>
+            <guid>2106181</guid>
+            <pubDate>Mon, 05 Apr 2021 18:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利国家铜业公司：与RT工厂工会达成薪资协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4488321.d.html</link>
+            <guid>2106180</guid>
+            <pubDate>Mon, 05 Apr 2021 18:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股炼油概念股普跌，马拉松原油跌3.11%，菲利普66跌1.27%，瓦莱罗能源跌1.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4488231.d.html</link>
+            <guid>2106179</guid>
+            <pubDate>Mon, 05 Apr 2021 18:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西经济部长盖德斯：围绕巴西2021年预算的政治讨论是建设性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7342531.d.html</link>
+            <guid>2106178</guid>
+            <pubDate>Mon, 05 Apr 2021 18:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至4月5日，美国有107515428人至少接种了一剂新冠疫苗，此前为106214924人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7340543.d.html</link>
+            <guid>2106177</guid>
+            <pubDate>Mon, 05 Apr 2021 18:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至4月5日，美国已有62392065人完成了新冠疫苗接种的全部流程，此前为61416536人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4484342.d.html</link>
+            <guid>2106176</guid>
+            <pubDate>Mon, 05 Apr 2021 18:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 5月原油期货收跌2.80美元，跌幅4.55%，报58.65美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4481840.d.html</link>
+            <guid>2106174</guid>
+            <pubDate>Mon, 05 Apr 2021 18:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至昨日，美国累计新冠肺炎死亡病例达554064例，此前为553681例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4481017.d.html</link>
+            <guid>2106173</guid>
+            <pubDate>Mon, 05 Apr 2021 18:36:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：截至昨日，美国累计新冠肺炎确诊病例达30532965例，此前为30492334例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7336677.d.html</link>
+            <guid>2106172</guid>
+            <pubDate>Mon, 05 Apr 2021 18:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯：任命GAYLE SMITH为新冠疫情协调员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7335001.d.html</link>
+            <guid>2106171</guid>
+            <pubDate>Mon, 05 Apr 2021 18:33:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌克兰总统泽连斯基：俄罗斯最近的行动对乌克兰安全构成严重挑战。 与英国首相通了电话，认为乌克兰在面对问题时并不孤单。 加入北约的行动计划是当务之急。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4477841.d.html</link>
+            <guid>2106170</guid>
+            <pubDate>Mon, 05 Apr 2021 18:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务卿布林肯：如果全球无法结束新冠疫情，美国国内也无法结束新冠疫情。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7332717.d.html</link>
+            <guid>2106169</guid>
+            <pubDate>Mon, 05 Apr 2021 18:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：俄罗斯政府将俄罗斯2021年的天然气产量预测从7501亿立方米下调至6983亿立方米，将2022年的天然气产量预测7581亿立方米下调至7431亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4476447.d.html</link>
+            <guid>2106168</guid>
+            <pubDate>Mon, 05 Apr 2021 18:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：俄罗斯政府将俄罗斯2021年的石油产量预测从5.6亿吨下调至5.17亿吨，将2022年的石油产量预测从5.58亿吨下调至5.48亿吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4475326.d.html</link>
+            <guid>2106167</guid>
+            <pubDate>Mon, 05 Apr 2021 18:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：美国正在与阿斯利康合作，寻找生产新冠病毒疫苗的其他设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4472037.d.html</link>
+            <guid>2106166</guid>
+            <pubDate>Mon, 05 Apr 2021 18:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国媒体：英国卫生监管机构考虑一项提案，限制年轻人使用阿斯利康疫苗，因为担心出现血栓问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4469952.d.html</link>
+            <guid>2106165</guid>
+            <pubDate>Mon, 05 Apr 2021 18:21:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：英特尔首席执行官将出席拜登政府在4月12日举行的会议，讨论半导体供应链问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4469243.d.html</link>
+            <guid>2106164</guid>
+            <pubDate>Mon, 05 Apr 2021 18:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【又一批中国新冠疫苗运抵塞尔维亚】又一批中国新冠疫苗5日运抵塞尔维亚首都贝尔格莱德。塞总理布尔纳比奇和中国驻塞大使陈波到机场迎接。布尔纳比奇在机场对中国向塞尔维亚提供又一批新冠疫苗表示感谢。她说，这批疫苗送达再次验证了两国的伙伴关系。得益于中方的宝贵支持和帮助，大规模疫苗接种工作正在塞尔维亚稳步推进，这对塞防疫工作至关重要。陈波说，中国正有序展开大规模疫苗接种，国内疫苗需求巨大。中方秉持人类命运共同体理念，希望中国疫苗能够为塞免疫屏障建设做出贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4468686.d.html</link>
+            <guid>2106163</guid>
+            <pubDate>Mon, 05 Apr 2021 18:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：白宫将发布有关就业计划的简报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4467370.d.html</link>
+            <guid>2106162</guid>
+            <pubDate>Mon, 05 Apr 2021 18:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：俄罗斯反对派人士纳瓦尔尼被转移到医疗机构，以对其可能患上的呼吸道疾病进行治疗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7323787.d.html</link>
+            <guid>2106161</guid>
+            <pubDate>Mon, 05 Apr 2021 18:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑商所全力提升服务实体经济水平，“产业基地”已成期货与现货市场的一座桥梁】回望刚刚过去的2020年，郑州商品交易所(以下简称郑商所)持续优化“产业基地”建设工作，坚持常做常新的理念，建设效果明显：2020年全年，郑商所共开展55家“产业基地”建设；开展各类活动223场，参与企业接近1.5万家次，参与人数超过30万人次；增加了浦发银行等机构试点；同时，从55家“产业基地”期现货交易实践来看，九大期现交易模式浮出水面。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4464471.d.html</link>
+            <guid>2106160</guid>
+            <pubDate>Mon, 05 Apr 2021 18:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：到5月底，美国仍有足够的新冠疫苗为美国成年人接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7317584.d.html</link>
+            <guid>2106159</guid>
+            <pubDate>Mon, 05 Apr 2021 18:10:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：至3月24日一周，美国银行业现金资产减少1570亿美元，降幅4.0%，至3.6万亿美元；银行业总资产为21万亿美元，贷款和租赁降至10.3万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4459735.d.html</link>
+            <guid>2106158</guid>
+            <pubDate>Mon, 05 Apr 2021 18:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  机构调查：预计墨西哥3月份的通胀年率为4.66%，高于央行的目标范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4459565.d.html</link>
+            <guid>2106157</guid>
+            <pubDate>Mon, 05 Apr 2021 18:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：税率将是就业计划讨论中的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7309819.d.html</link>
+            <guid>2106156</guid>
+            <pubDate>Mon, 05 Apr 2021 17:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中金公司：将交通银行(03328.HK)评级上调至跑赢大盘，目标价4.68港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4450700.d.html</link>
+            <guid>2106155</guid>
+            <pubDate>Mon, 05 Apr 2021 17:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫新闻秘书珍·普萨基：将继续确保新冠疫苗在佛罗里达州公平分配。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4446735.d.html</link>
+            <guid>2106154</guid>
+            <pubDate>Mon, 05 Apr 2021 17:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)短线拉升，涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7300108.d.html</link>
+            <guid>2106153</guid>
+            <pubDate>Mon, 05 Apr 2021 17:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超1.31亿例】 根据世卫组织最新实时统计数据，截至欧洲中部夏令时间4月5日16时19分（北京时间4月5日22时19分），全球累计新冠肺炎确诊病例131020967例，累计死亡病例2850521例。5日全球新冠肺炎确诊病例新增561783例，死亡病例新增8196例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7298165.d.html</link>
+            <guid>2106152</guid>
+            <pubDate>Mon, 05 Apr 2021 17:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 6月黄金期货收涨0.40美元，报1728.80美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4439136.d.html</link>
+            <guid>2106151</guid>
+            <pubDate>Mon, 05 Apr 2021 17:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登继续和立法者谈论就业计划。 拜登对如何为就业计划募资持开放态度。 预算大纲应尽快公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7295597.d.html</link>
+            <guid>2106150</guid>
+            <pubDate>Mon, 05 Apr 2021 17:39:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院发言人：美国准备与伊朗讨论解除制裁，并将以2015年核协议为指导，该协议已经说明了美国将解除制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4438291.d.html</link>
+            <guid>2106149</guid>
+            <pubDate>Mon, 05 Apr 2021 17:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增10793例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4436837.d.html</link>
+            <guid>2106148</guid>
+            <pubDate>Mon, 05 Apr 2021 17:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股区块链板块涨跌互现，Marathon Patent(MARA.O)涨超15%，Bit Digital(BTBT.O)涨近10%，Riot Blockchain(RIOT.O)涨9.44%，第九城市(NCTY.O)跌9.44%，亿邦国际(EBON.O)跌9.74%，嘉楠科技(CAN.O)跌超12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4431860.d.html</link>
+            <guid>2106147</guid>
+            <pubDate>Mon, 05 Apr 2021 17:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院发言人：伊朗问题特使ROB MALLEY将率领美国代表团参加在维也纳举行的谈判。 美国预计在维也纳和伊朗的谈判不会很快或立即取得突破。 目前预计不会与伊朗进行直接会谈，但对此仍持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7287225.d.html</link>
+            <guid>2106146</guid>
+            <pubDate>Mon, 05 Apr 2021 17:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 黑莓(BB.N)直线拉升，涨近6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7286155.d.html</link>
+            <guid>2106145</guid>
+            <pubDate>Mon, 05 Apr 2021 17:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VIACOMCBS(VIAC.O,VIACA.O)跌幅缩窄至2.59%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4429445.d.html</link>
+            <guid>2106144</guid>
+            <pubDate>Mon, 05 Apr 2021 17:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  VIACOMCBS(VIAC.O,VIACA.O)：已经同意收购时代华纳旗下的Chilevision电视台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4429348.d.html</link>
+            <guid>2106143</guid>
+            <pubDate>Mon, 05 Apr 2021 17:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD日内涨幅扩大至0.5%，现报1.1820。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7282268.d.html</link>
+            <guid>2106142</guid>
+            <pubDate>Mon, 05 Apr 2021 17:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院发言人：美国要求俄罗斯就在俄乌边境问题上的“挑衅行为”作出解释。 面对俄罗斯的威胁，美国支持乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7282180.d.html</link>
+            <guid>2106141</guid>
+            <pubDate>Mon, 05 Apr 2021 17:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【油价下跌，因欧洲的疫情风险令需求前景暗淡】在欧盟各国努力遏制新冠疫情蔓延之际，英国警告在5月17日后可能继续限制国外旅行，油价加速下跌，因夏季旅游恢复繁荣的希望正在消退。WTI原油期货一度下跌6%，低于50日移动均线。与此同时，伊朗、美国和加入2015年伊朗核协议的其他成员国将于周二齐聚维也纳，讨论重启核协议的可能性，为解除伊朗的石油出口制裁提供可能的途径。 Again Capital LLC合伙人John Kilduff表示，这是一段时间以来第一次出现供过于求的情况，市场可能预计伊朗紧张局势的缓解将使该国对市场的供应有所增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7281976.d.html</link>
+            <guid>2106140</guid>
+            <pubDate>Mon, 05 Apr 2021 17:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  浑水创始人CARSON BLOCK加大对特殊目的收购公司（SPAC）的抨击，因这些公司具有“掠夺性”行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7279737.d.html</link>
+            <guid>2106139</guid>
+            <pubDate>Mon, 05 Apr 2021 17:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  4个对手方在美联储的固定利率逆回购操作中接纳35亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7278753.d.html</link>
+            <guid>2106138</guid>
+            <pubDate>Mon, 05 Apr 2021 17:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【常益长铁路联络线、动走线T梁架设完成】 4月5日拍摄的常益长铁路6标动走左线特大桥T梁架设现场显示，当天，由中铁十一局承建的常（德）益（阳）长（沙）铁路6标动走左线特大桥最后一片T梁成功架设。至此，常益长铁路480片T梁架设全部完成，为日后的铺轨施工打下坚实基础。 常益长铁路全长157公里，设计时速350公里，是国家“八纵八横”高速铁路网的重要组成部分。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4419134.d.html</link>
+            <guid>2106137</guid>
+            <pubDate>Mon, 05 Apr 2021 17:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥S&P/BVM IPC股指涨超2%，为2018年10月以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4418928.d.html</link>
+            <guid>2106136</guid>
+            <pubDate>Mon, 05 Apr 2021 17:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构预测3月CPI 同比涨幅回正】 国家统计局将于周五（4月9日）公布3月居民消费价格指数（CPI）。多个机构表示，预计3月CPI同比涨幅重新回正；春季基数效应减退，猪肉鲜菜价格继续回落，或拖累反弹幅度。其中，国泰君安证券研究所全球首席经济学家花长春预计，3月CPI同比涨幅回升至0.2%附近。3月猪价高位下跌，节后猪肉需求走弱带动肉价下跌，全国猪肉平均价格环比下跌9.6%。华创证券首席宏观分析师张瑜预计，3月CPI同比继续上行至0.7%左右，主要得益于翘尾因素的抬升以及原油价格上涨对新涨价的拉动，食品项本月为拖累项。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7273677.d.html</link>
+            <guid>2106135</guid>
+            <pubDate>Mon, 05 Apr 2021 17:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线回升0.5美元，现分别报58.12美元/桶和61.69美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7273543.d.html</link>
+            <guid>2106134</guid>
+            <pubDate>Mon, 05 Apr 2021 17:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参头版头条：重磅“指数”接连出炉，彰显中国经济底气活力】 “挖掘机指数”强势走高，三大PMI指数加快回升，中国国债将被纳入富时世界国债指数……近段时间，多个重磅“指数”接连出炉。业内指出，多种迹象表明，“十四五”开局之年，中国经济暖意愈浓，新活力不断迸发。中国经济的底气和潜力，不仅为中国经济高质量发展注入动能，也成为吸引外资的强劲磁力场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7271791.d.html</link>
+            <guid>2106133</guid>
+            <pubDate>Mon, 05 Apr 2021 17:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告显示达美航空(DAL.N)服务出现问题。]]></title>
+            <guid>2106132</guid>
+            <pubDate>Mon, 05 Apr 2021 17:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)小幅拉升，涨至4.85%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7269819.d.html</link>
+            <guid>2106131</guid>
+            <pubDate>Mon, 05 Apr 2021 17:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通用汽车将在4月6日公布其电动汽车生产计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4412536.d.html</link>
+            <guid>2106130</guid>
+            <pubDate>Mon, 05 Apr 2021 17:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货日内大跌6%，报57.75美元/桶，布伦特原油期货现跌5.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4408095.d.html</link>
+            <guid>2106129</guid>
+            <pubDate>Mon, 05 Apr 2021 16:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛准备让员在工本周返回伦敦办公室。（英国卫报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4407108.d.html</link>
+            <guid>2106128</guid>
+            <pubDate>Mon, 05 Apr 2021 16:56:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登经济助理：工人重返就业市场不会造成通货膨胀风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4406295.d.html</link>
+            <guid>2106127</guid>
+            <pubDate>Mon, 05 Apr 2021 16:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股氢能源板块跌幅居前，普拉格能源(PLUG.O)跌5.64%，燃料电池能源(FCEL.O)跌4.88%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7261340.d.html</link>
+            <guid>2106126</guid>
+            <pubDate>Mon, 05 Apr 2021 16:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【今年北向资金累计净买入近千亿】4月1日至4月6日，因沪深股通暂停交易，上周（3月29日至4月4日）北向资金仅仅前三个交易日进行交易。Wind统计数据显示，3月最后一个交易日（3月31日），北向资金全天净卖出79.03亿元，为今年以来单日净卖出额次高。从整个一季度看，北向资金呈净买入状态，且买入力度远超去年同期。Wind数据显示，3月北向资金合计净买入187.11亿元，今年以来的累计净买入额达998.92亿元，已接近2020年上半年的累计净买入额1181.51亿元。特别是3月9日上证指数跌破半年线后，北向资金曾加大买入力度，连续8个交易日净买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7261128.d.html</link>
+            <guid>2106125</guid>
+            <pubDate>Mon, 05 Apr 2021 16:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【去年盈利2万亿 公募基金持仓路径浮现】截至目前，公募基金年报已悉数披露。Wind数据显示，2020年公募基金盈利2.003万亿元，创历史新高。与此同时，各家公司的资产配置详情也浮出水面。综合年报数据显示，公募基金持仓市值前十的个股包括贵州茅台、五粮液、中国平安、美的集团、宁德时代、中国中免、腾讯控股、立讯精密、隆基股份、泸州老窖。而在众多“隐形重仓股”中，明星基金对于科技、制造、医药等布局也各有千秋。对于2021年的市场，基金经理们普遍相对谨慎，表示在经历了过往几年较强的赚钱效应之后，投资者应适度降低投资回报预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4404335.d.html</link>
+            <guid>2106124</guid>
+            <pubDate>Mon, 05 Apr 2021 16:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【一季度发行数量锐减 房地产信托遭遇“倒春寒”】随着“两压一降”监管威力持续显现，房企通过信托渠道融资遭遇“倒春寒”。用益信托网最新数据显示，截至记者发稿时，我国全行业68家信托公司一季度共发行1326只1763.7亿元的集合房地产信托产品，比去年同期的1801只1775.9亿元，在发行只数上，锐减26.4%。整个融资信托都在滑坡。中国信登最新公布的数据显示，一季度行业新增信托产品单笔规模环比下降35.44%，新增融资类信托产品规模及投向房地产的信托资金规模季度内持续下降，其中，3月份新增融资类信托产品的规模数压降至不足1月份新增数一半的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7260830.d.html</link>
+            <guid>2106123</guid>
+            <pubDate>Mon, 05 Apr 2021 16:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【造车新势力业绩抢眼 汽车产业变革开启下半场】蔚来、小鹏等造车新势力企业日前陆续公布了2021年3月以及一季度新车整体交付数据。从整体来看，已经实现量产的造车新势力企业普遍实现了业绩快速增长。零跑汽车、哪吒汽车等也都实现了同比大幅增长对此，中国汽车工程学会名誉理事长付于武日前表示，如果说之前蔚来、小鹏、理想等新势力进入汽车领域，是汽车产业变革的上半场，那么百度、小米等高科技公司进入汽车领域，将开启产业变革的下半场。汽车产业是高科技的载体，汽车的生态也会不断延伸，这些高科技企业不仅拥有雄厚的资金实力，也具有汽车智能化核心技术，汽车产业真正的革命已经开始，软件定义汽车的时代已经到来。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4404116.d.html</link>
+            <guid>2106122</guid>
+            <pubDate>Mon, 05 Apr 2021 16:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【库克表示他可能不会在苹果再任职10年】蒂姆·库克已经在苹果公司工作了23年，并且担任其首席执行官也有近十年时间。但他在一个新播客节目中暗示未来最终可能会发生某种变化。“我现在感觉很好。这个日期也不是抬眼可见，”他告诉周一发布的“Sway”播客节目称，“但是再做十年是很长的时间，可能不会再做十年。”当被问到马斯克宣称曾经试图就向苹果出售特斯拉的可能性进行谈判时，库克表示他从未与马斯克交谈过，但他对后者所建立的公司有着“很大的钦佩和尊重”。“我认为特斯拉不仅在电动汽车领域确立了领先，而且还保持了如此长时间的领先地位，这是令人难以置信的工作，”但没有透露很多苹果在此领域计划的线索。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4402172.d.html</link>
+            <guid>2106121</guid>
+            <pubDate>Mon, 05 Apr 2021 16:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  委内瑞拉国防部长：8名委内瑞拉士兵在和哥伦比亚边境的冲突中丧生。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4400817.d.html</link>
+            <guid>2106120</guid>
+            <pubDate>Mon, 05 Apr 2021 16:47:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【头部券商去年业绩“秀肌肉”，5家已进入净利百亿元俱乐部】 已披露2020年年报的25家上市券商合计实现净利润1261.22亿元，占行业净利润总额的80.06%，证券行业“马太效应”在2020年进一步加剧。其中，中信证券、国泰君安、海通证券、华泰证券、广发证券这5家券商实现净利润均超100亿元，合计实现净利润577.6亿元，占到行业净利润总额的36.67%。中信证券投资公司2020年实现营业收入28.06亿元，净利润17.59亿元，同比分别增长48.07%、35.1%；该公司员工仅有29人。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4400751.d.html</link>
+            <guid>2106119</guid>
+            <pubDate>Mon, 05 Apr 2021 16:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【两板合并助推资本市场改革迈向纵深】深交所主板与中小板合并，是中国资本市场全面深化改革的一项重要举措，是顺应市场发展规律的自然要求，也是构建简明清晰市场体系的内在要求。两板合并，有利于激发市场活力，发挥深交所市场功能，进一步提升资本市场服务实体经济的效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4400588.d.html</link>
+            <guid>2106118</guid>
+            <pubDate>Mon, 05 Apr 2021 16:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国希思罗机场：英国政府没有提供旅行相关的信息，这令人失望。 在国际旅行上需要更清晰的恢复时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4398453.d.html</link>
+            <guid>2106117</guid>
+            <pubDate>Mon, 05 Apr 2021 16:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度永续债发行数量增规同比下降近千亿元】 2021年前三个月，共有10家银行发行10笔永续债，发行规模仅为442亿元，相比之下，2020年同期虽然只有6家银行发行永续债，但其规模高达1412亿元。其中，地方中小银行占比达九成，每只发债规模偏小，因此尽管一季度银行永续债发行数量较去年同期大幅增长，但合计发行规模却同比下降近千亿元。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4397828.d.html</link>
+            <guid>2106116</guid>
+            <pubDate>Mon, 05 Apr 2021 16:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【葛卫东对集友股份持仓三季度以来已经产生浮亏】 最新披露的年报显示，私募大佬葛卫东对集友股份保持持股不变，但该股去年三季度以来跌势较猛，他的持仓已经产生浮亏；同时他越跌越买新三板公司贝特瑞，当前或也有浮亏。但是葛卫东在用友网络、爱美客、航发控制上的投资，或有不错的盈利。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7251910.d.html</link>
+            <guid>2106115</guid>
+            <pubDate>Mon, 05 Apr 2021 16:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国首相约翰逊：将继续审查所有新冠肺炎防控措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7250584.d.html</link>
+            <guid>2106114</guid>
+            <pubDate>Mon, 05 Apr 2021 16:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Bitcoin.com域名正在出售 最低报价为至少为1亿美元】Bitcoin.com域名正在网络托管公司GoDaddy的网站上出售。最低报价至少为1亿美元。该网站的月访问量约为771万次，其所有者Roger Ver是BCH支持者Roger Ver。（u.today）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7250304.d.html</link>
+            <guid>2106113</guid>
+            <pubDate>Mon, 05 Apr 2021 16:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货日内跌幅扩大至5%，报61.57美元/桶，WTI原油期货现跌5.7%，报57.92美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7249394.d.html</link>
+            <guid>2106112</guid>
+            <pubDate>Mon, 05 Apr 2021 16:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：将尽可能多地通知航空公司何时可以恢复旅行。 飞机复航至关重要。 有信心伦敦会迎来强劲反弹，需要让人们恢复出行。 人们返回伦敦需要一段时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7247440.d.html</link>
+            <guid>2106111</guid>
+            <pubDate>Mon, 05 Apr 2021 16:33:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国新增197例新冠肺炎死亡病例，累计死亡病例70771例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4390661.d.html</link>
+            <guid>2106110</guid>
+            <pubDate>Mon, 05 Apr 2021 16:33:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞波币日内涨幅扩大至28%，报0.81美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7244890.d.html</link>
+            <guid>2106109</guid>
+            <pubDate>Mon, 05 Apr 2021 16:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国伦敦市长将审查大麻合法化的好处。（英国卫报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4388221.d.html</link>
+            <guid>2106108</guid>
+            <pubDate>Mon, 05 Apr 2021 16:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货日内跌幅扩大至5%，报58.37美元/桶，布伦特原油期货现跌4.39%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4384087.d.html</link>
+            <guid>2106107</guid>
+            <pubDate>Mon, 05 Apr 2021 16:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货15分钟内下挫近0.5美元/桶，现分别报58.53美元/桶和62.11美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7240158.d.html</link>
+            <guid>2106106</guid>
+            <pubDate>Mon, 05 Apr 2021 16:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（4月6日）发行的创业板新股达瑞电子，发行价168元/股，刷新深市新股发行价纪录，有望给投资者带来一签10万的高回报。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4383584.d.html</link>
+            <guid>2106105</guid>
+            <pubDate>Mon, 05 Apr 2021 16:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软(MSFT.O)股价刷新历史新高，报249.745美元，现涨2.84%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4382847.d.html</link>
+            <guid>2106104</guid>
+            <pubDate>Mon, 05 Apr 2021 16:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国哥伦比亚广播公司（CBS）：美国民主党参议员曼钦表示，企业税率应该是25%，而不是28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4382743.d.html</link>
+            <guid>2106103</guid>
+            <pubDate>Mon, 05 Apr 2021 16:22:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  英国首相约翰逊：（被问及议会就疫苗护照进行投票）这毫无疑问是需要做的。 政府旅行特别工作组将在本周发表报告。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7238935.d.html</link>
@@ -74,533 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7229340.d.html</link>
             <guid>2106092</guid>
             <pubDate>Mon, 05 Apr 2021 16:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：疫苗护照将方便旅行，将与其他国家相互承认。目前建议人们在情况明朗之前不要计划到国外度假。 现在说哪些国家将被列入（旅行）绿色名单还为时过早。 将在恢复旅行前列出国家类别。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4371609.d.html</link>
-            <guid>2106091</guid>
-            <pubDate>Mon, 05 Apr 2021 16:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国威斯康星州对所有16岁及以上的人开放新冠疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7227733.d.html</link>
-            <guid>2106090</guid>
-            <pubDate>Mon, 05 Apr 2021 16:06:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：户外服务业将于4月12日重新开放。 数据“充分证明”封锁措施的改变是合理的。当病例增加时，我们仍然不知道疫苗的防护能力有多强。将在5月17日确定国际旅行是恢复或者继续延迟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7225046.d.html</link>
-            <guid>2106089</guid>
-            <pubDate>Mon, 05 Apr 2021 16:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  土耳其卫生部：过去24小时内新增42551例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmyaawa7224912.d.html</link>
-            <guid>2106088</guid>
-            <pubDate>Mon, 05 Apr 2021 16:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国首相约翰逊：英国非必需品商店将于4月12日重新开始运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4368370.d.html</link>
-            <guid>2106087</guid>
-            <pubDate>Mon, 05 Apr 2021 16:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[逸仙电商(YSG.N)盘中跌超10%，报11.43美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4367049.d.html</link>
-            <guid>2106086</guid>
-            <pubDate>Mon, 05 Apr 2021 16:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股MICROSTRATEGY(MSTR.O)涨3.7%，此前该公司增持比特币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-06/detail-ikmxzfmk4366438.d.html</link>
-            <guid>2106085</guid>
-            <pubDate>Mon, 05 Apr 2021 16:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利新增40680例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7220556.d.html</link>
-            <guid>2106084</guid>
-            <pubDate>Mon, 05 Apr 2021 15:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股MICROSTRATEGY涨3.7%，此前该公司增持比特币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4364357.d.html</link>
-            <guid>2106083</guid>
-            <pubDate>Mon, 05 Apr 2021 15:57:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据中国地震台网正式测定：04月05日23时20分在不丹(北纬27.15度，东经88.85度)发生4.8级地震，震源深度28千米。]]></title>
-            <guid>2106082</guid>
-            <pubDate>Mon, 05 Apr 2021 15:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利新增296例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4362781.d.html</link>
-            <guid>2106081</guid>
-            <pubDate>Mon, 05 Apr 2021 15:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【耶伦再次呼吁全球最低税率主张】据报道，美国财长耶伦周一在芝加哥全球事务委员会发表演讲时再次呼吁全球最低税率的主张，开启了拜登政府为帮助美国增加收入、防止企业将利润转移到海外以逃避税收的努力。耶伦称，全球最低税率可能有助于防止一直在进行的“逐底竞争”，即一些国家试图通过降低税率来吸引业务，从而超越彼此。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4362675.d.html</link>
-            <guid>2106080</guid>
-            <pubDate>Mon, 05 Apr 2021 15:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：完全不担心增税会损害经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4358524.d.html</link>
-            <guid>2106079</guid>
-            <pubDate>Mon, 05 Apr 2021 15:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率下跌约1.5个基点，重返1.71下方，逼近亚太盘初录得的日低1.6948%；五年期美债收益率刷新日低至0.9350%下方，日内当前跌幅超过4个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4358445.d.html</link>
-            <guid>2106078</guid>
-            <pubDate>Mon, 05 Apr 2021 15:49:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：现在的风险是“不对称”的，担忧经济刺激力度不够。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4357847.d.html</link>
-            <guid>2106077</guid>
-            <pubDate>Mon, 05 Apr 2021 15:48:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fuboTV(FUBO.N)异动走低，现跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7213626.d.html</link>
-            <guid>2106076</guid>
-            <pubDate>Mon, 05 Apr 2021 15:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货跌幅扩大至4%，现报58.99美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4357392.d.html</link>
-            <guid>2106075</guid>
-            <pubDate>Mon, 05 Apr 2021 15:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新能源汽车板块盘中下挫，蔚来汽车(NIO.N)转跌0.5%，理想汽车(LI.O)跌1.2%，小鹏汽车(XPEV.N)跌3%，Nikola(NKLA.O)跌6.2%。]]></title>
-            <guid>2106074</guid>
-            <pubDate>Mon, 05 Apr 2021 15:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：对美国总统拜登的基础设施计划将导致通胀压力表示怀疑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4356231.d.html</link>
-            <guid>2106073</guid>
-            <pubDate>Mon, 05 Apr 2021 15:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指涨超400点，PMI等经济数据推高投资者风险偏好情绪】道指涨超400点，成分股WBA涨3.5%领跑，沃尔玛也涨超3.0%，波音、微软、思科、英特尔、苹果均涨超2%，高盛则跌0.5%。目前，标普500指数和纳指均涨超1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4353414.d.html</link>
-            <guid>2106072</guid>
-            <pubDate>Mon, 05 Apr 2021 15:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：就业市场在未来几个月将变得更加强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7206891.d.html</link>
-            <guid>2106071</guid>
-            <pubDate>Mon, 05 Apr 2021 15:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[游戏驿站(GME.N)短线拉升，现转涨0.88%，报192.73美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4350093.d.html</link>
-            <guid>2106070</guid>
-            <pubDate>Mon, 05 Apr 2021 15:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率0.020%（前次为0.020%），投标倍数3.00（前次为2.68）。拍卖六个月期国债，得标利率0.035%（前次为0.040%），投标倍数3.38（前次为2.93）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7204508.d.html</link>
-            <guid>2106069</guid>
-            <pubDate>Mon, 05 Apr 2021 15:34:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疫情应对小组高级顾问Slavitt：这一决定不应该影响疫苗的生产水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7202483.d.html</link>
-            <guid>2106067</guid>
-            <pubDate>Mon, 05 Apr 2021 15:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疫情应对小组高级顾问Slavitt：这一决定并不意味着对阿斯利康疫苗有任何担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4346247.d.html</link>
-            <guid>2106066</guid>
-            <pubDate>Mon, 05 Apr 2021 15:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疫情应对小组高级顾问Slavitt：没有美国食品药品监督管理局（FDA）批准的强生疫苗产自巴尔的摩的工厂。]]></title>
-            <guid>2106065</guid>
-            <pubDate>Mon, 05 Apr 2021 15:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线上扬逾0.2美元，现报24.97美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7200208.d.html</link>
-            <guid>2106064</guid>
-            <pubDate>Mon, 05 Apr 2021 15:28:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国家过敏症和传染病研究所所长福奇：仍然觉得辉瑞和Moderna疫苗最好接种两剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4343357.d.html</link>
-            <guid>2106063</guid>
-            <pubDate>Mon, 05 Apr 2021 15:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大主要投资公司CI全球资产管理宣布推出CI比特币基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4342362.d.html</link>
-            <guid>2106062</guid>
-            <pubDate>Mon, 05 Apr 2021 15:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据监测网络状况的网站DownDetector：用户报告Uber出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4340939.d.html</link>
-            <guid>2106061</guid>
-            <pubDate>Mon, 05 Apr 2021 15:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心主管Walensky：美国18-24岁年龄组的新冠肺炎病例数量达到高峰。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4340856.d.html</link>
-            <guid>2106060</guid>
-            <pubDate>Mon, 05 Apr 2021 15:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[格鲁吉亚卫生部长季卡拉泽5日在首都第比利斯举行的新闻发布会上表示，中国国药集团新冠疫苗安全可靠，将在格鲁吉亚抗击疫情工作中发挥重要作用。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4340183.d.html</link>
-            <guid>2106059</guid>
-            <pubDate>Mon, 05 Apr 2021 15:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[嘉楠科技(CAN.O)逆势跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4337301.d.html</link>
-            <guid>2106058</guid>
-            <pubDate>Mon, 05 Apr 2021 15:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货黄金上破1730美元/盎司，跌幅收窄至0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7193413.d.html</link>
-            <guid>2106057</guid>
-            <pubDate>Mon, 05 Apr 2021 15:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  卡塔尔新增910例新冠肺炎确诊病例，新增3例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7192699.d.html</link>
-            <guid>2106056</guid>
-            <pubDate>Mon, 05 Apr 2021 15:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业委员会：智利国家铜业公司Codelco2月铜产量同比增加2.1%至122800吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7190758.d.html</link>
-            <guid>2106055</guid>
-            <pubDate>Mon, 05 Apr 2021 15:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业委员会：ESCONDIDA矿山铜产量2月同比下降13.7%至81600吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4334010.d.html</link>
-            <guid>2106054</guid>
-            <pubDate>Mon, 05 Apr 2021 15:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业委员会：COLLAHUASI矿山铜产量2月同比增长12%至52800吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4333613.d.html</link>
-            <guid>2106053</guid>
-            <pubDate>Mon, 05 Apr 2021 15:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部官员：在国际货币基金组织和世界银行的春季会议上，可能会有一些关于汇率问题的讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4332139.d.html</link>
-            <guid>2106052</guid>
-            <pubDate>Mon, 05 Apr 2021 15:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部官员：美国将利用法律防止公司将利润转移到避税天堂国家，并鼓励主要经济体也这样做。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4331587.d.html</link>
-            <guid>2106051</guid>
-            <pubDate>Mon, 05 Apr 2021 15:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  甲骨文(ORCL.N)法务主管Dorian Daley：谷歌(GOOG.O,GOOGL.O)的平台越来越大，市场竞争力越来越强；进入其市场则越来越困难，与其竞争的能力也越来越弱。他们从我们的手上偷走了Java，并花了十多年时间来打官司，这只有垄断者才能做到。这就是为什么美国和全世界的监管部门都在审查谷歌的商业行为。]]></title>
-            <guid>2106050</guid>
-            <pubDate>Mon, 05 Apr 2021 15:10:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部官员：美国正努力在7月之前在20国集团峰会上达成“尽可能全面的企业税收协议”。]]></title>
-            <guid>2106049</guid>
-            <pubDate>Mon, 05 Apr 2021 15:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部官员：让最大的经济体加入经合组织就企业最低税率达成共识，将使其更有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4331211.d.html</link>
-            <guid>2106048</guid>
-            <pubDate>Mon, 05 Apr 2021 15:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心主管Walensky：全国范围内新冠病毒感染病例正在增加，主要是在年轻人中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4330690.d.html</link>
-            <guid>2106047</guid>
-            <pubDate>Mon, 05 Apr 2021 15:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国疾控中心主管Walensky：大多数新增新冠病毒感染病例都与青少年体育、课外活动有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4330415.d.html</link>
-            <guid>2106046</guid>
-            <pubDate>Mon, 05 Apr 2021 15:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：国际货币基金组织的6500亿美元特别提款权分配将使低收入国家增加在疫苗和医疗保健方面的支出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7186549.d.html</link>
-            <guid>2106045</guid>
-            <pubDate>Mon, 05 Apr 2021 15:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：将寻求加强疫苗供应，为世界上最贫穷的国家提供资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7186017.d.html</link>
-            <guid>2106044</guid>
-            <pubDate>Mon, 05 Apr 2021 15:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：将与20国集团就全球最低企业税率达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4329501.d.html</link>
-            <guid>2106043</guid>
-            <pubDate>Mon, 05 Apr 2021 15:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：美国平均每日新增6.4万例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7185582.d.html</link>
-            <guid>2106042</guid>
-            <pubDate>Mon, 05 Apr 2021 15:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：将利用国际货币基金组织和世界银行的春季会议推进气候变化的讨论，敦促各国支持强劲的经济复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4329269.d.html</link>
-            <guid>2106041</guid>
-            <pubDate>Mon, 05 Apr 2021 15:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：55%的老年人已经完成了多剂疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4328958.d.html</link>
-            <guid>2106040</guid>
-            <pubDate>Mon, 05 Apr 2021 15:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：全球最低税率可以确保更公平的竞争环境，有助于刺激创新、增长和繁荣。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4328883.d.html</link>
-            <guid>2106039</guid>
-            <pubDate>Mon, 05 Apr 2021 15:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：近三分之一的美国人接种了至少一剂疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4328631.d.html</link>
-            <guid>2106038</guid>
-            <pubDate>Mon, 05 Apr 2021 15:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦呼吁其他国家避免过早实施财政紧缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4328570.d.html</link>
-            <guid>2106037</guid>
-            <pubDate>Mon, 05 Apr 2021 15:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：美国的平均新冠疫苗接种数量为每天310万剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7184566.d.html</link>
-            <guid>2106036</guid>
-            <pubDate>Mon, 05 Apr 2021 15:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦：向家庭和个人发放了1.3亿美元的救济金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7184509.d.html</link>
-            <guid>2106035</guid>
-            <pubDate>Mon, 05 Apr 2021 15:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为64，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7184289.d.html</link>
-            <guid>2106034</guid>
-            <pubDate>Mon, 05 Apr 2021 15:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财长耶伦再次呼吁全球最低税率，结束“逐底竞争”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4327960.d.html</link>
-            <guid>2106033</guid>
-            <pubDate>Mon, 05 Apr 2021 15:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股在线教育板块跌幅扩大，跟谁学(GSX.N)跌超10%，网易有道(DAO.N)跌7%，四季教育(FEDU.N)跌6.1%，好未来(TAL.N)、新东方(EDU.N)均跌超3%。]]></title>
-            <guid>2106032</guid>
-            <pubDate>Mon, 05 Apr 2021 15:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽约联储调查显示，美国房东和租客预计房价增速将加快。调查还显示，与股票相比，住房仍是首选投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7183518.d.html</link>
-            <guid>2106031</guid>
-            <pubDate>Mon, 05 Apr 2021 15:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国政府科学顾问：在大多数模拟情景中，任何峰值都比2021年1月的那波疫情要小。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7183135.d.html</link>
-            <guid>2106030</guid>
-            <pubDate>Mon, 05 Apr 2021 15:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国政府科学顾问：新的疫情高峰可能出现在夏季、夏末或者秋季。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7182777.d.html</link>
-            <guid>2106029</guid>
-            <pubDate>Mon, 05 Apr 2021 15:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国新增2762例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7181000.d.html</link>
-            <guid>2106028</guid>
-            <pubDate>Mon, 05 Apr 2021 15:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货跌幅扩大至3%，现报62.79美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4323760.d.html</link>
-            <guid>2106027</guid>
-            <pubDate>Mon, 05 Apr 2021 14:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期铜日内涨超4%，现报4.1640美元/磅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4323240.d.html</link>
-            <guid>2106026</guid>
-            <pubDate>Mon, 05 Apr 2021 14:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500能源指数下跌1.72%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7177265.d.html</link>
-            <guid>2106025</guid>
-            <pubDate>Mon, 05 Apr 2021 14:55:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国天然气期货主力合约跌幅扩大至5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7175312.d.html</link>
-            <guid>2106024</guid>
-            <pubDate>Mon, 05 Apr 2021 14:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利成立电影分级委员会取代审查制度】根据意大利文化部4月5日发布的通告，部长弗朗切斯基尼日前签署一项法令，在文化部电影司下设电影作品分级委员会，负责对影片制作发行方所做的分级进行审核，以取代原先的电影审查制度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4318546.d.html</link>
-            <guid>2106023</guid>
-            <pubDate>Mon, 05 Apr 2021 14:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞凌股份：2020年度净利降41.23%至6687.88万元 拟10派1.5元】瑞凌股份公布2020年年度报告，实现营业收入5.56亿元，同比增长0.15%；归属于上市公司股东的净利润6687.88万元，同比减少41.23%；归属于上市公司股东的扣除非经常性损益的净利润5282.41万元，同比减少44.65%；基本每股收益0.15元；拟每10股派发现金红利1.5元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7173973.d.html</link>
-            <guid>2106022</guid>
-            <pubDate>Mon, 05 Apr 2021 14:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通信用卡消费数据及经济重开活动（外出就餐）数据显示，美国预计将在4、5月份经历一次前所未有的消费狂潮，财政刺激措施将使美国经济过热达到前所未有的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4317820.d.html</link>
-            <guid>2106021</guid>
-            <pubDate>Mon, 05 Apr 2021 14:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红墙股份：2020年度净利升10.59%至1.42亿元】红墙股份公布2020年年度报告，实现营业收入13.37亿元，同比增长15.45%；归属于上市公司股东的净利润1.42亿元，同比增长10.59%；归属于上市公司股东的扣除非经常性损益的净利润1.12亿元，同比增长1.22%；基本每股收益0.70元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7172598.d.html</link>
-            <guid>2106020</guid>
-            <pubDate>Mon, 05 Apr 2021 14:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据约旦卫生部统计：该国新增新冠肺炎确诊病例6537例，累计确诊639444例；新增死亡病例82例，累计死亡病例7283例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4315882.d.html</link>
-            <guid>2106019</guid>
-            <pubDate>Mon, 05 Apr 2021 14:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美债收益率上升和美元强韧使花旗和摩根士丹利对新兴市场保持警惕】① 进入四月份第一个完整的交易周，上个月遭受了损失的新兴市场投资者将继续承受美国国债收益率上升和美元走强带来的痛苦；上周五公布的美国就业数据超出预期，促使交易员预计美联储将更早开始加息，这使人担心美国无风险投资产品的更高回报可能会驱使更多资金流出新兴市场。根据EPFR Global的数据，3月份新兴市场资产的需求下降，流入新兴市场股票基金的资金规模不到2月份的三分之一，而新兴市场债券基金则出现资金外流；② 摩根士丹利对新兴市场货币保持看跌，称许多发展中经济体缓慢的疫苗接种步伐使得它们的经济增长步伐几乎肯定会落后于美国。与此同时，花旗集团预计，美国收益率上升以及美元保持韧性将在未来几个月对新兴市场资产构成进一步的压力；③ 花旗集团驻伦敦的CEEMEA策略负责人Luis Costa表示，本季度对美元而言可能是有重大进展的一个季度，而对新兴市场而言却不一定很好，我们认为美国的收益率曲线调整并没有完成。从现在到6、7月份 ，我们可能会看到收益率进一步走高；④ 在今年第一季度，新兴市场货币和债券出现一年来首次季度下跌，新兴市场股票也出现9月份以来首次单月下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4315272.d.html</link>
-            <guid>2106018</guid>
-            <pubDate>Mon, 05 Apr 2021 14:47:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币站上59000美元/枚，较日低反弹2200美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4314629.d.html</link>
-            <guid>2106017</guid>
-            <pubDate>Mon, 05 Apr 2021 14:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股普跌，跟谁学跌7%，趣头条跌超5%，富途控股跌近5%，贝壳、腾讯音乐跌近4%，京东、拼多多、斗鱼跌2%，哔哩哔哩跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4311989.d.html</link>
-            <guid>2106016</guid>
-            <pubDate>Mon, 05 Apr 2021 14:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世行行长马尔帕斯：2021年更大的议题是就国际开发协会的补充问题达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7166955.d.html</link>
-            <guid>2106015</guid>
-            <pubDate>Mon, 05 Apr 2021 14:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  辉瑞公司：目前正在与以色列政府合作，更新向以色列提供更多疫苗的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4310608.d.html</link>
-            <guid>2106014</guid>
-            <pubDate>Mon, 05 Apr 2021 14:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  辉瑞公司：根据2020年11月的协议，已经完成了所有向以色列的新冠疫苗交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7166108.d.html</link>
-            <guid>2106013</guid>
-            <pubDate>Mon, 05 Apr 2021 14:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  世行行长马尔帕斯：最贫穷国家需要“实际的债务减免”，而不仅仅是延期付款，以使债务达到适度水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4307905.d.html</link>
-            <guid>2106012</guid>
-            <pubDate>Mon, 05 Apr 2021 14:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股汽车板块盘中走高，特斯拉涨5.8%，通用汽车涨4.1%，福特汽车涨3.1%，Stellantis涨2.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7164066.d.html</link>
-            <guid>2106011</guid>
-            <pubDate>Mon, 05 Apr 2021 14:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5年期美债收益率日内下跌3个基点，刷新日低至0.947%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4307309.d.html</link>
-            <guid>2106010</guid>
-            <pubDate>Mon, 05 Apr 2021 14:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5年期国债收益率跌至日内低点0.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7161912.d.html</link>
-            <guid>2106009</guid>
-            <pubDate>Mon, 05 Apr 2021 14:33:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元跌破110.00关口，最新报109.99，日跌0.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa7160808.d.html</link>
-            <guid>2106008</guid>
-            <pubDate>Mon, 05 Apr 2021 14:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货涨破17700.00关口，最新报17701.00，日涨0.28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4303819.d.html</link>
-            <guid>2106007</guid>
-            <pubDate>Mon, 05 Apr 2021 14:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世行行长马尔帕斯：预计20国集团成员国将最贫穷国家的偿债倡议（DSSI）延长至2021年底，但预计这将是最后一次延期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4303548.d.html</link>
-            <guid>2106006</guid>
-            <pubDate>Mon, 05 Apr 2021 14:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2020年中国城镇宠物消费市场规模达2065亿元 宠物“身后事”成中国城市管理新“盲点”】据《2020年中国宠物行业白皮书》（消费报告）数据显示，2020年中国城镇宠物犬猫数量突破1亿只大关，消费市场规模也达到2065亿元。如何处置宠物“身后事”成为社会关注焦点。目前，对于中国大多数城市来说，宠物殡葬仍属灰色地带，在行业管理、市场运作等方面存在诸多问题。同时，也没有针对动物殡葬的相关法律法规。宠物殡葬，成为了当前中国城市管理的一个新“盲点”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4303274.d.html</link>
-            <guid>2106005</guid>
-            <pubDate>Mon, 05 Apr 2021 14:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世行行长马尔帕斯：尽早向发展中国家提供新冠疫苗是“全世界的最高优先事项之一”。]]></title>
-            <guid>2106004</guid>
-            <pubDate>Mon, 05 Apr 2021 14:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD短线走低约10点，日内跌0.5%，现报1.2513。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4301700.d.html</link>
-            <guid>2106003</guid>
-            <pubDate>Mon, 05 Apr 2021 14:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线短线拉升，涨幅扩大至11%，报10.4美元。此前投行B.Riley将该股评级上调至买入，目标价上调至13美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk4301445.d.html</link>
-            <guid>2106002</guid>
-            <pubDate>Mon, 05 Apr 2021 14:27:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
