@@ -4,11 +4,186 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Apr 2021 13:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 16:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【天风证券宋雪涛：人民币还有一定升值空间】天风证券首席宏观分析师宋雪涛4月10日在2021清华五道口首席经济学家论坛上表示，长期看中美利差或者贵金属隐含的人民币汇率和实际汇率差异，人民币还有一定升值空间。随着非美经济体经济的修复，美元指数大概率还会再走贬，人民币对一揽子货币比较稳定。 （中证报）]]></title>
+            <guid>2113984</guid>
+            <pubDate>Sat, 10 Apr 2021 16:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国天空新闻：英国白金汉宫宣布，菲利普亲王的葬礼将于当地时间4月17日举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa8955164.d.html</link>
+            <guid>2113983</guid>
+            <pubDate>Sat, 10 Apr 2021 16:05:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷经济部长古斯曼前往欧洲寻求债务问题支援】据阿根廷《民族报》，阿根廷经济部长古斯曼本周末将前往欧洲，游说其他国家支持阿根廷与国际货币基金组织的债务谈判。官方消息人士称，古斯曼还将努力延迟阿根廷向巴黎俱乐部偿还24亿美元的款项，这笔款项将于5月31日到期。古斯曼为期五天的欧洲之行将访问德国、意大利、西班牙和法国，他将会见法国财长勒梅尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6095659.d.html</link>
+            <guid>2113982</guid>
+            <pubDate>Sat, 10 Apr 2021 15:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西部战区新闻发言人就中印第十一轮军长级会谈发表谈话】4月10日，中国人民解放军西部战区新闻发言人龙绍华大校就中印第十一轮军长级会谈发表谈话指出，4月9日，中印两军在莫尔多/楚舒勒会晤点印方一侧举行第十一轮军长级会谈，双方就相互关心的问题交换了意见，并将继续通过军事外交渠道保持沟通。希望印方珍惜当前中印边境地区出现的缓和降温积极态势，恪守两国两军有关协定协议和前期会谈共识，与中方相向而行，共同维护边境地区和平安宁。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6095296.d.html</link>
+            <guid>2113981</guid>
+            <pubDate>Sat, 10 Apr 2021 15:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财经网站Fxstreet分析师Sheldon：瑞波币在1美元附近波动】本周，瑞波币大幅上涨，冲破了0.6美元和0.8美元的关键阻力点，以及1美元的心理关口。目前，瑞波币在周三周四的行情之后可能会形成三角旗形的整理走势，理想的情况下，这一走势可能会持续几天。美国证交会和Ripple公司诉讼案方面的突破，以及美国外的国际市场的稳步增长，足以令瑞波币重启反弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6095134.d.html</link>
+            <guid>2113980</guid>
+            <pubDate>Sat, 10 Apr 2021 15:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增344例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8953771.d.html</link>
+            <guid>2113979</guid>
+            <pubDate>Sat, 10 Apr 2021 15:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利新增17567例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8953557.d.html</link>
+            <guid>2113978</guid>
+            <pubDate>Sat, 10 Apr 2021 15:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【捷克新增新冠肺炎确诊病例4791例 累计确诊1577972例】当地时间4月10日，据捷克卫生部公布的数据，4月9日捷克新增新冠肺炎确诊病例4791例，累计确诊1577972例；新增死亡病例52例，累计死亡27734例；现有确诊病例249180例；康复1448843例。目前捷克仍有5861人住院治疗，其中重症患者1287人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6094296.d.html</link>
+            <guid>2113977</guid>
+            <pubDate>Sat, 10 Apr 2021 15:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门政府军和胡塞武装交火致58人死亡】也门联合政府一名官员10日说，过去24小时，政府军与胡塞武装在也门中部马里卜省发生激烈交火，至少25名政府军士兵和33名胡塞武装成员死亡。这名不愿透露姓名的官员还说，在沙特阿拉伯主导的多国联军空中火力支援下，政府军“成功击退了胡塞武装”。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6093896.d.html</link>
+            <guid>2113976</guid>
+            <pubDate>Sat, 10 Apr 2021 15:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞波币站上1.3美元，日内涨超27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6093560.d.html</link>
+            <guid>2113975</guid>
+            <pubDate>Sat, 10 Apr 2021 15:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增40例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8952365.d.html</link>
+            <guid>2113974</guid>
+            <pubDate>Sat, 10 Apr 2021 15:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国共有32010244人接种了第一剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6093329.d.html</link>
+            <guid>2113973</guid>
+            <pubDate>Sat, 10 Apr 2021 15:12:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国共有6991310人接种了第二剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6092836.d.html</link>
+            <guid>2113972</guid>
+            <pubDate>Sat, 10 Apr 2021 15:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟提议美欧互免部分关税，为期6个月】据德国《明镜》杂志当地时间4月9日报道，负责欧盟贸易事务的专员瓦尔迪斯·东布罗夫斯基斯表示，欧盟已经向美国提议互免6个月的部分商品关税。（央视新闻客户端）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8951605.d.html</link>
+            <guid>2113971</guid>
+            <pubDate>Sat, 10 Apr 2021 15:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙江专题研究进一步加强平台经济监管】 4月10日上午，浙江省网络市场监管联席会议召开扩大会议，研究进一步加强平台经济监管工作。会议指出，对照市场监管总局相关行政处罚决定，督促指导阿里巴巴集团等平台企业切实抓好整改，并在企业内部举一反三，进一步自查自纠，全面规范自身竞争行为，完善内部合规控制制度，确保问题彻底整改到位、企业平稳健康发展。（浙江新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8951399.d.html</link>
+            <guid>2113970</guid>
+            <pubDate>Sat, 10 Apr 2021 15:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海马汽车与航天科技集团签署氢能战略合作协议】海马汽车与中国航天科技集团有限公司101研究所在海口签署战略合作协议，将共建海南首座水制氢及高压加氢一体化站，并计划于今年10月前建成投放运营。此外，双方还将在制氢设施和加氢站建设、液氢制备与储运技术应用、氢能汽车开发和示范推广以及海南自贸港氢能产业建设发展等方面开展合作。]]></title>
+            <guid>2113969</guid>
+            <pubDate>Sat, 10 Apr 2021 14:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云南瑞丽市4月11日起开展第三轮全员核酸检测，此次核酸检测的对象为瑞丽市全体居民。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8949736.d.html</link>
+            <guid>2113968</guid>
+            <pubDate>Sat, 10 Apr 2021 14:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【IDC：2021年第一季度全球传统PC出货量同比增长55.2%】IDC全球季度个人计算设备跟踪报告的初步结果显示，2021年第一季度全球传统PC出货量同比增长55.2%，其中包括台式机、笔记本和工作站。2021年第一季度，全球PC出货量达到8400万台，较2020年第四季度小幅下降8%。虽然环比下跌是第一季度的典型表现，但自2012年第一季度PC市场环比下跌7.5%以来，还未出现过如此小的跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6090584.d.html</link>
+            <guid>2113967</guid>
+            <pubDate>Sat, 10 Apr 2021 14:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风证券宋雪涛：大宗商品超级周期应该是不存在的】天风证券首席宏观分析师宋雪涛在清华五道口首席经济学家论坛上表示，下半年供求错配会有所缓和，具体品种上情况会不太一样，有色可能受供给的不足影响更大，黑色特别是国内定价部分有一些碳中和因素，原油还是需求不足，因为供给端有垄断定价组织，对页岩油生产弹性非常敏感，农产品更多来自天气包括疫情对生产、收割、运输的影响，逻辑相对独立。看具体的商品品种，大宗商品超级周期应该是不存在的。]]></title>
+            <guid>2113966</guid>
+            <pubDate>Sat, 10 Apr 2021 14:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【熙菱信息：2021年第一季度预盈1900万元-2050万元 同比扭亏】①熙菱信息(300588)4月10日发布业绩预告，公司2021年第一季度归属上市公司股东的净利润为1900万元-2050万元，同比扭亏；②主要因第一季度客户回款理想，及公司转让杭州熙菱信息部分股权产生的投资收益。]]></title>
+            <guid>2113965</guid>
+            <pubDate>Sat, 10 Apr 2021 14:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马来西亚希望对阿富汗棕榈油出口增长一倍】①据外媒报道，马来西亚种植园工业和商品部称，马来西亚正在就促进向阿富汗出口棕榈油进行谈判。两国已同意探讨将马来西亚棕榈油出口量从目前的7.5万吨增加到每年15万吨的方案；②这将为马来西亚扩大其在中东地区的棕榈油市场份额打开一条“黄金通道”，并加快对土库曼斯坦、乌兹别克斯坦、吉尔吉斯斯坦、塔吉克斯坦和哈萨克斯坦等国的出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6089064.d.html</link>
+            <guid>2113964</guid>
+            <pubDate>Sat, 10 Apr 2021 14:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年全国外贸工作会议在湖北召开】①4月9-10日上午，全国外贸工作会议在湖北省武汉市召开。商务部部长王文涛要求，各地要认真谋划和推进外贸工作，一是服务国家发展大局，服务“一带一路”等重大战略，持续深化国际经贸合作；②二是以科技创新挖掘潜力，以制度创新激发活力，以模式和业态创新增添动力，扎实推进贸易创新发展；③三是用好已出台的政策，密切关注外贸形势变化和企业遇到的困难，积极研究储备政策，全力稳住外贸外资基本盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8947626.d.html</link>
+            <guid>2113963</guid>
+            <pubDate>Sat, 10 Apr 2021 14:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数字货币普遍走高，瑞波币大涨创新高】数据显示，比特币上涨3.7%至60463美元；以太坊涨4.2%至2157美元，盘中触及2196美元的历史新高；瑞波币大涨17%至1.25美元，盘中最高至1.26美元上方，也创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8947535.d.html</link>
+            <guid>2113962</guid>
+            <pubDate>Sat, 10 Apr 2021 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【混沌天成研究：橡胶短期供需双弱，沪胶上行驱动不强；】① 目前国内云南产区的开割情况不及预期，供应真正放量还需等待，另外泰国气象局预报5月份降水偏多，这可能会对开割初期的泰国供应产生一定的影响；② 二季度全球供应可能存在变量；需求端仍旧是受全球疫情反弹影响，但近期从疫苗接种数据看，疫苗接种有加快迹象，预计疫情持续反弹的可持续性较差；③ 另外泰国抛储10万吨老烟片对市场实际影响有限，整体来看，短期基本面呈现供需双弱的情况，向上驱动不强，震荡为主。]]></title>
+            <guid>2113961</guid>
+            <pubDate>Sat, 10 Apr 2021 13:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德法乌三国联络小组乌克兰方顾问表示，三国领导人本周内可能就乌克兰东南部顿巴斯局势举行会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6087080.d.html</link>
+            <guid>2113960</guid>
+            <pubDate>Sat, 10 Apr 2021 13:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奥地利总统库尔茨：奥地利可能采购俄卫星-V新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6086263.d.html</link>
+            <guid>2113958</guid>
+            <pubDate>Sat, 10 Apr 2021 13:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海马汽车与航天科技集团签署氢能战略合作协议】4月10日，海马汽车与中国航天科技集团有限公司101研究所在海口签署战略合作协议，将共建海南首座水制氢及高压加氢一体化站，并计划于今年10月前建成投放运营。此外，双方还将在制氢设施和加氢站建设、液氢制备与储运技术应用、氢能汽车开发和示范推广以及海南自贸港氢能产业建设发展等方面开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6086204.d.html</link>
+            <guid>2113957</guid>
+            <pubDate>Sat, 10 Apr 2021 13:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国地学研究中心GFZ：巴布亚新几内亚北部海岸附近发生6.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6085518.d.html</link>
+            <guid>2113956</guid>
+            <pubDate>Sat, 10 Apr 2021 13:31:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币瑞波币持续拉升，现涨超25%，暂报1.27美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8944493.d.html</link>
+            <guid>2113955</guid>
+            <pubDate>Sat, 10 Apr 2021 13:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北京延庆氢能产业园二期项目开工将为冬奥会150辆氢燃料车提供气源】在北京冬奥会赛区延庆，延庆氢能产业园二期（冬奥会配套制、加氢）项目正式开工。据悉，此项目将成为延庆区氢能交通基础设施之一，北京冬奥会期间将参与构建赛区制、储、输、加氢的集成平台，通过智慧化调度实现对氢能的集中控制，服务于北京“绿色冬奥”“科技冬奥”。此次开工建设的二期项目工程，规划建设氢气检测实验室和绿电电解水制氢装置研发平台，最大日制氢能力为2800公斤，可为冬奥会150辆氢燃料车的示范运营提供气源。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6084947.d.html</link>
+            <guid>2113954</guid>
+            <pubDate>Sat, 10 Apr 2021 13:24:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【有色金属涨价扮靓企业业绩】① 2020年年报和2021年一季度业绩预告正在紧锣密鼓披露。受益需求增加和金属产品涨价，有色金属行业业绩整体亮眼；② Wind数据显示，截至4月9日收盘，A股有色金属行业已有38家上市公司公布了去年年报，近7成去年净利润同比增长；③ 目前，已公布一季度业绩预告公司中，净利同比增幅明显。机构认为，铜铝高景气度有望继续，稀土长牛有望持续。（中证报）]]></title>
             <guid>2113953</guid>
@@ -425,183 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8907530.d.html</link>
             <guid>2113865</guid>
             <pubDate>Sat, 10 Apr 2021 07:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币瑞波币行情拉升，日涨幅一度超15%，现小幅收窄涨幅；其他加密货币多数持稳，波动不大。]]></title>
-            <guid>2113864</guid>
-            <pubDate>Sat, 10 Apr 2021 07:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：南设得兰群岛发生5.5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6048478.d.html</link>
-            <guid>2113863</guid>
-            <pubDate>Sat, 10 Apr 2021 07:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上汽通用五菱3月销量破18万，同比增长44.1%】 上汽通用五菱发布3月销量快报，整体实销达183,023辆，同比增长44.1%，连续12个月实现同比正增长。其中，五菱品牌实销达150,657辆，宝骏品牌实销达24,380辆，出口汽车11,094台/套。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8905527.d.html</link>
-            <guid>2113862</guid>
-            <pubDate>Sat, 10 Apr 2021 07:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币瑞波币短线大幅拉升，日涨幅超13%，暂报1.15美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6046860.d.html</link>
-            <guid>2113861</guid>
-            <pubDate>Sat, 10 Apr 2021 07:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：04月10日15时00分在印尼爪哇岛以南海域发生6.0级地震，震源深度70千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6046480.d.html</link>
-            <guid>2113860</guid>
-            <pubDate>Sat, 10 Apr 2021 07:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大汽车确定参加上海车展 恒驰9款车将集中亮相】今年的上海国际车展将在4月19日至28日开展，恒大汽车已经确定参展，将集中展示恒驰9款车。据介绍，恒大已完成从整车研发、生产制造、智能网联到销售体系的完整闭环，矢志凭借科技与大数据优势，把恒驰打造为“车家合一”的数字空间。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8904463.d.html</link>
-            <guid>2113859</guid>
-            <pubDate>Sat, 10 Apr 2021 07:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联想集团董事长兼CEO杨元庆向上海交大捐建全国高校一流绿色水冷高性能计算中心】 上海交通大学125周年校庆之际，联想集团董事长兼CEO、交大86届计算机系校友杨元庆宣布个人出资1亿元人民币，为母校捐建一座全国高校一流的绿色水冷高性能计算中心，推动算力在高校的普及，赋能基础科研创新与人才培养，助力攻克更多全人类面临的共同挑战。（全天候科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8904272.d.html</link>
-            <guid>2113858</guid>
-            <pubDate>Sat, 10 Apr 2021 07:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心将印尼地震震级从6.8级下调至5.9级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6044882.d.html</link>
-            <guid>2113857</guid>
-            <pubDate>Sat, 10 Apr 2021 07:18:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼气象、气候和地球物理局：（印尼）地震暂无海啸威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6044810.d.html</link>
-            <guid>2113856</guid>
-            <pubDate>Sat, 10 Apr 2021 07:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚新增1510例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8902834.d.html</link>
-            <guid>2113855</guid>
-            <pubDate>Sat, 10 Apr 2021 07:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网自动测定：04月10日15时00分在印尼爪哇岛以南附近（南纬9.07度，东经112.45度）发生6.3级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6043870.d.html</link>
-            <guid>2113853</guid>
-            <pubDate>Sat, 10 Apr 2021 07:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文在寅将就疫情、经济问题召开特别会议】 韩国总统文在寅下周将就疫情和经济问题召开特别会议。文在寅下周一将与该国最高卫生官员召开紧急会议，评估疫情应对及讨论疫苗供应问。下周四文在寅还将与经济决策官员举行会议。（韩联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6043850.d.html</link>
-            <guid>2113852</guid>
-            <pubDate>Sat, 10 Apr 2021 07:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渣打中国首席经济学家丁爽：美债收益率进一步上升的余地相对较小】渣打银行中国首席经济学家丁爽在清华五道口首席经济学家论坛上表示，对美债收益率的判断是可能还会有所上升，预计二季度会达到1.75%，到年底可能会达到2%。但是，跟过去半年相比，它的上升幅度和速度都会有所减慢。另外假如收益率上升超出预期，而且是非常快速的上行，预计美联储也会进行干预，因为首先会增加美债发行的成本，同时，也会增加包括美国住房抵押贷款的利率。我们觉得美债收益率进一步上升的余地还是相对比较小。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8901816.d.html</link>
-            <guid>2113851</guid>
-            <pubDate>Sat, 10 Apr 2021 07:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖钢：中国经济并不属于“K型”发展，而是整体向上增长趋势】 证监会原主席肖钢表示，同时也应当看到，我国经济恢复仍然存在不平衡的情况。他指出，我国经济存在结构性不平衡的现象，既有与全球经济发展共同的原因，也有自身独特的因素。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6043273.d.html</link>
-            <guid>2113849</guid>
-            <pubDate>Sat, 10 Apr 2021 07:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：全国累计接种新冠病毒疫苗16112.1万剂次。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8901365.d.html</link>
-            <guid>2113848</guid>
-            <pubDate>Sat, 10 Apr 2021 07:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【先锋领航亚太区首席经济学家王黔：美国通胀是暂时的、结构性的】先锋领航亚太区首席经济学家王黔在清华五道口首席经济学家论坛上表示，经济复苏随之而来的就是再通胀，尤其在美国，由于大宗商品价格上涨，供给瓶颈，还有低基数等原因，美国4月开始可能通胀高于2%。但这些技术性的原因、临时性的因素消退之后，年底核心通胀又会重新回到2%以下，这个也是美联储到现在对通胀都不太担忧的一个原因，今年来说，是暂时的，技术性的、结构性的。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8900380.d.html</link>
-            <guid>2113847</guid>
-            <pubDate>Sat, 10 Apr 2021 06:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平夫妇就菲利普亲王逝世向英国女王伊丽莎白二世致唁电】2021年4月10日，国家主席习近平和夫人彭丽媛向英国女王伊丽莎白二世致唁电，对菲利普亲王逝世表示深切的哀悼，并向女王及家人致以诚挚的慰问。（央视新闻）]]></title>
-            <guid>2113845</guid>
-            <pubDate>Sat, 10 Apr 2021 06:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【习近平夫妇就菲利普亲王逝世向英国女王伊丽莎白二世致唁电】2021年4月10日，国家主席习近平和夫人彭丽媛向英国女王伊丽莎白二世致唁电，对菲利普亲王逝世表示深切的哀悼，并向女王及家人致以诚挚的慰问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6041894.d.html</link>
-            <guid>2113844</guid>
-            <pubDate>Sat, 10 Apr 2021 06:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近期20股被下调评级】3月下旬以来，有20只股票被券商下调了评级，其中不乏金龙鱼、用友网络、上海机场等热门股，业绩变化成了券商下调评级的主因。一季度业绩不达预期的顺丰控股甚至被瑞银证券罕见地给出了“卖出”评级。同时，过去一周（4月3日至4月9日）还有超过500份研报给出了“买入”或“强烈推荐”评级，根据券商给出的最新目标价，有20多只个股的预期上涨空间超过45%。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8899907.d.html</link>
-            <guid>2113843</guid>
-            <pubDate>Sat, 10 Apr 2021 06:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度与斯里兰卡敲定了旅游泡泡协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6040163.d.html</link>
-            <guid>2113841</guid>
-            <pubDate>Sat, 10 Apr 2021 06:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东投入150亿元 推动50家高水平医院建设】4月9日，广东省卫健委召开“健康百年路，启航新征程”主题系列的首场新闻发布会，聚焦广东省高水平医院建设。记者了解到，广东力争通过3—5年时间，基本建成广深医疗高地“双子星”，形成一批全国百强医院为支撑的高水平医院建设体系。50家医院各获3亿元的省财政建设资金，共150亿元。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6039858.d.html</link>
-            <guid>2113839</guid>
-            <pubDate>Sat, 10 Apr 2021 06:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰新增新冠肺炎确诊病例17463例，累计确诊1841137例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6039659.d.html</link>
-            <guid>2113838</guid>
-            <pubDate>Sat, 10 Apr 2021 06:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德企提方案重建贝鲁特港口】黎巴嫩公共工程和交通部长米歇尔·纳贾尔9日透露，德国企业就贝鲁特港口重建提出一项全面方案，涉及费用约50亿美元至150亿美元。黎巴嫩国家通讯社援引纳贾尔的话报道，根据这一计划，重建后的区域将成为商业和旅游中心，港口重建资金由私营公司提供，重建完成后将由项目方运营20年至30年，随后将运营权交还黎巴嫩政府。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6038410.d.html</link>
-            <guid>2113837</guid>
-            <pubDate>Sat, 10 Apr 2021 06:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫发言人：美日首脑16日会谈后可能发表声明】日本共同社10日报道称，美国白宫发言人普萨基9日在记者会上就本月16日举行的日本首相菅义伟和总统拜登的首次会谈，称“两位首脑大概会准备声明”，暗示将发表某种成果文件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8895388.d.html</link>
-            <guid>2113835</guid>
-            <pubDate>Sat, 10 Apr 2021 06:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克恭喜蔚来十万辆车下线：这是一个艰难的里程碑】4月10日，马斯克在其个人微博发文对蔚来第十万辆车下线表示祝贺，并称“这是一个艰难的里程碑。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8895044.d.html</link>
-            <guid>2113834</guid>
-            <pubDate>Sat, 10 Apr 2021 06:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国家国防管理中心表示，俄米格-31战斗机起飞在太平洋上空拦截了美军的一架RC-135侦察机。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8894837.d.html</link>
-            <guid>2113833</guid>
-            <pubDate>Sat, 10 Apr 2021 06:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京新增570例新冠肺炎确诊病例，7天均值为458.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6035831.d.html</link>
-            <guid>2113832</guid>
-            <pubDate>Sat, 10 Apr 2021 06:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏银行发布国内银行业首个“碳中和”行动方案】 江苏银行正式发布国内银行业首个“碳中和”行动方案。该行计划在“十四五”期间，气候融资专项支持额度不低于2000亿元，清洁能源产业支持额度不低于500亿元，支持减污降碳、清洁能源、清洁交通、零碳建筑等领域重点项目，推动实现碳减排超1000万吨。（中国证券网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmxzfmk6035195.d.html</link>
-            <guid>2113830</guid>
-            <pubDate>Sat, 10 Apr 2021 05:57:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马来西亚政府或立法强制民众接种新冠疫苗】当地时间10日，马来西亚科学、工艺及创新部长哈伊里·贾迈勒丁表示，倘若该国注册接种新冠疫苗的民众人数在9月依旧未能达标，政府可能会立法强制民众接种疫苗。哈伊里表示，此举是为了确保马来西亚在能12月之前实现70%的人口接种疫苗的目标，以达到理想的群体免疫水平。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-10/detail-ikmyaawa8893168.d.html</link>
-            <guid>2113829</guid>
-            <pubDate>Sat, 10 Apr 2021 05:54:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF原副总裁朱民：中国整整领先全球经济复苏一个周期】 IMF原副总裁朱民表示，中国整整领先全球经济复苏一个周期，下一步宏观政策应着眼于质量和结构，而非经济总量。他认为，包括美国在内，世界上绝大部分国家还处在走出疫情阶段，即推出财政、货币政策，通过发展迅速把经济下跌的危机止住。中国则整整领先全球经济复苏一个周期，“大部分国家都在考虑走出危机的时候，我们已经在考虑未来的可持续发展”。（中新网）]]></title>
-            <guid>2113828</guid>
-            <pubDate>Sat, 10 Apr 2021 05:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
