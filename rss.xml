@@ -4,11 +4,267 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Apr 2021 13:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Apr 2021 16:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以太坊重回2160美元/枚上方，日内跌幅收窄至6.78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7570367.d.html</link>
+            <guid>2128948</guid>
+            <pubDate>Sun, 18 Apr 2021 16:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南省政府与中石油、中海油分别签订战略合作协议】据海南日报，4月18日下午，海南省政府在海口分别与中国石油天然气集团有限公司、中国海洋石油集团有限公司签订战略合作协议，根据协议，签约方将在海洋经济、清洁能源、金融贸易、人才服务等领域进行深层次、全方位长期战略合作，建立协同创新、共同发展的合作机制，实现合作共赢。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7570272.d.html</link>
+            <guid>2128947</guid>
+            <pubDate>Sun, 18 Apr 2021 16:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据媒体消息：俄罗斯方面召见捷克大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmyaawc0429465.d.html</link>
+            <guid>2128945</guid>
+            <pubDate>Sun, 18 Apr 2021 16:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超过1.403亿例 死亡病例超300万例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间4月18日14时35分（北京时间4月18日20时35分），全球新冠肺炎确诊病例累计140322903例，累计死亡病例3003794例。18日全球新冠肺炎确诊病例新增809004例，死亡病例新增11481例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-19/detail-ikmxzfmk7569436.d.html</link>
+            <guid>2128943</guid>
+            <pubDate>Sun, 18 Apr 2021 16:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法国当地媒体18日报道，法兰西岛大区（大巴黎地区）的塞纳—马恩省当天发生一起轻型飞机坠毁事故，导致至少4人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0428834.d.html</link>
+            <guid>2128942</guid>
+            <pubDate>Sun, 18 Apr 2021 15:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔4月18日报告新增823例新冠肺炎确诊病例，新增6例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7568959.d.html</link>
+            <guid>2128941</guid>
+            <pubDate>Sun, 18 Apr 2021 15:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增新冠肺炎确诊病例12694例，前一天新增15370例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0428515.d.html</link>
+            <guid>2128940</guid>
+            <pubDate>Sun, 18 Apr 2021 15:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港已接种逾109万剂新冠疫苗，约37万人已接种第二剂】香港特区政府18日发布新闻公报称，自疫苗接种计划开展以来，特区政府已为市民接种共约1091100剂新冠疫苗。当中约719900名市民已接种第一剂疫苗，包括约375600名接种科兴疫苗，约344300名接种复必泰疫苗。约371200名市民已接种第二剂疫苗，包括约223100名接种科兴疫苗，约148100名接种复必泰疫苗。 （界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7568636.d.html</link>
+            <guid>2128939</guid>
+            <pubDate>Sun, 18 Apr 2021 15:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金宏观：美债利率回落 可能是流动性充裕与技术性调整的结果】中金宏观指出，上周，海外市场出现股票、债券、原油、黄金同步上涨，其中10年期美债收益率一度跌至1.55%下方，引发关注。从基本面看，上周海外宏观数据不可谓不好，数据指向的是美国经济在继续复苏。既然如此，美债利率走低更可能是流动性充裕与技术性调整的结果。鉴于美国经济基本面未发生大的变化，我们维持长端利率逐季度上行的观点，维持年底10年期美债利率触及1.8%-1.9%的判断。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0427585.d.html</link>
+            <guid>2128938</guid>
+            <pubDate>Sun, 18 Apr 2021 15:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【明起北方多地气温将刷今年新高，最高将达27℃】随着北方多地气温逐渐回暖，中央气象台预计，未来三天，北方大部风力逐渐减弱，以晴好天气为主，明天，华北、东北等多地气温可能会刷新今年以来的新高，预计北京、天津等地最高气温将达到27℃左右。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0427115.d.html</link>
+            <guid>2128937</guid>
+            <pubDate>Sun, 18 Apr 2021 15:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Adobe联合创始人PDF格式发明者查尔斯·格什克逝世，享年81岁】 据媒体报道，Adobe 公司官方网站发文称，PDF 格式发明者、Adobe 公司联合创始人查尔斯·格什克于美国当地时间4月16日去世，享年81岁。 Adobe公司首席执行官在给员工的一封电子邮件中表示，“查尔斯·格什克”的逝世对于Adobe公司以及技术领域来说是一个重大损失，他连续数十年领导公司发展，是一个英雄一样的人物。 据悉，查尔斯·格什克早年间于卡内基梅隆大学取得博士学位，此后在工作中结识了合作伙伴约翰·沃诺克，不久后两人于1982年辞职并共同成立了Adobe 公司，公司名字来源是约翰·沃诺克房屋后面的一条小溪。在2009年，时任美国总统奥巴马授予查尔斯·格什克美国国家技术奖章。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0426446.d.html</link>
+            <guid>2128936</guid>
+            <pubDate>Sun, 18 Apr 2021 15:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【辽宁昨日新增1例境外输入无症状感染者】据辽宁省卫生健康委消息：4月17日0时至24时，辽宁新增1例境外输入无症状感染者，为大连市报告。新增境外输入无症状感染者治愈出院1例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7566459.d.html</link>
+            <guid>2128935</guid>
+            <pubDate>Sun, 18 Apr 2021 15:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府数据显示，有3284.9万人已接种了首剂新冠疫苗，993.1万人接种了第二剂疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7565731.d.html</link>
+            <guid>2128934</guid>
+            <pubDate>Sun, 18 Apr 2021 15:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国4月18日报告新增1882例新冠肺炎确诊病例，新增10例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7565713.d.html</link>
+            <guid>2128933</guid>
+            <pubDate>Sun, 18 Apr 2021 15:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内蒙古一钼矿发生尾矿水溢流事件 未造成人员伤亡】18日从内蒙古乌拉特前旗政府获悉，乌拉特前旗西沙德盖钼业有限责任公司16日发生尾矿水溢流事件，现已得到有效控制，没有人员伤亡，具体原因正在抓紧调查中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7565505.d.html</link>
+            <guid>2128932</guid>
+            <pubDate>Sun, 18 Apr 2021 15:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：美国新冠病毒感染速度仍“不稳定”。]]></title>
+            <guid>2128931</guid>
+            <pubDate>Sun, 18 Apr 2021 14:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五粮液员工持股明日解禁，2428员工人均浮盈234万元】下周将有26只个股面临解禁，其中五粮液在4月19日解禁后将成为全流通股。4月19日的定向增发机构配售股为五粮液2018年4月完成的定增，10名发行对象以21.64元/股的价格认购，募集资金总额为18.53亿元，限售期为36个月。其中，国泰君安员工持股1号解禁的2369.63万股为五粮液员工持股计划。五粮液过往公告显示，员工持股计划参与对象为公司董事、监事、高级管理人员和其他员工，共计2428人。以2369.63万股的员工持股计划计算，目前市值为62.04亿元，人均浮盈234万元。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7564282.d.html</link>
+            <guid>2128930</guid>
+            <pubDate>Sun, 18 Apr 2021 14:46:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：4月18日22时14分在台湾花莲县发生6.1级地震，震源深度5千米。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7563157.d.html</link>
+            <guid>2128929</guid>
+            <pubDate>Sun, 18 Apr 2021 14:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为智选“开售”新能源车，首家合作方为小康股份】华为智选将与小康股份达成正式合作，在其渠道售卖小康股份旗下新能源品牌赛力斯。而在今年3月9日，华为终端有限公司就与重庆小康工业集团股份有限公司在深圳举行了合作备忘录签订仪式，双方就新能源汽车领域的合作进行了探讨。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7563033.d.html</link>
+            <guid>2128928</guid>
+            <pubDate>Sun, 18 Apr 2021 14:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台湾花莲县5.6级地震】中国地震台网正式测定：4月18日22时11分在台湾花莲县（北纬23.92度，东经121.53度）发生5.6级地震，震源深度7千米。 （人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7562399.d.html</link>
+            <guid>2128927</guid>
+            <pubDate>Sun, 18 Apr 2021 14:22:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西藏旅游回复上交所问询，收购源自看好旅游发展前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0422343.d.html</link>
+            <guid>2128926</guid>
+            <pubDate>Sun, 18 Apr 2021 14:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三人行：第一季度营业收入5.63亿元，同比增长26.64%；归属于上市公司股东的净利润5318.83万元，同比增长31.58%。]]></title>
+            <guid>2128925</guid>
+            <pubDate>Sun, 18 Apr 2021 14:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国健康管理协会运动健康管理专业委员会在京成立】中国健康管理协会运动健康管理专业委员会18日在北京召开成立大会。根据工作流程，在中国健康管理协会监事会的指导和监督下，大会进行了专业委员会领导机构人员选举。共选举出了主任委员、副主任委员、秘书长等人选19人，其中吴广亮被选为主任委员，张海涛、王智慧、程丹彤等被选为副主任委员，程丹彤兼任秘书长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0421865.d.html</link>
+            <guid>2128924</guid>
+            <pubDate>Sun, 18 Apr 2021 14:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长李波：正研究对比特币、稳定币监管规则】央行副行长李波表示，正研究对比特币、稳定币监管规则，将来任何稳定币如果希望成为一个得到广泛使用的支付工具，必须要接受严格监管，就像银行或准银行金融机构一样受到严格监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7561292.d.html</link>
+            <guid>2128923</guid>
+            <pubDate>Sun, 18 Apr 2021 14:10:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国威斯康星州一酒吧发生枪击事件致3死2伤】据美国当地媒体18日报道，美国威斯康星州基诺沙市一家酒吧当天凌晨发生枪击事件，造成3人死亡、2人受伤。当地警方在18日清晨就此事召开的新闻发布会上说，警方当天凌晨1时许接到枪击报警。枪手行凶后逃离现场，警方正在搜捕。2名伤者已送往当地医院。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0421299.d.html</link>
+            <guid>2128922</guid>
+            <pubDate>Sun, 18 Apr 2021 14:09:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【总投资435.6亿元项目集中签约 2021宜兴（上海）经贸科技合作洽谈会召开】宜兴（上海）经贸科技合作洽谈会在上海召开，会上，涵盖节能环保、智能装备、生物医药、医疗器械、物联网技术、旅游康养等多个新兴领域，累计总投资435.6亿元的44个项目集中签约。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0420904.d.html</link>
+            <guid>2128921</guid>
+            <pubDate>Sun, 18 Apr 2021 14:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周小川：中国推进数字人民币的初衷是服务国内】3月18日晚间，博鳌亚洲论坛副理事长、中国人民银行前行长周小川表示，中国做数字人民币并不是为了跨境，而是为了借助科技发展，特别是移动互联网普及后，可以更方便地为大众提供支付。“中国有一个14亿人的非常大的零售市场，大家希望有更方便、更有效，成本更低的支付体系。央行在最开始的时候，没想过是不是需要做批发系统，或者是人民币国际化，而是从零售系统开始。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7560494.d.html</link>
+            <guid>2128920</guid>
+            <pubDate>Sun, 18 Apr 2021 14:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：缅甸钦邦首府哈卡东南偏东61千米处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0420394.d.html</link>
+            <guid>2128919</guid>
+            <pubDate>Sun, 18 Apr 2021 14:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋新增新冠肺炎确诊病例1930例，累计确诊497154例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0420292.d.html</link>
+            <guid>2128918</guid>
+            <pubDate>Sun, 18 Apr 2021 13:58:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：有用户报告称Reddit出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7560050.d.html</link>
+            <guid>2128917</guid>
+            <pubDate>Sun, 18 Apr 2021 13:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：美国新冠病毒感染速度仍“不稳定”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7559690.d.html</link>
+            <guid>2128916</guid>
+            <pubDate>Sun, 18 Apr 2021 13:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国央行副行长李波：对于由私营企业发行的稳定币，如果其将来成为一种支付工具的的话，就必须要接受像银行或者准银行金融机构一样的严格监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7559441.d.html</link>
+            <guid>2128915</guid>
+            <pubDate>Sun, 18 Apr 2021 13:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国央行副行长李波：如果稳定币等加密资产能够成为广泛使用的支付解决方案的话，就需要一个更加强有力的监管规则，也就是说，要比比特币现在所接受的监管规则更加严格。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0419524.d.html</link>
+            <guid>2128914</guid>
+            <pubDate>Sun, 18 Apr 2021 13:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周小川谈比特币：要搞清楚对实体经济的好处是什么】中国人民银行前行长周小川表示，不管数字货币还是数字资产，都要为实体服务。“我们经历过2008年的全球金融危机，发现金融脱离了实体，比如影子银行、衍生品这些纯粹变成了金融机构之间的投机交易，和实体没有联系了，就容易出问题，以至当是一些国际大行的领导、交易员们看不懂，很难做好内部控制。“周小川表示，要区分数字货币和数字资产，对于比特币这类数字资产，并非现在要下结论，但是”要提醒，要小心“，在中国，金融创新的东西都要说清楚它对实体经济的好处”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7559311.d.html</link>
+            <guid>2128913</guid>
+            <pubDate>Sun, 18 Apr 2021 13:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网最新消息，埃及火车脱轨事故已致至少32人死亡，超过100人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7559003.d.html</link>
+            <guid>2128912</guid>
+            <pubDate>Sun, 18 Apr 2021 13:44:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第22届中国环博会即将举办 相关领域公司受关注】4月20日至22日，第22届中国环博会将在上海举办。本届展会将分为综合环境服务、水与污水、泵管阀、固废、大气治理、监测与检测、环境修复与噪声、国家及地区展团等八大主题展区，展现生态环境治理全产业链解决方案。碳中和背景下，我国生态环境治理仍面临较大压力。随着行业顶级盛会的召开，相关领域公司望受关注。上市公司中，瀚蓝环境致力为各地政府提供系统性环境服务方案；浙富控股危废处置全产业链布局。（怀新投资）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7558872.d.html</link>
+            <guid>2128911</guid>
+            <pubDate>Sun, 18 Apr 2021 13:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长李波：要确保加密资产的投机不会造成严重的金融风险】在谈及加密货币的监管问题时，中国央行副行长李波回应称，要确保对于这类资产的投机不会造成严重的金融风险，这是必须要做到的。李波表示，加密资产是投资的选项，它本身不是货币，是另类投资。所以我们认为加密资产将来应该发挥作用，是作为一种投资工具或者是替代性投资。把它作为一种投资工具的话，很多国家包括中国也正在研究，也就是对于这样一种投资方式应该有怎样的一种监管环境。虽然这个监管规则是最低的监管规则，但是仍然要有监管规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7558842.d.html</link>
+            <guid>2128910</guid>
+            <pubDate>Sun, 18 Apr 2021 13:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：强生新冠疫苗的使用可能受到限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0418849.d.html</link>
+            <guid>2128909</guid>
+            <pubDate>Sun, 18 Apr 2021 13:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周小川：数字货币跨境使用的互操作性比较复杂】中国人民银行前行长周小川在表示，每个国家有宏观调控的情况，有自己的货币主权，在制度上和别国不一样，有国家还有一定的外汇管制，不是那么容易取消掉的。因此，如果发展CBDC（央行数字货币），很多国家都会有各自的CBDC，都是以本国货币为基础，在使用过程中会有不同的规矩，这种情况下，数字货币跨境使用的互操作性是很复杂的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0418209.d.html</link>
+            <guid>2128908</guid>
+            <pubDate>Sun, 18 Apr 2021 13:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：要实现今年6.2万人的移民目标将非常困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7558020.d.html</link>
+            <guid>2128907</guid>
+            <pubDate>Sun, 18 Apr 2021 13:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据《阿拉伯新闻报》18日消息，埃及一列火车发生脱轨事故，致8人死亡，26人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0417688.d.html</link>
+            <guid>2128906</guid>
+            <pubDate>Sun, 18 Apr 2021 13:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全顾问沙利文：伊核谈判是有建设性的，解除对伊朗的制裁之前必须满足一些条件，预计美国目前不会做出任何让步。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7557462.d.html</link>
+            <guid>2128904</guid>
+            <pubDate>Sun, 18 Apr 2021 13:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【绿地集团旗下绿地数科拟2023年前上市，利润达到60亿元】绿地集团旗下绿地数字科技有限公司作为绿地金融分拆上市的主体将在三年内完成上市。2021-2023年，绿地数科将重点建设完整的数字科技平台，在现有基础上，A（Asset）、B（Business）、C（Customer）端增量利润逐步释放，争取在2023年达到60亿元的利润规模。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0417137.d.html</link>
+            <guid>2128903</guid>
+            <pubDate>Sun, 18 Apr 2021 13:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【启明星辰：2020年净利润8.04亿元 同比增16.82%】启明星辰(002439)4月18日晚间披露年报，公司2020年实现营业收入为36.47亿元，同比增长18.04%；归母净利润8.04亿元，同比增长16.82%；基本每股收益0.87元。每10股派发现金红利0.51元（含税）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0416025.d.html</link>
@@ -350,261 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0386882.d.html</link>
             <guid>2128627</guid>
             <pubDate>Sun, 18 Apr 2021 10:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列设定了2050年能源行业部温室气体排放的目标，计划到2050年将排放降低80％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0385821.d.html</link>
-            <guid>2128625</guid>
-            <pubDate>Sun, 18 Apr 2021 09:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗报告新增405例新冠肺炎死亡病例，为去年11月27日以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7525448.d.html</link>
-            <guid>2128624</guid>
-            <pubDate>Sun, 18 Apr 2021 09:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗发生5.9级地震，驻伊大使馆：没有中国公民伤亡报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7525261.d.html</link>
-            <guid>2128623</guid>
-            <pubDate>Sun, 18 Apr 2021 09:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：沙特和伊朗正在直接谈判，或恢复五年前断绝的外交关系】据英国《金融时报》18日报道，据三名知情官员透露，沙特阿拉伯和伊朗的高级官员正就恢复五年前断绝的外交关系进行直接谈判。据报道，4月9日，在伊拉克总理穆斯塔法·卡迪米的斡旋下，在巴格达举行的首轮会谈是两国自2016年以来的“首次重要政治讨论”。知情官员称，会谈内容包括胡塞武装等，进展“积极”，下一轮会谈定于下周举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0385405.d.html</link>
-            <guid>2128622</guid>
-            <pubDate>Sun, 18 Apr 2021 09:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[叙利亚议会称总统选举将于5月26日举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7522859.d.html</link>
-            <guid>2128617</guid>
-            <pubDate>Sun, 18 Apr 2021 09:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【五一发售火车票315万张 是2019年同期的3倍以上】截至17日下午六点，共发售5月1日车票315万张，是2019年同期的3倍以上。今年五一假期，以跨省游为主的长线游非常明显，根据相关数据统计显示，约七成人群选择跨省游。当前，预订五一出行的租车订单比较2019年同期已达到126%的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0382266.d.html</link>
-            <guid>2128601</guid>
-            <pubDate>Sun, 18 Apr 2021 09:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印度：交易或者持有加密货币将处以罚款】印度政府将禁止加密货币，对在该国交易甚至持有此类资产的人处以罚款。印度将把任何有关加密资产的行为定义为犯罪行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7520622.d.html</link>
-            <guid>2128568</guid>
-            <pubDate>Sun, 18 Apr 2021 09:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度政府将禁止加密货币，对在该国交易甚至持有此类资产的人处以罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7520395.d.html</link>
-            <guid>2128560</guid>
-            <pubDate>Sun, 18 Apr 2021 09:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鸿博股份：将取得广州科语的控制权】鸿博股份公告，拟以现金向广州科语机器人有限公司增资4000万元，占增资后广州科语股权比例为5%，并通过受让广州科语46%股权进而收购广州科语的控制权，广州科语主营业务将增加家庭清洁机器人的生产销售。若公司最终完成本次股权交易，将构成重大资产重组。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0379622.d.html</link>
-            <guid>2128540</guid>
-            <pubDate>Sun, 18 Apr 2021 09:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家发改委副秘书长苏伟：此次中美气候变化磋商取得积极进展】国家发改委副秘书长、主要谈判人员苏伟表示，这次会谈实际上利用三天的时间，两国的气候变化特使进行了坦诚深入建设性的沟通交流，这个有很大的进展。双方都将致力于相互合作，同其他的各国一道来共同来解决气候危机。中美通过这次会谈，为下一步开展合作对话交流的方向和重点领域达成了重要共识，双方将继续围绕相关问题、相关领域开展对话与合作。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7519056.d.html</link>
-            <guid>2128534</guid>
-            <pubDate>Sun, 18 Apr 2021 09:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  西部牧业：拟以发行股份方式购买天山广和100%股权，交易作价为8.7亿元；同时拟定增募资不超过5亿元，用于5,000头良种奶牛引进及建设项目等。]]></title>
-            <guid>2128492</guid>
-            <pubDate>Sun, 18 Apr 2021 09:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美邦服饰：拟出售华瑞银行10.1%股份】美邦服饰公告，拟向华瑞银行前五大股东之一凯泉泵业出售华瑞银行10.1%股份。通过本次资产出售，公司有意剥离与公司服饰业务关联度较低的资产，实现公司资源整合的同时聚焦主营业务，加强公司在服饰设计与销售、品牌推广等相关领域的竞争力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7517856.d.html</link>
-            <guid>2128481</guid>
-            <pubDate>Sun, 18 Apr 2021 09:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  多氟多：自即日起，公司六氟磷酸锂销售价格在原价基础上对国内各类客户上调30,000元人民币/吨，对国际各类客户上调4,500美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7517318.d.html</link>
-            <guid>2128458</guid>
-            <pubDate>Sun, 18 Apr 2021 09:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海格通信：近日收到与特殊机构客户签订的经营合同，标的主要为无线通信（含卫星通信）、北斗导航产品及配套设备，合同总金额约3.48亿元人民币。]]></title>
-            <guid>2128447</guid>
-            <pubDate>Sun, 18 Apr 2021 09:06:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国反对党工党呼吁约翰逊取消访印行程】英国《独立报》刚刚消息，变异新冠病毒感染病例在印激增之际，英国反对党工党呼吁首相约翰逊取消将于本月下旬进行的访印行程。据此前报道，印度第二波新冠疫情持续肆虐，并且出现新的病毒变异。过去三周，平均每天新增病例超过15万人，17日新增病例超过23万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7516761.d.html</link>
-            <guid>2128433</guid>
-            <pubDate>Sun, 18 Apr 2021 09:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英科医疗：7亿元投建年产50万吨羧基丁腈胶乳、10万吨DOTP项目】英科医疗公告，全资子公司安徽英科通过设立控股子公司安徽凯泽的方式投资7亿元建设年产50万吨羧基丁腈胶乳、10万吨DOTP项目。该项目于2020年8月4日经董事会审议通过，公司对该项目进行了暂缓披露，目前项目的主要生产设备及存储装置及配套管道仪表装置正处于制作及安装过程中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7516597.d.html</link>
-            <guid>2128426</guid>
-            <pubDate>Sun, 18 Apr 2021 09:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大疆造车合作方曝光，首批将与上汽通用五菱深度合作】从知情人士处获悉，大疆造车的合作方将是上汽通用五菱，双方采取的深度合作而非零部件采购模式，首款车将在今年落地投产。据知情人士透露，上汽通用五菱早在2019年就与大疆开始接触，当时大疆开始寻找合作伙伴，最终，上汽通用五菱成为大疆的首批深度合作伙伴，双方采取的是战略合作，一起完善整套系统的落地，而非简单的友商采购零件模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0376830.d.html</link>
-            <guid>2128411</guid>
-            <pubDate>Sun, 18 Apr 2021 09:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 4月17日，在华为智能汽车解决方案BU新品发布会后的媒体沟通会上，华为智能汽车解决方案BU总裁王军表示，华为与长安合作的新车型也即将推出。王军还透露，华为与车企的合作方式采用的依然是tie-1、tie-2的供应商模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0376717.d.html</link>
-            <guid>2128408</guid>
-            <pubDate>Sun, 18 Apr 2021 09:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中央气象台：今年入春以来我国沙尘暴日数和强度为近9年之最】中央气象台今日消息，截至目前，今年春季以来我国已出现2次强沙尘暴过程和1次沙尘暴过程，发生次数和影响范围为近9年之最。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0376480.d.html</link>
-            <guid>2128399</guid>
-            <pubDate>Sun, 18 Apr 2021 08:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【图南股份：2020年净利润1.09亿元 同比增6.99%】图南股份(300855)4月18日晚间披露年报，公司2020年实现营业收入为5.46亿元，同比增长12.84%；归母净利润1.09亿元，同比增长6.99%；基本每股收益0.64元。每10股派发现金红利2元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0376355.d.html</link>
-            <guid>2128392</guid>
-            <pubDate>Sun, 18 Apr 2021 08:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线走低，再度回落至55000美元下方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0376335.d.html</link>
-            <guid>2128388</guid>
-            <pubDate>Sun, 18 Apr 2021 08:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年度票房突破200亿元】据灯塔实时数据，截至4月18日下午16时24分，中国电影市场2021年度总票房突破200亿元，总观影人次达 4.75亿，总场次3813.04万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7513784.d.html</link>
-            <guid>2128318</guid>
-            <pubDate>Sun, 18 Apr 2021 08:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【激增近150%！今年清盘基金已达57只】新基金发行遇冷的同时，基金清盘数量也快速增多。截至4月16日，今年以来基金清盘数量已经达到57只，同比激增近150%。上海一家中型公募人士认为，近两年新基金发行的数量和规模都创下历史新高，部分基金产品难免同质化较为严重，由于业绩未达到预期或者规模本身较小就容易导致清算。另一方面，牛年以来市场大幅回调，市场赚钱效应明显减弱，投资者赎回叠加市值缩水也会导致部分基金产品规模触及清盘线。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7513538.d.html</link>
-            <guid>2128308</guid>
-            <pubDate>Sun, 18 Apr 2021 08:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗发生5.9级地震：至少1人受伤，震中位于布什尔核电站附近】据伊朗伊斯兰共和国通讯社报道，今日地震造成至少1人受伤。现场照片显示，位于地震震中的港口城市加纳韦有墙壁倒塌、房屋破损，附近山麓还出现了山体滑坡。报道称，此后还发生了三次4级余震。据报道，此次地震震中距离伊朗布什尔核电站约100公里，目前还没有关于该核电站的报道。据悉，该设施可抵御8级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0373428.d.html</link>
-            <guid>2128287</guid>
-            <pubDate>Sun, 18 Apr 2021 08:33:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国确诊9例印度报告的“双突变”变异新冠病毒】韩国中央应急处置本部战略企划班长孙映莱今日表示，今年1月以来从印度入境的旅客中累计94人确诊，其中9例感染在印度发现的“双突变”变异新冠病毒。这是韩国首次发现印度报告的被命名为“B.1.617”的“双重变种病毒”。这9例均从印度直飞韩国，其中2例于上月确诊，其余7例于本月确诊。（韩联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0373359.d.html</link>
-            <guid>2128281</guid>
-            <pubDate>Sun, 18 Apr 2021 08:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冀东油田大型储气库群在河北唐山开建】计划投资近400亿元的冀东油田大型储气库群日前在当地开工建设，建成后将有力提高环渤海地区调峰保供能力，对保障国家能源安全、推动区域经济发展发挥重要作用。该储气库将规划建设4个储气库群18座储气库，设计总工作气量105亿立方米，计划2025年工作气量达到25亿立方米，2030年达到70亿立方米，2035年达到100亿立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7512334.d.html</link>
-            <guid>2128265</guid>
-            <pubDate>Sun, 18 Apr 2021 08:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本NHK电视台：日本大阪府18日新增新冠肺炎确诊病例1220例，连续6天超过1000例。18日的新增确诊病例超过了16日的最大增幅1209例，达至今最大增幅。此外，18日新增3例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7512154.d.html</link>
-            <guid>2128257</guid>
-            <pubDate>Sun, 18 Apr 2021 08:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈茂波：香港需坚守联系汇率制度】香港财政司司长陈茂波发表网志指出，香港首要任务是要守住不能发生系统性金融风险的底线，而货币体系稳定是重中之重，强调要坚守联系汇率制度，作为维系社会和市场信心的基础。对于如何守住底线？他认为，当中应包括：需要严谨有效的监管制度、管控跨市场风险，填补市场分业监管可能导至的漏洞；发挥好试验田和防火墙的角色，缓减及阻止境外市场风险传导到内地市场。同时亦须确保金融体系不会被利用来进行违反国家安全活动，除了全力打击洗钱及恐怖分子融资，还需打击违反国安法的资金活动等。（香港经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0371993.d.html</link>
-            <guid>2128216</guid>
-            <pubDate>Sun, 18 Apr 2021 08:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【唐山发布《4月份大气污染防治攻坚通知》，焦化、水泥行业B级企业减排比例不低于20%】日前，唐山市发布《4月份大气污染防治攻坚通知》要求焦化、水泥（熟料）行业，绩效评级为A级企业自主减排；其他绩效级别焦化企业采取延长结焦时间、水泥企业采取减少投料量的方式实施减排，其中，B级企业减排比例不低于20%、C级企业减排比例不低于30%、D级企业减排比例不低于40%。陶瓷、独立轧钢（冷轧、电加热除外）、砖瓦窑、铸造、耐火、水泥粉磨站（矿渣粉）行业，绩效评级为A级或示范引领企业自主减排；其他企业按照绩效评价等级执行差异化错峰生产，总体减排比例不低于30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7511113.d.html</link>
-            <guid>2128215</guid>
-            <pubDate>Sun, 18 Apr 2021 08:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆棉实播面积较预期明显下降】通过大量调研数据汇总，预计今年新疆地区棉花播种面积较前期调研播种意向或明显下降。据卓创资讯初步调研预估，2021年新疆地区棉花播种面积或在3200万-3300万亩，同比降幅在5%-8%；较意向植棉面积（3月底调研）减少300万-400万亩。（卓创资讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7510743.d.html</link>
-            <guid>2128214</guid>
-            <pubDate>Sun, 18 Apr 2021 08:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【惠程科技：正在研究股权激励计划方案的可行性】惠程科技披露股票交易异常波动公告，公司目前正在研究股权激励计划方案的可行性，但相关计划尚在调研和探讨中，其实施存在一定的不确定性。除此以外，公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项、或处于筹划阶段的重大事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7510709.d.html</link>
-            <guid>2128213</guid>
-            <pubDate>Sun, 18 Apr 2021 08:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ST禾盛：公司股票交易撤销其他风险警示，自20日开市起复牌，证券简称变更为“禾盛新材”，涨跌幅限制变更为“10%”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0370660.d.html</link>
-            <guid>2128212</guid>
-            <pubDate>Sun, 18 Apr 2021 08:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST辉丰：已在事实上失去对瑞凯化工的控制】*ST辉丰公告，公司已在事实上失去对瑞凯化工的控制。公司向瑞凯化工管理层发送通知，要求其纠正违规行为并履行相关职责；拟提请董事会审议将瑞凯化工自2020年11月1日起不再纳入公司合并报表。经财务部门初步核算，该事项预计不会对公司2020年业绩以及2021年一季度业绩预测情况造成重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0370619.d.html</link>
-            <guid>2128211</guid>
-            <pubDate>Sun, 18 Apr 2021 08:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩政府：争取上半年完成1200万人接种新冠疫苗】据韩联社消息，韩国经济副总理兼企划财政部长官洪楠基18日在政府首尔办公大楼主持中央灾难安全对策本部会议时表示，争取到4月累计接种300万人，确保上半年完成为1200万人口接种第一剂新冠疫苗的目标。洪楠基表示，接种疫苗是11月实现群体免疫目标的关键，当前加快提速非常重要。政府正开展全方位的努力，以早日确保疫苗供应、扩大国内疫苗委托生产规模等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7509975.d.html</link>
-            <guid>2128210</guid>
-            <pubDate>Sun, 18 Apr 2021 08:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯在过去24小时内报告新增8632例新冠肺炎确诊病例，新增389例死亡病例，前一天分别为9321例和398例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7509644.d.html</link>
-            <guid>2128206</guid>
-            <pubDate>Sun, 18 Apr 2021 08:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【10天9板金发拉比：股票交易异常波动，停牌核查】金发拉比公告，股票交易异常波动，停牌核查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0369964.d.html</link>
-            <guid>2128201</guid>
-            <pubDate>Sun, 18 Apr 2021 08:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  光线传媒：2020年实现净利润2.9亿元，同比下降69.28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7509106.d.html</link>
-            <guid>2128191</guid>
-            <pubDate>Sun, 18 Apr 2021 08:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾卫生部：截至当地时间4月18日16时，菲律宾新增10098例新冠肺炎确诊病例，累计确诊达936133例；新增死亡病例150例，累计死亡15960例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0369552.d.html</link>
-            <guid>2128189</guid>
-            <pubDate>Sun, 18 Apr 2021 08:09:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据福克斯新闻网18日报道，当地时间周六，在俄亥俄州为一位被枪杀的男子逝世一周年举行的纪念仪式上，有身份不明者从路过的汽车中对仪式上的人群扫射，造成1人死亡，5人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0369320.d.html</link>
-            <guid>2128185</guid>
-            <pubDate>Sun, 18 Apr 2021 08:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒大汽车总裁刘永灼说，恒大汽车智能化生产基地将在今年年底试生产。（新华财经）]]></title>
-            <guid>2128175</guid>
-            <pubDate>Sun, 18 Apr 2021 08:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长三角肿瘤专科联盟成立，制定诊疗规范和指南、推进药物应用】4月18日，长三角肿瘤专科联盟在江苏南通成立，该专科联盟由上海交通大学医学院附属仁济医院、上海白玉兰远程医学管理中心发起，沪苏浙皖共41个城市响应和支持，首批覆盖长三角区域内会员单位共计121家医院。长三角肿瘤专科联盟下一步的主要任务包括：推广国内外诊治规范，提高长三角多学科诊治水平；制定代表国际水平的肿瘤诊疗规范和指南；落实国家抗肿瘤药物使用的相关规定，推进抗肿瘤药物的合理应用等。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmyaawc0369073.d.html</link>
-            <guid>2128172</guid>
-            <pubDate>Sun, 18 Apr 2021 08:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚周日新增2195例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7506771.d.html</link>
-            <guid>2128121</guid>
-            <pubDate>Sun, 18 Apr 2021 07:55:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：工业板块配置价值持续提升，将成为平静期的主角】中信证券4月18日发布研报指出：投资者行为对A股平静期主配角转换的约束将逐步缓解，国内经济开局良好，政治局会议料将稳定政策预期，一季报双向预期差持续兑现，工业板块相对优势依然明显，随着投资者共识重新凝聚，工业板块配置价值持续提升，将成为平静期的主角。配置上，建议积极调仓，关注工业板块，并继续聚焦平静期的四条主线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-18/detail-ikmxzfmk7506650.d.html</link>
-            <guid>2128115</guid>
-            <pubDate>Sun, 18 Apr 2021 07:54:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
