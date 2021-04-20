@@ -4,605 +4,602 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 20 Apr 2021 07:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 10:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[印尼央行：将把印尼盾稳定在与基本面相符的水平。]]></title>
-            <guid>2131489</guid>
-            <pubDate>Tue, 20 Apr 2021 07:14:05 GMT</pubDate>
+            <title><![CDATA[市场消息：波音(BA.N)与印度空军签订“阿帕奇”直升机的购买合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0803981.d.html</link>
+            <guid>2131731</guid>
+            <pubDate>Tue, 20 Apr 2021 10:13:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国将宣布到2035年减排78％的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7905027.d.html</link>
-            <guid>2131488</guid>
-            <pubDate>Tue, 20 Apr 2021 07:13:22 GMT</pubDate>
+            <title><![CDATA[波兰央行货币政策委员会委员Hardt：波兰通胀可能在4月达到接近4%的水平。]]></title>
+            <guid>2131730</guid>
+            <pubDate>Tue, 20 Apr 2021 10:12:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据工信部，减税降费等助企纾困政策带动企业盈利水平明显提升，前两个月规模以上工业企业利润率达到6.6%，为近年来较高水平，2月末规模以上工业企业亏损面同比降低9个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0765123.d.html</link>
-            <guid>2131487</guid>
-            <pubDate>Tue, 20 Apr 2021 07:13:00 GMT</pubDate>
+            <title><![CDATA[奥地利财政部长布鲁梅尔：预计今年的预算赤字约为GDP的8.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0803874.d.html</link>
+            <guid>2131729</guid>
+            <pubDate>Tue, 20 Apr 2021 10:12:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[南向资金净流入达60亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7904767.d.html</link>
-            <guid>2131486</guid>
-            <pubDate>Tue, 20 Apr 2021 07:11:39 GMT</pubDate>
+            <title><![CDATA[芬兰财政部表示，2040年到期的债券投标总额为18.91亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7943572.d.html</link>
+            <guid>2131728</guid>
+            <pubDate>Tue, 20 Apr 2021 10:12:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印尼央行：将2021年赤字预估保持在GDP的1%至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0764830.d.html</link>
-            <guid>2131485</guid>
-            <pubDate>Tue, 20 Apr 2021 07:11:08 GMT</pubDate>
+            <title><![CDATA[波兰央行货币政策委员会委员Hardt：波兰通胀可能在4月达到接近4%的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7943520.d.html</link>
+            <guid>2131727</guid>
+            <pubDate>Tue, 20 Apr 2021 10:11:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际能源署(IEA)表示，今年全球来自能源的二氧化碳排放量将增至330亿吨，较2020年增加15亿吨，料增长将近5%，增幅为10多年来最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7904582.d.html</link>
-            <guid>2131484</guid>
-            <pubDate>Tue, 20 Apr 2021 07:10:44 GMT</pubDate>
+            <title><![CDATA[华为消费者业务CEO余承东：赛力斯华为智选SF5今天起正式进入华为体验店。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7943425.d.html</link>
+            <guid>2131726</guid>
+            <pubDate>Tue, 20 Apr 2021 10:11:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【农业农村部：未来10年我国粮食供应保障更加有力】农业农村部市场预警专家委员会20日发布《中国农业展望报告（2021—2030）》，对未来10年我国主要农产品市场供需形势进行了预测和展望。报告预测，未来10年，我国粮食供应保障更加有力。2021年全国的三大主粮的产量都会出现增长，预计全年的粮食总产量会超过6.7亿吨，这是一个新的水平。其中我们的小麦会达到1.35亿吨，比上年要增长0.6%；水稻总产量会达到2.14亿吨，要比上年会增长1.3%；特别是玉米2021年的产量可以达到2.7亿吨左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0764277.d.html</link>
-            <guid>2131482</guid>
-            <pubDate>Tue, 20 Apr 2021 07:09:15 GMT</pubDate>
+            <title><![CDATA[花旗：将耐克(NKE.N)目标价从160美元下调至140美元，评级从买入下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7943400.d.html</link>
+            <guid>2131725</guid>
+            <pubDate>Tue, 20 Apr 2021 10:11:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印尼央行：预计2021年GDP增幅在4.1%至5.1%之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7904070.d.html</link>
-            <guid>2131481</guid>
-            <pubDate>Tue, 20 Apr 2021 07:09:00 GMT</pubDate>
+            <title><![CDATA[欧洲斯托克600指数现跌1.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0803656.d.html</link>
+            <guid>2131724</guid>
+            <pubDate>Tue, 20 Apr 2021 10:10:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据工信部，一季度消费品生产延续恢复态势，增加值同比增长18.6%，两年平均增长4.2%。受防疫需求持续增长拉动，医药、产业用纺织品等行业产销继续高速增长。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7903966.d.html</link>
-            <guid>2131480</guid>
-            <pubDate>Tue, 20 Apr 2021 07:08:29 GMT</pubDate>
+            <title><![CDATA[上清所：未收到“18康美MTN003”付息兑付资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0803597.d.html</link>
+            <guid>2131723</guid>
+            <pubDate>Tue, 20 Apr 2021 10:10:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印尼央行：当地经济是由政府支出支撑的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0764015.d.html</link>
-            <guid>2131479</guid>
-            <pubDate>Tue, 20 Apr 2021 07:08:17 GMT</pubDate>
+            <title><![CDATA[【东方电缆：一季度净利2.78亿元 同比增长245%】东方电缆公布2021年第一季度报告，实现营业收入14.46亿元，同比增长115.35%；归属于上市公司股东的净利润2.78亿元，同比增长245.19%；基本每股收益0.42元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7943177.d.html</link>
+            <guid>2131722</guid>
+            <pubDate>Tue, 20 Apr 2021 10:10:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[莱特币日内跌超10%，现报235.25美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7903872.d.html</link>
-            <guid>2131478</guid>
-            <pubDate>Tue, 20 Apr 2021 07:08:07 GMT</pubDate>
+            <title><![CDATA[【工信部：5G套餐用户已超3.5亿户】20日，工业和信息化部新闻发言人、信息通信管理局局长赵志国在国新办发布会上表示，随着全国实施提速降费和5G的发展，我国网络流量单价大幅下降，5G套餐用户快速推广。目前5G套餐用户已经超过了3.5亿户，5G套餐的单价目前下降到每个G为4.4元，大额流量可以满足很多人的上网需求，一定程度上使很多原来使用流量套餐副卡的双卡用户转为了单卡用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7943135.d.html</link>
+            <guid>2131721</guid>
+            <pubDate>Tue, 20 Apr 2021 10:10:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据工信部，我国一季度汽车产销量同比分别增长81.7%和75.6%，工程机械、载货汽车、工业机器人等投资类产品产量增速均超过70%。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7903828.d.html</link>
-            <guid>2131477</guid>
-            <pubDate>Tue, 20 Apr 2021 07:07:58 GMT</pubDate>
+            <title><![CDATA[德国基社盟党首Soeder：只有统一的保守联盟才能成功；已向Laschet保证他能获得基社盟的完全支持。]]></title>
+            <guid>2131719</guid>
+            <pubDate>Tue, 20 Apr 2021 10:08:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印尼央行：预计全球经济将继续复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7903186.d.html</link>
-            <guid>2131476</guid>
-            <pubDate>Tue, 20 Apr 2021 07:05:48 GMT</pubDate>
+            <title><![CDATA[【*ST同洲：股东因增持达5%时未及时信披收到监管函】*ST同洲公告，股东吴一萍和吴莉萍收到监管函，因增持达5%时未及时信披。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0803124.d.html</link>
+            <guid>2131718</guid>
+            <pubDate>Tue, 20 Apr 2021 10:08:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【李克强在成都考察中国——欧洲中心】李克强4月20日在成都考察中国——欧洲中心。该中心主动服务国家对外开放战略，吸引了170余家国际知名机构和企业入驻。总理在此先后与外资和中资企业代表交流，了解企业发展有什么困难，询问需要哪些政策支持等。李克强说，中国将一如既往坚持对外开放政策，开放的大门会越开越大，并将持续打造市场化、法治化、国际化营商环境，对各国企业一视同仁，保证公平竞争。（中国政府网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7903086.d.html</link>
-            <guid>2131475</guid>
-            <pubDate>Tue, 20 Apr 2021 07:05:27 GMT</pubDate>
+            <title><![CDATA[穆迪：斐济面临长期的经济创伤，长期推迟，可能只是逐步恢复旅游业，导致就业和税收大幅下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7942605.d.html</link>
+            <guid>2131717</guid>
+            <pubDate>Tue, 20 Apr 2021 10:06:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【合肥：同一套房一年内超过两次交易提取住房公积金 将被拒绝】4月19日，安徽省合肥市住房公积金管理中心发布《关于进一步加强住房公积金提取管理工作的补充通知》。按照最新规定，同一套住房频繁交易提取（12个月内两次以上），不予提取。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0763069.d.html</link>
-            <guid>2131474</guid>
-            <pubDate>Tue, 20 Apr 2021 07:04:51 GMT</pubDate>
+            <title><![CDATA[【工信部：严禁钢铁、水泥、平板玻璃新增产能，严管严控电解铝新增产能】工信部表示，加大深化供给侧结构性改革推进力度。严禁钢铁、水泥、平板玻璃新增产能，严管严控电解铝新增产能。抓紧修订《钢铁行业产能置换实施办法》和《水泥玻璃行业产能置换实施办法》。保持水泥错峰生产政策的连续性。重点省份电解铝已退出产能设备拆除到位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0802918.d.html</link>
+            <guid>2131716</guid>
+            <pubDate>Tue, 20 Apr 2021 10:06:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元兑美元涨0.3%至1.2074，为3月3日来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0763003.d.html</link>
-            <guid>2131473</guid>
-            <pubDate>Tue, 20 Apr 2021 07:04:34 GMT</pubDate>
+            <title><![CDATA[穆迪：斐济的评级下调是由于斐济的经济和财政实力受到疫情引发的长期旅游业冲击的侵蚀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7942416.d.html</link>
+            <guid>2131715</guid>
+            <pubDate>Tue, 20 Apr 2021 10:05:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【收评：三大指数弱势盘整沪指跌0.1% 白酒概念涨幅居前】4月20日消息，三大指数低开，低开后震荡上行。板块方面，汽车板块走势分化，景点与旅游板块走弱，前期热点白酒、碳中和板块卷土重来。午后指数弱势盘整，涨幅收窄，临近尾盘指数集体翻绿。板块方面，题材继续快速轮动，稀土永磁板块拉升，国防军工板块走强。总体来看，个股跌多涨少，赚钱效应一般。截至收盘，上证指数跌0.13%，深证成指跌0.11%，创业板指跌0.09%。]]></title>
-            <guid>2131472</guid>
-            <pubDate>Tue, 20 Apr 2021 07:02:03 GMT</pubDate>
+            <title><![CDATA[德国基社盟领导人苏德表示，拉切特将成为保守派“联盟”的总理候选人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7942336.d.html</link>
+            <guid>2131714</guid>
+            <pubDate>Tue, 20 Apr 2021 10:05:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧股开盘涨跌不一，德国DAX指数涨0.04%，英国富时100指数跌0.15%，法国CAC40指数跌0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0762113.d.html</link>
-            <guid>2131471</guid>
-            <pubDate>Tue, 20 Apr 2021 07:01:17 GMT</pubDate>
+            <title><![CDATA[德国基民盟领导人苏德尔表示接受基民盟领导人的决定，支持基民盟的拉希德担任总理候选人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7942309.d.html</link>
+            <guid>2131713</guid>
+            <pubDate>Tue, 20 Apr 2021 10:05:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国内商品期货多数收涨 铁矿主力合约涨近4%】国内商品期货多数收涨，铁矿涨近4%，20号胶、苯乙烯涨超3%，橡胶、菜粕涨超2%，纯碱、棕榈、焦炭、玻璃、沪铅、豆粕、螺纹涨超1%。乙二醇跌超2%，焦煤、苹果、豆一、塑料跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0762011.d.html</link>
-            <guid>2131470</guid>
-            <pubDate>Tue, 20 Apr 2021 07:01:01 GMT</pubDate>
+            <title><![CDATA[PayPal旗下的移动支付软件Venmo开始支持加密货币交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7941807.d.html</link>
+            <guid>2131712</guid>
+            <pubDate>Tue, 20 Apr 2021 10:01:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美媒：美国国务院发言人称美驻俄大使本周将短暂返美】美国新闻网站Axios当地时间19日报道，美国国务院发言人称美国驻俄罗斯大使沙利文将在本周返回美国。截至目前，尚无其他媒体对此进行报道。此前，沙利文曾表示拒绝接受俄方建议，不会离开莫斯科返回美国进行俄美关系探讨。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7901711.d.html</link>
-            <guid>2131469</guid>
-            <pubDate>Tue, 20 Apr 2021 07:00:36 GMT</pubDate>
+            <title><![CDATA[平安银行：第一季度净利息收入298亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0802047.d.html</link>
+            <guid>2131711</guid>
+            <pubDate>Tue, 20 Apr 2021 10:01:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国欧洲事务部长博恩：强生新冠疫苗合约可以保留。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7901395.d.html</link>
-            <guid>2131467</guid>
-            <pubDate>Tue, 20 Apr 2021 06:59:28 GMT</pubDate>
+            <title><![CDATA[郑商所：近期影响动力煤市场的不确定性因素较多，价格波动较大，请各会员单位切实加强投资者教育和风险防范工作，提醒投资者谨慎运作，理性投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7941597.d.html</link>
+            <guid>2131710</guid>
+            <pubDate>Tue, 20 Apr 2021 10:00:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[思摩尔国际(06969.HK)直线拉升，现转涨。早前北京市控烟协会对电子烟监管新规提交反馈意见，对增加“电子烟等新型烟草制品参照本条例中关于卷烟的有关规定执行”的提议持反对态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0761462.d.html</link>
-            <guid>2131466</guid>
-            <pubDate>Tue, 20 Apr 2021 06:59:08 GMT</pubDate>
+            <title><![CDATA[现货黄金短线上扬6美元，现报1770.31美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7941533.d.html</link>
+            <guid>2131709</guid>
+            <pubDate>Tue, 20 Apr 2021 10:00:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国家卫健委：截至2021年4月19日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗19502.2万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0761398.d.html</link>
-            <guid>2131465</guid>
-            <pubDate>Tue, 20 Apr 2021 06:58:55 GMT</pubDate>
+            <title><![CDATA[聚石化学：公司拟在安徽省池州东至经济开发区建设池州化工新材料生产基地，项目总投资12亿元，其中固定投资8亿，计划建设期为6年，分两期建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0801645.d.html</link>
+            <guid>2131707</guid>
+            <pubDate>Tue, 20 Apr 2021 09:59:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北向资金净流入达10亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7900975.d.html</link>
-            <guid>2131464</guid>
-            <pubDate>Tue, 20 Apr 2021 06:57:32 GMT</pubDate>
+            <title><![CDATA[【印度成全球疫情第二严重国家，病毒新变种肆虐】①据外媒4月19日报道，在印度，新冠变种病毒正在变成头号公敌。科学家将它命名为B.1.617。这个新冠病毒变种去年就在印度被发现了，但直到现在才引发讨论。很多人说它是印度疫情迅猛扩散的原因；②18日，印度当局宣布新增27.3万例确诊病例，1619例死亡病例，创该国新高。这个南亚巨头将巴西挤下全球受新冠疫情影响第二严重国家的位置，累计确诊达1500万例；印度科学家对疫苗的效果仍持乐观态度。印度1月16日用在浦那生产的阿斯利康和巴拉特生物技术有限公司的国产疫苗启动了接种行动。1.07亿人接种了至少一剂；③报道称，B.1.617变种虽然没有让疫苗和口罩失效，扩散速度却极快，造成病床和氧气短缺。专业人士说：在第二波疫情最严重的马哈拉施特拉邦的某些县，60%的抽样是新变种携带者。但旁遮普邦主要是英国变种。这两个邦是主要感染源。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0801606.d.html</link>
+            <guid>2131706</guid>
+            <pubDate>Tue, 20 Apr 2021 09:59:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[因科技股下跌，印度SENSEX指数抹去涨幅，跌0.1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7900948.d.html</link>
-            <guid>2131463</guid>
-            <pubDate>Tue, 20 Apr 2021 06:57:23 GMT</pubDate>
+            <title><![CDATA[【国际能源署：2021年全球能源需求将增长4.6%】国际能源署20日发布《2021年全球能源回顾》报告预计，2021年全球能源需求将增长4.6%，全球与能源相关的二氧化碳排放量将增加4.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0801507.d.html</link>
+            <guid>2131705</guid>
+            <pubDate>Tue, 20 Apr 2021 09:58:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【长亮科技：公司电子钱包的应用基于银行核心系统 但与数字人民币没有直接必然关系】长亮科技在互动平台表示，公司的确有电子钱包的相关研发项目，但该项目与数字人民币的没有直接必然关系。它是一个基于移动端的研发项目。安卓与IOS是两种不同的移动端，肯定要进行差异化工作。电子钱包的应用基础应当是基于银行核心系统的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0760894.d.html</link>
-            <guid>2131462</guid>
-            <pubDate>Tue, 20 Apr 2021 06:56:33 GMT</pubDate>
+            <title><![CDATA[【洲明科技：今年面临的主要压力来源于原材料的紧缺和涨价】洲明科技在互动平台表示，公司所在行业使用的芯片涉及种类较多。今年面临的主要压力来源于原材料的紧缺和涨价，灯珠、驱动IC、阻容等普遍存在供货紧张、价格不同程度上涨现象，给公司出货和毛利带来一定的压力，公司会根据市场行情并结合产品的定位对产品价格进行重新评估及调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7941201.d.html</link>
+            <guid>2131704</guid>
+            <pubDate>Tue, 20 Apr 2021 09:58:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马来西亚新增2341例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0760833.d.html</link>
-            <guid>2131461</guid>
-            <pubDate>Tue, 20 Apr 2021 06:56:13 GMT</pubDate>
+            <title><![CDATA[6天5板渤海汽车：公司目前持有北汽蓝谷3.01%股份，根据新金融工具准则，该部分股权分类为以公允价值计量且其变动计入其他综合收益的权益工具投资，北汽蓝谷股价波动计入其他综合收益，不影响公司当期损益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7941144.d.html</link>
+            <guid>2131703</guid>
+            <pubDate>Tue, 20 Apr 2021 09:57:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国欧洲事务部长博恩：强生新冠疫苗仍然有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7900350.d.html</link>
-            <guid>2131460</guid>
-            <pubDate>Tue, 20 Apr 2021 06:54:52 GMT</pubDate>
+            <title><![CDATA[【苹果欲改变流媒体音乐版税支付方式：用户每听1首歌，平台付1美分】日前，苹果(AAPL.O)提议对流媒体音乐服务设定固定的版税，用户每听1首歌，平台要向版权持有人付1美分。若该提议通过并实施，将对现有音乐版税制度产生重大影响。苹果在向音乐艺术家、唱片公司以及出版商发送的信件中提议，对于流媒体音乐服务设定固定的版税：用户每播放一首歌曲，苹果需向版权持有人（包括唱片公司、出版商和其他发行商）支付1美分。苹果表示，其用户每月订阅收入中的52%都支付给了唱片公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7941004.d.html</link>
+            <guid>2131702</guid>
+            <pubDate>Tue, 20 Apr 2021 09:57:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工行一季度承销6支“碳中和”绿色债券 共募集资金超300亿元】记者今日从工行获悉，截至一季度末，工行主承销各类债券300支，承销规模超3600亿元。其中，完成6支“碳中和”绿色债券承销，为发行人募集资金超300亿元。]]></title>
-            <link>https://finance.sina.cn/money/bank/gsdt/2021-04-20/detail-ikmxzfmk7902558.d.html</link>
-            <guid>2131459</guid>
-            <pubDate>Tue, 20 Apr 2021 06:54:32 GMT</pubDate>
+            <title><![CDATA[平安银行：一季度净利润为101.32亿元，同比增长18.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7940762.d.html</link>
+            <guid>2131701</guid>
+            <pubDate>Tue, 20 Apr 2021 09:55:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【长鹰信质：有一条产线专门向华为汽车供货】记者从长鹰信质获悉，公司已成为华为汽车供应商，目前有一条产线专为华为汽车提供定转子产品，待华为汽车量产后，公司将考虑根据需求增加产品供应。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7900193.d.html</link>
-            <guid>2131458</guid>
-            <pubDate>Tue, 20 Apr 2021 06:54:12 GMT</pubDate>
+            <title><![CDATA[也门胡塞武装据悉袭击了沙特阿拉伯的阿巴哈机场，沙特方面没有确认。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7940433.d.html</link>
+            <guid>2131700</guid>
+            <pubDate>Tue, 20 Apr 2021 09:53:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股期货小幅走低，纳指期货转跌，标普500指数期货涨幅缩窄至0.13%，道指期货涨0.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0760156.d.html</link>
-            <guid>2131457</guid>
-            <pubDate>Tue, 20 Apr 2021 06:53:31 GMT</pubDate>
+            <title><![CDATA[【大洋电机：公司在新能源汽车业务方面与北汽极狐建立了良好的合作关系】大洋电机在互动平台表示，公司在新能源汽车业务方面与北汽极狐建立了良好的合作关系，但公司新能源汽车动力总成产品未配套于北汽极狐新车型极狐阿尔法S华为HI版智能电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0800656.d.html</link>
+            <guid>2131699</guid>
+            <pubDate>Tue, 20 Apr 2021 09:53:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【爱尔眼科：艾芬右眼视网膜脱离与手术无直接关联，医院在诊疗流程和规范管理上存在不足】武汉爱尔眼科4月20日通过微信公众号发布关于与艾芬医疗纠纷事件的通告。武汉爱尔眼科表示，集团工作者及医院对艾芬的诊疗进行核查后，认为艾芬术后5个月发生右眼视网膜脱离与白内障手术无直接关联。医院在诊疗流程、病历书写和规范管理上存在不足。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7899161.d.html</link>
-            <guid>2131456</guid>
-            <pubDate>Tue, 20 Apr 2021 06:50:21 GMT</pubDate>
+            <title><![CDATA[【中朝边境近期重新开放了？外交部回应】今天下午，外交部发言人汪文斌主持例行记者会。有记者提问，据称近期中朝边境重新开放了，中朝之间的贸易量也有所上升，外交部能否证实相关情况。汪文斌表示，中朝是友好的近邻，有着开展正常经贸往来的需要。中方尊重朝方的防疫措施，愿同朝方在确保防疫安全的基础上加强各领域的交流合作。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7940363.d.html</link>
+            <guid>2131698</guid>
+            <pubDate>Tue, 20 Apr 2021 09:52:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【反对！北京市控烟协会对电子烟监管新规提交反馈意见】北京市控烟协会4月20日表示，协会已于日前正式提交反馈意见，对增加“电子烟等新型烟草制品参照本条例中关于卷烟的有关规定执行”的提议持反对态度，认为国家烟草专卖局本质上是在执行烟草总公司的企业职能，不适合作为电子烟的监管单位。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0759108.d.html</link>
-            <guid>2131455</guid>
-            <pubDate>Tue, 20 Apr 2021 06:49:25 GMT</pubDate>
+            <title><![CDATA[【复宏汉霖移除“B”标记 成第四只甩“B”生科股】复宏汉霖(02696.HK)今日公布，自本周五（4月23日）起，公司的中英文股份简称将不再添加标记“B”。据港交所上市规则，未盈利的生物科技公司在上市时需在股票名称后加上“-B”标记。复宏汉霖是继君实生物(01877.HK)、信达生物(01801.HK)和百济神州(06160.HK)后，第四只移除“B”标记的生物科技股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0800392.d.html</link>
+            <guid>2131697</guid>
+            <pubDate>Tue, 20 Apr 2021 09:51:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金立群称将增加非亚洲地区贷款比例 亚投行“朋友圈”将会继续扩大】在博鳌亚洲论坛2021年年会期间，亚洲基础设施投资银行行长金立群表示，虽然亚投行的全称叫做亚洲基础设施投资银行，但是亚投行是面向全球开放的，凡是世界银行、亚洲开发银行的成员都可以，他们也是国际货币基金的成员，从管理和监管上，与这些国家的合作也体现了国际合作方面遵循共同合作的原则，所以还会有一些国家加入。亚投行也在逐步地开展对非亚洲国家的贷款，以亚洲为中心、为重点，也要给其他国家提供贷款，非亚洲地区的贷款比例至少要增加到25%。 (央视财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0759022.d.html</link>
-            <guid>2131454</guid>
-            <pubDate>Tue, 20 Apr 2021 06:48:57 GMT</pubDate>
+            <title><![CDATA[【智己汽车首款车型L7开放预定 首日配额售罄】4月20日，智己汽车首款车型L7正式对外开放预定，首日200辆额度在2分12秒内被预定完毕。据悉，智己汽车L7的预售价为40.88万元，预计明年一季度正式交付用户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0800258.d.html</link>
+            <guid>2131696</guid>
+            <pubDate>Tue, 20 Apr 2021 09:50:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩政府：上半年有望为1200万人接种新冠疫苗】韩国政府20日表示，正同疫苗供应商展开协商确保疫苗供应充足，完成上半年为1200万人接种新冠疫苗的目标。将按此目标充分引进疫苗，保障接种工作顺利进行。政府将在全国各级行政区增设疫苗接种点，提升疫苗接种速度，争取到月底累计接种300万人。（韩联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0758665.d.html</link>
-            <guid>2131453</guid>
-            <pubDate>Tue, 20 Apr 2021 06:46:30 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：呼吁外国不要出现“大规模反俄精神病症”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799959.d.html</link>
+            <guid>2131695</guid>
+            <pubDate>Tue, 20 Apr 2021 09:49:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[常熟汽饰在互动平台上表示，公司是北汽蓝谷ARCFOX极狐的供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7898367.d.html</link>
-            <guid>2131452</guid>
-            <pubDate>Tue, 20 Apr 2021 06:45:42 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：最近，俄罗斯周边国际局势紧张，但是俄罗斯并没有引发这种紧张局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7939673.d.html</link>
+            <guid>2131694</guid>
+            <pubDate>Tue, 20 Apr 2021 09:49:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A股尾盘三大股指悉数翻绿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0758285.d.html</link>
-            <guid>2131451</guid>
-            <pubDate>Tue, 20 Apr 2021 06:44:31 GMT</pubDate>
+            <title><![CDATA[欧盟委员会：对德国、奥地利和比利时的三家铁路公司处以4800万欧元的罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799758.d.html</link>
+            <guid>2131693</guid>
+            <pubDate>Tue, 20 Apr 2021 09:48:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比特币短线走低逾600美元，现报54100美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7898067.d.html</link>
-            <guid>2131450</guid>
-            <pubDate>Tue, 20 Apr 2021 06:44:08 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：美俄关系处于最低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799699.d.html</link>
+            <guid>2131692</guid>
+            <pubDate>Tue, 20 Apr 2021 09:47:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根大通：内险股可于财报季建仓，看好中国平安(02318.HK)、中国人寿(02628.HK)及中国财险(02328.HK)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7897983.d.html</link>
-            <guid>2131449</guid>
-            <pubDate>Tue, 20 Apr 2021 06:43:44 GMT</pubDate>
+            <title><![CDATA[英国公平竞争及市场管理局：沃尔玛百货(WMT.N)旗下Asda的并购案引起有关市场竞争担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799667.d.html</link>
+            <guid>2131690</guid>
+            <pubDate>Tue, 20 Apr 2021 09:47:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阳光电源董事长曹仁贤：加快技术融合 实现电力能源数字化】4月20日，国家电网新能源云发布会在北京举行。中国光伏行业协会理事长、阳光电源董事长曹仁贤受邀参会并代表讲话。曹仁贤认为，行业要聚焦新能源主赛道，持续提升企业的科技创新能力和核心竞争力，要以更低的发电成本、更平稳的出力特征完成能源革命目标，加快新能源装备技术与新一代信息技术的深度融合，实现电力能源的清洁化、数字化，构建更广泛的能源数字生态圈，促进新能源行业可持续发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7896955.d.html</link>
-            <guid>2131448</guid>
-            <pubDate>Tue, 20 Apr 2021 06:39:45 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：普京没有与捷克当局会谈的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799457.d.html</link>
+            <guid>2131689</guid>
+            <pubDate>Tue, 20 Apr 2021 09:46:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4月19日，亚太股份与地平线签署战略合作协议，双方将围绕高级驾驶辅助（ADAS）、面向L2-L4的自动驾驶、汽车视觉感知等领域展开深入合作，建立长期稳定的合作伙伴关系。（亚太股份官网）]]></title>
-            <guid>2131447</guid>
-            <pubDate>Tue, 20 Apr 2021 06:38:31 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：这些行动是企图遏制俄罗斯，这种针对莫斯科的袭击必须停止。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799434.d.html</link>
+            <guid>2131688</guid>
+            <pubDate>Tue, 20 Apr 2021 09:46:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚投行行长称不会对债务重的国家停止贷款，钱要用在刀刃上】在问到是否担心一些国家对债务的偿还能力时，亚洲基础设施投资银行行长金立群表示，国家造成债务危机不是因为借债，而是因为借来的债没有用好，没有把借来的钱用到刀口上，没有把借来的钱用于生产性的项目，才会造成债务危机。有些债务重的国家，如果停止对他们提供贷款，只会加剧他的债务和经济问题。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7896485.d.html</link>
-            <guid>2131446</guid>
-            <pubDate>Tue, 20 Apr 2021 06:38:03 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：捷克对俄罗斯参与2014年爆炸事件的指控是毫无根据的，损害了双边关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799408.d.html</link>
+            <guid>2131687</guid>
+            <pubDate>Tue, 20 Apr 2021 09:46:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务院：考虑到全球新冠病毒流行趋势，将把全世界近80%的国家地区都列为第四级“不宜出游”目的地国，目前，在美国“不宜出游”目的地名单上有34个国家或地区，主要是一些战乱地区。但美国官员指出，虽然美国国内旅游已经逐步恢复，但在全球疫情仍然严峻的背景下，仍不建议国民尤其是未接种疫苗者贸然出国旅行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0756570.d.html</link>
-            <guid>2131445</guid>
-            <pubDate>Tue, 20 Apr 2021 06:37:48 GMT</pubDate>
+            <title><![CDATA[乌克兰能源部：由于白罗斯炼油厂维修，合同延期，乌克兰面临柴油供应延迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799393.d.html</link>
+            <guid>2131686</guid>
+            <pubDate>Tue, 20 Apr 2021 09:46:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北京市累计报告接种新冠病毒疫苗2112.54万剂次。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0756162.d.html</link>
-            <guid>2131444</guid>
-            <pubDate>Tue, 20 Apr 2021 06:36:21 GMT</pubDate>
+            <title><![CDATA[【中国央行行长易纲：继续落实绿色投资原则，多渠道加强绿色发展能力建设】 易纲称，要继续落实绿色投资原则。人民银行将继续鼓励金融机构在“一带一路”投融资中深化落实，特别是要评估环境和气候风险，加强信息披露。二是多渠道加强绿色发展能力建设。人民银行将继续帮助发展中国家加强绿色金融能力建设，增强他们支持自身绿色转型、应对气候变化的能力。我们也支持多边开发机构发挥专长，为有需要的发展中国家提供绿色金融相关能力建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799334.d.html</link>
+            <guid>2131685</guid>
+            <pubDate>Tue, 20 Apr 2021 09:45:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国KOSPI指数上涨0.7％，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0756109.d.html</link>
-            <guid>2131443</guid>
-            <pubDate>Tue, 20 Apr 2021 06:36:10 GMT</pubDate>
+            <title><![CDATA[乌克兰能源部计划提高国内柴油产量，通过海港进口更多柴油，并从波兰和立陶宛进口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0799270.d.html</link>
+            <guid>2131684</guid>
+            <pubDate>Tue, 20 Apr 2021 09:45:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿里巴巴实力助攻上海“五五购物节”】上海证券报记者4月20日在上海市政府新闻发布会上获悉，上海第二届“五五购物节”期间，盒马、饿了么、聚划算、天猫、飞猪、大润发等阿里巴巴12个业务板块积极参与，助力上海城市消费扩容提质。据悉，今年阿里巴巴旗下平台的整体补贴投入力度将会远高于去年。首发商家数也超过去年，活动的内容和形式也更加丰富多元。（中国证券网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0755993.d.html</link>
-            <guid>2131442</guid>
-            <pubDate>Tue, 20 Apr 2021 06:35:43 GMT</pubDate>
+            <title><![CDATA[市场消息：埃及已同意购买2000万剂国药新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7939014.d.html</link>
+            <guid>2131683</guid>
+            <pubDate>Tue, 20 Apr 2021 09:45:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊：很长一段时间内都不会进行爱尔兰边境民意调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7895627.d.html</link>
-            <guid>2131441</guid>
-            <pubDate>Tue, 20 Apr 2021 06:35:03 GMT</pubDate>
+            <title><![CDATA[【美银证券：上调李宁目标价至67.3港元 评级买入】 美银证券发表报告表示，李宁(02331.HK)今年首季零售销售按年增逾80%，亦较2019年同期上升超过50%，高于市场预期；相信是内地运动服装品牌中录最大增长之一。该行预计，李宁强劲的增长势头会持续至第二季，更料公司对全年之销售增长及毛利率指引有上调空间。该行重申对内地体育用品行业及李宁前景持正面看法，重申其买入评级，且将其今明两年盈利预测分别上调2%，目标价由58.7港元升至67.3港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7938637.d.html</link>
+            <guid>2131682</guid>
+            <pubDate>Tue, 20 Apr 2021 09:42:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[碳中和概念集体异动，长源电力、远达环保涨停，惠博普涨，雪迪龙涨，中材节能、先河环保等集体跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0755527.d.html</link>
-            <guid>2131440</guid>
-            <pubDate>Tue, 20 Apr 2021 06:34:11 GMT</pubDate>
+            <title><![CDATA[瑞信：暂停了lemsouger基金的推出，原因是对风险的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0798102.d.html</link>
+            <guid>2131681</guid>
+            <pubDate>Tue, 20 Apr 2021 09:39:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国KOSPI指数4月20日（周二）收盘上涨21.86点，涨幅0.68%，报3220.70点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7895230.d.html</link>
-            <guid>2131439</guid>
-            <pubDate>Tue, 20 Apr 2021 06:33:36 GMT</pubDate>
+            <title><![CDATA[现货铂金刚刚刺穿1190.00美元/盎司关口，最新报1188.61美元/盎司，日图跌1.85%；Nymex铂金期货主力最新报1191.0美元/盎司，日图跌1.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7937707.d.html</link>
+            <guid>2131680</guid>
+            <pubDate>Tue, 20 Apr 2021 09:38:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【大华银行：美元兑日元料逐步走低】大华银行技术分析认为，未来几周美元兑日元将逐步走低，上日对汇价将盘整的预期是错误的，一度跌至108.00，虽然大跌过度，但企稳之前首先将测试107.90，日内不太可能触及下一支撑位107.70，上行方面，阻力位于108.40和108.60。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7895161.d.html</link>
-            <guid>2131438</guid>
-            <pubDate>Tue, 20 Apr 2021 06:33:19 GMT</pubDate>
+            <title><![CDATA[美股期货跌幅扩大，标普500指数期货跌0.3%，纳指期货跌0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7937553.d.html</link>
+            <guid>2131679</guid>
+            <pubDate>Tue, 20 Apr 2021 09:37:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新加坡铁矿石指数期货05合约日内涨超3%，跟随大连铁矿石期货涨势，因中国钢铁利润率走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0754949.d.html</link>
-            <guid>2131437</guid>
-            <pubDate>Tue, 20 Apr 2021 06:32:12 GMT</pubDate>
+            <title><![CDATA[【国泰君安正式进军公募】国泰君安集团全资子公司--上海国泰君安证券资产管理有限公司收到中国证监会换发的经营证券期货业务许可证，正式开拓公募业务。国泰君安资管是三年多来首家获批公募业务许可的券商资管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0797656.d.html</link>
+            <guid>2131678</guid>
+            <pubDate>Tue, 20 Apr 2021 09:37:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[荣联科技与Teradata天睿公司联合发布云数据分析平台解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0754648.d.html</link>
-            <guid>2131436</guid>
-            <pubDate>Tue, 20 Apr 2021 06:31:17 GMT</pubDate>
+            <title><![CDATA[【人民币收创逾一个月新高】① 人民币兑美元即期周二收创逾一个月新高，中间价亦续升至四周高点；交易员称，美债收益率下滑令美元吸引力降低，美指跌破91关口创一个半月新低，人民币顺势反弹；他们并指出，欧美疫苗接种变化以及市场预期变化也会对市场形成明显扰动；美国经济增长预期较好，美债收益率和美元调整后仍有上行空间；② 一中资行交易员称，“近期美元感觉塌了，挺惊讶的，美元居然只是小反弹了一波，现在方向不是很明朗，欧元应该还没结束”；全球汇市方面，美元周二亚洲盘中跌至近七周低点，在此同时欧元大涨，因投资人对于欧洲疫苗接种速度越来越乐观，同时美债收益率仍低于3月急涨后的高点；③ 德商银行最新报告中称，美元近期下跌是因为，美联储再向市场保证，不会很快结束货币刺激政策，而欧洲疫苗接种情况改善也支撑了欧元，情况可能会迅速改变；该行策略师You-Na Park-Heger说，美国经济复苏可能进一步推升通胀预期，加剧升息揣测，由于不确定性仍很高，欧元区与新冠疫情有关的新闻形势可能再次发生变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7937396.d.html</link>
+            <guid>2131677</guid>
+            <pubDate>Tue, 20 Apr 2021 09:36:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄军空袭叙利亚境内一极端组织基地】俄罗斯驻叙利亚冲突各方调解中心19日晚发表声明说，俄空天军日前空袭叙利亚境内巴尔米拉附近一个极端组织基地，消灭约200名武装人员。声明没有具体说明空袭时间以及针对哪个极端组织。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0754314.d.html</link>
-            <guid>2131435</guid>
-            <pubDate>Tue, 20 Apr 2021 06:30:29 GMT</pubDate>
+            <title><![CDATA[港交所权益资料显示，微盟集团(02013.HK)获摩根大通于04月14日在场内以每股平均价16.4313港元增持1136.42万股，涉资约1.87亿港元，增持后最新持股数目为1.65亿股，持股比例由6.73%增持至7.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7936957.d.html</link>
+            <guid>2131676</guid>
+            <pubDate>Tue, 20 Apr 2021 09:34:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本丰田2025年前将推出15款纯电动汽车】丰田4月19日在上海国际车展上发布消息称，到2025年将推出包括9款新车型在内的15款纯电动汽车（EV）。丰田还设立了纯电动汽车新品牌“TOYOTA bZ”，首款车是与斯巴鲁（SUBARU）共同开发的SUV，将于2022年中期投放市场。（日经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0753838.d.html</link>
-            <guid>2131433</guid>
-            <pubDate>Tue, 20 Apr 2021 06:29:03 GMT</pubDate>
+            <title><![CDATA[【星网宇达：公司跟美团无人车项目一直在合作 已开始批量供货】星网宇达在互动平台表示，公司跟美团的无人车项目一直在合作，已经开始批量的供货。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0796783.d.html</link>
+            <guid>2131675</guid>
+            <pubDate>Tue, 20 Apr 2021 09:32:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【关键支撑位告破 美元今年“反共识”涨势日薄西山】彭博美元即期指数跌势延续至第七天之际，关键支撑位接连告破，为进一步下跌指明了方向。受美债收益率回落以及全球通货再膨胀交易熄火影响，本月迄今该美元指数已经下跌超过2%。除非跌势刹车，否则美元势将抹去今年涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7893648.d.html</link>
-            <guid>2131432</guid>
-            <pubDate>Tue, 20 Apr 2021 06:28:44 GMT</pubDate>
+            <title><![CDATA[【疫苗管理部际联席会议召开第三次全体会议】会议强调，当前我国疫苗安全形势总体稳定，同时进一步完善疫苗管理体制、保障疫苗安全有效任务仍然艰巨繁重，疫苗生产、流通、接种、供应等各环节管理仍面临较大压力和挑战。要切实加强疫苗全程监管，健全疫苗电子追溯体系，确保疫苗质量安全、接种安全和供应安全。（市场监管总局）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7936629.d.html</link>
+            <guid>2131674</guid>
+            <pubDate>Tue, 20 Apr 2021 09:32:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华泰证券：上调李宁目标价21%至70港元 预计2021-23年净利润年复合增长率37%】华泰证券发布研究报告，将李宁(02331)目标价上调21%至70港元，评级“买入”。将公司2021-23年的净利润预测上调11/12/13%至25.7亿/34亿/44亿元人民币，以反映1Q21零售销售的强劲增长势头，尤其是线上渠道。该行认为，鉴于强劲的需求复苏和中国本土品牌受欢迎度提升，强劲的零售销售增长势头年内有望延续。该行预测2021-23年净利润的年复合增长率为37.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7893082.d.html</link>
-            <guid>2131431</guid>
-            <pubDate>Tue, 20 Apr 2021 06:26:43 GMT</pubDate>
+            <title><![CDATA[欧洲斯托克600指数跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7936610.d.html</link>
+            <guid>2131673</guid>
+            <pubDate>Tue, 20 Apr 2021 09:32:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【报告：预计2021年将有超万亿居民资金流入A股】中国建投研究院发布的《投资蓝皮书：中国投资发展报告（2021）》认为，2021年A股市场最显著的推动力将是资金因素，国内外资金将持续流入A股。预计2021年将有超过万亿的居民资金通过公募、保险和银行理财子公司等机构产品渠道流入A股。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0753101.d.html</link>
-            <guid>2131430</guid>
-            <pubDate>Tue, 20 Apr 2021 06:26:19 GMT</pubDate>
+            <title><![CDATA[  【南向资金今日净流入53.91亿港元】南向资金今日净流入53.91亿港元。港股通(沪)方面，美团－Ｗ净买入6.52亿港元，小米集团－Ｗ净买入5.22亿港元。港股通(深)方面，美团－Ｗ净买入14.50亿港元，舜宇光学科技净买入2.93亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7936523.d.html</link>
+            <guid>2131672</guid>
+            <pubDate>Tue, 20 Apr 2021 09:31:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波兰政府发言人：波兰最有可能在5月份就欧盟基金进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0752851.d.html</link>
-            <guid>2131429</guid>
-            <pubDate>Tue, 20 Apr 2021 06:25:34 GMT</pubDate>
+            <title><![CDATA[  【北向资金净流出4.97亿 比亚迪净卖出5.59亿】北向资金今日净流出4.97亿。比亚迪、赣锋锂业、牧原股份、宁德时代净卖出居前，分别获净卖出5.59亿元、5.02亿元、2.84亿元、2.43亿元]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0796546.d.html</link>
+            <guid>2131671</guid>
+            <pubDate>Tue, 20 Apr 2021 09:31:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本2020财年对中国出口占比近23%，创十年新高】日本财务省4月19日发布的2020财年（2020年4月-2021年3月底）贸易统计速报显示，日本对中国出口所占比重为22.9％，首次超过2成，超过了对美国出口，创下10年来新高。日本2020财年的总出口额为69万4873亿日元，同比下滑8.4％。（日经中文网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7892650.d.html</link>
-            <guid>2131428</guid>
-            <pubDate>Tue, 20 Apr 2021 06:25:09 GMT</pubDate>
+            <title><![CDATA[  美股股指期货继续下挫，道指期货跌幅扩大至0.3%，标普500指数跌0.2%，纳指期货跌0.08%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7936242.d.html</link>
+            <guid>2131670</guid>
+            <pubDate>Tue, 20 Apr 2021 09:30:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[挪威石油理事会：挪威3月石油产量初值177.3万桶/天。挪威3月天然气初步产量为98亿立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0752649.d.html</link>
-            <guid>2131427</guid>
-            <pubDate>Tue, 20 Apr 2021 06:24:43 GMT</pubDate>
+            <title><![CDATA[中国央行行长易纲在博鳌亚洲论坛2021年年会“金融支持碳中和”圆桌会议上的主旨演讲全文。  http://t.cn/A6cCuPIc]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7936034.d.html</link>
+            <guid>2131669</guid>
+            <pubDate>Tue, 20 Apr 2021 09:29:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家能源局局长章建华：将研究出台全国性的电化学储能政策】4月16日，国家发展改革委党组成员，国家能源局党组书记、局长章建华率队到晋江储能电站调研。他指出，目前全国电化学储能规模仍然偏小，“十四五”期间国家将大力支持新型储能产业发展。要高度重视安全生产，针对制约晋江储能发展的困难问题，国家能源局以及有关主管部门将认真总结经验，研究出台全国性的电化学储能政策，扶持晋江储能正式商业运营，推动新型储能产业高质量发展。（福建投资集团）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7892214.d.html</link>
-            <guid>2131426</guid>
-            <pubDate>Tue, 20 Apr 2021 06:23:45 GMT</pubDate>
+            <title><![CDATA[【华龙一号海外工程巴基斯坦卡拉奇三号机组冷试成功】当地时间2021年4月20日，巴基斯坦卡拉奇3号机组（K-3机组）一回路压力达到22.3MPa，主系统一回路水压试验一次成功，标志着K-3机组由安装阶段全面转入调试阶段。这是继华龙一号海外首堆并网发电之后，华龙一号海外工程建设又取得重大进展。]]></title>
+            <guid>2131668</guid>
+            <pubDate>Tue, 20 Apr 2021 09:28:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数4月20日（周二）收盘下跌47.80点，跌幅0.68%，报7017.80点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0751992.d.html</link>
-            <guid>2131425</guid>
-            <pubDate>Tue, 20 Apr 2021 06:22:32 GMT</pubDate>
+            <title><![CDATA[【澳门“五一”黄金周酒店订房率达七至八成】澳门特区政府旅游局副局长程卫东20日在接受媒体采访时表示，随着“五一”黄金周将至，据酒店业界反映，目前订房情况理想，总体订房率达七至八成。未来，澳门旅游局将加强内地市场宣传，包括通过电视、网络及电商平台等方式，以提升假期整体旅游气氛。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0795589.d.html</link>
+            <guid>2131667</guid>
+            <pubDate>Tue, 20 Apr 2021 09:26:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港股教育板块持续走高，教育指数涨5.6%】宇华教育和中国东方教育涨近10%，中教控股涨超8%，希望教育和大地教育涨超6%，嘉宏教育涨超5%，大山教育、天立教育和向中国际涨超4%，市场近期比较关注民促法实施条例修订进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0751962.d.html</link>
-            <guid>2131424</guid>
-            <pubDate>Tue, 20 Apr 2021 06:22:23 GMT</pubDate>
+            <title><![CDATA[市场消息：俄罗斯1至2月黄金产量为38.09吨，去年为39.71吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0795489.d.html</link>
+            <guid>2131666</guid>
+            <pubDate>Tue, 20 Apr 2021 09:25:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：中国电动车电池生产商蜂巢能源正与投资者洽谈，融资30-50亿元，目标在2022年上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0751845.d.html</link>
-            <guid>2131423</guid>
-            <pubDate>Tue, 20 Apr 2021 06:21:59 GMT</pubDate>
+            <title><![CDATA[市场消息：俄罗斯1至2月白银产量为147.47吨，去年为142.30吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0795436.d.html</link>
+            <guid>2131665</guid>
+            <pubDate>Tue, 20 Apr 2021 09:25:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【四维图新与华夏出行达成战略合作】四维图新与华夏出行在第十九届上海国际车展宣布正式建立战略合作关系，双方将在新能源共享出行智能充电服务领域及智能出行领域建立全面合作。以满电出行和摩范出行的前期合作为基础，四维图新与华夏出行将进一步整合双方在产品和技术上的优质资源，为构建新能源出行智能服务生态体系建设，推动更多的未来出行智能化产品落地作出努力和尝试。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0751809.d.html</link>
-            <guid>2131422</guid>
-            <pubDate>Tue, 20 Apr 2021 06:21:48 GMT</pubDate>
+            <title><![CDATA[  齐峰新材公告，公司2021年度一季度实现净利润9007万元，同比增长536.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0795296.d.html</link>
+            <guid>2131664</guid>
+            <pubDate>Tue, 20 Apr 2021 09:25:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[财经网站Forexlive首席经济学家JustinLow评英国3月失业金申请人数：整体数据继续出现波动性跳升，但由于无薪休假计划使得数据难以深入解读。英国国家统计局注意到，英国的就业率估计为75.1%，同比下降了1.4%。年度薪酬增长将继续加强，但这可能是同疫情前劳动力市场状况相比，低收入工作岗位减少的缘故。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7891102.d.html</link>
-            <guid>2131421</guid>
-            <pubDate>Tue, 20 Apr 2021 06:20:05 GMT</pubDate>
+            <title><![CDATA[纽元兑美元NZD/USD日内上涨0.50%，现报0.7210。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7935158.d.html</link>
+            <guid>2131663</guid>
+            <pubDate>Tue, 20 Apr 2021 09:24:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股医美板块持续走高，四环医药(00460.HK)涨11%，必瘦站(01830.HK)涨近10%，瑞丽医美(02135.HK)涨2.5%。]]></title>
-            <guid>2131419</guid>
-            <pubDate>Tue, 20 Apr 2021 06:17:12 GMT</pubDate>
+            <title><![CDATA[欧股跌幅扩大，法国CAC40指数跌超1%，意大利富时MIB指数跌1.08%，西班牙IBEX35指数跌1.65%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7935139.d.html</link>
+            <guid>2131662</guid>
+            <pubDate>Tue, 20 Apr 2021 09:24:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[捷克过去24小时新增3301例新冠病毒感染病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0750555.d.html</link>
-            <guid>2131418</guid>
-            <pubDate>Tue, 20 Apr 2021 06:16:32 GMT</pubDate>
+            <title><![CDATA[  【渤海轮渡：子公司客滚船发生车辆舱着火事件】渤海轮渡公告，4月19日晚上22时07分许，公司控股子公司威海市海大客运有限公司客滚船“中华富强”号由威海驶往大连的行驶途中发现车辆舱内一辆货车所载货物出现冒烟现象，随即返航威海港。事件发生后，海大客运与威海市相关部门迅速启动应急响应，对船上旅客、船员进行妥善疏散安置。4月20日11时40分许，在救援过程中，发生爆燃，现场无人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7934362.d.html</link>
+            <guid>2131661</guid>
+            <pubDate>Tue, 20 Apr 2021 09:21:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：印尼计划在5月份开始新冠疫苗私人接种计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7890130.d.html</link>
-            <guid>2131417</guid>
-            <pubDate>Tue, 20 Apr 2021 06:14:55 GMT</pubDate>
+            <title><![CDATA[印度SENSEX指数跌幅扩大至0.8％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0794387.d.html</link>
+            <guid>2131660</guid>
+            <pubDate>Tue, 20 Apr 2021 09:21:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：高评级的信贷状况似乎稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0750240.d.html</link>
-            <guid>2131416</guid>
-            <pubDate>Tue, 20 Apr 2021 06:14:25 GMT</pubDate>
+            <title><![CDATA[【5000亿资管巨头正式进军公募，国君董事长贺青：未来十年是财富管理"黄金时代"】 国泰君安集团全资子公司–上海国泰君安证券资产管理有限公司收到中国证监会换发的经营证券期货业务许可证，正式开拓公募业务。国泰君安证券董事长贺青表示，作为将金融报国理念融入发展战略的头部券商，国泰君安一直将满足百姓日益增长的财富管理需求作为自己的使命和追求。未来十年是财富管理的“黄金时代”，国泰君安将继续践行普惠金融的理念，积极承担起头部券商的社会责任。（券商中国）]]></title>
+            <guid>2131659</guid>
+            <pubDate>Tue, 20 Apr 2021 09:21:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：将积极支持金融机构应对气候变化风险和数字化的努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7890058.d.html</link>
-            <guid>2131415</guid>
-            <pubDate>Tue, 20 Apr 2021 06:14:16 GMT</pubDate>
+            <title><![CDATA[【14万人请愿呼吁亚马逊支持狗狗币支付】据报道，加密货币狗狗币（Dogecoin）近日价格飙升后，外网已有超过14万人签署请愿书，呼吁亚马逊接受狗狗币作为付款方式。该请愿书提到，亚马逊不接受狗狗币支付，“疏远了许多没有传统银行账户的人”。请愿书还称，尽管狗狗币已经被许多小企业主，慈善组织和企业家所接受，但亚马逊若接受这种支付方式，将成为最早使用它作为支付方式的主要公司之一。 对此，亚马逊暂未回应置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0794119.d.html</link>
+            <guid>2131658</guid>
+            <pubDate>Tue, 20 Apr 2021 09:20:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[越南股市VN指数上涨2%，再创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0750044.d.html</link>
-            <guid>2131414</guid>
-            <pubDate>Tue, 20 Apr 2021 06:13:03 GMT</pubDate>
+            <title><![CDATA[【农发行张文才：扩大绿色信贷和支持气候融资的规模】 中国农业发展银行副行长张文才4月20日在博鳌亚洲论坛“金融支持碳中和圆桌”上表示，将加大绿色金融产品研发力度，加快补充完善服务三农以及小微企业的绿色信贷产品，积极探索排污权、用能权、碳排放权的绿色权益担保方式，不断拓宽绿色金融服务管理，扩大绿色信贷和支持气候融资的规模。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0793778.d.html</link>
+            <guid>2131657</guid>
+            <pubDate>Tue, 20 Apr 2021 09:19:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白酒板块小幅跳水，金徽酒、迎驾贡酒涨停炸板，酒鬼酒等多股涨幅回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7889866.d.html</link>
-            <guid>2131413</guid>
-            <pubDate>Tue, 20 Apr 2021 06:12:46 GMT</pubDate>
+            <title><![CDATA[新东方第三季度净营收11.9亿美元，同比增长29%，第三季度学生入学总数同比增长43％，第三季度调整后每ADS收益10美分，上年同期93美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7933467.d.html</link>
+            <guid>2131656</guid>
+            <pubDate>Tue, 20 Apr 2021 09:18:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马来西亚4月1日至20日棕榈油出口81.3946万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7889806.d.html</link>
-            <guid>2131412</guid>
-            <pubDate>Tue, 20 Apr 2021 06:12:19 GMT</pubDate>
+            <title><![CDATA[【科大讯飞刘庆峰：目前公司毛利率良性发展 未来将保持稳定】4月20日，科大讯飞董事长刘庆峰表示，公司毛利率下降主要因为C端产品占比提升所致，目前公司毛利率是良性发展，未出现重大变化，未来公司毛利率将保持稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0793004.d.html</link>
+            <guid>2131655</guid>
+            <pubDate>Tue, 20 Apr 2021 09:15:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[西太平洋银行：预计2021年澳大利亚房价将增长15%，2022年将增长5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7889757.d.html</link>
-            <guid>2131411</guid>
-            <pubDate>Tue, 20 Apr 2021 06:11:58 GMT</pubDate>
+            <title><![CDATA[  伟明环保公布2021年第一季度报告，实现营业收入7.51亿元，同比增长72.16%；归属于上市公司股东的净利润3.68亿元，同比增长87.27%；基本每股收益0.29元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0792890.d.html</link>
+            <guid>2131654</guid>
+            <pubDate>Tue, 20 Apr 2021 09:14:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：疫情后，银行仍面临低利率和结构性问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0749844.d.html</link>
-            <guid>2131410</guid>
-            <pubDate>Tue, 20 Apr 2021 06:11:38 GMT</pubDate>
+            <title><![CDATA[欧盟内部市场委员布雷顿：“毫无疑问”所有欧盟国家都能达到70%的接种目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7932476.d.html</link>
+            <guid>2131653</guid>
+            <pubDate>Tue, 20 Apr 2021 09:13:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[铁矿石期货主力合约突破1100元/吨，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0749395.d.html</link>
-            <guid>2131409</guid>
-            <pubDate>Tue, 20 Apr 2021 06:10:00 GMT</pubDate>
+            <title><![CDATA[欧盟内部市场委员布雷顿：12个欧盟国家对70%的疫苗接种目标是可以接受的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7932371.d.html</link>
+            <guid>2131652</guid>
+            <pubDate>Tue, 20 Apr 2021 09:12:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息，可口可乐CEO詹姆斯·昆西表示，可口可乐将提高饮料价格，以应对大宗商品成本上涨的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7889163.d.html</link>
-            <guid>2131408</guid>
-            <pubDate>Tue, 20 Apr 2021 06:09:31 GMT</pubDate>
+            <title><![CDATA[靖远煤电：下属魏家地煤矿发生一起安全生产事故，1名工作人员在清理积煤时，身体被夹在皮带机头第一个导向滚筒处受伤，后经抢救无效死亡。公司暂不能准确预计本次事故造成的直接经济损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0792244.d.html</link>
+            <guid>2131651</guid>
+            <pubDate>Tue, 20 Apr 2021 09:11:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：风险包括更严格的外汇安全条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7889050.d.html</link>
-            <guid>2131407</guid>
-            <pubDate>Tue, 20 Apr 2021 06:08:42 GMT</pubDate>
+            <title><![CDATA[  华体科技4月20日晚间公告，公司与德阳经济技术开发区管理委员会签署了《项目投资协议》，拟投资5亿元建设智慧路灯智能制造项目。]]></title>
+            <guid>2131650</guid>
+            <pubDate>Tue, 20 Apr 2021 09:10:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：最新数据表明，就业市场近几个月基本稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0749073.d.html</link>
-            <guid>2131406</guid>
-            <pubDate>Tue, 20 Apr 2021 06:08:05 GMT</pubDate>
+            <title><![CDATA[  安徽建工公告，公司2021年度一季度实现净利润2.91亿元，同比增长338.55%。报告期内公司各项业务平稳有序顺利实施，营业收入和利润指标均创一季度历史最好水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7931647.d.html</link>
+            <guid>2131649</guid>
+            <pubDate>Tue, 20 Apr 2021 09:09:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：经过连续几个月的增长后，在职员工人数在2021年3月出现小幅下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7888906.d.html</link>
-            <guid>2131405</guid>
-            <pubDate>Tue, 20 Apr 2021 06:07:50 GMT</pubDate>
+            <title><![CDATA[【葛卫东减持科大讯飞】 昨日晚间，科大讯飞一同发布2020年年报及2021年一季报，定期报告中披露出知名私募大佬葛卫东以及疑似其家属王萍的投资动向，名为王萍的账户在去年四季度大举加仓科大讯飞。然而今年一季度，股东葛卫东稍微进行了减持，减持99万股，王萍账户今年一季度持股不变。以昨日收盘价计算，葛卫东及其家属持股市值约47亿元。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7931588.d.html</link>
+            <guid>2131648</guid>
+            <pubDate>Tue, 20 Apr 2021 09:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：银行海外贷款质量在整个疫情期间保持较高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0749002.d.html</link>
-            <guid>2131403</guid>
-            <pubDate>Tue, 20 Apr 2021 06:07:40 GMT</pubDate>
+            <title><![CDATA[  掌阅科技：2020年全年净利润为2.64亿元，同比增长64.07%；拟10派1元。]]></title>
+            <guid>2131645</guid>
+            <pubDate>Tue, 20 Apr 2021 09:08:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：2021年1月至3月的职位空缺数量同比下降了近23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748966.d.html</link>
-            <guid>2131402</guid>
-            <pubDate>Tue, 20 Apr 2021 06:07:26 GMT</pubDate>
+            <title><![CDATA[德国基社盟议会主席DOBRINDT：支持拉舍特是“可疑”的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7931224.d.html</link>
+            <guid>2131644</guid>
+            <pubDate>Tue, 20 Apr 2021 09:07:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行金融稳定报告：日本央行将积极支持金融机构应对气候变化风险和数字化的努力。潜在风险包括信贷成本的上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748936.d.html</link>
-            <guid>2131401</guid>
-            <pubDate>Tue, 20 Apr 2021 06:07:16 GMT</pubDate>
+            <title><![CDATA[  华体科技公告，公司与德阳经济开发区管理委员会签署《项目投资协议》，项目主要产品为多功能灯杆、视泊机器人等产品，本协议项目总投资额5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0790863.d.html</link>
+            <guid>2131642</guid>
+            <pubDate>Tue, 20 Apr 2021 09:05:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：本季度职位空缺数量的增长有所放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748875.d.html</link>
-            <guid>2131400</guid>
-            <pubDate>Tue, 20 Apr 2021 06:06:57 GMT</pubDate>
+            <title><![CDATA[【中晶科技：子公司拟向晶盛机电购买八吋晶圆抛光线BCX8-ZJS设备】中晶科技公告，公司下属全资子公司浙江中晶新材料研究有限公司拟向浙江晶盛机电股份有限公司(300316)购买八吋晶圆抛光线BCX8-ZJS设备，交易总金额为8000万元（含税）。采购的设备将会用于募投项目中的“高端分立器件和超大规模集成电路用单晶硅片项目”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7930640.d.html</link>
+            <guid>2131641</guid>
+            <pubDate>Tue, 20 Apr 2021 09:05:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：即使疫情再次蔓延，金融体系也能保持韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748817.d.html</link>
-            <guid>2131399</guid>
-            <pubDate>Tue, 20 Apr 2021 06:06:35 GMT</pubDate>
+            <title><![CDATA[【汇丰银行：英镑料跑输其他G10货币】汇丰银行经济学家认为，大部分利好消息都已计入汇价，相对于利差而言，英镑兑美元现在看起来已经高估，当周期性支撑的吸引力减弱时，重新关注英国庞大的双重赤字可能令英镑承压，英镑充分利用了对强劲周期性上升的预期，因为新冠病毒疫苗在英国的成功推广，以及政府在2021年预算内的财政慷慨，支持了国内经济；货币政策方面，英国央行似乎对英国政府债券收益率上升持宽松态度，呼应美联储的说法，即这只是反映了对经济的合理乐观情绪，市场对英国央行的预期也变得不那么温和了，许多景气周期方面的利好消息已被英镑消化，英镑兑美元目前相对于其利差看来偏高，因此下行风险可能存在；由于其他国家可能会缩小英国在疫苗推广方面的早期领先优势，疫苗的效力可能会在未来几个月减弱，抑制英镑的涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7930163.d.html</link>
+            <guid>2131640</guid>
+            <pubDate>Tue, 20 Apr 2021 09:03:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：与2021年2月相比，2021年3月的带薪就业人数减少了5.6万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748786.d.html</link>
-            <guid>2131398</guid>
-            <pubDate>Tue, 20 Apr 2021 06:06:25 GMT</pubDate>
+            <title><![CDATA[【三连板路畅科技：无人驾驶技术和产品离规模化商用尚有一定的距离】三连板路畅科技(002813)4月20日晚间披露股价异动公告并提示风险：全球范围内智能驾驶、车联网、无人驾驶技术发展势头迅猛。但是，无人驾驶技术和产品离规模化商用尚有一定的距离。同时，智能驾驶、车联网、无人驾驶的技术门槛高，产品的产业化过程长，存在开发进度和产品化不及预期的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7929307.d.html</link>
+            <guid>2131639</guid>
+            <pubDate>Tue, 20 Apr 2021 09:00:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行金融稳定报告：日本金融体系对冲击具有弹性，但信贷成本上升，银行持有的证券可能造成损失，银行美元融资可能中断等风险都存在。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748736.d.html</link>
-            <guid>2131397</guid>
-            <pubDate>Tue, 20 Apr 2021 06:06:02 GMT</pubDate>
+            <title><![CDATA[【科大讯飞刘庆峰：预计对校外教育市场的投入短期不会产生较大收益】科大讯飞董事长刘庆峰表示，校外教育将来一定是校内校外互补、线上线下相结合的教育。科大讯飞希望通过AI判断孩子的薄弱环节，减少重复学习时间，实施因材施教，所以公司决定启动校外教育市场。公司预计对这一市场的投入短期不会产生较大收益，所以内部要求团队跟投。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7929087.d.html</link>
+            <guid>2131637</guid>
+            <pubDate>Tue, 20 Apr 2021 08:59:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行金融稳定报告：投资者风险情绪改善，资金流入股市，新兴经济体飙升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7888562.d.html</link>
-            <guid>2131396</guid>
-            <pubDate>Tue, 20 Apr 2021 06:05:42 GMT</pubDate>
+            <title><![CDATA[市场消息：巴基斯坦外长将于4月20日至22日访问伊朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0789204.d.html</link>
+            <guid>2131636</guid>
+            <pubDate>Tue, 20 Apr 2021 08:58:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国2月三个月ILO就业人数变动 -7.3万人，预期 -14.5万人，前值 -14.7万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7888395.d.html</link>
-            <guid>2131395</guid>
-            <pubDate>Tue, 20 Apr 2021 06:04:42 GMT</pubDate>
+            <title><![CDATA[  恒瑞医药：近日收到国家药品监督管理局核准签发关于硫酸氢伊伐布雷定缓释片的《药物临床试验批准通知书》，将于近期开展临床试验。]]></title>
+            <guid>2131635</guid>
+            <pubDate>Tue, 20 Apr 2021 08:57:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：流向股市和新兴国家的资本将增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748387.d.html</link>
-            <guid>2131394</guid>
-            <pubDate>Tue, 20 Apr 2021 06:04:03 GMT</pubDate>
+            <title><![CDATA[  国际足联主席因凡蒂诺：国际足联强烈反对成立欧洲超级联赛，这个超级联赛是自闭的，和目前的机构是脱节的 。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7928724.d.html</link>
+            <guid>2131634</guid>
+            <pubDate>Tue, 20 Apr 2021 08:57:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：员工薪酬的平均年度增长率继续加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7888262.d.html</link>
-            <guid>2131393</guid>
-            <pubDate>Tue, 20 Apr 2021 06:03:49 GMT</pubDate>
+            <title><![CDATA[澳元兑美元AUD/USD日内涨0.50%，现报0.7793。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7928344.d.html</link>
+            <guid>2131633</guid>
+            <pubDate>Tue, 20 Apr 2021 08:55:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行发布半年度金融体系报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7888247.d.html</link>
-            <guid>2131392</guid>
-            <pubDate>Tue, 20 Apr 2021 06:03:40 GMT</pubDate>
+            <title><![CDATA[  高盛：首予知乎(ZH.N)买入评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7928108.d.html</link>
+            <guid>2131632</guid>
+            <pubDate>Tue, 20 Apr 2021 08:54:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行：市场风险情绪有所改善；日本银行的职能运作顺利。]]></title>
-            <guid>2131391</guid>
-            <pubDate>Tue, 20 Apr 2021 06:03:17 GMT</pubDate>
+            <title><![CDATA[  隆基股份：2020年全年净利润为85.52亿元，同比增长61.99%；拟10转4派2.5元。今年一季度实现净利润25.02亿元，同比增34.24%。]]></title>
+            <guid>2131631</guid>
+            <pubDate>Tue, 20 Apr 2021 08:54:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国2月三个月ILO失业率 4.9%，预期 5%，前值 5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748209.d.html</link>
-            <guid>2131390</guid>
-            <pubDate>Tue, 20 Apr 2021 06:02:47 GMT</pubDate>
+            <title><![CDATA[【马骏：衡量小微企业“绿”或“不绿”应有明确标准】对于绿色金融向中小企业延伸的问题，中国金融学会绿色金融专业委员主任马骏20日在博鳌亚洲论坛会场表示，当下最大的困难是小微企业还没有绿色的界定标准，因此大量小微企业无法享受各种绿色金融的优惠。未来应对衡量小微企业“绿”或“不绿”有一套明确的标准。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0788165.d.html</link>
+            <guid>2131630</guid>
+            <pubDate>Tue, 20 Apr 2021 08:53:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【京城多家银行加码“经营贷”审查条款】4月20日，多位银行信贷客户经理向记者透露称，“行内对‘经营贷’业务的审核资质已经有所调整，主要包括个人背景和交易背景的真实性”。例如，发现违反相关合同约定的贷款，将进行强制收回操作；违规借款人将被纳入征信，并明确标注为“关注类贷款”等。在分析人士看来，银行已经从根本上对贷款资金流向开展了更加严厉的业务限制。（北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0748167.d.html</link>
-            <guid>2131389</guid>
-            <pubDate>Tue, 20 Apr 2021 06:02:30 GMT</pubDate>
+            <title><![CDATA[  中国银行：中国银行保险监督管理委员会已批准本行参与投资设立国家绿色发展基金股份有限公司，本行将出资80亿元人民币，自绿色基金注册成立之日起分五年到位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0787709.d.html</link>
+            <guid>2131629</guid>
+            <pubDate>Tue, 20 Apr 2021 08:51:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日经225指数收跌2%，报29100.38点。日本东证指数收跌1.5%，报1926.25点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7887987.d.html</link>
-            <guid>2131388</guid>
-            <pubDate>Tue, 20 Apr 2021 06:02:00 GMT</pubDate>
+            <title><![CDATA[【云图控股：一季度净利同比增210.80%】云图控股(002539)4月20日晚间公告，公司一季度实现营业收入29.5亿元，同比增长37.17%；净利润1.81亿元，同比增210.80%；基本每股收益0.18元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0787684.d.html</link>
+            <guid>2131628</guid>
+            <pubDate>Tue, 20 Apr 2021 08:51:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国3月PPI月率终值录得0.9，为2月19日以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0747998.d.html</link>
-            <guid>2131387</guid>
-            <pubDate>Tue, 20 Apr 2021 06:01:20 GMT</pubDate>
+            <title><![CDATA[【易纲：将通过存款保险费率、MPA考核等加大对绿色金融的支持力度】中国人民银行行长易纲提出，央行已将绿色债券和绿色信贷纳入央行贷款便利的合格抵押品的范围，并且将创立支持碳减排的(货币政策)工具，激励金融机构为碳减排提供更多的资金；央行还将通过商业银行评级、存款保险的费率、宏观审慎评估等渠道，加大对绿色金融和碳减排的支持力度，促进跨境绿色资金流动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmxzfmk7926990.d.html</link>
+            <guid>2131627</guid>
+            <pubDate>Tue, 20 Apr 2021 08:49:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本东京新增确诊711例新冠肺炎病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0747969.d.html</link>
-            <guid>2131386</guid>
-            <pubDate>Tue, 20 Apr 2021 06:01:01 GMT</pubDate>
+            <title><![CDATA[美股股指期货周二进入欧洲时段后转跌，回吐日内早先涨幅，因日内美债收益率再度回升，市场重新担心起美国通胀抬头前景，同时美国本土疫苗率接种过半后，可能面临后劲不足的状况，当前也重新受到了市场的瞩目。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0786979.d.html</link>
+            <guid>2131626</guid>
+            <pubDate>Tue, 20 Apr 2021 08:48:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线波动不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0747919.d.html</link>
-            <guid>2131385</guid>
-            <pubDate>Tue, 20 Apr 2021 06:00:44 GMT</pubDate>
+            <title><![CDATA[【易纲：将要求金融机构做好有序渐进的绿色转型】中国人民银行行长易纲表示，目前我国的绿色金融发展还存在着一些问题。例如，部分资产的价格没有充分体现环境的负外部性，这一方面由于一些企业的环境信息还没有得到有效披露，另一方面是许多行业还没有纳入碳定价，央行将要求金融机构做好有序渐进的绿色转型。在转型过程中，安全第一，节能优先。在充分考虑现有基础设施设计使用寿命和折旧的前提下，加快绿色转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-20/detail-ikmyaawc0786885.d.html</link>
+            <guid>2131625</guid>
+            <pubDate>Tue, 20 Apr 2021 08:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
