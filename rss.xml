@@ -4,11 +4,217 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 23 Apr 2021 19:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Apr 2021 22:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【全球货币政策有异：发达国家宽松不改，新兴市场加息】受疫情影响，去年全球央行均保持较为宽松的货币政策。今年以来，随着疫情影响减弱，经济恢复成为主要看点，通胀担忧等也随之出现。一季度，巴西、土耳其、俄罗斯先后加息，成为疫情以来首先进入加息周期的经济体。然而，由于疫情并未得到全面遏制，经济活动水平仍未恢复到疫情前水平，多数发达国家央行宣布会继续保持宽松的货币环境，全球央行在货币政策抉择上，走到十字路口。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1477444.d.html</link>
+            <guid>2139348</guid>
+            <pubDate>Fri, 23 Apr 2021 22:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报头版评论：加征富人税恐难解美国“K型复苏”难题】 美国在加税道路上越走越远。对富人加税设想能否成真，外界并不看好，因为任何这样的上调都需要国会通过。高盛就认为，翻倍的富人税只是拜登政府的一厢情愿，美国国会最多通过28%的税率。最后结果如何，有待进一步观察。但是，美国这几年在减税和增税之间反复，反映出美国债务危机的深化，也给了我们一个提醒：如果没有财税改革做基础，没有充足的财源做基础，推动产业创新升级和缓解贫富悬殊问题都难以实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8617649.d.html</link>
+            <guid>2139347</guid>
+            <pubDate>Fri, 23 Apr 2021 22:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF：上调智利2021年GDP预期至增长6.5%，之前料增6.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1476859.d.html</link>
+            <guid>2139346</guid>
+            <pubDate>Fri, 23 Apr 2021 21:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季报解密公募基金动向：增仓1114只个股，银行等三行业受追捧】 截至4月23日，东方财富数据显示，基金一季度末持有1680只A股股票，从持股总市值来看，贵州茅台、五粮液、海康威视、中国中免、招商银行等5只个股位列基金一季度末持仓股市值前五名。上述1680只个股主要扎堆在医药生物、电子、化工、机械设备、计算机等五大行业。有1114只个股获得基金加仓。新进股方面，有379只个股为新进个股。从行业角度来看，银行、钢铁、食品饮料三大行业基金加仓股占行业股比例最高。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8617225.d.html</link>
+            <guid>2139345</guid>
+            <pubDate>Fri, 23 Apr 2021 21:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（4月23日）纽约尾盘，CME比特币期货BTC主力合约报50565美元，较周四纽约尾盘跌4.34%，盘中交投于52150-47395美元区间，本周累跌18.42%。CME以太币期货DCR主力合约报2332.50美元，较周四纽约尾盘跌8.13%，盘中交投于2450-25-2121.25美元区间，本周累跌4.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8617034.d.html</link>
+            <guid>2139344</guid>
+            <pubDate>Fri, 23 Apr 2021 21:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4900元，较周四纽约尾盘涨58点，盘中整体交投于6.4983-6.4855元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1476530.d.html</link>
+            <guid>2139343</guid>
+            <pubDate>Fri, 23 Apr 2021 21:41:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报头版评论：严禁“无照驾驶”，金融强监管持续发力】 4月22日召开的2021年处置非法集资部际联席会议释放出两个信号，一是整治非法集资、“无照驾驶”，监管持续升级。二是防范新型风险成监管最新关注。目前，一些不法分子打着“区块链”等金融创新的旗号，通过发行所谓“虚拟货币”“虚拟资产”等方式吸收资金。对这种隐蔽的新型风险必须要保持高度警惕。因为金融体系很多隐患来自性质模糊、名实不符的产品和交易。因此，对于金融市场中可能存在的“灰色地带”不留监管真空，应通过穿透式监管，让非法金融活动无处藏身，彻底铲除风险滋生的土壤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1476398.d.html</link>
+            <guid>2139342</guid>
+            <pubDate>Fri, 23 Apr 2021 21:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  强生回应美国疾控中心的决定：将继续与疾控中心和食品药品监督管理局合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1476053.d.html</link>
+            <guid>2139341</guid>
+            <pubDate>Fri, 23 Apr 2021 21:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据美国约翰斯·霍普金斯大学于美国东部时间4月23日16时20分（北京时间4月24日4时20分）统计的数据，美国新冠肺炎累计确诊病例已超过3196万例，达到31968306例。累计死亡病例超过57万例，达到570977例。]]></title>
+            <guid>2139340</guid>
+            <pubDate>Fri, 23 Apr 2021 21:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西最近24小时新增69105例新冠肺炎病例，新增2914例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8616194.d.html</link>
+            <guid>2139339</guid>
+            <pubDate>Fri, 23 Apr 2021 21:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国疾控中心建议使用强生疫苗】当地时间周五，美国疾控中心顾问小组以10票同意，4票反对，1票弃权的结果，确认建议使用强生的新冠疫苗，称其“益处大于风险”。这一结果将为监管机构最早于本周末恢复接种强生疫苗铺平道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8615706.d.html</link>
+            <guid>2139338</guid>
+            <pubDate>Fri, 23 Apr 2021 20:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心专家组确认支持授权使用强生新冠肺炎疫苗。强生股价美股盘后涨超0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8615515.d.html</link>
+            <guid>2139337</guid>
+            <pubDate>Fri, 23 Apr 2021 20:50:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国芝加哥商业交易所（CME）上调CBOT硬质红冬小麦和软质红冬小麦期货的保证金，将于下周一（4月26日）收盘之后生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8615392.d.html</link>
+            <guid>2139336</guid>
+            <pubDate>Fri, 23 Apr 2021 20:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在美上市iShares安硕MSCI印度ETF收涨0.63%，报40.05美元，但3月11日以43.79美元创收盘历史新高之后，持续走软，目前已经走出倒V看跌形态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8614939.d.html</link>
+            <guid>2139334</guid>
+            <pubDate>Fri, 23 Apr 2021 20:30:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国奥委会：德国体育界正遭受数十亿欧元的损失】 当地时间4月23日，德国奥委会主席阿尔方斯·霍尔曼在接受媒体采访时表示，由于防疫措施给体育活动带来的限制，德国体育界正遭受巨大的损失。他指出：“多项分析表明，全国范围内的体育损失已达数十亿欧元。”据霍尔曼透露，越来越多的体育俱乐部职员被迫离职，而许多赞助商的撤离也让俱乐部损失惨重：“我们三分之二的成员组织不确定他们能否在今年继续保持稳定运营。”他呼吁采取更加差异化的体育开放政策，尤其是针对非接触式的户外体育运动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8614429.d.html</link>
+            <guid>2139333</guid>
+            <pubDate>Fri, 23 Apr 2021 20:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币重回51000美元/枚上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1473529.d.html</link>
+            <guid>2139332</guid>
+            <pubDate>Fri, 23 Apr 2021 20:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股芯片股普涨，半导体板块ETF涨1.8%，AMD涨超4%，英特尔跌超5%。科技股普涨，社交媒体公司Snap涨超7%，此前公布财报。韩国电商Coupang涨超6%。FAANMG中，谷歌涨超%，苹果涨近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1473397.d.html</link>
+            <guid>2139331</guid>
+            <pubDate>Fri, 23 Apr 2021 20:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概跑赢大盘，中概互联网指数ETF涨2.4%，优信涨近60%，涂鸦智能涨17%，老虎证券、雾芯科技涨超15%，哔哩哔哩涨超7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8613819.d.html</link>
+            <guid>2139330</guid>
+            <pubDate>Fri, 23 Apr 2021 20:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指集体高收，道指初步收涨220点，标普500指数盘中创纪录新高，部分中概股表现强势，5G概念、半导体板块涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1473284.d.html</link>
+            <guid>2139329</guid>
+            <pubDate>Fri, 23 Apr 2021 20:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【苹果将与沃尔格林(walgreens)联合推出为员工接种疫苗的项目】苹果(AAPL.O)即将启动员工接种新冠疫苗的计划苹果公司正在启动一项计划，为在苹果总部办公的员工提供新冠肺炎疫苗接种。苹果公司正在与沃尔格林布茨联盟（Walgreens）合作提供这些疫苗，员工将能够在苹果公司即将推出的一个网页上报名。苹果公司的疫苗接种计划是自愿的，而且苹果公司为接受疫苗后需要时间来恢复副作用症状的员工提供病假。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8613631.d.html</link>
+            <guid>2139322</guid>
+            <pubDate>Fri, 23 Apr 2021 19:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[部分中概股大涨，优信二手车涨超70%，涂鸦智能、人人、雾芯科技、知乎涨超15%。老虎证券涨14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8613544.d.html</link>
+            <guid>2139318</guid>
+            <pubDate>Fri, 23 Apr 2021 19:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  优信二手车(UXIN.O)尾盘暴涨超70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1472686.d.html</link>
+            <guid>2139311</guid>
+            <pubDate>Fri, 23 Apr 2021 19:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥国际航空达成协议，将增加24架新的波音(BA.N)737飞机和4架787-9梦幻客机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1472469.d.html</link>
+            <guid>2139307</guid>
+            <pubDate>Fri, 23 Apr 2021 19:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大指数尾盘均涨超1%，其中纳指涨幅扩大至1.74%；标普500指数刷新历史新高。]]></title>
+            <guid>2139292</guid>
+            <pubDate>Fri, 23 Apr 2021 19:39:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Ocugen宣布注册发行1亿美元普通股】Ocugen(OCGN.O)宣布，已与专注于医疗保健的机构投资者达成最终协议，将以每股10美元的收购价格，在注册的直接发行中出售总计1000万股普通股。发售预计将在4月27日或左右结束，前提是满足惯例交割条件。H.C. Wainwright & Co.是本次发行的独家配售代理。在扣除配售代理费用和Ocugen应支付的其他配售费用之前，本次发行的总收益预计约为1亿美元。Ocugen打算将发行所得的净收入用于一般公司用途、资本支出、营运资本以及一般和行政开支。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1472206.d.html</link>
+            <guid>2139291</guid>
+            <pubDate>Fri, 23 Apr 2021 19:39:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股尾盘持续走强，道指涨幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612632.d.html</link>
+            <guid>2139286</guid>
+            <pubDate>Fri, 23 Apr 2021 19:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：4月20日当周，投机者所持COMEX黄金净多头头寸增加4,534手合约，至69,300手合约。投机者所持COMEX白银净多头头寸增加5,520手合约，至34,405手合约；所持COMEX铜净多头头寸增加6,810手合约，至45,083手合约。投机者所持NYMEX铂金净多头头寸增加1,096手合约，至16,074手合约；所持NYMEX钯金净多头头寸减少6手合约，至3,688手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612626.d.html</link>
+            <guid>2139285</guid>
+            <pubDate>Fri, 23 Apr 2021 19:35:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：4月20日当周，投机者所持NYMEX WTI原油净多头头寸减少4,455手合约，至364,466手合约。投机者所持布伦特月WTI原油净多头头寸增加10,770手合约，至652,701手合约。投机者所持NYMEX汽油净多头头寸增加5,016手合约，至60,973手合约；所持NYMEX取暖油净多头头寸增加65手合约，至16,959手合约。投机者所持NYMEX天然气净多头头寸增加14,429手合约，至330,349手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612624.d.html</link>
+            <guid>2139284</guid>
+            <pubDate>Fri, 23 Apr 2021 19:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AT&T(T.N)：将探索出售娱乐工作室Rooster Teeth在线媒体部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612617.d.html</link>
+            <guid>2139283</guid>
+            <pubDate>Fri, 23 Apr 2021 19:35:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：确认摩根大通(JPM.N)的评级为“AA-/F1+”；展望调整至稳定。]]></title>
+            <guid>2139282</guid>
+            <pubDate>Fri, 23 Apr 2021 19:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉：确认高盛(GS.N)评级为“ A/F1”；展望调整为稳定。]]></title>
+            <guid>2139281</guid>
+            <pubDate>Fri, 23 Apr 2021 19:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元指数DXY持续走低，日跌幅达0.5%，暂报90.83。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471952.d.html</link>
+            <guid>2139271</guid>
+            <pubDate>Fri, 23 Apr 2021 19:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指尾盘涨幅扩大至300点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612459.d.html</link>
+            <guid>2139270</guid>
+            <pubDate>Fri, 23 Apr 2021 19:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英伟达(NVDA.O)尾盘涨幅扩大至3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471945.d.html</link>
+            <guid>2139269</guid>
+            <pubDate>Fri, 23 Apr 2021 19:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫气候特使克里：已经针对气候变化问题作出减碳承诺的那些国家的经济体量在全球总体GDP中占比达到55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1471799.d.html</link>
+            <guid>2139264</guid>
+            <pubDate>Fri, 23 Apr 2021 19:23:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  恒指期货夜盘收涨0.45%，报29184点，高水105点。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8612051.d.html</link>
@@ -393,216 +599,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8599608.d.html</link>
             <guid>2139110</guid>
             <pubDate>Fri, 23 Apr 2021 15:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：我们将在气候问题上处于关键时刻。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8599586.d.html</link>
-            <guid>2139109</guid>
-            <pubDate>Fri, 23 Apr 2021 15:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：美国总统拜登将于6月访问英国和比利时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8599576.d.html</link>
-            <guid>2139108</guid>
-            <pubDate>Fri, 23 Apr 2021 15:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫：美国总统拜登将出席在英国康沃尔举行的G7峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1459188.d.html</link>
-            <guid>2139107</guid>
-            <pubDate>Fri, 23 Apr 2021 15:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨近200点或0.59%，标普500指数涨0.93%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1459173.d.html</link>
-            <guid>2139106</guid>
-            <pubDate>Fri, 23 Apr 2021 15:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心（CDC）：接种强生公司（JNJ）新冠肺炎疫苗之后，美国的血栓事件已经造成3人死亡、7人住院接受治疗、另有5人出院。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1459135.d.html</link>
-            <guid>2139105</guid>
-            <pubDate>Fri, 23 Apr 2021 15:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心主管Walensky：过去一周美国新冠肺炎病例下降了10%，这是“充满希望的趋势”。 美国疾控中心建议孕妇接种新冠疫苗。 美国已经接种了800万剂强生疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1459000.d.html</link>
-            <guid>2139104</guid>
-            <pubDate>Fri, 23 Apr 2021 15:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1458976.d.html</link>
-            <guid>2139103</guid>
-            <pubDate>Fri, 23 Apr 2021 15:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲理事会主席Michel：呼吁5月25日在布鲁塞尔举办面对面的欧洲理事会会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8598927.d.html</link>
-            <guid>2139102</guid>
-            <pubDate>Fri, 23 Apr 2021 15:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：正努力达到出口疫苗的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8598911.d.html</link>
-            <guid>2139101</guid>
-            <pubDate>Fri, 23 Apr 2021 15:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银：钯金市场有100万盎司的供应缺口，相当于2021年需求的9.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1458333.d.html</link>
-            <guid>2139100</guid>
-            <pubDate>Fri, 23 Apr 2021 15:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲药品管理局仍推荐接种第二剂阿斯利康新冠疫苗】 当地时间4月23日下午，欧洲药品管理局应欧盟委员会的要求更新了对阿斯利康新冠疫苗的评估意见，为欧盟成员国的疫苗接种策略提供了最新的指导。欧洲药管局仍然认为，对于所有年龄层的接种者来说，接种阿斯利康疫苗的益处均大于风险。数据显示，目前接种阿斯利康疫苗后出现伴有血小板减少的异常血栓症状的几率大概为十万分之一，这种症状已被欧洲药管局列为该疫苗非常罕见的副作用。目前并没有足够的证据说明接种第二剂之后的风险与只接种一剂的风险有任何不同。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8598586.d.html</link>
-            <guid>2139099</guid>
-            <pubDate>Fri, 23 Apr 2021 15:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内商品期货夜盘收盘多数上涨 苯乙烯涨超2%】国内商品期货夜盘收盘多数上涨，能源化工品表现强劲，苯乙烯涨2.03%，PTA涨1.59%，短纤涨1.51%，聚丙烯涨1.4%，燃油涨1.05%。黑色系全线上涨，铁矿石涨2.87%，螺纹钢涨2.38%，刷新历史新高，热轧卷板涨2.05%，刷新历史新高，焦炭涨1.23%，焦煤涨1.09%，动力煤涨0.43%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1458290.d.html</link>
-            <guid>2139098</guid>
-            <pubDate>Fri, 23 Apr 2021 15:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京海淀区入学政策“下猛料”】 4月23日，北京海淀区、西城区、东城区三大主流学区的教育招生考试中心同时发布《2021年义务教育阶段入学工作的实施意见》）。从内容看，海淀区在招生政策中下猛料，提出“自2022年1月1日后，户籍从外省市或本市其他区迁入海淀区的适龄儿童申请入小学时，不再对应登记入学划片学校，在区内协调解决。自2022年起，所有用于九年一贯制学校登记入学的住房，九年内只提供一个入学学位（符合国家生育政策的除外）。”相比之下，西城、东城的入学政策符合此前预期。分析人士表示，根据最新规定，未来想通过户口投靠的方式在海淀入学的适龄儿童，不单一对应某一所学校。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1458276.d.html</link>
-            <guid>2139097</guid>
-            <pubDate>Fri, 23 Apr 2021 15:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【顺丰房托通过上市聆讯 拟下周一预路演】顺丰控股(002352.SZ)分拆顺丰房托在港上市，顺丰房托已通过港交所上市聆讯。外电引述消息人士指，顺丰房托计划下周一开始预路演，拟在香港集资3亿美元，意味公司最快可于5月上市。星展为顺丰房托独家保荐人，瑞信及摩根大通是联席全球协调人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1458250.d.html</link>
-            <guid>2139096</guid>
-            <pubDate>Fri, 23 Apr 2021 15:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：正试图在欧洲央行推动关于气候变化的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8597948.d.html</link>
-            <guid>2139095</guid>
-            <pubDate>Fri, 23 Apr 2021 15:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院民主党人敦促拜登在儿童保健方面投资7000亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8597916.d.html</link>
-            <guid>2139094</guid>
-            <pubDate>Fri, 23 Apr 2021 15:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《黑天鹅》作者Nassim Taleb：比特币是个“噱头”和“游戏”，类似于庞氏骗局。比特币波动太大，无法成为有效货币，且不是对冲通胀的安全避险工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1457558.d.html</link>
-            <guid>2139093</guid>
-            <pubDate>Fri, 23 Apr 2021 15:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：海悦生活控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1457531.d.html</link>
-            <guid>2139092</guid>
-            <pubDate>Fri, 23 Apr 2021 15:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿斯利康新冠疫苗已经在加拿大引发4例血栓事件，拜登称还可借出更多】 加拿大安大略省一位医疗官员表示，安大略省确认一例与阿斯利康新冠疫苗有关的凝血病例，为加拿大境内第四例。患者是位60多岁的男性，此前注射了第一针疫苗，病人已经接受治疗，目前在康复中。加拿大迄今共接种疫苗逾110万剂，安大略省将继续向年龄40岁及以上的人群提供阿斯利康疫苗接种。中国日报此前报道称，美国总统拜登4月21日与加拿大总理Trudeau通话时表示，在美国已借给加拿大150万支英国产阿斯利康疫苗的基础上，“我们希望能多帮你们一点”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8597495.d.html</link>
-            <guid>2139091</guid>
-            <pubDate>Fri, 23 Apr 2021 14:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国政府：正密切关注印度发现的变异新冠病毒在德传播情况】德国联邦卫生部长施潘23日在柏林表示，将从“专业和政策角度出发”关注印度发现的变异新冠病毒。他指出，就已知的病毒信息来看，不排除将印度和其他一些相关国家列入“病毒变异地区”名单的可能。眼下，德国已将包括南非和巴西在内的国家归类为“病毒变异地区”。但施潘强调，也不能忽视印度和英国这两个国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8597419.d.html</link>
-            <guid>2139090</guid>
-            <pubDate>Fri, 23 Apr 2021 14:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为58，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1456160.d.html</link>
-            <guid>2139089</guid>
-            <pubDate>Fri, 23 Apr 2021 14:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大股指扩大涨幅，纳指涨0.95%，道指涨0.45%，标普500指数涨0.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8596253.d.html</link>
-            <guid>2139088</guid>
-            <pubDate>Fri, 23 Apr 2021 14:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：俄罗斯用户使用移动应用程序时间排名，TikTok居首】俄罗斯卫星网23日援引分析公司AppAnnie的数据报道说，在俄罗斯用户使用移动应用程序的时间排名上，TikTok（抖音海外版）已位居首位。据报道，4月4日至10日，俄罗斯用户使用社交网络移动应用程序时间上，TikTok用户使用时长为139.3亿分钟，相比之下，社交网络VKontakte的用户使用时长为110.8亿分钟。此外，同一时期（4月4日至10日），TikTok用户平均一周使用该程序约为8小时，而VKontakte的用户使用该程序的时间约为3小时46分钟。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1455900.d.html</link>
-            <guid>2139087</guid>
-            <pubDate>Fri, 23 Apr 2021 14:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：金融企业衡量气候风险“至关重要”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1455873.d.html</link>
-            <guid>2139086</guid>
-            <pubDate>Fri, 23 Apr 2021 14:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海指数创下2月中旬以来最大单周涨幅】波罗的海干散货运价指数周五涨38点或1.4%，报2788点，为2010年9月以来新高。海岬型船运价指数涨115点或2.8%，报4192点，创2020年10月初以来新高，日均获利增加954美元至34762美元。巴拿马型船运价指数跌56点，报2630点，日均获利减少509美元至23667美元。超灵便型船运价指数涨48点，报2085点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8595280.d.html</link>
-            <guid>2139084</guid>
-            <pubDate>Fri, 23 Apr 2021 14:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲药品管理局（EMA）：需要更多的证据来考虑监管改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1454843.d.html</link>
-            <guid>2139083</guid>
-            <pubDate>Fri, 23 Apr 2021 14:34:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元反弹，追随美债收益率涨3.56个基点，刷新日高至1.5754%的表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1454791.d.html</link>
-            <guid>2139082</guid>
-            <pubDate>Fri, 23 Apr 2021 14:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金失守1770美元/盎司，日内跌0.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8594861.d.html</link>
-            <guid>2139081</guid>
-            <pubDate>Fri, 23 Apr 2021 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月16日当周ECRI领先指标录得157.1，创纪录新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8594792.d.html</link>
-            <guid>2139080</guid>
-            <pubDate>Fri, 23 Apr 2021 14:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度批准了25家生产瑞德西韦的新工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1454373.d.html</link>
-            <guid>2139079</guid>
-            <pubDate>Fri, 23 Apr 2021 14:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3月新屋销售环比增长20.7%，重返100万户以上至102万户，创2006年8月以来新高，较去年3月新冠封锁时的低点高出惊人的66.8％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1454177.d.html</link>
-            <guid>2139078</guid>
-            <pubDate>Fri, 23 Apr 2021 14:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲药品管理局（EMA）：正在研究所有的疫苗，如果血栓病例增加，我们也会研究其他疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8594395.d.html</link>
-            <guid>2139077</guid>
-            <pubDate>Fri, 23 Apr 2021 14:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率重返1.57%上方，刷新日高至1.5718%，美股盘前曾走软至日低1.5296%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8594092.d.html</link>
-            <guid>2139076</guid>
-            <pubDate>Fri, 23 Apr 2021 14:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银持续下挫跌逾1%，现报25.86美元/盎司，此前一度涨逾1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmyaawc1453819.d.html</link>
-            <guid>2139075</guid>
-            <pubDate>Fri, 23 Apr 2021 14:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货涨超1%，现报66.07美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-23/detail-ikmxzfmk8593793.d.html</link>
-            <guid>2139074</guid>
-            <pubDate>Fri, 23 Apr 2021 14:21:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
