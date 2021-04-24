@@ -4,11 +4,248 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Apr 2021 10:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 13:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【杭州都市圈规划争取发改委批复 2025年GDP目标4.2万亿】近日，《2021年新型城镇化建设和城乡融合发展重点任务》发布，都市圈仍是重点内容之一。当下，杭州都市圈希望以数字经济和制造业为核心，推动产业迈向全球价值链中高端。目标到2025年，都市圈经济总量将达到4.2万亿元，研发投入强度达到3.3%，高新技术产业增加值占规上工业比重超过60%。目前，杭州正牵头其他几座副中心城市在交通互联、机制协同、产业互动等方面加速协同，以期在都市圈时代里，杭州都市圈能脱颖而出。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1585692.d.html</link>
+            <guid>2140103</guid>
+            <pubDate>Sat, 24 Apr 2021 13:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗新增18230例新冠肺炎感染病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1585073.d.html</link>
+            <guid>2140102</guid>
+            <pubDate>Sat, 24 Apr 2021 13:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商员工偷窥客户操作，“抄作业”炒股暴赚308万，2年交易超2亿】 近日，证监会披露一则关于券商前员工的市场禁入决定书，令市场哗然。决定书中披露，此人在国金证券任职时，私下获取系统操作员账号和密码，盯住国金证券6个客户账户，通过亲属账户进行跟踪交易。两年间，趋同交易成交额高达2.29亿元，获利308.14万元。证监会决定，没收其违法所得308.14万元，处以900万元罚款，并对他采取3年证券市场禁入措施。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8723657.d.html</link>
+            <guid>2140101</guid>
+            <pubDate>Sat, 24 Apr 2021 13:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【粤开证券：一季度基金持仓分化】从基金一季报来看，基金持仓呈现分化，一方面，顺周期和银行板块持仓增加，银行板块仓位提升2.39%，另一方面，食品饮料、医药生物、电子仍为前三大重仓，前期抱团股仍有较高仓位。我们认为，当前市场波动较大，但经济复苏保持韧性、市场潜在增量资金充足，可以关注结构性投资机会。配置方向上，一是继续抓住经济复苏+业绩弹性主线，寻找业绩有望超预期的低估品种，如景气向上的半导体、新能源汽车、中上游顺周期、地产后周期等。二是，继续关注政策利好的智能制造、海南、碳中和、数字货币、一带一路等主题投资机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8723173.d.html</link>
+            <guid>2140097</guid>
+            <pubDate>Sat, 24 Apr 2021 13:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国已建成超2万个图书馆分馆】从文化和旅游部获悉，截至2020年12月，全国已有2397个县（市、区）建立图书馆总分馆制，建成分馆数量超过2万个，满足了基层百姓阅读需求。]]></title>
+            <guid>2140086</guid>
+            <pubDate>Sat, 24 Apr 2021 12:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快手正在内测电商营销平台“磁力金牛”】 据快手官微，4月23日，2021“快手光合创作者大会”在广州举行。快手高级副总马宏彬在会上透露，快手商业化正在内测为电商商家提供更确定性成长的营销平台“磁力金牛”，磁力金牛借助打通账号、完善数据后台等升级，将为有电商营销诉求的客户提供综合解决方案，进一步打通公私域流量，帮助电商商家及客户营销升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8722218.d.html</link>
+            <guid>2140085</guid>
+            <pubDate>Sat, 24 Apr 2021 12:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京地方金融监管局：北京准备启动第四批金融科技创新“监管沙箱”项目征集】4月24日在《中国金融科技燃指数报告（2021）》发布会上，北京市地方金融监管局党组书记、局长霍学文透露，北京近期正在准备启动第四批金融科技创新监管沙箱项目征集。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8720512.d.html</link>
+            <guid>2140083</guid>
+            <pubDate>Sat, 24 Apr 2021 12:38:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本东电称核废物储液罐或已泄漏】 4月23日，据日本《朝日新闻》报道，日本东京电力公司发布消息称，福岛第一核电站内存有放射性废弃物的一个储液罐可能已经发生泄漏。3月，东电工作人员曾在储液罐存放区域发现辐射量较大的凝胶状物体。东电怀疑储液罐因锈蚀而导致渗漏。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8720158.d.html</link>
+            <guid>2140082</guid>
+            <pubDate>Sat, 24 Apr 2021 12:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科技部：中国一直为全球创新创业人才提供“理想栖息地”】 中国科学技术部部长王志刚在深圳说，中国一直以国际化的视野培养吸引高水平科技人才，为全球创新创业人才提供“理想栖息地”。当前，中国研发人员全时当量超过490万人年，长期在华工作外国人才超过33万人。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8719864.d.html</link>
+            <guid>2140081</guid>
+            <pubDate>Sat, 24 Apr 2021 12:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法新社：瑞士发现首例印度变种新冠病毒病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8719491.d.html</link>
+            <guid>2140080</guid>
+            <pubDate>Sat, 24 Apr 2021 12:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叶培建院士：中国小天体探测任务已进入工程研制阶段】 在2021年中国航天大会主论坛上，中国科学院院士叶培建透露，中国小天体探测任务已经进入工程研制阶段，计划探测地球共轨天体2016HO3和小行星311P。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8718239.d.html</link>
+            <guid>2140079</guid>
+            <pubDate>Sat, 24 Apr 2021 12:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建与七家大型国有金融机构签署战略合作协议】据福建日报消息，4月24日，福建省委书记尹力、省长王宁在福州，与中国农业银行董事长谷澍、中国银行董事长刘连舸、交通银行董事长任德奇、中国邮政储蓄银行董事长张金良、中国建设银行行长王江、中国工商银行副行长张文武、华夏银行行长张健华等进行交流座谈，并共同见证合作协议签署。合作协议涉及重点项目建设、创新型省份建设、现代产业体系建设、乡村振兴、普惠金融等多个方面。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8717838.d.html</link>
+            <guid>2140078</guid>
+            <pubDate>Sat, 24 Apr 2021 12:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际能源署署长比罗尔：我们需要真正的变革来应对环境问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1577925.d.html</link>
+            <guid>2140077</guid>
+            <pubDate>Sat, 24 Apr 2021 12:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国新增确诊63342例新冠肺炎病例，近期疫情激增有所缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1577064.d.html</link>
+            <guid>2140074</guid>
+            <pubDate>Sat, 24 Apr 2021 12:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【申万宏源：美股泡沫愈演愈烈，驱动美联储年内缩减QE】虽然美国房价涨幅在2020年低于加拿大，但美国的金融风险更多集中在股市，美股泡沫愈演愈烈，而拜登所提出的调升资本利得税更将加剧美股市场波动，这都将成为美联储年内缩减的主要驱动因素之一。在财政刺激导致就业和通胀同向变化的“菲利普斯悖论”之下，核心通胀以及愈演愈烈的金融风险应是美联储的主要关注点，我们仍预计美国将于21Q4开启缩减量化宽松。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1576425.d.html</link>
+            <guid>2140072</guid>
+            <pubDate>Sat, 24 Apr 2021 12:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东吴证券：美国地产繁荣，部分行业受益】当前以美国为代表的海外地产繁荣，正成为中国出口的最主要拉动。这一点尤其体现在中国的出口结构上，自去年10月以来，中国的家电、家具等地产链产品的出口增速开始超过防疫物资出口，支撑中国出口持续高增，并且迄今这一现象仍在持续。宏观上地产链产品出口的走强也映射到微观的企业层面，尤其是那些具备出口竞争优势的家电、家具企业，当前美国与欧洲房地产繁荣的共振，很可能对其这些公司的业绩带来较强支撑，同时也迎来估值水平的修复，从而实现戴维斯双击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1576155.d.html</link>
+            <guid>2140070</guid>
+            <pubDate>Sat, 24 Apr 2021 11:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及卫生部长：埃及将在今年生产4000万剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8715576.d.html</link>
+            <guid>2140068</guid>
+            <pubDate>Sat, 24 Apr 2021 11:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新冠肺炎确诊病例数飙升 泰国暖武里府24日起实行宵禁】当地时间23日，位于泰国曼谷都市圈内的暖武里府宣布24日开始实施宵禁。仅4月份以来，该府新冠肺炎确诊病例数累计达1199例。对于面积只有622平方公里、人口124万的行政区来说，在泰国属于疫情重灾区。此外，泰国公共卫生部办公地点位于暖武里府，该府是泰国除首都曼谷之外最重要的行政中心之一。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1574463.d.html</link>
+            <guid>2140067</guid>
+            <pubDate>Sat, 24 Apr 2021 11:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【4月24日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、习近平出席海军三型主战舰艇集中交接入列活动；2、【在习近平新时代中国特色社会主义思想指引下】中国航天逐梦九天开启新征程；3、王岐山在纪念中美“乒乓外交”50周年活动上发表致辞；4、奋斗百年路 启航新征程——学党史 悟思想 办实事 开新局；5、【沿着高速看中国】京港澳高速：南北大动脉促区域协调发展；6、高原守望者：为百姓幸福生活加油；7、国家卫生健康委通报最新疫情；8、多国人士高度评价习近平主席在领导人气候峰会上的重要讲话；9、俄总统普京签署反制外国不友好行为法令；10、全球新冠肺炎确诊病例超1亿4435万。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1574387.d.html</link>
+            <guid>2140066</guid>
+            <pubDate>Sat, 24 Apr 2021 11:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【残酷的“丛林法则”正在基金规模战中愈加显著】 一季报数据显示，今年首季偏股型基金冠军的规模呈现爆发式增长，一季度猛增51亿元。与此同时，业绩垫底的产品在市场热度退潮后受到“社会的无情毒打”，遭到用脚投票，不少沦为迷你基金，且近期权益类基金 “清盘潮”也来了。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1573021.d.html</link>
+            <guid>2140064</guid>
+            <pubDate>Sat, 24 Apr 2021 11:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度新冠疫情全面失控，当街焚尸】根据印度卫生部公布的最新数据，截至当地时间4月24日8时，过去24小时内，印度新增新冠肺炎确诊病例346786例，累计确诊16610481例。由于疫情不断恶化，新冠肺炎死亡病例数急剧增长，很多遗体“排队等待火化”。一些逝者家属因排队要等上12个小时，不得不自行焚烧亲人的遗体。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8712439.d.html</link>
+            <guid>2140062</guid>
+            <pubDate>Sat, 24 Apr 2021 11:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【锂电铜箔市场供不应求】 从第十六届中国国际铜产业链峰会上获悉，目前，锂电铜箔企业基本处于满负荷生产状态，市场供不应求，企业订单基本饱满，头部企业上半年订单基本排满。随着新能源汽车行业的快速发展，锂电铜箔的市场需求也方兴未艾，产能扩张速度明显加快。去年以来，嘉元科技、诺德股份、超华科技、龙电华鑫等锂电铜箔企业都在积极扩产。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8712413.d.html</link>
+            <guid>2140061</guid>
+            <pubDate>Sat, 24 Apr 2021 11:28:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国生物：4月24日，由国药集团中国生物研究院研发的重组新冠病毒疫苗Ⅰ/Ⅱ期临床试验在河南商丘启动。4月9日，中国生物研究院基因重组新冠疫苗获得国家药品监督管理局临床试验批件，成为中国生物第三个获批临床的新冠疫苗，唱响了全球首家三重奏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1571335.d.html</link>
+            <guid>2140059</guid>
+            <pubDate>Sat, 24 Apr 2021 11:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【我国首个国产大飞机生产试飞中心竣工】由我国自主设计建造的首个国产大飞机生产试飞中心——中国商飞江西生产试飞中心24日全面竣工，标志着我国已形成从科研设计、生产试飞到交付运营一整套相对完善的大飞机产业链条。据中铁十八局集团商飞项目负责人张明灿介绍，中国商飞江西生产试飞中心主要功能是承担国产ARJ21飞机的生产试飞支持和运营保障等。项目正式投产后，可实现每年完工交付约30架次飞机的产能目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8711065.d.html</link>
+            <guid>2140058</guid>
+            <pubDate>Sat, 24 Apr 2021 11:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据土耳其国家电视台：土耳其开始对伊拉克北部的库尔德工人党发动攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1570020.d.html</link>
+            <guid>2140057</guid>
+            <pubDate>Sat, 24 Apr 2021 11:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国金融时报：大众汽车警告称，由于芯片短缺状况恶化，汽车产量会遭受冲击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1569704.d.html</link>
+            <guid>2140056</guid>
+            <pubDate>Sat, 24 Apr 2021 11:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币再度跌至49000美元/枚下方，日内跌4.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1569373.d.html</link>
+            <guid>2140055</guid>
+            <pubDate>Sat, 24 Apr 2021 11:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼总统说，需要组建一个与缅甸各方进行接触的东盟特使；需要开放获得援助的渠道。]]></title>
+            <guid>2140053</guid>
+            <pubDate>Sat, 24 Apr 2021 10:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陕西回应洛南扶贫造假：立即成立调查组，进行全面深入调查】陕西发布微信公众号消息，陕西省人民政府新闻办4月24日表示，4月23日晚，中央广播电视总台财经频道在《经济半小时》栏目中，报道了陕西省商洛市洛南县灵口镇两个村脱贫攻坚工作存在的相关问题，陕西省委、省政府高度重视，立即成立调查组对所报道问题进行全面深入调查，有关调查结果将及时公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1568747.d.html</link>
+            <guid>2140052</guid>
+            <pubDate>Sat, 24 Apr 2021 10:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国新冠疫苗接种率达22.8%，疫苗交付量逐月增加】根据德国联邦疾控机构罗伯特·科赫研究所发布的最新数据，截至当地时间4月23日，德国已有18965663人接种了至少一剂新冠疫苗，占总人口的22.8%；5855864人接受了完整的两剂疫苗接种，占总人口的7%。23日单日接种疫苗数量为512062剂。在所有联邦州中，萨尔州和不莱梅州的第一剂接种率最高，约为25%。联邦卫生部预测，5月份总共可向诊所和企业医生提供600万剂疫苗，向疫苗接种中心提供将近1000万剂疫苗。到6月，提供给诊所和企业医生的疫苗交付量将增加至每周350万剂，疫苗接种中心将收到1200万剂。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8708361.d.html</link>
+            <guid>2140051</guid>
+            <pubDate>Sat, 24 Apr 2021 10:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国盛金控：营业总收入约22.06亿元、同比增长32.12%；实现归属于上市公司股东的净利润约-3.66亿元，同比下降573.14%。]]></title>
+            <guid>2140050</guid>
+            <pubDate>Sat, 24 Apr 2021 10:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南瑞丽这些地方风险等级下调】据瑞丽市新冠肺炎疫情防控工作指挥部消息，经疫情防控专家组评估，从2021年4月24日19时起，瑞丽市风险地区调整如下：仙客巷和光明巷居民小组调整为中风险地区。鑫盛时代佳园小区、瑞京路红砖厂、星河蓝湾小区、双卯村民小组、下弄安村民小组、珠宝街老食品厂家属区调整为低风险地区。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8708308.d.html</link>
+            <guid>2140049</guid>
+            <pubDate>Sat, 24 Apr 2021 10:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中信证券：库存拐点、供应紧张、美元下行成为铜价中期核心驱动力】中信证券今日研报指出，消费旺季下精铜消费库存拐点开启、TC/RC破位下的铜矿紧张以及全球经济复苏更加同步下的美元下行成为铜价中期的核心驱动力。我们维持2月的铜价判断，具备资源优势的成长龙头更具投资价值，核心推荐紫金矿业(A/H)、洛阳钼业(A/H)，关注五矿资源(H)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8708233.d.html</link>
+            <guid>2140047</guid>
+            <pubDate>Sat, 24 Apr 2021 10:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度新增确诊接连刷新纪录，外媒爆：印度超级富豪搭乘私人飞机“逃往”英国】“印度超级富豪乘坐私人飞机逃离世界上新冠疫情最严重的地方”，美国《野兽日报》24日以此为题刊发报道。报道援引《伦敦时报》消息称，当地时间4月24日凌晨4时之前，8架搭载着印度超级富豪的私人飞机降落在伦敦机场。最后一架抵达的豪华客机于凌晨3时15分降落，这距离英国对印度的限制措施生效仅有44分钟。报道介绍说，英国近日将印度列入疫情“红色名单”。从4月24日起，任何从印度返回的英国人都必须在政府批准的酒店隔离10天；所有非英国、非爱尔兰公民如果在过去10天内到过印度，将被完全禁止进入英国。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1566907.d.html</link>
+            <guid>2140046</guid>
+            <pubDate>Sat, 24 Apr 2021 10:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【习近平出席海军三型主战舰艇集中交接入列活动】海军三型主战舰艇——长征18号艇、大连舰、海南舰23日在海南三亚某军港集中交接入列。中共中央总书记、国家主席、中央军委主席习近平出席交接入列活动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8706484.d.html</link>
+            <guid>2140045</guid>
+            <pubDate>Sat, 24 Apr 2021 10:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：埃及希望通过“高潜力”的金矿开采合同来刺激投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1565775.d.html</link>
+            <guid>2140044</guid>
+            <pubDate>Sat, 24 Apr 2021 10:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度：全额免除氧气相关设备的关税和卫生税，为期3个月】印度《商业标准》报消息，印度政府决定对氧气相关设备全额免除基本关税和卫生税，为期三个月，立即生效。会议期间，政府还决定从即日起免除新冠疫苗进口的基本关税，期限为3个月。这些决定在印度总理莫迪主持的高级别会议上做出。据报道，莫迪强调，印度目前急需增加医用氧气以及家庭和医院病人护理所需设备的供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1565666.d.html</link>
+            <guid>2140043</guid>
+            <pubDate>Sat, 24 Apr 2021 10:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【覃伟中任深圳市政府副市长、代理市长】据深圳卫视深视新闻消息，4月24日下午，市六届人大常委会第五十次会议表决通过系列决议和人事任免事项。会议任命覃伟中为深圳市副市长、代理市长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8704639.d.html</link>
+            <guid>2140041</guid>
+            <pubDate>Sat, 24 Apr 2021 10:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风证券：科创板Q1电子、医药、机械设备为机构主要加仓方向】天风证券策略今日研报指出，从目前主动权益类基金的一季度持仓情况来看，电子、医药、机械设备超配比例环比继续提升，是机构主要的加仓方向；其中电子延续了Q4的加仓趋势，而医药、机械设备则从Q4的减仓转为加仓。与此同时，电气设备由Q4的加仓转为减仓，而计算机、有色则延续了Q4的减仓行为，其中计算机减仓幅度进一步加大。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1564708.d.html</link>
+            <guid>2140040</guid>
+            <pubDate>Sat, 24 Apr 2021 10:18:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币普遍出现短线小幅下挫，比特币现报49262.08美元/枚，日内跌3.74%；以太坊报2227.27美元/枚，现跌6.10%；瑞波币和莱特币分别跌7.15%、5.94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8704332.d.html</link>
+            <guid>2140039</guid>
+            <pubDate>Sat, 24 Apr 2021 10:15:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：保时捷计划在德国图宾根市建造电池厂。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8702731.d.html</link>
@@ -367,244 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8676816.d.html</link>
             <guid>2139969</guid>
             <pubDate>Sat, 24 Apr 2021 06:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日首相菅义伟赴医院就诊？身边人士：只是定期体检】据日本时事通信社，24日，日本首相菅义伟前往东京一家医院就诊，其身边人士表示，菅义伟此行是去进行定期体检。据报道，菅义伟前往的是位于东京代代木的JR东京综合医院。报道称，这是他在2020年9月就任首相一职后，首次前往医院。报道分析称，菅义伟此时去医院体检，可能是为了能有一个健康的身体状况，以便在今后一段时间，能更好地应对诸如东京奥运会、残奥会以及秋季众议院大选等一系列重要工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8675975.d.html</link>
-            <guid>2139968</guid>
-            <pubDate>Sat, 24 Apr 2021 06:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京新增876例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1535514.d.html</link>
-            <guid>2139967</guid>
-            <pubDate>Sat, 24 Apr 2021 06:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钟南山：我国疫情防控抓住了能够预防“人传人”这个关键】 在24日举办的中国工程院2021年医学科学前沿论坛上，钟南山院士作线上报告说，我国新冠疫情防控抓住了能够预防“人传人”这个精准防控的关键。“针对新冠疫情，就是要及时把患者和健康人分开。”钟南山说，“及时筛查、及时隔离是我们取得防控成功的关键。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1535405.d.html</link>
-            <guid>2139966</guid>
-            <pubDate>Sat, 24 Apr 2021 06:04:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因日本发布紧急事态宣言 东京奥运田径测试赛将空场举办】当地时间23日，由于日本政府第三次发布紧急事态宣言，东京奥运会和残奥会组织委员会宣布原定5月9日在位于东京都的国立竞技场举行的田径测试赛将不售票，以无观众方式举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8675458.d.html</link>
-            <guid>2139965</guid>
-            <pubDate>Sat, 24 Apr 2021 06:03:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：汤加庞艾西南偏西223千米处发生6.4级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8674152.d.html</link>
-            <guid>2139961</guid>
-            <pubDate>Sat, 24 Apr 2021 05:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印度部分医院物资耗尽 氧气和瑞德西韦在黑市的价格暴涨】据印度《论坛报》报道，一种用于治疗新冠肺炎患者的注射药物瑞德西韦目前正在印度哈里亚纳邦的黑市上出售。在私立医院接受治疗的新冠肺炎患者家属，被迫以比政府所定价格高10倍的价钱购买这种药物。印度医药管理局（比哈尔邦）官员苏尼尔·库马尔（Sunil Kumar）表示：“除了瑞德西韦在黑市上出售以外，氧气瓶也是一样。私立医院的氧气供应不足50%。由于这一危机，他们无法治疗病人，就迫使病人出院。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1533351.d.html</link>
-            <guid>2139959</guid>
-            <pubDate>Sat, 24 Apr 2021 05:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球疫苗生产遭遇卡脖子困境】美东时间周五，在国际药品制造商协会联合会（IFPMA）牵头举办的新闻发布会上，业内人士强调世界需要更多的疫苗原材料，包括信使RNA疫苗中使用的脂质、疫苗瓶和塑料包装袋等等。与此同时，民族主义抬头也加剧了原料紧缺问题，全球制药企业计划今年生产多达100亿剂疫苗，但这一目标如今也面临挑战。葛兰素史克、Moderna等公司周五纷纷呼吁各国消除贸易壁垒，批评美国使用《国防生产方案》保护美国供应的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8672494.d.html</link>
-            <guid>2139958</guid>
-            <pubDate>Sat, 24 Apr 2021 05:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【500亿“豪门联姻”大曝光，安踏、七匹狼都是亲家】 最近八马茶业正打算冲刺A股，成为茶叶第一股。但在招股说明书里，还公开了董事长的“亲家”们，一个比一个厉害：三亲家分别为安踏、七匹狼和高力集团实控人，身家合计超500亿。引起市场的关注。福建八马茶业近日披露的招股书显示，八马茶业大股东王文彬夫妇与三位富豪是亲家：王文彬的儿子娶了安踏老板丁世忠的女儿，两个女儿则分别嫁给了七匹狼实控人周永伟的儿子和高力控股集团董事长。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1530668.d.html</link>
-            <guid>2139957</guid>
-            <pubDate>Sat, 24 Apr 2021 05:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据路透统计，美国周五新增至少63329例新冠肺炎确诊病例，累计确诊达3206万例；新增至少863例死亡病例，累计死亡病例达571537例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8670148.d.html</link>
-            <guid>2139956</guid>
-            <pubDate>Sat, 24 Apr 2021 05:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【至少30枚火箭弹从巴勒斯坦加沙地带射向以色列以军对哈马斯进行报复打击】从当地时间4月23日深夜至24日清晨6时左右，至少30枚火箭弹从巴勒斯坦加沙地带射向以色列境内。4枚火箭弹被以色列“铁穹”防御系统拦截，其余火箭弹都在空旷地带爆炸。24日凌晨2时40分左右，以色列国防军出动坦克袭击了加沙地带的巴勒斯坦伊斯兰抵抗运动（哈马斯）前哨基地；清晨5时30分左右，以色列空军开始轰炸哈马斯的火箭发射器和地下基础设施。以色列国防军前线司令部要求当地居民待在避难所，保持警惕。以色列与加沙地带边界的齐基姆海滩已被关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8669687.d.html</link>
-            <guid>2139954</guid>
-            <pubDate>Sat, 24 Apr 2021 05:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南一季度接待游客1.39亿人次】记者从云南省加强近期文化旅游宣传推广工作电视电话会议上获悉，2021年一季度，云南省接待游客1.39亿人次，同比增长110%，恢复至2019年同期的67%，比全国预计恢复水平高出约28个百分点；实现旅游总收入1465.08亿元，同比增长85%，恢复至2019年同期的56%，比全国预计恢复水平高出约24个百分点。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1528858.d.html</link>
-            <guid>2139953</guid>
-            <pubDate>Sat, 24 Apr 2021 05:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[由于疫情显著恶化，日本政府23日晚宣布，东京都、大阪府、京都府和兵库县4个地区将进入疫情紧急状态。据日本共同社报道，由于适逢4月底至5月初的日本传统“黄金周”假期，预料将沉重打击日本经济复苏的希望。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8668668.d.html</link>
-            <guid>2139952</guid>
-            <pubDate>Sat, 24 Apr 2021 05:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【武田中国宣布瑞普佳正式上市】武田中国宣布瑞普佳（阿加糖酶α注射用浓溶液）正式上市，为中国目前唯一用于确诊为法布雷病（α-半乳糖苷酶 A 缺乏症）患者的长期的人源性酶替代治疗，可为法布雷病患者提供长期的心脏、肾脏保护。 (一财)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1528308.d.html</link>
-            <guid>2139951</guid>
-            <pubDate>Sat, 24 Apr 2021 05:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间4月23日，墨西哥卫生部公布的疫情数据显示，截至23日19时，墨西哥全国累计新冠肺炎确诊病例2323430例，较前一日新增3911例；新增409例死亡病例，累计死亡214504例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1527784.d.html</link>
-            <guid>2139950</guid>
-            <pubDate>Sat, 24 Apr 2021 05:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【起帆电缆：2020年年报业绩大幅下修是不实消息 数据早已披露】近日，针对网络上出现关于起帆电缆大幅下修业绩预计2020年度预亏12.7亿元-12亿元的不实信息，公司现做如下声明：公司已于2021年3月30日在上交所网站上披露了《起帆电缆2020年年度报告》。2020年，公司营业收入97.35亿元，同比增长27.31%，净利润4.10亿元；同比增长23.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1526525.d.html</link>
-            <guid>2139948</guid>
-            <pubDate>Sat, 24 Apr 2021 04:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奈飞联席CEO哈斯廷斯去年薪酬为4320万美元#】 香港《信报》4月24日消息，美国视频流媒体服务提供商Netflix日前披露，Netflix联席CEO里德·哈斯廷斯去年薪酬为4320万美元。另一名联席CEO泰德·萨兰多思去年薪酬为3930万美元。两者均有所上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1525997.d.html</link>
-            <guid>2139946</guid>
-            <pubDate>Sat, 24 Apr 2021 04:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东自贸区试验区珠海横琴新区片区6年累计落地510项改革创新措施】24日从广东自贸区试验区珠海横琴新区片区获悉，横琴片区开发建设6年来，创新思路、凝聚力量、突出特色，创新成果不断涌现，特别是在制度创新方面，横琴片区以制度创新为核心，发挥改革创新拓荒牛的精神，在改革系统集成协同高效上率先试、勇实践，累计落地510项改革创新措施。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8665812.d.html</link>
-            <guid>2139945</guid>
-            <pubDate>Sat, 24 Apr 2021 04:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普罕见为疫苗接种背书 特朗普说新冠疫苗是救星和奇迹】美国前总统特朗普当地时间4月22日在接受《纽约邮报》采访时，罕见为疫苗接种公开背书，不仅称疫苗是人们“应该好好利用的、非常好的东西”，还把疫苗比作“救星”和“奇迹”，并“强烈建议”人们接种。当天，他还谈及了自己接种疫苗时的感受，表示其在接种后没有出现任何不良反应，“甚至没有一点手臂酸痛”。虽然特朗普此前已多次表态支持新冠疫苗，但这是他第一次在采访中特别强调鼓励美国人接种疫苗。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1523471.d.html</link>
-            <guid>2139944</guid>
-            <pubDate>Sat, 24 Apr 2021 04:30:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度单日新增346786例新冠肺炎确诊病例。新增2624例新冠肺炎死亡病例，单日新增死亡病例创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8662806.d.html</link>
-            <guid>2139942</guid>
-            <pubDate>Sat, 24 Apr 2021 04:25:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国新增新冠肺炎确诊病例2839例 累计确诊53022例】泰国卫生部向媒体透露称，该国单日新增新冠肺炎确诊病例2839例，这是泰国新冠疫情暴发以来日增确数最高纪录，累计确诊达53022例；新增死亡病例8例，累计死亡129例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1518759.d.html</link>
-            <guid>2139941</guid>
-            <pubDate>Sat, 24 Apr 2021 04:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新加坡总理李显龙：用创新及科技实现减排目标】23日晚，新加坡总理李显龙以视频形式参加领导人气候峰会，并发表讲话。李显龙表示，面对气候变化的威胁，新加坡必须不断创新并广泛使用科技，克服国土面积和资源的局限，实现减低碳排放量的目标。李显龙透露，新加坡计划在2025年之前把太阳能产量增至原来的四倍。新加坡将启用全球最大浮动太阳能系统，每年可减少3.3万吨二氧化碳排放量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8658143.d.html</link>
-            <guid>2139940</guid>
-            <pubDate>Sat, 24 Apr 2021 03:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受第三波疫情影响 泰国下调国际游客到访人数预期】泰国旅游与体育部长皮帕当地时间23日透露，受泰国第三波新冠疫情影响，泰国政府预计2021年到访泰国的国际游客人数减少约一半，从目标的650万减少到300至400万。相应的旅游收入预期也随之下调，从2021年旅游总收入的1.218万亿泰铢（约合2517亿元人民币）下调至8500亿泰铢（约合1756亿元人民币）。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8657422.d.html</link>
-            <guid>2139939</guid>
-            <pubDate>Sat, 24 Apr 2021 03:52:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【4月份沪牌拍卖结果公布 中标率4.7%】4月沪牌拍卖结果出炉：个人额度投放10500辆，个人在用车有效额度委托拍卖803辆，合计拍卖总数11303辆，参加拍卖人数238896人，比上月减少10507人，中标率4.7%。最低成交价92800元，平均成交价为92887元，比上个月的92594元增加了293元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8657272.d.html</link>
-            <guid>2139938</guid>
-            <pubDate>Sat, 24 Apr 2021 03:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【进出口银行小微企业银行转贷款余额突破1000亿元】从中国进出口银行了解到，进出口银行通过转贷款业务精准支持小微企业，截至今年3月末，小微企业银行转贷款余额突破1000亿元。在转贷款模式下，进出口银行向中小银行提供低成本资金，后者再向小微企业发放相对优惠利率的贷款，从而更好发挥政策性银行的调节作用，支持小微企业发展。据了解，进出口银行今年已累计投放小微企业银行转贷款近250亿元，同比增长80%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8656909.d.html</link>
-            <guid>2139937</guid>
-            <pubDate>Sat, 24 Apr 2021 03:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【386股2020年年报净利润增幅翻倍】数据宝统计，截至4月24日，有2465家上市公司公布2020年年报，其中1580家净利润同比增长，885家下降，1556家营业收入同比增长，909家下降，净利润和营业收入同时增长的公司有晶华新材等1240家，利润收入均下降的有贤丰控股等569家，业绩增幅翻倍的公司有386家，其中恒通股份增幅最大。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8655952.d.html</link>
-            <guid>2139936</guid>
-            <pubDate>Sat, 24 Apr 2021 03:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西政府批准2021年度预算法案 拟通过重组预算应对疫情】当地时间4月23日，巴西政府发布了由该国总统博索纳罗22日签署的2021年度预算法案。据悉，巴西政府与国会在经过三个半月的讨论与协商后，最终于22日，即联邦预算法定审批期限的最后一天，就该法案批准达成一致。但博索纳罗在签署法案的同时，也否决了部分条款，以通过节省开支应对新冠肺炎疫情带来的公共危机。巴西政府指出，今年财政预算设定的赤字目标为2470亿雷亚尔（约合2914亿元人民币）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1515450.d.html</link>
-            <guid>2139935</guid>
-            <pubDate>Sat, 24 Apr 2021 03:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知情人还原广州特斯拉撞墙致死事故：方向盘无法回正 特斯拉称尝试恢复数据】4月17日，广州增城一辆特斯拉撞上水泥墙后自燃，警方通报称事故造成副驾驶乘客当场死亡，司机左某和被刮蹭小车司机未受伤。23日，车主左某及其朋友冯先生讲述事发经过。冯先生称，事发前车辆向右变道后方向盘无法回正，几秒内就撞上水泥墙。特斯拉回应，事故车辆损毁严重没有上传数据，已经向交警提交储存卡，正尝试恢复数据配合调查。 （新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1514654.d.html</link>
-            <guid>2139933</guid>
-            <pubDate>Sat, 24 Apr 2021 03:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【疫情下西班牙银行业大规模裁员】多家西班牙银行近日公布业务调整或合并计划，内容均涉及大规模裁员和关闭营业网点。分析人士表示，这意味着当地银行业已开始深度调整，凸显新冠疫情严重冲击经济的后果。西班牙第二大银行对外银行22日宣布，将裁员3798人，关闭530个网点。西班牙商业银行21日宣布与班基亚银行合并后的人员调整计划，预计裁员总数达8291人，27%的营业网点将关闭。这两家银行去年宣布合并，成为西班牙最大银行。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8653992.d.html</link>
-            <guid>2139932</guid>
-            <pubDate>Sat, 24 Apr 2021 03:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[钟南山：我国目前有近50种疫苗在研发过程中，在全世界有200多种疫苗正在研发。发展哪一种疫苗对预防工作更有利，我们的力量能不能使用在刀刃上，也是面临的重要问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8653817.d.html</link>
-            <guid>2139931</guid>
-            <pubDate>Sat, 24 Apr 2021 03:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钟南山：正在全力研发针对变异毒株的疫苗】今日（4月24日）上午，在广州召开的中国工程院2021年医学科学前沿论坛上，钟南山院士做了线上报告。他指出，目前正全力研发针对变异毒株的疫苗。在谈到新冠疫情的精准预防时，钟南山表示，当前我们遇到的主要矛盾是新冠病毒的变异。目前出现的变异毒株有来自英国、巴西、尼日利亚、南非等地。现在看起来对于南非的b1351变异毒株，我们使用全病毒的灭活疫苗，也就是中国最常用的科兴和国药的疫苗，针对这一变异毒株的保护率有所降低。现在我们正在全力研发针对变异毒株的疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8653421.d.html</link>
-            <guid>2139930</guid>
-            <pubDate>Sat, 24 Apr 2021 03:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：币安将于2021年04月25日中午12:00开始现货交易系统升级，升级时长预计4小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1513002.d.html</link>
-            <guid>2139929</guid>
-            <pubDate>Sat, 24 Apr 2021 03:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟有望到7月为70%成年人接种新冠疫苗】欧盟委员会主席冯德莱恩23日表示，欧盟的疫苗供应和接种正在提速，到今年7月，有望为70%的成年人接种新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8652766.d.html</link>
-            <guid>2139928</guid>
-            <pubDate>Sat, 24 Apr 2021 03:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第七届中国机器人峰会将于5月在宁波余姚举办】第七届中国机器人峰会暨智能经济人才峰会定于2021年5月26至28日在浙江宁波余姚举办。峰会主题是“机器智联、赋能万物、合作共赢”。中国机器人峰会秘书处秘书长王伟介绍，此次峰会分为六大板块：行业交流、引才引智、产业对接、专题活动、展览展示、机器人大赛。专题论坛涵盖工业、服务、医疗、共融、特种、工业互联网等多个板块。（澎湃新闻）]]></title>
-            <guid>2139927</guid>
-            <pubDate>Sat, 24 Apr 2021 03:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年一季度云南对RCEP成员国进出口同比增长58%】据昆明海关统计，一季度，云南省对其余14个RCEP（《区域全面经济伙伴关系协定》）成员国进出口贸易额达388.1亿元，同比增长58%，占全省外贸进出口总值的52.3%。RCEP的签署标志着全球最大的自由贸易区成功启航，是东亚区域经济一体化新的里程碑。目前，我国已完成RCEP的核准，成为率先批准协定的国家，其他RCEP成员国均表示将在年底前批准该协定，推动协定于明年1月1日生效。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8652687.d.html</link>
-            <guid>2139926</guid>
-            <pubDate>Sat, 24 Apr 2021 03:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江：校外培训不得布置作业，直播课不晚于21时】 黑龙江省教育厅近日，根据《中华人民共和国民办教育促进法》《国务院办公厅关于规范校外培训机构发展的意见》《黑龙江省关于规范校外培训机构发展的工作方案》等要求，制定了《黑龙江省校外培训机构负面清单“三十条”》，坚决治理违背教育教学规律和青少年成长规律的行为，加快解决人民群众反映强烈的中小学生过重校外负担问题，确保中小学生健康成长全面发展。负面清单“三十条”包括：以课前预习、课后巩固、作业练习、微信群打卡等形式布置作业，增加学生课业负担；培训时间与当地中小学校教学时间冲突，线下培训结束时间晚于20∶30，线上直播类培训结束时间晚于21:00。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8652186.d.html</link>
-            <guid>2139925</guid>
-            <pubDate>Sat, 24 Apr 2021 03:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新增23392例新冠肺炎确诊病例，新增286例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1512047.d.html</link>
-            <guid>2139924</guid>
-            <pubDate>Sat, 24 Apr 2021 03:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国报告新增2839例新冠肺炎确诊病例，新增8例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8651579.d.html</link>
-            <guid>2139923</guid>
-            <pubDate>Sat, 24 Apr 2021 03:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【掘金信托业新“蓝海” 家族信托规模激增】中国信托登记有限责任公司近日公布数据显示，今年3月新增家族信托产品规模较近12个月均值上升近四成。此外，2020年年末家族信托规模较年初增长80.29%，连续四个季度上升。分析人士表示，家族信托尚处在蓝海期，发展空间较大，是信托业转型的重要方向。]]></title>
-            <guid>2139922</guid>
-            <pubDate>Sat, 24 Apr 2021 03:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金优胜劣汰提速 权益类产品清盘数大增】一季报披露完毕，基金产品首季规模战也落下帷幕。数据显示，今年首季偏股型基金冠军管理规模呈现快速增长，一季度猛增51亿元，而业绩垫底的产品却在市场热度退潮后遭到资金用脚投票，不少产品沦为迷你基金。不仅如此，近期基金还迎来了一小波 “清盘潮”，近两个月来权益类产品更成为清盘基金中的主角。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1510673.d.html</link>
-            <guid>2139921</guid>
-            <pubDate>Sat, 24 Apr 2021 03:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆突发降雪 棉花期货价格触及近一个月高位】昨日郑棉期货强劲上涨，主力2109合约盘中涨幅一度涨至3.16%，早盘收涨2.49%。消息面上，新疆突发降雪。目前正值全国棉花播种期，新疆部分棉花已经出苗，但新疆部分地区出现降雪、降温，市场担忧棉苗受损导致减产。因降雪仍在持续，目前尚无法确定具体损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1510420.d.html</link>
-            <guid>2139920</guid>
-            <pubDate>Sat, 24 Apr 2021 03:03:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
