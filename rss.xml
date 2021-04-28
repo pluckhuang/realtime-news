@@ -4,609 +4,602 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 28 Apr 2021 16:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Apr 2021 19:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[法国卫生部：自去年12月底以来，法国方面已为2000万人接种了新冠疫苗，其中有600万人接种了两剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2412597.d.html</link>
-            <guid>2148198</guid>
-            <pubDate>Wed, 28 Apr 2021 16:22:07 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们确实预计短期利率会有进一步下行的压力。]]></title>
+            <guid>2148459</guid>
+            <pubDate>Wed, 28 Apr 2021 19:17:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据英国金融时报：德国联邦金融监管局打击交易平台币安（Binance）的股票代币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2412480.d.html</link>
-            <guid>2148197</guid>
-            <pubDate>Wed, 28 Apr 2021 16:21:01 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：如有需要，将使用工具来支持联邦基金利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421721.d.html</link>
+            <guid>2148458</guid>
+            <pubDate>Wed, 28 Apr 2021 19:17:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  ICE欧盟碳排放交易许可（期货价格）收涨0.70%，报47.54欧元，创收盘历史新高，欧股盘初曾刷新盘中历史高位至48.05欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2412299.d.html</link>
-            <guid>2148196</guid>
-            <pubDate>Wed, 28 Apr 2021 16:18:54 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔正在举行新闻发布会，有外国交易员给此次新闻发布会加上了弹幕：满屏皆是“Transitory（暂时性的）”一词。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421717.d.html</link>
+            <guid>2148457</guid>
+            <pubDate>Wed, 28 Apr 2021 19:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【广西反兴奋剂中心正式成立】据广西壮族自治区体育局，广西反兴奋剂中心28日正式成立。据介绍，广西反兴奋剂中心将承担自治区体育运动反兴奋剂相关工作，包括组织开展自治区反兴奋剂宣传教育和培训，制定反兴奋剂检查工作计划并组织实施，配合中国反兴奋剂中心开展自治区兴奋剂检查官的招募、培训和管理，依法依规参与配合对涉嫌兴奋剂违规行为的调查、听证、结果管理和监督，以及协调和监督相关体育组织反兴奋剂的具体工作等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2412153.d.html</link>
-            <guid>2148195</guid>
-            <pubDate>Wed, 28 Apr 2021 16:17:01 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔（被问及银行的资本要求）：美国的银行很好地通过了真正的压力测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561924.d.html</link>
+            <guid>2148456</guid>
+            <pubDate>Wed, 28 Apr 2021 19:16:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国副首席医疗官：英国的疫情危机程度接近底部。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9552230.d.html</link>
-            <guid>2148194</guid>
-            <pubDate>Wed, 28 Apr 2021 16:16:50 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：联邦基金利率一直保持在目标区间内。]]></title>
+            <guid>2148455</guid>
+            <pubDate>Wed, 28 Apr 2021 19:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【意大利参议院否决对卫生部部长不信任动议】当地时间4月28日，意大利参议院投票否决了全部三项针对卫生部部长斯佩兰扎的不信任动议。斯佩兰扎当天就其个人和卫生部受到的指责逐一进行辩护，他表示，传染病防控方案更新不及时的问题涉及前后七任政府，所有政党都有所参与，对这一事实不能视而不见。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9552152.d.html</link>
-            <guid>2148193</guid>
-            <pubDate>Wed, 28 Apr 2021 16:15:46 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：联邦基金利率一直保持在目标区间内。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561892.d.html</link>
+            <guid>2148454</guid>
+            <pubDate>Wed, 28 Apr 2021 19:15:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  穆迪：将可口可乐(KO.N)的美元和欧元债券评级定为A1，前景展望稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9552098.d.html</link>
-            <guid>2148192</guid>
-            <pubDate>Wed, 28 Apr 2021 16:14:56 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：金融系统中的杠杆不是问题，融资的风险较低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561889.d.html</link>
+            <guid>2148453</guid>
+            <pubDate>Wed, 28 Apr 2021 19:15:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国卫生大臣汉考克：英国方面获得了6000万剂辉瑞的新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2411876.d.html</link>
-            <guid>2148191</guid>
-            <pubDate>Wed, 28 Apr 2021 16:12:47 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：整体金融稳定情况参差不齐，但风险可控。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421622.d.html</link>
+            <guid>2148452</guid>
+            <pubDate>Wed, 28 Apr 2021 19:14:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国卫生大臣汉考克：将于周四接种新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2411751.d.html</link>
-            <guid>2148190</guid>
-            <pubDate>Wed, 28 Apr 2021 16:11:04 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：金融状况保持宽松是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421613.d.html</link>
+            <guid>2148451</guid>
+            <pubDate>Wed, 28 Apr 2021 19:14:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国卫生大臣汉考克：（接种）疫苗是渡过新冠疫情的路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2411537.d.html</link>
-            <guid>2148189</guid>
-            <pubDate>Wed, 28 Apr 2021 16:08:54 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：市场的反应比美联储的政策更能体现疫苗接种和经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561848.d.html</link>
+            <guid>2148450</guid>
+            <pubDate>Wed, 28 Apr 2021 19:13:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[穆迪：随着欧盟疫苗接种水平缓慢上升，消费者越来越期待未来12个月内经济会普遍好转。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2411117.d.html</link>
-            <guid>2148188</guid>
-            <pubDate>Wed, 28 Apr 2021 16:05:24 GMT</pubDate>
+            <title><![CDATA[美股三大股指短线下挫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421591.d.html</link>
+            <guid>2148449</guid>
+            <pubDate>Wed, 28 Apr 2021 19:13:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[穆迪：欧洲企业似乎对其整体流动性水平感到满意。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2411102.d.html</link>
-            <guid>2148187</guid>
-            <pubDate>Wed, 28 Apr 2021 16:05:19 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：一些资产的价格高企。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421571.d.html</link>
+            <guid>2148448</guid>
+            <pubDate>Wed, 28 Apr 2021 19:12:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国卫生大臣汉考克：就新冠病毒问题与印度方面保持密切联系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2411002.d.html</link>
-            <guid>2148186</guid>
-            <pubDate>Wed, 28 Apr 2021 16:04:30 GMT</pubDate>
+            <title><![CDATA[  美联储主席鲍威尔：供给方面需要时间来适应需求的强劲增长。]]></title>
+            <guid>2148447</guid>
+            <pubDate>Wed, 28 Apr 2021 19:11:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西布坦坦研究所将科兴新冠疫苗的交付提前到本周五。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2410910.d.html</link>
-            <guid>2148185</guid>
-            <pubDate>Wed, 28 Apr 2021 16:03:40 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：供给方面需要时间来适应需求的强劲增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421541.d.html</link>
+            <guid>2148446</guid>
+            <pubDate>Wed, 28 Apr 2021 19:11:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  日本丰田汽车将在美国印第安纳州工厂投资8.03亿美元，用于更新该工厂的生产设备，以便生产两款新型“电气化的”越野车，其中一款将由丰田雷克萨斯奢侈品牌销售。 该工厂将聘用1400名工人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2410873.d.html</link>
-            <guid>2148184</guid>
-            <pubDate>Wed, 28 Apr 2021 16:03:23 GMT</pubDate>
+            <title><![CDATA[  美股充电桩板块拉升，Blink Charging(BLNK.O)涨超10%，Chargepoint Holdings(CHPT.O)涨超6%，TPG Pace Beneficial Finance Corp.(TPGY.N)涨近4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561769.d.html</link>
+            <guid>2148445</guid>
+            <pubDate>Wed, 28 Apr 2021 19:11:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[穆迪：疫苗的推出开始提振整个欧洲的消费者信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2410611.d.html</link>
-            <guid>2148183</guid>
-            <pubDate>Wed, 28 Apr 2021 16:01:30 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：希望通胀预期牢固控制在2%，损益平衡通胀率很接近目标水平，会密切关注通胀预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561744.d.html</link>
+            <guid>2148444</guid>
+            <pubDate>Wed, 28 Apr 2021 19:10:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【雅万高铁首次顺利完成大坡度箱梁架设】当地时间4月28日，中国中铁印尼雅万高铁4号制梁场（中铁四局一公司承建）顺利完成雅万高铁全线首次大坡度箱梁架设，箱梁架设坡度2.97%，前后支点高差97公分，属于高铁箱梁架设重难点工程，施工难度大、安全风险高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9550333.d.html</link>
-            <guid>2148171</guid>
-            <pubDate>Wed, 28 Apr 2021 15:56:50 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：希望通胀预期上升，并稍高于过去几十年的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421513.d.html</link>
+            <guid>2148443</guid>
+            <pubDate>Wed, 28 Apr 2021 19:10:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沪镍主力合约站上130000元/吨，日内涨2.86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9550283.d.html</link>
-            <guid>2148170</guid>
-            <pubDate>Wed, 28 Apr 2021 15:55:58 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：与疫情前相比，现在的通胀预期更符合美联储2%的通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421509.d.html</link>
+            <guid>2148442</guid>
+            <pubDate>Wed, 28 Apr 2021 19:10:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：强生公司于4月28日发布上诉判决声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9550163.d.html</link>
-            <guid>2148169</guid>
-            <pubDate>Wed, 28 Apr 2021 15:53:36 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：通胀预期回归到2018年和2014年左右的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561734.d.html</link>
+            <guid>2148441</guid>
+            <pubDate>Wed, 28 Apr 2021 19:10:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【美股三大股指悉数转跌】美股三大股指悉数转跌，目前，道指跌0.42%，纳指跌0.26%，标普500指数跌0.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9550093.d.html</link>
-            <guid>2148168</guid>
-            <pubDate>Wed, 28 Apr 2021 15:52:43 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们需要看看数字货币对我们所服务的人民是否是一件好事。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421401.d.html</link>
+            <guid>2148440</guid>
+            <pubDate>Wed, 28 Apr 2021 19:07:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[意大利新增13385例新冠肺炎确诊病例，344例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2409740.d.html</link>
-            <guid>2148167</guid>
-            <pubDate>Wed, 28 Apr 2021 15:50:00 GMT</pubDate>
+            <title><![CDATA[美元指数DXY反弹十余点，现报90.69，非美货币多数回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561615.d.html</link>
+            <guid>2148439</guid>
+            <pubDate>Wed, 28 Apr 2021 19:06:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国全国广播公司（NBC）：一架小型飞机在美国佛罗里达州坠毁，造成多人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9549813.d.html</link>
-            <guid>2148166</guid>
-            <pubDate>Wed, 28 Apr 2021 15:49:54 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：希望在数字货币方面争取“正确”而非“快速”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561610.d.html</link>
+            <guid>2148438</guid>
+            <pubDate>Wed, 28 Apr 2021 19:06:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据法新社：加拿大因新冠肺炎疫情而取消2021年F1。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9549610.d.html</link>
-            <guid>2148165</guid>
-            <pubDate>Wed, 28 Apr 2021 15:46:34 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我不太担心其他国家会先推出数字货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561593.d.html</link>
+            <guid>2148437</guid>
+            <pubDate>Wed, 28 Apr 2021 19:06:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[道富环球投资管理公司投资策略主管Altaf Kassam：市场预计美联储主席鲍威尔会排除通胀风险，让投资者无须担忧这一问题。他可能更接近于提出收紧货币政策的时间表，尽管这是他不愿意做的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2409562.d.html</link>
-            <guid>2148164</guid>
-            <pubDate>Wed, 28 Apr 2021 15:46:29 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美元成为储备货币是因为法治和经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561591.d.html</link>
+            <guid>2148436</guid>
+            <pubDate>Wed, 28 Apr 2021 19:06:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【欧洲主要股指集体收涨】欧洲主要股指集体收涨，德国DAX30指数收盘上涨0.36%，报15303.90点；英国富时100指数上涨0.25%，报6962.18点；法国CAC40指数上涨0.53%，报6306.98点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9549592.d.html</link>
-            <guid>2148163</guid>
-            <pubDate>Wed, 28 Apr 2021 15:46:22 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：Archegos风险传导至部分主经纪商业务机构，这相当“麻烦”。]]></title>
+            <guid>2148435</guid>
+            <pubDate>Wed, 28 Apr 2021 19:06:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其卫生部长：土耳其签署了5000万剂“卫星-V”疫苗的订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9549451.d.html</link>
-            <guid>2148162</guid>
-            <pubDate>Wed, 28 Apr 2021 15:44:34 GMT</pubDate>
+            <title><![CDATA[  通用汽车(GM.N)：公司与包括Blink Charging(BLNK.O)、Chargepoint Holdings(CHPT.O)、EvGo等在内的7家主要充电供应商签署了协议。]]></title>
+            <guid>2148434</guid>
+            <pubDate>Wed, 28 Apr 2021 19:05:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其卫生部长：俄罗斯的“卫星-V”疫苗已经进入紧急使用的最后阶段，第一批疫苗将于今年5月首次装运。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2409135.d.html</link>
-            <guid>2148161</guid>
-            <pubDate>Wed, 28 Apr 2021 15:41:27 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔（被问及央行数字货币）：我们觉得有义务较好地理解技术和政策问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421332.d.html</link>
+            <guid>2148433</guid>
+            <pubDate>Wed, 28 Apr 2021 19:05:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【艾格拉斯年度报告：2020年净亏损12.47亿元 亏损缩窄】艾格拉斯发布2020年年报，净亏损12.47亿元，上年同期净亏损25.55亿元，亏损缩窄；营业收入1.82亿元，同比减少67.15%；基本每股收益-0.68元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9549165.d.html</link>
-            <guid>2148160</guid>
-            <pubDate>Wed, 28 Apr 2021 15:41:07 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：Archegos事件绝不是作为指责美联储监管的依据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561532.d.html</link>
+            <guid>2148432</guid>
+            <pubDate>Wed, 28 Apr 2021 19:05:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4789，较上一交易日夜盘收盘涨41点。成交量376.40亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9549153.d.html</link>
-            <guid>2148159</guid>
-            <pubDate>Wed, 28 Apr 2021 15:41:01 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们正在调查与Archegos爆仓事件相关的风险管理故障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421288.d.html</link>
+            <guid>2148431</guid>
+            <pubDate>Wed, 28 Apr 2021 19:04:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国建成全国统一电子营业执照系统】市场监管总局登记注册局副局长郑冠兰28日在市场监管总局新闻发布会上表示，我国已经建成全国统一的电子营业执照系统，建立了全国电子营业执照库，为全国全量市场主体生成了电子营业执照。郑冠兰说，今年将继续推进电子营业执照跨区域、跨领域、跨层级的应用，完善电子营业执照身份验证和证照信息共享功能。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2408937.d.html</link>
-            <guid>2148158</guid>
-            <pubDate>Wed, 28 Apr 2021 15:40:07 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：有些公司的风险管理出现了问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561435.d.html</link>
+            <guid>2148430</guid>
+            <pubDate>Wed, 28 Apr 2021 19:03:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国外交大臣拉布：英国对印度的下一个支援计划包括3个集装箱大小的制氧厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9549028.d.html</link>
-            <guid>2148157</guid>
-            <pubDate>Wed, 28 Apr 2021 15:39:42 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：Archegos这样的企业本应理解市场风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561388.d.html</link>
+            <guid>2148429</guid>
+            <pubDate>Wed, 28 Apr 2021 19:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[布伦特原油期货日内涨幅扩大至2%，现报67.84美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2408871.d.html</link>
-            <guid>2148156</guid>
-            <pubDate>Wed, 28 Apr 2021 15:38:43 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们不需要完全达到目标后才缩减购债。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561365.d.html</link>
+            <guid>2148428</guid>
+            <pubDate>Wed, 28 Apr 2021 19:01:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑瑞郎USD/CHF跌至0.9121，为3月1日以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9548894.d.html</link>
-            <guid>2148155</guid>
-            <pubDate>Wed, 28 Apr 2021 15:37:14 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：Archegos（爆仓事件）风险并没有上升到系统性（风险）的水平。]]></title>
+            <guid>2148427</guid>
+            <pubDate>Wed, 28 Apr 2021 19:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【贝泰妮：一季度净利润同比增长46%】贝泰妮发布一季报，一季度归母净利润7859.36万元，同比增长45.83%；营业收入5.07亿元，同比增长59.32%。同日发布2020年年报，归母净利润5.44亿元，同比增长31.94%；营业收入26.36亿元，同比增长35.64%；基本每股收益1.51元；拟10派4.5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9548809.d.html</link>
-            <guid>2148154</guid>
-            <pubDate>Wed, 28 Apr 2021 15:36:10 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：并没有暗示部分价格上涨将持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561329.d.html</link>
+            <guid>2148426</guid>
+            <pubDate>Wed, 28 Apr 2021 19:00:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【茂硕电源：拟定增募资不超4.57亿元】茂硕电源公告，拟定增募资不超4.57亿元，扣除发行费用后全部用于补充公司流动资金。本次非公开发行股票的发行对象为公司控股股东产发融盛、公司实控人产发集团间接控制的能投公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2408511.d.html</link>
-            <guid>2148153</guid>
-            <pubDate>Wed, 28 Apr 2021 15:33:22 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：希望看到更多月份数据的改善（类似于3月就业报告）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421086.d.html</link>
+            <guid>2148424</guid>
+            <pubDate>Wed, 28 Apr 2021 18:59:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拜登将宣布价值1.8万亿美元的“美国家庭计划”】当地时间4月28日，据美国当地媒体报道，美国总统拜登预计于28日晚在国会联席会议上发表其针对儿童、学生和家庭的总计金额为1.8万亿美元的“美国家庭计划”。白宫表示，该项提案未来十年间所需1.8万亿美元的资金将在15年内由国家财政收入抵消，部分金额将通过提高美国最富裕群体的税率获得额外税收而抵免。为给该项提案提供资金，拜登计划提高年收入超过60万的个人所得税税率，从37%提高至39.6%；同时针对年收入超过100万美元的家庭的资本利得税也将提高到39.6%。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9548496.d.html</link>
-            <guid>2148152</guid>
-            <pubDate>Wed, 28 Apr 2021 15:31:27 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：不应该怀疑美联储（是否会采取）控制通胀的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561257.d.html</link>
+            <guid>2148423</guid>
+            <pubDate>Wed, 28 Apr 2021 18:59:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【花旗银行：料美联储仅微调政策声明】美国联邦公开市场委员会（FOMC）本次决议对缩减购债规模作出明确指引的可能性很小，更大可能是微调政策声明以反映谨慎偏乐观的经济前景。美联储主席鲍威尔目前在等待更多就业恢复的证据。我行认为，美联储有可能在今年6月的FOMC会议上甚至之前就给出更为明确的缩减购债指引，但那将取决于美联储再收到的两份月度就业报告所揭示的就业状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9548414.d.html</link>
-            <guid>2148151</guid>
-            <pubDate>Wed, 28 Apr 2021 15:30:29 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：导致价格上涨的供应链瓶颈并不会使美联储改变政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421058.d.html</link>
+            <guid>2148422</guid>
+            <pubDate>Wed, 28 Apr 2021 18:59:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音CEO：和中国重建航空贸易关系很重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2408215.d.html</link>
-            <guid>2148150</guid>
-            <pubDate>Wed, 28 Apr 2021 15:28:33 GMT</pubDate>
+            <title><![CDATA[外汇、利率观察家Vivien：联邦基金利率期货显示，市场对于美联储在2022年收紧政策的押注有些微下降，虽然幅度并不大，但由于美联储主席鲍威尔重申“现在不是讨论缩债的时候”，市场也重新调整了预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561246.d.html</link>
+            <guid>2148421</guid>
+            <pubDate>Wed, 28 Apr 2021 18:58:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【石基信息年度报告：2020年净亏损6758万元 拟10转4派0.4元】石基信息披露2020年年报，实现营业收入为33.17亿元，同比下降9.43%；净利润为-6758万元，上年同期为3.68亿元；基本每股收益为-0.06元；拟10转4派0.4元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2408161.d.html</link>
-            <guid>2148149</guid>
-            <pubDate>Wed, 28 Apr 2021 15:27:46 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：基数效应将为4月份的核心通胀贡献约0.7个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2421006.d.html</link>
+            <guid>2148420</guid>
+            <pubDate>Wed, 28 Apr 2021 18:56:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三星家族将缴12万亿韩元遗产继承税】据韩国国际广播电台网站报道，三星家族28日公开了有关已故三星会长李健熙遗产的继承和回馈社会计划。李健熙的遗产包括三星生命和三星电子等20万亿韩元规模的股份以及房地产和艺术品。根据这份遗嘱，遗产继承税达到12万亿韩元（约合人民币699亿元）以上，占比超过遗产总额的一半。这是韩国有史以来最高的遗产税额，相当于去年一年韩国征收的继承税总额的3倍还多。遗属决定将在今后5年内分6次缴清税额。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2408024.d.html</link>
-            <guid>2148148</guid>
-            <pubDate>Wed, 28 Apr 2021 15:26:01 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：一次性物价上涨不太可能导致持续的通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561147.d.html</link>
+            <guid>2148419</guid>
+            <pubDate>Wed, 28 Apr 2021 18:56:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【桂林三金：一季度净利润同比增长27%】桂林三金发布一季报，一季度归母净利润9767.22万元，同比增长27.19%；营业收入4.3亿元，同比增长30.71%。同日发布2020年年报，归母净利润2.77亿元，同比减少29.36%；营业收入15.66亿元，同比减少4.51%；基本每股收益0.48元；拟10派4元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9548004.d.html</link>
-            <guid>2148147</guid>
-            <pubDate>Wed, 28 Apr 2021 15:24:31 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：如果通胀预期真的高于2%的水平，就会使用工具将其降下来。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420976.d.html</link>
+            <guid>2148418</guid>
+            <pubDate>Wed, 28 Apr 2021 18:55:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国媒体Politico：美国总统拜登的团队在帮助印度应对新冠疫情危机的问题上产生分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9547985.d.html</link>
-            <guid>2148146</guid>
-            <pubDate>Wed, 28 Apr 2021 15:24:16 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：物价上涨将是短暂的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561127.d.html</link>
+            <guid>2148413</guid>
+            <pubDate>Wed, 28 Apr 2021 18:55:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：截至4月28日晚8时，印度已接种了近1.5亿剂新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9547700.d.html</link>
-            <guid>2148145</guid>
-            <pubDate>Wed, 28 Apr 2021 15:21:27 GMT</pubDate>
+            <title><![CDATA[  土耳其新增新冠肺炎确诊病例40444例，累计确诊超475万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420944.d.html</link>
+            <guid>2148412</guid>
+            <pubDate>Wed, 28 Apr 2021 18:54:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国已有33959908人接种了一剂新冠疫苗，已有13581076人接种了两剂新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9547680.d.html</link>
-            <guid>2148144</guid>
-            <pubDate>Wed, 28 Apr 2021 15:21:12 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：经济增长势头强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420930.d.html</link>
+            <guid>2148411</guid>
+            <pubDate>Wed, 28 Apr 2021 18:54:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[约翰斯·霍普金斯大学数据显示，过去14天，在所有因新冠疫情导致的日均死亡人数超过25的国家中，印度的死亡人数增长最快，新增死亡人数增长了168％。日本的死亡人数增速上升至第3，在14天内几乎翻了一番。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2407282.d.html</link>
-            <guid>2148143</guid>
-            <pubDate>Wed, 28 Apr 2021 15:17:32 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：如果就业市场紧张，工资或会上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420894.d.html</link>
+            <guid>2148407</guid>
+            <pubDate>Wed, 28 Apr 2021 18:53:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【SEC将对VanEck比特币ETF的决定推至6月底】据Coindesk报道，美国证券交易委员会（SEC）将对VanEck拟议的比特币交易所交易基金（ETF）的决定推延至至少6月。该证券监管机构周三宣布，将为比特币ETF申请指定更长的审议期，并表示需要确保其有“足够的时间”来评估该提案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2407125.d.html</link>
-            <guid>2148142</guid>
-            <pubDate>Wed, 28 Apr 2021 15:15:14 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：可能需要几个月的时间才能恢复劳动力供给和需求的平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420867.d.html</link>
+            <guid>2148406</guid>
+            <pubDate>Wed, 28 Apr 2021 18:53:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【国际医学：一季度净亏损1.83亿元 亏损缩窄】国际医学发布一季报，一季度净亏损1.83亿元，上年同期净亏损1.89亿元，亏损缩窄；营业收入6.32亿元，同比增长129.75%。同日发布2020年年报，归母净利润4536.05万元，上年同期净亏损4.04亿元，扭亏为盈；营业收入16.07亿元，同比增长62.17%；基本每股收益0.02元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2407115.d.html</link>
-            <guid>2148141</guid>
-            <pubDate>Wed, 28 Apr 2021 15:15:06 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：失业救济金的影响尚不明确，希望看到就业市场平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420853.d.html</link>
+            <guid>2148405</guid>
+            <pubDate>Wed, 28 Apr 2021 18:52:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国疾控中心报告：针对美国65岁以上的群体，辉瑞和莫德纳疫苗的有效性为94%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2407018.d.html</link>
-            <guid>2148140</guid>
-            <pubDate>Wed, 28 Apr 2021 15:13:31 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：目前房地产市场（的需求）是自金融危机以来最强劲的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420851.d.html</link>
+            <guid>2148404</guid>
+            <pubDate>Wed, 28 Apr 2021 18:52:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【惠天热电：一季度净利润1.35亿元 扭亏为盈】惠天热电发布一季报，一季度归母净利润1.35亿元，上年同期净亏损7818.35万元，扭亏为盈；营业收入10.4亿元，同比增长2.23%。同日发布2020年年报，净亏损9.72亿元，上年同期净亏损1.15亿元，亏损扩大；营业收入18.94亿元，同比增长2.33%；基本每股收益-1.825元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9547024.d.html</link>
-            <guid>2148139</guid>
-            <pubDate>Wed, 28 Apr 2021 15:12:07 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在上一轮经济扩张中，劳动力供应出现增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9561013.d.html</link>
+            <guid>2148400</guid>
+            <pubDate>Wed, 28 Apr 2021 18:52:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LME三个月期锡价格上涨5.3%，达到28595美元/吨，为2011年8月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9546795.d.html</link>
-            <guid>2148138</guid>
-            <pubDate>Wed, 28 Apr 2021 15:10:14 GMT</pubDate>
+            <title><![CDATA[美联储观察家Boesler：美联储FOMC将通胀上升归因于“暂时性因素”，暗示美联储官员没有对当前的情况感到忧虑。对经济前景风险的描述从“相当大的风险”调整为“风险仍存”，反映了官员们对经济前景和劳动力市场改善的乐观态度。FOMC特别指出“疫苗接种进展”是近期乐观情绪的原因之一，暗示接种进程将是衡量未来进展的关键指标之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420823.d.html</link>
+            <guid>2148399</guid>
+            <pubDate>Wed, 28 Apr 2021 18:51:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【取消新冠疫苗知识产权保护？辉瑞的德国合作伙伴反对】与美国辉瑞公司（PFE）联合研发疫苗的德国生物新技术公司（BioNTech）首席执行官兼创始人乌乌尔·沙欣当地时间4月28日明确表态，反对取消新冠疫苗的知识产权保护。相反，他认为应该颁布“特殊”许可证。沙欣认为，美国建议的取消对新冠疫苗的知识产权保护是错误的，并非提高疫苗产量的解决方案。德国生物新技术公司所研发的新冠疫苗对于生产具有较高的要求，因此需依赖与选定合作伙伴的紧密合作。眼下，公司正考虑在今年年底前为有生产能力的制造商颁布特殊许可证，以保证疫苗的质量。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9546743.d.html</link>
-            <guid>2148137</guid>
-            <pubDate>Wed, 28 Apr 2021 15:10:00 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：希望建筑商能够满足住房的需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560973.d.html</link>
+            <guid>2148398</guid>
+            <pubDate>Wed, 28 Apr 2021 18:51:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国新增2166例新冠肺炎确诊病例，29例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2406437.d.html</link>
-            <guid>2148136</guid>
-            <pubDate>Wed, 28 Apr 2021 15:07:45 GMT</pubDate>
+            <title><![CDATA[【孟加拉国批准该国企业生产中国和俄罗斯新冠疫苗】孟加拉国政府28日批准该国企业生产中国国药集团研发的新冠疫苗和俄罗斯“卫星V”新冠疫苗的建议。孟加拉国政府官员莎希达·阿克特尔当天在内阁经济事务委员会会议结束后向媒体表示，该委员会批准了该国几家制药企业与中国和俄罗斯企业合作，生产新冠疫苗的建议。她说，这些制药企业具备生产中国和俄罗斯疫苗的能力。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420776.d.html</link>
+            <guid>2148396</guid>
+            <pubDate>Wed, 28 Apr 2021 18:50:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【智度股份年度报告：2020年净亏损29.23亿元 由盈转亏】智度股份发布2020年年报，净亏损29.23亿元，上年同期净利润6.2亿元，由盈转亏；营业收入107.16亿元，同比减少1.26%；基本每股收益-2.3059元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9546390.d.html</link>
-            <guid>2148135</guid>
-            <pubDate>Wed, 28 Apr 2021 15:05:56 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：不认为住房价格带来金融稳定性担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420760.d.html</link>
+            <guid>2148395</guid>
+            <pubDate>Wed, 28 Apr 2021 18:49:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【捷佳伟创：一季度净利润同比增长146%】捷佳伟创发布一季报，一季度归母净利润2.11亿元，同比增长145.6%；营业收入11.77亿元，同比增长138.22%。同日发布2020年年报，归母净利润5.23亿元，同比增长36.95%；营业收入40.44亿元，同比增长60.03%；基本每股收益1.63元；拟10派1.8元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2406095.d.html</link>
-            <guid>2148134</guid>
-            <pubDate>Wed, 28 Apr 2021 15:04:06 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：房价上涨是因为库存低，而且需求强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420723.d.html</link>
+            <guid>2148394</guid>
+            <pubDate>Wed, 28 Apr 2021 18:48:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【国内商品期货夜盘多数收涨】国内商品期货夜盘多数收涨，能源化工品表现强劲，20号胶涨2.69%，玻璃涨2.55%，刷新历史新高，纯碱涨2.4%，苯乙烯涨1.84%，橡胶涨1.81%。黑色系涨跌不一，动力煤涨2.41%，热轧卷板涨1.43%，螺纹钢涨1.16%，焦炭跌0.26%，铁矿石跌0.4%，焦煤跌1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2406047.d.html</link>
-            <guid>2148133</guid>
-            <pubDate>Wed, 28 Apr 2021 15:03:29 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们正在密切关注房价的上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420695.d.html</link>
+            <guid>2148391</guid>
+            <pubDate>Wed, 28 Apr 2021 18:48:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度孟买新增4966例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2406031.d.html</link>
-            <guid>2148132</guid>
-            <pubDate>Wed, 28 Apr 2021 15:03:17 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：离充分就业还有很长的路要走。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420671.d.html</link>
+            <guid>2148390</guid>
+            <pubDate>Wed, 28 Apr 2021 18:47:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据英国天空新闻：北爱尔兰民主统一党（DUP）领导人ARLENE FOSTER辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2405998.d.html</link>
-            <guid>2148131</guid>
-            <pubDate>Wed, 28 Apr 2021 15:03:00 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：仍有很多人失业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420658.d.html</link>
+            <guid>2148389</guid>
+            <pubDate>Wed, 28 Apr 2021 18:46:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【河钢资源：一季度净利润同比增长192%】河钢资源发布一季报，一季度净利润4.46亿元，同比增长192.12%。同日发布2020年年报，归母净利润9.71亿元，同比增长83.72%；营业收入59.35亿元，同比增长2.33%；基本每股收益1.4878元；拟10派1元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2405771.d.html</link>
-            <guid>2148130</guid>
-            <pubDate>Wed, 28 Apr 2021 15:00:46 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：经济发展形式可能有所不同，服务业工人可能难以找到工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420653.d.html</link>
+            <guid>2148388</guid>
+            <pubDate>Wed, 28 Apr 2021 18:46:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为62，表明市场处在贪婪状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9545906.d.html</link>
-            <guid>2148129</guid>
-            <pubDate>Wed, 28 Apr 2021 15:00:37 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：没有看到之前担忧的“（经济）长期创伤”水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560802.d.html</link>
+            <guid>2148387</guid>
+            <pubDate>Wed, 28 Apr 2021 18:46:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音CEO：787客机如果进行减产，亏损状况将持续；目前787客机已接近盈亏平衡。]]></title>
-            <guid>2148128</guid>
-            <pubDate>Wed, 28 Apr 2021 14:59:46 GMT</pubDate>
+            <title><![CDATA[标普500指数首次站上4200点，续刷历史高位，现涨约0.33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560780.d.html</link>
+            <guid>2148385</guid>
+            <pubDate>Wed, 28 Apr 2021 18:45:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走低23点，现报1.3903。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9545758.d.html</link>
-            <guid>2148127</guid>
-            <pubDate>Wed, 28 Apr 2021 14:59:10 GMT</pubDate>
+            <title><![CDATA[美国十年期国债收益率继续下行，最低至1.6129%，刷新日低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420628.d.html</link>
+            <guid>2148384</guid>
+            <pubDate>Wed, 28 Apr 2021 18:45:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音CEO：仍预计本年末可以交付库存中一半的737 Max客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9545652.d.html</link>
-            <guid>2148126</guid>
-            <pubDate>Wed, 28 Apr 2021 14:57:32 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们非常担心（疫情）对就业市场留下永久伤痕。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560773.d.html</link>
+            <guid>2148383</guid>
+            <pubDate>Wed, 28 Apr 2021 18:45:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数DXY短线反弹近10点，现报90.91。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2405519.d.html</link>
-            <guid>2148125</guid>
-            <pubDate>Wed, 28 Apr 2021 14:57:22 GMT</pubDate>
+            <title><![CDATA[美联储观察家Boesler：美联储主席鲍威尔重申“还需要一段时间才能看到（双重使命）取得实质性进展。”美联储已经连续几个月使用相同的措辞描述实质性进展的预期。]]></title>
+            <guid>2148382</guid>
+            <pubDate>Wed, 28 Apr 2021 18:44:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  AMC院线(AMC.N)跌超5%，公司今天宣布放弃增发5亿股的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2405434.d.html</link>
-            <guid>2148124</guid>
-            <pubDate>Wed, 28 Apr 2021 14:55:57 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：（经济）要取得实质性的进展，也将在疫情方面取得重大进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420598.d.html</link>
+            <guid>2148381</guid>
+            <pubDate>Wed, 28 Apr 2021 18:44:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华昌达年度报告：2020年净亏损5.85亿元 亏损缩窄】华昌达发布2020年年报，净亏损5.85亿元，上年同期净亏损15.37亿元，亏损缩窄；营业收入16亿元，同比增长1.06%；基本每股收益-1.03元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2405409.d.html</link>
-            <guid>2148123</guid>
-            <pubDate>Wed, 28 Apr 2021 14:55:45 GMT</pubDate>
+            <title><![CDATA[美元兑日元USD/JPY走低近30点，现报108.59。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420578.d.html</link>
+            <guid>2148380</guid>
+            <pubDate>Wed, 28 Apr 2021 18:44:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞普生物：一季度净利润同比增长59%】瑞普生物披露2021年第一季度报告，实现营业收入5.6亿元，同比增长23.35%；净利润1.16亿元，同比增长59.11%；基本每股收益0.293元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9545497.d.html</link>
-            <guid>2148122</guid>
-            <pubDate>Wed, 28 Apr 2021 14:55:34 GMT</pubDate>
+            <title><![CDATA[澳元兑美元AUD/USD短线上扬近30点，站上0.78，日内涨0.49%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420555.d.html</link>
+            <guid>2148379</guid>
+            <pubDate>Wed, 28 Apr 2021 18:43:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【柳工：一季度净利润同比增长146%】柳工发布一季报，一季度归母净利润4.18亿元，同比增长146.22%；营业收入77.32亿元，同比增长72.59%；基本每股收益0.28元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9545209.d.html</link>
-            <guid>2148121</guid>
-            <pubDate>Wed, 28 Apr 2021 14:53:04 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：仍在寻找“实质性的”进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420537.d.html</link>
+            <guid>2148378</guid>
+            <pubDate>Wed, 28 Apr 2021 18:42:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【亚泰集团：一季度净亏损2.62亿元 亏损缩窄】亚泰集团发布一季报，一季度净亏损2.62亿元，上年同期净亏损2.74亿元，亏损缩窄；营业收入29.54亿元，同比增长46.66%。同日发布2020年年报，归母净利润1.37亿元，同比增长156.65%；营业收入194.98亿元，同比增长14.62%；基本每股收益0.04元；拟10派0.2元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2404937.d.html</link>
-            <guid>2148119</guid>
-            <pubDate>Wed, 28 Apr 2021 14:51:56 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：需要一段时间才能上调通胀预期，预计这将伴随着劳动力市场的强劲复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420528.d.html</link>
+            <guid>2148370</guid>
+            <pubDate>Wed, 28 Apr 2021 18:42:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[卡塔尔新增690例新冠肺炎确诊病例，4例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9545070.d.html</link>
-            <guid>2148118</guid>
-            <pubDate>Wed, 28 Apr 2021 14:51:44 GMT</pubDate>
+            <title><![CDATA[美联储观察家Anstey：美联储主席鲍威尔将美联储对经济的支撑描述为“强有力的”，这一点与日本央行行长黑田东彦相似（黑田东彦说“当前的货币宽松框架是非常强有力的”）。可以注意到，各国央行官员在没有采取新措施的时候，倾向于使用“强有力”这一表述，某种程度上是用言语替代行动，把过去的行动描述为对现在仍有“强有力的”影响。]]></title>
+            <guid>2148369</guid>
+            <pubDate>Wed, 28 Apr 2021 18:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国人大常委会组成人员建议：为如期实现碳中和目标提供法律保障】“十四五”时期是碳达峰的关键期、窗口期。28日，全国人大常委会组成人员分组审议国务院关于2020年度环境状况和环境保护目标完成情况、研究处理土壤污染防治法执法检查报告及审议意见情况、依法打好污染防治攻坚战工作情况的报告。与会人员建议，完善相应的法治体系，为如期实现碳中和目标提供法律保障。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9544947.d.html</link>
-            <guid>2148117</guid>
-            <pubDate>Wed, 28 Apr 2021 14:50:39 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在劳动力市场仍然疲软的情况下，我们似乎不太可能看到通胀持续上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560627.d.html</link>
+            <guid>2148368</guid>
+            <pubDate>Wed, 28 Apr 2021 18:41:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国贸易代表Tai：美墨加自由贸易委员会将在未来几周内召开会议，讨论贸易问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2404633.d.html</link>
-            <guid>2148116</guid>
-            <pubDate>Wed, 28 Apr 2021 14:49:23 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在实现目标前，接近零的利率是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420482.d.html</link>
+            <guid>2148367</guid>
+            <pubDate>Wed, 28 Apr 2021 18:41:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英特尔将与三星合作开发GALAXY BOOK PRO系列新品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2404625.d.html</link>
-            <guid>2148115</guid>
-            <pubDate>Wed, 28 Apr 2021 14:49:16 GMT</pubDate>
+            <title><![CDATA[美指短线下挫逾20点，现报90.63，非美货币普遍走高，英镑兑美元GBP/USD短线涨超30点，欧元兑美元EUR/USD短线涨近30点，美元兑加元USD/CAD走低超20点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560612.d.html</link>
+            <guid>2148366</guid>
+            <pubDate>Wed, 28 Apr 2021 18:40:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[格力电器：拟使用不超过290亿元的自有闲置资金进行中低风险投资理财业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9544471.d.html</link>
-            <guid>2148114</guid>
-            <pubDate>Wed, 28 Apr 2021 14:47:07 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：控制新冠病毒的传播是影响经济复苏的最重要因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560574.d.html</link>
+            <guid>2148365</guid>
+            <pubDate>Wed, 28 Apr 2021 18:40:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油期货日内涨幅扩大至2%，报64.24美元/桶，布伦特原油期货现涨1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2404291.d.html</link>
-            <guid>2148113</guid>
-            <pubDate>Wed, 28 Apr 2021 14:46:44 GMT</pubDate>
+            <title><![CDATA[  美股三大股指短线拉升，道指跌幅收窄至0.17%，标普500指数涨0.27%，纳指涨0.17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560558.d.html</link>
+            <guid>2148364</guid>
+            <pubDate>Wed, 28 Apr 2021 18:39:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【好想你年度报告：2020年净利润同比增长1019% 拟10派10元】好想你发布2020年年报，归母净利润21.55亿元，同比增长1018.8%；营业收入30.01亿元，同比减少49.65%；基本每股收益4.29元；拟10派10元。同日发布一季报，归母净利润3600.69万元，同比增长23.42%；营业收入3.26亿元，同比减少81.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9544367.d.html</link>
-            <guid>2148112</guid>
-            <pubDate>Wed, 28 Apr 2021 14:46:12 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在人们觉得可以安全地恢复活动之前，经济是不能完全恢复的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560532.d.html</link>
+            <guid>2148363</guid>
+            <pubDate>Wed, 28 Apr 2021 18:39:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国疾控中心（CDC）数据，过去一周，美国平均每天报告270万剂新冠疫苗接种，与一个月前的水平相当，其中4月13日报告的疫苗接种量达到340万剂的高峰。超过40％的人口至少接种了一剂疫苗，18岁以上人群中该比例约为54％；接近30%的人口完成了疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2404193.d.html</link>
-            <guid>2148111</guid>
-            <pubDate>Wed, 28 Apr 2021 14:46:05 GMT</pubDate>
+            <title><![CDATA[美国十年期国债收益率短线走低，现报1.6218%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560526.d.html</link>
+            <guid>2148362</guid>
+            <pubDate>Wed, 28 Apr 2021 18:39:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音公司（BA）维持超过3.3%的跌幅，徘徊于日低232.85美元附近。该公司表示，自3月份后期以来，已经交付9架787梦想飞机（Dreamliner）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2404116.d.html</link>
-            <guid>2148110</guid>
-            <pubDate>Wed, 28 Apr 2021 14:45:25 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：经济活动最近刚刚回升，要达到标准还需要一段时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420397.d.html</link>
+            <guid>2148361</guid>
+            <pubDate>Wed, 28 Apr 2021 18:38:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【居然之家：一季度净利润同比增长145%】居然之家发布2021年一季报，实现营业收入33.42亿元，同比增长39.05%；净利润6.15亿元，同比增长144.58%；基本每股收益0.09元。同日发布2020年年报，实现营业收入89.93亿元，同比下降2.56%；净利润13.63亿元，同比下降56.81%；基本每股收益0.22元；拟10派0.52元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9544138.d.html</link>
-            <guid>2148109</guid>
-            <pubDate>Wed, 28 Apr 2021 14:43:47 GMT</pubDate>
+            <title><![CDATA[现货白银短线走高0.2美元，现报26.14美元/盎司，日跌幅收窄至0.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560457.d.html</link>
+            <guid>2148360</guid>
+            <pubDate>Wed, 28 Apr 2021 18:38:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑加元USD/CAD下跌0.3%至1.2362，为2018年2月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9544079.d.html</link>
-            <guid>2148108</guid>
-            <pubDate>Wed, 28 Apr 2021 14:43:22 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：现在还不是开始谈论缩减购债规模的时候。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560413.d.html</link>
+            <guid>2148359</guid>
+            <pubDate>Wed, 28 Apr 2021 18:37:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【格力：一季度净利润增长逾120%】格力电器发布2021年一季报，一季度营收331.89亿元人民币，同比增长62.73%。归属于上市公司股东的净利润344.29亿元，同比增长120.98%。预测年初至下一报告期期末的累计净利润可能为亏损或者与上年同期相比发生大幅度变动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2403827.d.html</link>
-            <guid>2148107</guid>
-            <pubDate>Wed, 28 Apr 2021 14:42:33 GMT</pubDate>
+            <title><![CDATA[现货黄金站上1780美元/盎司，刷新日高，涨幅达0.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420279.d.html</link>
+            <guid>2148355</guid>
+            <pubDate>Wed, 28 Apr 2021 18:37:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音(BA.N)CEO：因此前报告的电气故障，已经暂停交付737 Max客机。预计737 Max客机将在下半年在中国获批。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2403623.d.html</link>
-            <guid>2148106</guid>
-            <pubDate>Wed, 28 Apr 2021 14:40:59 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：如有需要，美联储将尽力支持经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560394.d.html</link>
+            <guid>2148354</guid>
+            <pubDate>Wed, 28 Apr 2021 18:37:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内涨幅扩大到0.5%，报0.7244。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2403377.d.html</link>
-            <guid>2148105</guid>
-            <pubDate>Wed, 28 Apr 2021 14:39:30 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：距离实现“实质性进展”可能还有一段时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560392.d.html</link>
+            <guid>2148353</guid>
+            <pubDate>Wed, 28 Apr 2021 18:37:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EIA报告：美国东海岸馏分油库存上周降至2020年4月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9543507.d.html</link>
-            <guid>2148104</guid>
-            <pubDate>Wed, 28 Apr 2021 14:39:15 GMT</pubDate>
+            <title><![CDATA[欧元兑美元EUR/USD持续上扬，重回1.21上方，最高至1.2113。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420246.d.html</link>
+            <guid>2148352</guid>
+            <pubDate>Wed, 28 Apr 2021 18:36:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据山西日报：4月27日，运城市疫情防控指挥部接到河津市报告新冠肺炎确诊病例复阳患者1名。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2403320.d.html</link>
-            <guid>2148103</guid>
-            <pubDate>Wed, 28 Apr 2021 14:38:55 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：今年通胀的暂时上升不符合加息的标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420224.d.html</link>
+            <guid>2148351</guid>
+            <pubDate>Wed, 28 Apr 2021 18:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  AMD转跌0.21%，现报85美元，此前一度涨超5%，暂成交38.13亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9543418.d.html</link>
-            <guid>2148102</guid>
-            <pubDate>Wed, 28 Apr 2021 14:38:27 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在实现（双重）目标前，利率接近零是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560351.d.html</link>
+            <guid>2148350</guid>
+            <pubDate>Wed, 28 Apr 2021 18:35:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EIA报告：美国中西部汽油库存上周降至去年10月以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2403185.d.html</link>
-            <guid>2148101</guid>
-            <pubDate>Wed, 28 Apr 2021 14:37:46 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：支出增长刺激物价，可能是暂时性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420176.d.html</link>
+            <guid>2148345</guid>
+            <pubDate>Wed, 28 Apr 2021 18:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普500能源指数最高涨3%，成分股中，阿帕奇石油涨5.3%，德文能源涨4.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2402970.d.html</link>
-            <guid>2148100</guid>
-            <pubDate>Wed, 28 Apr 2021 14:35:54 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：PCE年率预计将超过2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420158.d.html</link>
+            <guid>2148344</guid>
+            <pubDate>Wed, 28 Apr 2021 18:34:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美、布两油期货短线抬升约0.4美元，现分别报64.1美元/桶、67.44美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2402965.d.html</link>
-            <guid>2148099</guid>
-            <pubDate>Wed, 28 Apr 2021 14:35:49 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：在出现放缓之前，某种程度上通胀出现进一步的上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420154.d.html</link>
+            <guid>2148343</guid>
+            <pubDate>Wed, 28 Apr 2021 18:34:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据俄罗斯卫星网：如果俄罗斯对乌克兰的侵略继续下去，欧盟希望SWIFT对俄罗斯关闭，并且暂停对俄罗斯的能源采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542870.d.html</link>
-            <guid>2148098</guid>
-            <pubDate>Wed, 28 Apr 2021 14:33:30 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：6%的失业率低估了就业的不足。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420142.d.html</link>
+            <guid>2148342</guid>
+            <pubDate>Wed, 28 Apr 2021 18:33:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国至4月23日当周EIA原油库存(万桶)公布 9，前值 59.4，预期 65.9。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542756.d.html</link>
-            <guid>2148097</guid>
-            <pubDate>Wed, 28 Apr 2021 14:32:21 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：失业率依然高企。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420116.d.html</link>
+            <guid>2148339</guid>
+            <pubDate>Wed, 28 Apr 2021 18:33:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国至4月23日当周除却战略储备的商业原油进口量为2020年7月3日当周以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542712.d.html</link>
-            <guid>2148096</guid>
-            <pubDate>Wed, 28 Apr 2021 14:31:55 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：疫苗接种应帮助今年进一步恢复常态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560222.d.html</link>
+            <guid>2148338</guid>
+            <pubDate>Wed, 28 Apr 2021 18:33:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为1968万桶/日，较去年同期增加35.5%。除却战略储备的商业原油上周进口661.6万桶/日，较前一周增加121.1万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542666.d.html</link>
-            <guid>2148095</guid>
-            <pubDate>Wed, 28 Apr 2021 14:31:40 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：劳动力市场状况继续改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420105.d.html</link>
+            <guid>2148337</guid>
+            <pubDate>Wed, 28 Apr 2021 18:32:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EIA报告：上周美国国内原油产量减少10万桶至1090万桶/日。除却战略储备的商业原油库存增加9万桶至4.931亿桶，增加0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542617.d.html</link>
-            <guid>2148094</guid>
-            <pubDate>Wed, 28 Apr 2021 14:31:03 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：受疫情影响最严重的领域有所改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420091.d.html</link>
+            <guid>2148336</guid>
+            <pubDate>Wed, 28 Apr 2021 18:32:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美银策略师：资金流表明投资者最近几周的防御性倾向越来越强，非必需消费股出现连续第6周资金流出，金融股则出现连续第5周资金流出。必需消费股出现连续第二周资金净流入，此前则是连续7周流出，医疗保健行业的资金流入达到1月份以来最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542412.d.html</link>
-            <guid>2148093</guid>
-            <pubDate>Wed, 28 Apr 2021 14:29:37 GMT</pubDate>
+            <title><![CDATA[上海黄金交易所黄金T+D 4月29日（周四）晚盘收盘上涨0.01%报371.43元/克；上海黄金交易所白银T+D 4月29日（周四）晚盘收盘下跌0.61%报5370.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560200.d.html</link>
+            <guid>2148335</guid>
+            <pubDate>Wed, 28 Apr 2021 18:32:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：印度和俄罗斯将建立新型2+2部长级对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2402215.d.html</link>
-            <guid>2148092</guid>
-            <pubDate>Wed, 28 Apr 2021 14:29:32 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：复苏仍然不平衡、不完整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560193.d.html</link>
+            <guid>2148334</guid>
+            <pubDate>Wed, 28 Apr 2021 18:32:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  百济神州(BGNE.O)涨8.3%，报351.16美元。今日公司公告，其药物Brukinsa对复发/难治性慢性淋巴细胞白血病或小淋巴细胞淋巴瘤效果出色。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542174.d.html</link>
-            <guid>2148091</guid>
-            <pubDate>Wed, 28 Apr 2021 14:26:40 GMT</pubDate>
+            <title><![CDATA[  上期所原油期货2106合约夜盘收涨1.91%，报411.50元人民币/桶。 沪金夜盘收跌0.09%，沪银收跌0.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2420038.d.html</link>
+            <guid>2148329</guid>
+            <pubDate>Wed, 28 Apr 2021 18:30:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  维视图像(MVIS.O)涨幅扩大至20%，报24.16美元。此前公司宣布完成长距离激光雷达传感器样品制作及其制造平台的开发。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542165.d.html</link>
-            <guid>2148090</guid>
-            <pubDate>Wed, 28 Apr 2021 14:26:34 GMT</pubDate>
+            <title><![CDATA[【特斯拉美国官网更改Model S新订单预计交付时间】Model S长续航版本预计交付时间为今年八月至九月，Model S Plaid版本预计交付时间为今年六月至七月，此前预计均为10-14周；Model S Plaid+版本预计交付时间维持不变，为2022年中期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9560023.d.html</link>
+            <guid>2148327</guid>
+            <pubDate>Wed, 28 Apr 2021 18:27:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  昆仑万维发布一季度报告，一季度归母净利润3.13亿元，同比减少36.29%；营业收入7.93亿元，同比减少39.42%；基本每股收益0.27元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9542086.d.html</link>
-            <guid>2148089</guid>
-            <pubDate>Wed, 28 Apr 2021 14:25:31 GMT</pubDate>
+            <title><![CDATA[经济学家Rubeela Farooqi：总体而言，美联储仍处于被动状态。换句话说，美联储没有主动调整政策的倾向，美联储希望看到经济数据持续走强，然后才考虑采取实质性的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9559983.d.html</link>
+            <guid>2148325</guid>
+            <pubDate>Wed, 28 Apr 2021 18:26:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走高20点，现报1.3914，日内转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmyaawc2401853.d.html</link>
-            <guid>2148088</guid>
-            <pubDate>Wed, 28 Apr 2021 14:25:15 GMT</pubDate>
+            <title><![CDATA[欧元兑美元EUR/USD短线走高近20点，现报1.2104，较美联储利率决议公布后的低位反弹近40点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmyaawc2419794.d.html</link>
+            <guid>2148322</guid>
+            <pubDate>Wed, 28 Apr 2021 18:24:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【农业农村部：加快研究生猪产能储备政策，促进生猪生产平稳发展】农业农村部部长唐仁健主持召开部常务会议。会议强调，要落实好粮食安全党政同责，落细粮食生产扶持政策，调动农民种粮积极性，确保春播面积只增不减，全部种在适播期。环环紧扣抓好春季田管，加强小麦条锈病、赤霉病等病虫害防控，努力夺取夏粮丰收。继续抓好非洲猪瘟防控，密切跟踪生猪市场供需变化，加快研究生猪产能储备政策，促进生猪生产平稳发展。加强耕地保护和质量建设，落实遏制耕地“非农化”、制止“非粮化”的政策措施，扎实推进高标准农田建设。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-28/detail-ikmxzfmk9541735.d.html</link>
-            <guid>2148087</guid>
-            <pubDate>Wed, 28 Apr 2021 14:22:33 GMT</pubDate>
+            <title><![CDATA[美元指数DXY继续下挫，刷新日内低位，现报90.78。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-29/detail-ikmxzfmk9559860.d.html</link>
+            <guid>2148314</guid>
+            <pubDate>Wed, 28 Apr 2021 18:23:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
