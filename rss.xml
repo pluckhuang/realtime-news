@@ -4,11 +4,194 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 01 May 2021 13:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 16:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗：与美国就多数制裁达成共识】伊朗副外长阿巴斯·阿奇表示，伊朗和美国就许多针对伊朗个人和经济部门的制裁准备好了协议。阿巴斯·阿奇说：“已经在取消针对伊朗能源、汽车、金融和港口部门的制裁方面达成了共识，而且针对个人制裁的谈判也在继续。无论是有争议的问题，还是有共识的问题，双方对话都达到了成熟的水平。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmxzfmm0125214.d.html</link>
+            <guid>2154103</guid>
+            <pubDate>Sat, 01 May 2021 16:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗首席核谈判代表：尚未就所有被制裁的个人问题达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2985108.d.html</link>
+            <guid>2154094</guid>
+            <pubDate>Sat, 01 May 2021 16:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗首席核谈判代表：维也纳会谈的趋势“自然有些放缓”，但仍在向前发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2985027.d.html</link>
+            <guid>2154092</guid>
+            <pubDate>Sat, 01 May 2021 16:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗方面表示，正在研究核协议的文本和措辞。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2984939.d.html</link>
+            <guid>2154087</guid>
+            <pubDate>Sat, 01 May 2021 16:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前4月投行成绩放榜！9家债券承销规模超千亿，前十名分去75%股权承销市场】2021年，券商投行业务继续加速。数据显示，前4个月券商股权承销金额合计5526.29亿元，同比增长24.35%；债券承销金额合计为3.34万亿元，同比增长6.37%（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2984930.d.html</link>
+            <guid>2154086</guid>
+            <pubDate>Sat, 01 May 2021 16:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将前往路易斯安那州的莱克查尔斯和新奥尔良。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-02/detail-ikmyaawc2984657.d.html</link>
+            <guid>2154081</guid>
+            <pubDate>Sat, 01 May 2021 16:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增3725例新冠肺炎确诊病例，新增25例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2983927.d.html</link>
+            <guid>2154079</guid>
+            <pubDate>Sat, 01 May 2021 15:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新冠病毒检测阳性率1.60%，为去年11月初以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2983925.d.html</link>
+            <guid>2154078</guid>
+            <pubDate>Sat, 01 May 2021 15:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗副外长：核谈判向着正确的方向缓慢迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0123364.d.html</link>
+            <guid>2154075</guid>
+            <pubDate>Sat, 01 May 2021 15:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔新增650例新冠肺炎确诊病例，新增7例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0123008.d.html</link>
+            <guid>2154064</guid>
+            <pubDate>Sat, 01 May 2021 15:41:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增12965例新冠肺炎确诊病例，新增226例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2983350.d.html</link>
+            <guid>2154063</guid>
+            <pubDate>Sat, 01 May 2021 15:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：伊朗核协议谈判仍有很多工作要做，时间所剩无几。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0122894.d.html</link>
+            <guid>2154062</guid>
+            <pubDate>Sat, 01 May 2021 15:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“五一”首日 中国铁路济南局单日发送旅客超88万人次】5月1日，中国铁路济南局集团公司发送旅客888186人次，同比增加581173人次，同比增长189.3%，创下疫情以来单日旅客发送量新高，这一数字打破了2019年五一小长假期间5月1日单日铁路旅客发送量815946人次的历史纪录，刷新了济南局单日旅客发送量的历史最高纪录。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2982767.d.html</link>
+            <guid>2154052</guid>
+            <pubDate>Sat, 01 May 2021 15:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据天空新闻：英国可能从5月17日起恢复非必要的国际旅行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2982550.d.html</link>
+            <guid>2154050</guid>
+            <pubDate>Sat, 01 May 2021 15:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度制药商Dr. Reddy's Laboratories：首批15万剂卫星-V新冠疫苗运抵印度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0122000.d.html</link>
+            <guid>2154043</guid>
+            <pubDate>Sat, 01 May 2021 15:26:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币短线下挫，以太坊回落至2850美元/枚下方，比特币日内跌0.8%至57297美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0120665.d.html</link>
+            <guid>2154025</guid>
+            <pubDate>Sat, 01 May 2021 15:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯特使：俄罗斯希望在3周内完成伊朗核协议谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2980822.d.html</link>
+            <guid>2154021</guid>
+            <pubDate>Sat, 01 May 2021 15:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增1907例新冠肺炎确诊病例，新增7例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2980812.d.html</link>
+            <guid>2154020</guid>
+            <pubDate>Sat, 01 May 2021 15:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外交部：将于周五重启在维也纳举行的伊核协议谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0120324.d.html</link>
+            <guid>2154015</guid>
+            <pubDate>Sat, 01 May 2021 15:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅向太平洋联盟成立十周年纪念仪式作视频致辞】4月30日，国务委员兼外长王毅向太平洋联盟成立十周年纪念仪式作视频致辞。王毅代表中国政府祝贺太平洋联盟成立十周年，并表示，中国愿同太平洋联盟及各成员国深化多、双边合作，继续同拉美和加勒比国家开展抗疫等各领域合作，用实际行动诠释中拉命运共同体理念，共同构建平等、互利、创新、开放、惠民的新时代中拉关系。太平洋联盟于2011年成立，成员国包括哥伦比亚、智利、墨西哥和秘鲁。中国于2013年成为观察员国。（央视新闻）]]></title>
+            <guid>2154011</guid>
+            <pubDate>Sat, 01 May 2021 14:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2小时消费支付金额突破20亿元！上海第二届五五购物节正式开幕】第二届五五购物节正式开幕，根据中国银联联合支付宝、微信支付提供的上海地区消费支付实时金额，从5月1日晚8点到10点，2小时累计消费支付金额突破20亿元。去年首届五五购物节，突破20亿元用了2小时57分钟。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2979399.d.html</link>
+            <guid>2154010</guid>
+            <pubDate>Sat, 01 May 2021 14:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【爱立信已获得136个5G商用合同】爱立信官网公布的数据显示：截至目前，爱立信已经在全球斩获136个5G商用合同，其中爱立信已经与78家运营商客户达成可公示的5G商用合同，目前在42个国家为85个已经正式运行的5G商用网络提供设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2977333.d.html</link>
+            <guid>2154009</guid>
+            <pubDate>Sat, 01 May 2021 14:22:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东队以总比分2∶1击败辽宁队，夺得本赛季CBA总冠军。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0116969.d.html</link>
+            <guid>2154008</guid>
+            <pubDate>Sat, 01 May 2021 14:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：5月1日21时17分在云南大理州宾川县（北纬25.97度，东经100.86度）发生2.8级地震，震源深度10千米。]]></title>
+            <guid>2154007</guid>
+            <pubDate>Sat, 01 May 2021 14:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爱立信斩获136个5G商用合同】爱立信官网公布的数据显示：截至目前，爱立信已经在全球斩获136个5G商用合同，其中爱立信已经与78家运营商客户达成可公示的5G商用合同，目前在42个国家为85个已经正式运行的5G商用网络提供设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2974676.d.html</link>
+            <guid>2154006</guid>
+            <pubDate>Sat, 01 May 2021 13:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏州开启“五五购物节”数字人民币红包活动 总计发放金额约1000万】继去年末和今年初苏州成功发放5000万元数字人民币消费红包后，苏州于5月1日正式开启“五五购物节”数字人民币红包活动。本次活动面向符合条件的全体市民，通过抽签发放数字人民币红包共18.18万个，每个红包金额55元，总计发放金额约为1000万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0112868.d.html</link>
+            <guid>2154005</guid>
+            <pubDate>Sat, 01 May 2021 13:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿斯利康：达格列净慢性肾脏病适应症在美国获批】阿斯利康宣布安达唐（通用名：达格列净，即钠-葡萄糖协同转运蛋白-2（SGLT2）抑制剂）在美国正式获批，用于治疗有疾病进展风险的慢性肾脏病（CKD）成人患者，可降低包括估算肾小球滤过率（eGFR）持续下降、进展至终末期肾病（ESKD）、心血管（CV）死亡和心衰住院（hHF）的相关风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2972669.d.html</link>
+            <guid>2154004</guid>
+            <pubDate>Sat, 01 May 2021 13:37:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大连：今日全市共接待游客48万人次 同比增长246%】5月1日小长假首日，大连市共接待游客48.12万人次，同比增长246.19%、按照2019年可比口径增长17.45%；实现旅游综合收入5.2亿元，同比增长217.07%、恢复到2019年同期的82.54%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2972282.d.html</link>
+            <guid>2154002</guid>
+            <pubDate>Sat, 01 May 2021 13:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三菱日联：近期澳大利亚的经济数据表现令人失望，表明经济复苏正开始失去上行动力，潜在通胀率降至历史新低，预计市场会加大对澳洲联储将量化宽松政策进一步延长至9月以后的预期，澳元面临一定程度的下行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0111655.d.html</link>
+            <guid>2154001</guid>
+            <pubDate>Sat, 01 May 2021 13:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伯克希尔哈撒韦公司第一季度股票净卖出额为近五年来第二高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2971869.d.html</link>
+            <guid>2154000</guid>
+            <pubDate>Sat, 01 May 2021 13:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：05月01日21时17分在云南大理州宾川县附近（北纬25.94度，东经100.88度）发生3.0级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2153999</guid>
+            <pubDate>Sat, 01 May 2021 13:20:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[追踪油轮运输的咨询公司PetroLogistcis：伊朗原油产量的增长趋势总体上仍在持续。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0110763.d.html</link>
@@ -26,12 +209,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0109240.d.html</link>
             <guid>2153994</guid>
             <pubDate>Sat, 01 May 2021 12:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红杉资本沈南鹏减持美团】据港交所股权披露显示，美团股东红杉资本已于4月6日分派1872.4万股美团B股予有限合伙人。此外，红杉资本创始管理合伙人、美团非执行董事沈南鹏于4月27日，以每股平均价300.3864元，出售47.57万股美团股份，套现1.43亿元，持股量降至7.09%。（财华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2969163.d.html</link>
-            <guid>2153993</guid>
-            <pubDate>Sat, 01 May 2021 12:55:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【水滴公司估值超50亿美元 王慧文、博裕资本等投资】5月1日，自两周前向美国证券交易委员会(SEC)提交IPO申请后，近日水滴公司再次更新招股书，透露出了最新信息。最新的F-1招股书文件上，确定水滴公司发行价格区间为每份ADS（美国存托证券）10到12美元，计划发行3000万股ADS（行使超额配股权前）,行使绿鞋机制后，预计初始募资额最高为4.14亿美元，公司估值超过50亿美元。 （21世纪）]]></title>
@@ -424,186 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0067244.d.html</link>
             <guid>2153916</guid>
             <pubDate>Sat, 01 May 2021 06:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至2021年4月30日，北京市累计报告接种新冠病毒疫苗2491万剂次，累计接种1452.24万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2927795.d.html</link>
-            <guid>2153915</guid>
-            <pubDate>Sat, 01 May 2021 06:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国将尝试用狗筛查新冠病毒感染者】一项由泰国朱拉隆功大学主导的新冠病毒嗅探犬研究项目日前宣布，6只拉布拉多嗅探犬有望于5月在曼谷正式“上岗”，通过嗅觉帮助识别人体是否感染新冠病毒。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0066953.d.html</link>
-            <guid>2153914</guid>
-            <pubDate>Sat, 01 May 2021 06:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首批“长春造”新冠疫苗批准上市正式发运】中国生物消息，4月30日，国药集团中国生物长春生物制品研究所分包装生产的首批“长春造”新冠疫苗获得批签发正式上市供应，150余万瓶新冠疫苗已由冷链运输专车发往黑龙江、吉林、山东、辽宁等省市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2925262.d.html</link>
-            <guid>2153913</guid>
-            <pubDate>Sat, 01 May 2021 06:30:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼泊尔疫情管理中心：建议暂停运行客运航班并关闭22个尼印边境口岸】据尼泊尔媒体报道，为了遏制新冠肺炎疫情传播，当地时间4月30日晚，尼泊尔新冠肺炎疫情危机管理中心向尼泊尔内阁会议提出，建议暂停该国国际、国内商业客运航班运行，同时关闭22个与印度之间的边境口岸。尼泊尔副总理博克瑞尔宣布，这些建议将提交给尼泊尔内阁会议，待内阁作出决定后采取相关措施。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2924731.d.html</link>
-            <guid>2153912</guid>
-            <pubDate>Sat, 01 May 2021 06:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国4月新车注册量为140428辆，较2019年4月下降25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0063481.d.html</link>
-            <guid>2153911</guid>
-            <pubDate>Sat, 01 May 2021 06:22:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：巴拿马发生5.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2923879.d.html</link>
-            <guid>2153910</guid>
-            <pubDate>Sat, 01 May 2021 06:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【习近平：加快推动产业结构、能源结构、交通运输结构、用地结构调整】习近平在中共中央政治局第二十九次集体学习时强调，要坚持不懈推动绿色低碳发展，建立健全绿色低碳循环发展经济体系，促进经济社会发展全面绿色转型。要把实现减污降碳协同增效作为促进经济社会发展全面绿色转型的总抓手，加快推动产业结构、能源结构、交通运输结构、用地结构调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0062211.d.html</link>
-            <guid>2153908</guid>
-            <pubDate>Sat, 01 May 2021 06:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平：不符合要求的高耗能、高排放项目要坚决拿下来】习近平在中共中央政治局第二十九次集体学习时强调，实现碳达峰、碳中和是我国向世界作出的庄严承诺，也是一场广泛而深刻的经济社会变革，绝不是轻轻松松就能实现的。各级党委和政府要拿出抓铁有痕、踏石留印的劲头，明确时间表、路线图、施工图，推动经济社会发展建立在资源高效利用和绿色低碳发展的基础之上。不符合要求的高耗能、高排放项目要坚决拿下来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2922240.d.html</link>
-            <guid>2153907</guid>
-            <pubDate>Sat, 01 May 2021 06:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[习近平在中共中央政治局第二十九次集体学习时强调，要抓住产业结构调整这个关键，推动战略性新兴产业、高技术产业、现代服务业加快发展，推动能源清洁低碳安全高效利用，持续降低碳排放强度。要支持绿色低碳技术创新成果转化，支持绿色技术创新。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0061470.d.html</link>
-            <guid>2153906</guid>
-            <pubDate>Sat, 01 May 2021 06:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[习近平在中共中央政治局第二十九次集体学习时强调，要完善环境保护、节能减排约束性指标管理，建立健全稳定的财政资金投入机制。要全面实行排污许可制，推进排污权、用能权、用水权、碳排放权市场化交易，建立健全风险管控机制。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0061290.d.html</link>
-            <guid>2153905</guid>
-            <pubDate>Sat, 01 May 2021 06:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据土耳其阿纳多卢通讯社：土耳其将发电厂的天然气价格上调12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0060837.d.html</link>
-            <guid>2153904</guid>
-            <pubDate>Sat, 01 May 2021 06:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京新增1050例新冠肺炎确诊病例，7日新增均值为约798例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2921068.d.html</link>
-            <guid>2153903</guid>
-            <pubDate>Sat, 01 May 2021 06:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所副总刘逖：率先把科创板建成成熟市场，需兼备这三方面】上海证券交易所副总经理刘逖表示，“我们希望科创板作为资本市场改革的试验田，通过进一步的改革，率先建设成为成熟市场。”什么是成熟市场？刘逖称，第一，能够支持一批企业通过科创板做大做强，扶植一批高科技企业；第二，投资者参与市场，从中长期看有获得感；第三，企业愿意来科创板发行上市。“科创板成为成熟市场，这三个方面都要兼备。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2920050.d.html</link>
-            <guid>2153900</guid>
-            <pubDate>Sat, 01 May 2021 05:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国新增新冠肺炎确诊病例1891例，累计确诊67044例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2919429.d.html</link>
-            <guid>2153899</guid>
-            <pubDate>Sat, 01 May 2021 05:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【4月全国期市交易规模缩水 成交额环比下降近20%】中国期货业协会最新统计资料表明，4月全国期货市场交易规模较上月下降，以单边计算，当月全国期货市场成交量为639.87百万手，成交额为48.17万亿元，同比分别增长20.15%和62.57%，环比分别下降20.08%和19.82%。1月至4月，全国期货市场累计成交量为2489.06百万手，累计成交额为189.53万亿元，同比分别增长53.53%和77.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0057887.d.html</link>
-            <guid>2153898</guid>
-            <pubDate>Sat, 01 May 2021 05:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中共中央政治局4月30日下午就新形势下加强我国生态文明建设进行第二十九次集体学习。中共中央总书记习近平在主持学习时强调，保持生态文明建设战略定力，努力建设人与自然和谐共生的现代化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0057429.d.html</link>
-            <guid>2153897</guid>
-            <pubDate>Sat, 01 May 2021 05:43:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行：一季度中国宏观杠杆率净下降2.6个百分点】央行发文称，初步测算，2021年一季度我国宏观杠杆率为276.8%，比上年末低2.6个百分点。分部门看，非金融企业部门杠杆率为160.3%，比上年末低0.9个百分点；政府部门杠杆率为44.5%，比上年末低1.3个百分点；住户部门杠杆率为72.1%，比上年末低0.4个百分点。各部门杠杆率均出现不同程度的下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0056724.d.html</link>
-            <guid>2153896</guid>
-            <pubDate>Sat, 01 May 2021 05:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五一假期首日全国铁路预计发送旅客1830万人次】记者从中国国家铁路集团有限公司获悉，5月1日，全国铁路迎来客流出行高峰，预计发送旅客1830万人次，较2019年同期增长6.1%，客流以节日探亲和旅行客流为主。铁路部门采取有效措施，加大运力投放，切实提高服务质量，严格落实各项疫情防控措施，努力确保广大旅客安全健康顺利出行。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2915917.d.html</link>
-            <guid>2153895</guid>
-            <pubDate>Sat, 01 May 2021 05:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  澳门4月份幸运博彩毛收入84.01亿澳元，同比增长1014.4%，预估为1,054.0%。澳门1-4月份幸运博彩毛收入320亿澳元，同比增长2.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2915717.d.html</link>
-            <guid>2153894</guid>
-            <pubDate>Sat, 01 May 2021 05:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海通策略：今年四个季度A股归母净利润增速将逐级向上 ROE（TTM）中枢也将较去年抬升】海通策略荀玉根等人认为，截至4月30日， A股所有的上市公司都披露了2020年年报和2021年一季报，对于今年的微观企业盈利，投资者最为关心的是今年企业盈利何时见顶。低基数效应下，表观数据显示2121年第一季度是本轮盈利高点。用归母净利增速的两年平滑和ROE看真实盈利趋势，高点在今年底明年初。2121年第一季度A股归母净利润同比为53%，两年年化同比为8%，预计全年同比18-24%，ROE全年为9.6%。大类行业中制造、科技净利润增速较高，Q1的两年年化同比为20%、20%。今年四个季度A股归母净利润增速将逐级向上，ROE（TTM）中枢也将较去年抬升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0054442.d.html</link>
-            <guid>2153892</guid>
-            <pubDate>Sat, 01 May 2021 05:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本东北地区地震致2伤，日本气象厅：一周内需注意最大震度5强地震】据日本共同社报道，宫城县警方透露，该县女川町洗浴设施有一对老夫妻被玻璃划伤。日本气象厅召开紧急记者会，呼吁今后约一周需注意最大震度5强的地震。日本气象厅设定的震度由弱到强分别为0至4级、5弱、5强、6弱、6强和7级，共10个等级。1日地震时，宫城县震度5强，青森、岩手、福岛各县也观测到震度5弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0053947.d.html</link>
-            <guid>2153891</guid>
-            <pubDate>Sat, 01 May 2021 05:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oanda Corp的高级市场分析师Edward Moya表示，美国将引领需求复苏，现在西欧大部分地区新增新冠病例数在下降，令人兴奋的是全球经济活动在强劲增长，未来几个月航空出行前景改善，是“要突破3月高点，印度疫情形势需要朝正确方向发展”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2913273.d.html</link>
-            <guid>2153889</guid>
-            <pubDate>Sat, 01 May 2021 05:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高档光刻胶在滨州试生产】4月29日，国科天骥（滨州）新材料有限公司光刻胶生产园区交付暨试生产仪式在滨州经济技术开发区举行。这是中国科学院大学、滨州市政府、山东魏桥创业集团有限公司、中信信托有限公司等协同构建的“产学研融政”科技新生态的一项重大成果。据介绍，项目主要生产3种高档光刻胶，一期建成后可达到年产2000L（升）超高精细光刻胶的生产规模，二期项目建成后可达到年产15000L（升）超高精细光刻胶的生产规模。（大众日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2912856.d.html</link>
-            <guid>2153888</guid>
-            <pubDate>Sat, 01 May 2021 05:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【车用芯片不足 起亚拟降价推出简化版车型】据中国台湾媒体报道，车用芯片供应不足问题预期可能延续一到两年，韩国车厂近期持续传出停工减产消息，业界指出，起亚汽车拟配合缺货芯片类型减少部分功能，降价推出简化版车型。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0050364.d.html</link>
-            <guid>2153887</guid>
-            <pubDate>Sat, 01 May 2021 05:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知情科学家：印度政府忽视了其3月初发出的新变异病毒警告】五位印度科学家报道称，印度SARS-CoV-2基因组学联盟(INSACOG)早在3月初就曾警告印度官员，国内出现了一种传染性更强的新变异新冠病毒。其中一位科学家表示，警告传达给了直接向总理莫迪汇报的一位高级官员。尽管发出了警告，但印度联邦政府没有寻求实施重大限制措施以阻止病毒扩散。在多数人没有戴口罩的情况下，数以百万计的民众参加了宗教节日活动和总理莫迪、印度人民党和反对派政治人士举行的政治集会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2910818.d.html</link>
-            <guid>2153886</guid>
-            <pubDate>Sat, 01 May 2021 05:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫4月30日宣布，鉴于印度新冠疫情恶化，将从5月4日起对该国实施旅行限制。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0050205.d.html</link>
-            <guid>2153885</guid>
-            <pubDate>Sat, 01 May 2021 05:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西里约州州长因疫情期间渎职和腐败行为被正式罢免】巴西里约热内卢州特别法庭4月30日对里约州州长威尔逊·维泽尔新冠疫情期间的渎职和贪腐行为作出判决。维泽尔被正式罢免里约州州长。这是该州历史上首次州长遭弹劾被法院罢免事件。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2910647.d.html</link>
-            <guid>2153884</guid>
-            <pubDate>Sat, 01 May 2021 05:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯：不平等现象阻碍人类实现在2030年前消灭艾滋病的目标】联合国秘书长古特雷斯在30日发布的一份报告中说，不平等正在阻碍人类实现在2030年前消灭艾滋病的目标，他呼吁国际社会通过消除不平等现象重回这一目标。根据这份报告，2019年全球新增艾滋病毒感染者170万、与艾滋病相关的死亡人数69万，均大大超过2016年制定的2020年双50万目标。艾滋病防治在某些地区和人群中取得重大进展，而在其他地区则存在不作为现象，艾滋病防治领域的不平等是导致整体不达标的主要原因。不平等因素涉及性别、年龄、民族、性取向、收入水平、感染者身份等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2909126.d.html</link>
-            <guid>2153883</guid>
-            <pubDate>Sat, 01 May 2021 04:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本邮轮一乘客感染新冠病毒 已返回横滨港】当地时间5月1日，在航行过程中发现一名感染新冠病毒的乘客的“飞鸟II”号邮轮已返回神奈川县横滨港。邮轮公司称，该邮轮停靠横滨港后，这名男性感染者经救护车协助离开邮轮，其他乘客依次下船。该男子的密切接触者目前没有出现疑似感染症状。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0047503.d.html</link>
-            <guid>2153882</guid>
-            <pubDate>Sat, 01 May 2021 04:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币回落至58000美元/枚下方。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0047474.d.html</link>
-            <guid>2153881</guid>
-            <pubDate>Sat, 01 May 2021 04:41:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
