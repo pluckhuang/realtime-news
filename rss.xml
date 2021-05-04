@@ -4,603 +4,609 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 04 May 2021 07:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 May 2021 10:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[据日经新闻：日本大阪市市长称很难取消大阪市的紧急状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0520970.d.html</link>
-            <guid>2156135</guid>
-            <pubDate>Tue, 04 May 2021 07:10:40 GMT</pubDate>
+            <title><![CDATA[【马航宣布已裁员1500多人，预计需求复苏要到2023年后】马来西亚航空公司周二表示，由于多个国家新冠疫情卷土重来，预计航空旅行需求将持续低迷，要到2023年之后才能全面复苏。该公司首席执行官Izham Ismail表示，作为去年10月份开始的重组的一部分，该公司已裁减了超过1500个工作岗位，并计划进一步削减运能。该航空公司的目标是转型为一个全球旅游集团，因为“单纯的”航空公司是不可持续的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3402390.d.html</link>
+            <guid>2156239</guid>
+            <pubDate>Tue, 04 May 2021 10:08:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽元兑美元NZD/USD短线下行十余点，现报0.7161，日内跌0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3381071.d.html</link>
-            <guid>2156134</guid>
-            <pubDate>Tue, 04 May 2021 07:10:02 GMT</pubDate>
+            <title><![CDATA[【马来西亚棕榈油价格再创新高 达到每吨4502林吉特】当地时间5月4日，马来西亚棕榈油局（MPOB）在社交媒体发文称，马来西亚棕榈原油价格高企，并在5月3日刷新历史纪录，达到每吨4502林吉特（约合人民币7200元）。文章还特别指出，这也是该国棕榈油原油价格在2021年第6次刷新记录。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3402341.d.html</link>
+            <guid>2156238</guid>
+            <pubDate>Tue, 04 May 2021 10:07:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线下挫近30点，现报1.3867。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3381050.d.html</link>
-            <guid>2156133</guid>
-            <pubDate>Tue, 04 May 2021 07:09:56 GMT</pubDate>
+            <title><![CDATA[杜邦(DD.N)：预计第二季度运营未计利息、税项、折旧及摊销前的利润在9.9亿-10.1亿美元之间，市场预期9.773亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3402318.d.html</link>
+            <guid>2156237</guid>
+            <pubDate>Tue, 04 May 2021 10:07:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其央行：PPI对消费者物价的压力有所加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0520454.d.html</link>
-            <guid>2156132</guid>
-            <pubDate>Tue, 04 May 2021 07:07:53 GMT</pubDate>
+            <title><![CDATA[杜邦(DD.N)：预期第二季度营收在39.3亿-40.3亿美元之间，市场预期38.4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3402244.d.html</link>
+            <guid>2156236</guid>
+            <pubDate>Tue, 04 May 2021 10:07:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行：另一名委员认为，需要关注宽松政策对金融稳定的不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3380560.d.html</link>
-            <guid>2156131</guid>
-            <pubDate>Tue, 04 May 2021 07:07:06 GMT</pubDate>
+            <title><![CDATA[杜邦(DD.N)：上调2021财年营收指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0541746.d.html</link>
+            <guid>2156235</guid>
+            <pubDate>Tue, 04 May 2021 10:06:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家卫健委：截至5月3日 累计报告接种新冠病毒疫苗2.8亿剂次】据国家卫健委：截至2021年5月3日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗27990.5万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0519608.d.html</link>
-            <guid>2156130</guid>
-            <pubDate>Tue, 04 May 2021 07:03:06 GMT</pubDate>
+            <title><![CDATA[纽元兑美元日内跌幅达到1.01%，报0.7128。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0541655.d.html</link>
+            <guid>2156234</guid>
+            <pubDate>Tue, 04 May 2021 10:05:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧洲股市开盘全线高开，德国DAX指数涨0.09%，英国富时100指数涨0.6%，法国CAC40指数涨0.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3379510.d.html</link>
-            <guid>2156129</guid>
-            <pubDate>Tue, 04 May 2021 07:01:00 GMT</pubDate>
+            <title><![CDATA[杜邦(DD.N)：2021财年Q1未计利息、税项、折旧及摊销前的利润10.5亿美元，市场预期9.677亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0541631.d.html</link>
+            <guid>2156233</guid>
+            <pubDate>Tue, 04 May 2021 10:05:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞士第二季度消费者信心指数公布 -7.1，前值 -14.6，预期 -11。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0519183.d.html</link>
-            <guid>2156128</guid>
-            <pubDate>Tue, 04 May 2021 07:00:25 GMT</pubDate>
+            <title><![CDATA[杜邦(DD.N)：2021财年Q1调整后每股盈利0.91美元，市场预期0.76美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3401819.d.html</link>
+            <guid>2156232</guid>
+            <pubDate>Tue, 04 May 2021 10:03:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本假期游客不减 关西地区疫情告急】据日本广播协会电视台4日报道，5月3日日本新增新冠肺炎确诊病例4470例，新增死亡病例50例。全国重症病患达1084人，为疫情暴发以来的新高。目前大阪府等地的紧急状态将在11日到期。大阪府知事吉村洋文3日当天表示，将视疫情状况，考虑向日本政府申请延长紧急状态。同时他再次呼吁民众不要外出。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0518913.d.html</link>
-            <guid>2156126</guid>
-            <pubDate>Tue, 04 May 2021 06:58:36 GMT</pubDate>
+            <title><![CDATA[杜邦(DD.N)：2021财年Q1营收40亿美元，市场预期38.48亿美元，去年同期52.21亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0541363.d.html</link>
+            <guid>2156231</guid>
+            <pubDate>Tue, 04 May 2021 10:03:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【天津滨海新区一季度引进北京项目300多个】天津市滨海新区铁路，截至3月底，滨海新区今年承接引进北京项目300多个，协议投资额600多亿元。天津市滨海新区是承接北京疏解非首都功能的主要地区之一，目前有天津滨海—中关村科技园、未来科技城京津合作示范区、中欧先进制造产业园、北方航空物流基地、南港工业区世界一流化工新材料基地等五大平台，精准对接北京优质资源。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0518899.d.html</link>
-            <guid>2156125</guid>
-            <pubDate>Tue, 04 May 2021 06:58:29 GMT</pubDate>
+            <title><![CDATA[瑞典央行行长英韦斯：应当继续支持措施，直到不需要提供支持措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3401738.d.html</link>
+            <guid>2156230</guid>
+            <pubDate>Tue, 04 May 2021 10:03:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩国执政党考虑推迟加密货币征税法案以重获年轻选民选票】据Dailian报道，韩国民主党成员建议，不应完全放弃推迟定于2022年实施的加密税收政策。作为该国执政党的该党认为，开征加密税“为时过早”。此前消息称，韩国财政部长洪楠基近期表示，尽管越来越多的投资者呼吁推迟对加密货币的资本利得征税，但韩国将按计划在明年对其征税。政府计划从明年开始对虚拟资产交易的资本利得征收20%的税。比特币和其他加密货币的投资者对该计划表示不满，声称当局应该采用与股票交易相同的税收标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0518487.d.html</link>
-            <guid>2156124</guid>
-            <pubDate>Tue, 04 May 2021 06:54:49 GMT</pubDate>
+            <title><![CDATA[市场消息：Zymergen(ZY.O)聘请前苹果(AAPL.O)高管及福特汽车(F.N)高管担任其首席制造官。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3401715.d.html</link>
+            <guid>2156229</guid>
+            <pubDate>Tue, 04 May 2021 10:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国巴黎机场CEO：预计2024-2027年客流量可恢复至疫情前水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3378178.d.html</link>
-            <guid>2156123</guid>
-            <pubDate>Tue, 04 May 2021 06:51:14 GMT</pubDate>
+            <title><![CDATA[意大利金巴利公司第一季度业绩公布后股价延续上涨势头，上涨4.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0540600.d.html</link>
+            <guid>2156228</guid>
+            <pubDate>Tue, 04 May 2021 09:55:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【澳洲比特币挖矿机Iris Energy拟以SPAC方式在美国上市】外电引述消息报道，总部位于澳洲悉尼的比特币Bitcoin挖矿机生产商Iris Energy，正寻求以SPAC（特殊目的收购公司）方式上市，公司同时考虑在澳洲以传统方式上市。现时澳洲交易所暂未批准以SPAC方式上市。Iris Energy曾经被不少在美国上市的SPAC公司接洽，商讨在美国上市的可能性，目标募集约3亿至5亿美元资金。Iris Energy联合创办人兼执行董事Daniel Roberts称，公司正与潜在投资者洽商，希望在短期内完成融资，再将公司上市，目前正考虑不同的上市途径。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0517142.d.html</link>
-            <guid>2156122</guid>
-            <pubDate>Tue, 04 May 2021 06:46:56 GMT</pubDate>
+            <title><![CDATA[美国银行聘请花旗的雷尼兹担任法国投资银行业务联席主管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0540556.d.html</link>
+            <guid>2156227</guid>
+            <pubDate>Tue, 04 May 2021 09:55:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国3月政府预算(亿欧元)600.7，前值 -475。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3377149.d.html</link>
-            <guid>2156121</guid>
-            <pubDate>Tue, 04 May 2021 06:45:15 GMT</pubDate>
+            <title><![CDATA[【桥水达里奥：不要持有现金和债券，要购买黄金和比特币】①2020年1月，全球最大的对冲基金——桥水基金创始人达里奥警告说，现金就是垃圾，他建议投资者应多元化发展黄金。一年后，这位亿万富翁又说，投资美国国债和大多数金融资产都是愚蠢的；②上个月，这家全球最大的对冲基金的创始人警告说。在民主党人的领导下，美国可能会变成资本家不宜居住的地方，他对比特币的态度从开始的唾弃变成接受，并建议投资者应用比特币实现投资组合多样化。综合来看，桥水的投资建议或者资产配置观点简而言之就是两句：不要持有现金和债券，要购买黄金和比特币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0540547.d.html</link>
+            <guid>2156226</guid>
+            <pubDate>Tue, 04 May 2021 09:55:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国信证券：A股一季报业绩大幅提升 多行业板块净利润增速创新高】国信证券认为，2021年一季度A股业绩大幅提升，许多行业和板块净利润增速创历史新高。这一方面是受到2020年一季度疫情低基数效应的影响，与2020年Q1进行同比，许多行业增速指标创历史新高。但从另一方面来看，如果选择2019年Q1作为比较基准，按照可比口径计算两年的净利润复合增速，可以看到A股的利润增速仍然表现十分亮眼，可以说A股本身正处于高景气周期中。当前A股上市公司的资本支出正在大幅提升，销售净利率和资产周转率也在明显回升，上市公司盈利能力可能持续增强，经济复苏未来有望持续进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3376312.d.html</link>
-            <guid>2156120</guid>
-            <pubDate>Tue, 04 May 2021 06:40:16 GMT</pubDate>
+            <title><![CDATA[【德弘资本据称组建财团将以50亿美元收购前程无忧】知情人士称，收购公司德弘资本与其他投资者组建了一个财团，因德弘资本寻求推进其收购中国招聘网站前程无忧(JOBS.O)的提议。德弘资本在与私募股权公司欧翎投资以及前程无忧的首席执行官兼联合创始人甄荣辉就该潜在的收购事宜展开合作。该投资者财团向前程无忧的董事会发送了有关其打算收购后者的最新提议，最早可能在周二发布有关该新财团和最新提案的正式公告。该财团计划在未来几个月继续讨论潜在交易的细节，包括融资、估值和公司治理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0540277.d.html</link>
+            <guid>2156224</guid>
+            <pubDate>Tue, 04 May 2021 09:52:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝伦贝格银行：将2021年美国经济增速预期从6.9%上调至7.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0515958.d.html</link>
-            <guid>2156119</guid>
-            <pubDate>Tue, 04 May 2021 06:40:06 GMT</pubDate>
+            <title><![CDATA[莫德纳CEO：新冠病毒可能会成为类似季节性流感的病毒。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3400565.d.html</link>
+            <guid>2156223</guid>
+            <pubDate>Tue, 04 May 2021 09:50:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宝马和福特扩大向全固体电池新创企业出资】德国宝马和美国福特5月3日宣布向美国新创企业Solid Power扩大出资。Solid Power主要研发全固体电池。此次的出资额与其他企业一共达到了1.3亿美元。宝马和福特分别将在2022年向其采购试验车的全固体电池。]]></title>
-            <guid>2156118</guid>
-            <pubDate>Tue, 04 May 2021 06:36:51 GMT</pubDate>
+            <title><![CDATA[Moderna CEO：正在对低剂量的疫苗进行测试，以增加供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3400308.d.html</link>
+            <guid>2156222</guid>
+            <pubDate>Tue, 04 May 2021 09:49:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝伦贝格银行：将2021年欧元区经济增速预期从4.2%上调至4.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0515302.d.html</link>
-            <guid>2156117</guid>
-            <pubDate>Tue, 04 May 2021 06:35:37 GMT</pubDate>
+            <title><![CDATA[Moderna：可能需要针对病毒变体开发更多的助推器。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3400179.d.html</link>
+            <guid>2156221</guid>
+            <pubDate>Tue, 04 May 2021 09:47:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  韩国KOSPI指数5月4日（周二）收盘上涨20.17点，涨幅0.64%，报3147.37点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0515050.d.html</link>
-            <guid>2156116</guid>
-            <pubDate>Tue, 04 May 2021 06:34:17 GMT</pubDate>
+            <title><![CDATA[莫德纳CEO：公司正在以最快的速度提高生产能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0539719.d.html</link>
+            <guid>2156220</guid>
+            <pubDate>Tue, 04 May 2021 09:47:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普经济学家：印度货币政策空间不大，印度央行目前可能持观望态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0514860.d.html</link>
-            <guid>2156115</guid>
-            <pubDate>Tue, 04 May 2021 06:33:22 GMT</pubDate>
+            <title><![CDATA[投行Evercore ISI：将Under Armour(UAA.N)目标价从23美元上调至25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3400123.d.html</link>
+            <guid>2156219</guid>
+            <pubDate>Tue, 04 May 2021 09:47:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[南非向卫生部额外拨款12.5亿兰特，用于购买新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0514522.d.html</link>
-            <guid>2156114</guid>
-            <pubDate>Tue, 04 May 2021 06:31:27 GMT</pubDate>
+            <title><![CDATA[【盘后部署：闷局宜炒股不炒市，汇控、友邦及三桶油料续向上】缺乏北水的港股昨日急跌，今日稍为反弹，在五一假期完结前，预计港股仍是窄幅上落，28200点将有支持，而28800点短线难望升破。传统经济股发力，预计本周将持续攀升，如汇丰控股(00005.HK)、友邦保险(01299.HK)等金融股有炒作，相关衍生产品将有不错升幅；而油价相信随着疫苗普遍程度而逐步攀升，本港三桶油仍会是近期受捧的对象，投资者直接买入正股或相关衍生产品。大市受科技股拖累下难有大作为，能进一步上升的机会不高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0539689.d.html</link>
+            <guid>2156218</guid>
+            <pubDate>Tue, 04 May 2021 09:46:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司CEO：沙特阿美第一季度原油平均产量为860万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3373417.d.html</link>
-            <guid>2156113</guid>
-            <pubDate>Tue, 04 May 2021 06:23:36 GMT</pubDate>
+            <title><![CDATA[欧盟委员会批准了4亿欧元的丹麦国家援助计划，以支持可再生能源发电。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0539633.d.html</link>
+            <guid>2156217</guid>
+            <pubDate>Tue, 04 May 2021 09:46:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数5月4日（周二）收盘上涨39.10点，涨幅0.56%，报7067.90点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0512940.d.html</link>
-            <guid>2156112</guid>
-            <pubDate>Tue, 04 May 2021 06:22:25 GMT</pubDate>
+            <title><![CDATA[瑞典央行副行长奥尔森：未来几年通胀趋势可能改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3400046.d.html</link>
+            <guid>2156216</guid>
+            <pubDate>Tue, 04 May 2021 09:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司CEO：全球石油产品需求在第一季度继续从2020年的低点复苏，尽管仍低于新冠大流行前的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0512789.d.html</link>
-            <guid>2156111</guid>
-            <pubDate>Tue, 04 May 2021 06:21:33 GMT</pubDate>
+            <title><![CDATA[马来西亚暂停各州之间的“国内旅游气泡”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0539603.d.html</link>
+            <guid>2156215</guid>
+            <pubDate>Tue, 04 May 2021 09:45:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司CEO：能源市场在2021年第一季度出现强劲复苏，这是由于供需基本面正在进行重新平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0512582.d.html</link>
-            <guid>2156110</guid>
-            <pubDate>Tue, 04 May 2021 06:20:21 GMT</pubDate>
+            <title><![CDATA[【市场分析：澳洲联储7月政策会议或将重塑指引】澳洲联储将在7月6日的会议上宣布有关三年期收益率曲线控制计划和未来量化宽松计划的关键决定。具体而言，澳洲联储将考虑是将2024年4月的债券作为三年期目标债券，还是将其转移到2024年11月到期的债券。该联储还将针对第三次量化宽松计划作出决定。这一切都意味着7月的澳洲联储会议将是今年市场上最重要的一次会议，因为在经济强劲复苏的情况下，如果该联储认为有必要，有可能会从根本上重塑其指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3399754.d.html</link>
+            <guid>2156214</guid>
+            <pubDate>Tue, 04 May 2021 09:42:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司CEO：2021年第一季度的平均总碳氢化合物产量为1150万桶石油当量/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0512523.d.html</link>
-            <guid>2156109</guid>
-            <pubDate>Tue, 04 May 2021 06:20:14 GMT</pubDate>
+            <title><![CDATA[【美国财政部将二季度融资目标提高近4倍】①美东时间周一5月3日，美国财政部表示，由于拜登政府出台了大规模财政刺激计划，预计本季度4月至6月可流通债券净发行量将达到4630亿美元，几乎是此前2月份预计值的五倍，凸显出债务美国政府的负债压力；②美国财政部最新预测考虑了拜登在3月份颁布的1.9万亿美元疫情救助法案的影响，该措施提供了新一轮每人1400美元的救济金，以及其他支持——包括延长了紧急失业救济金。而在2月份展望中，财政部没有将此类支出纳入预算；③美国财政部目前预计4 - 6月将发债4630亿美元，较2月预估值增加约3680亿美元，当时财政部预计二季度可流通债券净发行量为950亿美元。美财政部还将6月底的现金余额预估值上调至8000亿美元，比此前预期值高出约3000亿美元；④美财政部表示，假设国会同意在8月1日暂停联邦借贷限额，预计7月至9月季度（2021预算年度最后一个季度）将净融资8，210亿美元，这将使美国政府今年的借款总额达到2.28万亿美元。尽管这是一个相当大的数字，但比去年的4.01万亿美元有所下降。不过，私人经济学家预测，今年的赤字可能达到3.3万亿美元甚至更多。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3399626.d.html</link>
+            <guid>2156213</guid>
+            <pubDate>Tue, 04 May 2021 09:40:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司：第一季度净利润814.4亿里亚尔；运营利润1518.9亿里亚尔，同比增17%。]]></title>
-            <guid>2156108</guid>
-            <pubDate>Tue, 04 May 2021 06:19:24 GMT</pubDate>
+            <title><![CDATA[WTI原油期货短线拉升0.45美元，现报65.62美元/桶，涨幅扩大至1.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3399263.d.html</link>
+            <guid>2156211</guid>
+            <pubDate>Tue, 04 May 2021 09:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司CEO：尽管仍存在一些不利因素，但随着经济开始复苏，我们完全有能力满足世界日益增长的能源需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0512348.d.html</link>
-            <guid>2156107</guid>
-            <pubDate>Tue, 04 May 2021 06:18:59 GMT</pubDate>
+            <title><![CDATA[布伦特原油期货短线涨超0.4美元，现报68.79美元/桶，日内涨超1.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0538725.d.html</link>
+            <guid>2156210</guid>
+            <pubDate>Tue, 04 May 2021 09:36:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司CEO：鉴于2021年能源需求的积极迹象，我们有更多理由乐观地认为，好日子即将到来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0512280.d.html</link>
-            <guid>2156106</guid>
-            <pubDate>Tue, 04 May 2021 06:18:22 GMT</pubDate>
+            <title><![CDATA[伯恩斯坦：将波音(BA.N)评级从跑输大市上调至与大市持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0538650.d.html</link>
+            <guid>2156209</guid>
+            <pubDate>Tue, 04 May 2021 09:35:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美石油公司CEO：全球经济复苏带来的势头加强了能源市场，沙特阿美的运营灵活性、财务灵活性以及员工韧性，为公司第一季度的强劲表现做出了贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3372395.d.html</link>
-            <guid>2156104</guid>
-            <pubDate>Tue, 04 May 2021 06:17:44 GMT</pubDate>
+            <title><![CDATA[市场消息：前程无忧(JOBS.O)据悉最早将于周二宣布更新后的提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0538639.d.html</link>
+            <guid>2156208</guid>
+            <pubDate>Tue, 04 May 2021 09:35:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据猫眼专业版数据，截至2021年5月4日13时58分，2021年五一档总票房（含预售）破13亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0511888.d.html</link>
-            <guid>2156103</guid>
-            <pubDate>Tue, 04 May 2021 06:15:18 GMT</pubDate>
+            <title><![CDATA[现货钯金刚刚刺穿3000.00美元/盎司关口，最新报3000.05美元/盎司，日图涨0.88%；Nymex钯金期货主力最新报3004.50美元/盎司，日图涨0.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3398911.d.html</link>
+            <guid>2156207</guid>
+            <pubDate>Tue, 04 May 2021 09:33:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【美国防部长将参加香格里拉对话会 为其首次赴亚太参加活动】香格里拉对话会的主办方英国智库国际战略研究所今天公布，美国国防部长奥斯汀将参加6月4日在新加坡举行的香格里拉对话。这是拜登政府上任后，新一任美国国防部长首次到亚太参加活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3372077.d.html</link>
-            <guid>2156102</guid>
-            <pubDate>Tue, 04 May 2021 06:15:08 GMT</pubDate>
+            <title><![CDATA[【碧桂园：4月实现归属本公司股东权益的合同销售金额528.2亿元】碧桂园在港交所公告称，本集团连同其合营公司和联营公司于2021年4月单月共实现归属本公司股东权益的合同销售金额约人民币528.2亿元，归属本公司股东权益的合同销售建筑面积约594万平方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3398652.d.html</link>
+            <guid>2156206</guid>
+            <pubDate>Tue, 04 May 2021 09:31:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【荷兰国际：预测美国4月非农大增100万】荷兰国际集团(ING)全球市场和地区研究主管Chris Turner表示:“本周应该会有大量强劲的美国数据发布，包括4月份ISM数据和非农就业数据——后者可能增加逾100万个就业岗位 。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0511800.d.html</link>
-            <guid>2156101</guid>
-            <pubDate>Tue, 04 May 2021 06:14:41 GMT</pubDate>
+            <title><![CDATA[市场消息：德弘资本据称组建财团以50亿美元收购前程无忧。前程无忧据悉最早将于周二宣布更新后的提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3398639.d.html</link>
+            <guid>2156205</guid>
+            <pubDate>Tue, 04 May 2021 09:30:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  北欧联合银行市场（Nordea Markets）首席外汇策略师Martin Enlund：从历史上看，4月是美元一年中最糟糕的月份，而5月又是一年中最好的月份——无论是从打击率(正数月份的百分比)还是从平均月度回报率来看。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0511759.d.html</link>
-            <guid>2156100</guid>
-            <pubDate>Tue, 04 May 2021 06:14:22 GMT</pubDate>
+            <title><![CDATA[  在13个月零息债券发行之前，土耳其国债以非竞争性出价向一级交易商出售2.5亿里拉债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0538075.d.html</link>
+            <guid>2156204</guid>
+            <pubDate>Tue, 04 May 2021 09:29:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  消息人士：顺丰房托最快在周三（5月5日）招股，拟集资最多3.4亿美元，并会招入两名基石投资者。星展为顺丰房托独家保荐人，瑞信及摩根大通是顺丰房托联席全球协调人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0511560.d.html</link>
-            <guid>2156099</guid>
-            <pubDate>Tue, 04 May 2021 06:13:17 GMT</pubDate>
+            <title><![CDATA[【澳洲联储上修经济增长预期或给金价带来下行压力】①分析指出，澳洲联储本周二的决议虽然没有给出更多政策变动指引，但从中我们可以看出商品货币国家的政策明显向收紧转变。这一转变也可以从上个月加拿大央行决议中找到线索，加拿大央行同样维持偏鹰派基调；②分析认为，商品货币国家央行开始有收紧迹象，可以倒逼美联储更早的缩减QE，而非鲍威尔当前一厢情愿的继续宽松，从而给金价沉重压力；③澳洲联储周二维持现金利率目标在0.1%不变，小幅上修未来GDP增速预期，称澳元汇价处于“仍可接受”区间的上轨，整体措辞较预期略偏鹰派，不及市场押注的鸽派；④澳洲联储将2021年GDP增长预期从此前的3.5%上调至4.75%，将2022年GDP增长预期上调至3.5%；预计2021年基础CPI为1.5%，2023年中期为2%；到2022年底，失业率将在4.5%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3398401.d.html</link>
+            <guid>2156203</guid>
+            <pubDate>Tue, 04 May 2021 09:28:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国际贸易大臣特拉斯：正在与世贸组织合作，看看能否在全球范围内增加新冠疫苗供应；将在秋季开始与印度就全面自由贸易协议展开谈判；希望印度降低或取消对汽车和威士忌的关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0511080.d.html</link>
-            <guid>2156098</guid>
-            <pubDate>Tue, 04 May 2021 06:10:28 GMT</pubDate>
+            <title><![CDATA[马来西亚方面表示，实施马来西亚行动管制令（MCO）的地区允许进行经济活动，但不允许社交活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0537803.d.html</link>
+            <guid>2156202</guid>
+            <pubDate>Tue, 04 May 2021 09:26:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普经济学家：预计我们对印度2022财年11%的增长预期存在下行风险；印度新冠病例可能在月底见顶；新冠疫情可能会延长印度的复苏轨迹，但预计将恢复快速增长；印度第一季度受到的冲击将持续到今年剩余时间，对GDP增速的影响可能在1-3%。]]></title>
-            <guid>2156097</guid>
-            <pubDate>Tue, 04 May 2021 06:09:59 GMT</pubDate>
+            <title><![CDATA[  港交所文件显示，4月28日，阿里巴巴在易居企业控股的持股比例从14.01%增至35.74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0537498.d.html</link>
+            <guid>2156201</guid>
+            <pubDate>Tue, 04 May 2021 09:23:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【比尔盖茨微博发文希望保护隐私】5月4日，刚刚宣布与妻子梅琳达离婚的比尔盖茨在微博发文。全文如下：经过慎重的考虑和维护关系的努力，我们做出了结束婚姻的决定。在过去27年里，我们养育了三个出色的孩子，并且建立了一个在世界各地开展工作的基金会，致力于帮助所有人过上健康而富有成效的生活。我们将秉承这一信念，继续我们在基金会的工作。但我们不再认为在人生的下一阶段，我们能够作为夫妻携手成长。在开启这段新生活时，我们希望我们的家庭能够获得空间和隐私。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0510666.d.html</link>
-            <guid>2156096</guid>
-            <pubDate>Tue, 04 May 2021 06:08:38 GMT</pubDate>
+            <title><![CDATA[  【日本总务省：儿童人口数量创1950年以来最低】日本政府周二公布的数据显示，日本儿童人口数量连续下降40年，反映出日本老龄化严重的问题。根据日本总务省的数据，截至4月1日，14岁及以下的儿童人口为1493万，比一年前减少了约19万，创下1950年以来可比数据中的最低。在连续47年的下降之后，儿童人口占比降至11.9%的最低值。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0537100.d.html</link>
+            <guid>2156200</guid>
+            <pubDate>Tue, 04 May 2021 09:20:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普经济学家：印度流动性下降可能会导致经济活动停滞至少一到两个季度；印度新冠疫情卷土重来可能会阻碍正常化进程。]]></title>
-            <guid>2156095</guid>
-            <pubDate>Tue, 04 May 2021 06:03:50 GMT</pubDate>
+            <title><![CDATA[印度NIFTY指数、SENSEX指数双双跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0536697.d.html</link>
+            <guid>2156199</guid>
+            <pubDate>Tue, 04 May 2021 09:16:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普经济学家：印度的不确定性非常高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3370113.d.html</link>
-            <guid>2156094</guid>
-            <pubDate>Tue, 04 May 2021 06:03:18 GMT</pubDate>
+            <title><![CDATA[莱特币重回300美元/枚上方，为4月18日以来首次，日内涨1.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3396271.d.html</link>
+            <guid>2156198</guid>
+            <pubDate>Tue, 04 May 2021 09:10:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本东京报告新增609例新冠肺炎确诊病例，7日均值为842.3例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3369864.d.html</link>
-            <guid>2156093</guid>
-            <pubDate>Tue, 04 May 2021 06:01:36 GMT</pubDate>
+            <title><![CDATA[【市场分析：布油势将重新收复70美元关口】尽管欧佩克+目前放宽了对供应的严格限制，但油价仍保持上升。其措施存在两个因素的支撑，一是随着欧洲和美国放松疫情限制，需求快速增长，石油库存继续得到消耗，二是美国页岩油料不会出现激增。值得注意的是，尽管印度疫情失控，但布油仍表现出了弹性，因投资者乐见其他地区需求复苏的迹象。布油自2019年5月以来未能成功收于70美元上方，因此在未来几周，油价收于70美元以上将是一个重大突破，而非如3月般盘中短暂上破。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3396031.d.html</link>
+            <guid>2156197</guid>
+            <pubDate>Tue, 04 May 2021 09:08:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[复星国际午后一度大涨12%，现涨10%，市值突破1000亿港元，昨日复星医药涨近20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0509012.d.html</link>
-            <guid>2156092</guid>
-            <pubDate>Tue, 04 May 2021 05:58:15 GMT</pubDate>
+            <title><![CDATA[美元兑土耳其里拉USD/TRY日内跌超1%，现报8.3383。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0535505.d.html</link>
+            <guid>2156196</guid>
+            <pubDate>Tue, 04 May 2021 09:07:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经合组织专家：中国良好增长前景和进一步开放将持续吸引外资】经济合作与发展组织中国政策研究室主任玛吉特·莫尔纳3日接受新华社记者采访时表示，得益于有效控制新冠疫情及诸多行业加速开放，去年中国超过美国成为全球最大外资流入国，中国良好的增长前景和进一步开放的举措将助力中国持续吸引外资流入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3369293.d.html</link>
-            <guid>2156091</guid>
-            <pubDate>Tue, 04 May 2021 05:57:43 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气公司Gazprom1-4月天然气产量同比增13.7%，至1799亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3395817.d.html</link>
+            <guid>2156195</guid>
+            <pubDate>Tue, 04 May 2021 09:07:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[凯投宏观澳洲经济分析师Marcel Thieliant：重申认为澳洲联储7月将宣布额外购买1000亿澳元的债券，但预期该联储将维持2024年4月到期债券为三年期债券收益率目标，而非改为2024年11月到期的债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0508030.d.html</link>
-            <guid>2156089</guid>
-            <pubDate>Tue, 04 May 2021 05:51:20 GMT</pubDate>
+            <title><![CDATA[香港特区政府卫生署卫生防护中心5月4日下午公布，截至当日零时，香港新增4例新冠肺炎确诊病例，其中包括输入型病例3例，累计确诊病例达11790例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3395796.d.html</link>
+            <guid>2156194</guid>
+            <pubDate>Tue, 04 May 2021 09:06:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，台积电可能会在亚利桑那州建造多达五个额外的晶圆厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3367948.d.html</link>
-            <guid>2156088</guid>
-            <pubDate>Tue, 04 May 2021 05:48:46 GMT</pubDate>
+            <title><![CDATA[  美指刷新八个交易日高位至91.393，日内涨幅扩大到0.47%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0535384.d.html</link>
+            <guid>2156193</guid>
+            <pubDate>Tue, 04 May 2021 09:06:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[托克集团 RAHIM：尽管铜价很高，但铜需求没有遭到破坏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0507431.d.html</link>
-            <guid>2156087</guid>
-            <pubDate>Tue, 04 May 2021 05:47:34 GMT</pubDate>
+            <title><![CDATA[欧元兑美元EUR/USD跌破1.20，刷新近两周新低，日内跌超0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3395590.d.html</link>
+            <guid>2156192</guid>
+            <pubDate>Tue, 04 May 2021 09:05:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加拿大蒙特利尔银行：大宗商品市场普遍走强推高加元】①加拿大蒙特利尔银行(BMO)首席经济学家道格拉斯·波特(Douglas Porter)表示，相信加拿大木材等大宗商品的强劲走势可能会继续推高加元；②他表示：“推动加元走强的因素有很多，但最主要的可能是大宗商品市场普遍走强；小麦和铜价高企推动加元走强。加拿大出口的所有产品都达到了历史最高水平，或多年来的最高水平”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3367727.d.html</link>
-            <guid>2156086</guid>
-            <pubDate>Tue, 04 May 2021 05:47:27 GMT</pubDate>
+            <title><![CDATA[瑞士政府证实，驻伊朗大使馆的一名瑞士工作人员遭遇致命事故。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3395512.d.html</link>
+            <guid>2156191</guid>
+            <pubDate>Tue, 04 May 2021 09:04:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，台积电回应美方要求，规划在美国亚利桑那州建设更多晶圆厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3367630.d.html</link>
-            <guid>2156085</guid>
-            <pubDate>Tue, 04 May 2021 05:46:51 GMT</pubDate>
+            <title><![CDATA[香港金管局公布“绿色和可持续金融资助计划”指引：本计划将资助合资格的债券发行人和借款人的发债及外部评审服务支出。计划将于2021年5月10日开展，为期三年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3395360.d.html</link>
+            <guid>2156190</guid>
+            <pubDate>Tue, 04 May 2021 09:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【Arrival将为Uber开发网约车专用电动汽车】英国电动汽车制造商Arrival周二宣布，将为美国打车软件巨头Uber(UBER.N)开发一款网约车专用的电动汽车Arrival Car，两公司还将探索在英国、欧盟和美国等关键市场的战略合作关系。两家公司表示，“Arrival Car”将是一款“价格合理、专为网约车设计的电动汽车”，将在2023年第四季度投入生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0507218.d.html</link>
-            <guid>2156084</guid>
-            <pubDate>Tue, 04 May 2021 05:46:28 GMT</pubDate>
+            <title><![CDATA[美指短线走高十余点，现报91.36，英镑兑美元GBP/USD跌近20点，现报1.3770。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3394811.d.html</link>
+            <guid>2156189</guid>
+            <pubDate>Tue, 04 May 2021 08:58:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  瑞银：美国经济数据的表现会在未来几个月使得美联储转鹰；实际利率的走高意味着黄金ETF进一步减持，到今年年末可能跌至1600美元/盎司水平。]]></title>
-            <guid>2156083</guid>
-            <pubDate>Tue, 04 May 2021 05:45:13 GMT</pubDate>
+            <title><![CDATA[  【格鲁吉亚开始接种中国国药疫苗】当地时间5月4日，格鲁吉亚全国33家医疗机构开始为民众接种中国国药集团疫苗。据当地防疫部门公布的数据，该国已有超过1.76万人完成接种登记。当天格鲁吉亚国家疾病控制与公共卫生中心主任阿米兰·加姆克雷利泽介绍，按计划，5月4日当天将有2800人接种疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0534350.d.html</link>
+            <guid>2156188</guid>
+            <pubDate>Tue, 04 May 2021 08:57:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[托克集团 RAHIM：铜的前景依然非常强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0506860.d.html</link>
-            <guid>2156082</guid>
-            <pubDate>Tue, 04 May 2021 05:44:22 GMT</pubDate>
+            <title><![CDATA[【印度板球超级联赛无限期暂停】CNN5月4日消息，由于新冠疫情爆发，印度板球超级联赛（IPL）已经被无限期暂停，板球为印度国球。据报道，在周二的一份声明中，该赛事组织者表示，“虽然我们已经试图更加积极乐观，但是现在必须暂停比赛，在这个艰难的时刻，每个人都要回到他们的家庭和亲人身边”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3394636.d.html</link>
+            <guid>2156187</guid>
+            <pubDate>Tue, 04 May 2021 08:56:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  SPI Asset Management总经理Stephen Innes：多个美国经济数据的向好表现都在施压于黄金，并且月底到来投资者们也多选择获利了结；黄金市场下行有支撑，但市场多头不够强势，因为月底到来投资者们调整投资组合。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3367155.d.html</link>
-            <guid>2156081</guid>
-            <pubDate>Tue, 04 May 2021 05:44:13 GMT</pubDate>
+            <title><![CDATA[  【以太币创纪录的涨势在技术分析上短期可能面临回调】第二大加密货币以太币过去一年上涨约1,500％，并升至创纪录的3,455美元，如今在一项技术指标上看起来涨势似乎有点过度。以太币的14天相对强弱指数已经升至70以上，创下了自1月以来的最高水平，这表明以太币可能涨得太多，也太快。新加坡加密货币交易所Luno亚太区负责人Vijay Ayyar说，短期内，以太币可能会面临“一些回调”，但在较长时期内，价格前景“非常健康”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3394210.d.html</link>
+            <guid>2156185</guid>
+            <pubDate>Tue, 04 May 2021 08:52:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【氯消毒片价格或涨七成 美国遭遇史上最严重氯短缺】据美国有线电视新闻网3日报道，去年夏天，由于疫情人们呆在家里，游泳和泡澡使得氯消毒片的使用量激增，导致美国遭遇史上最严重氯短缺。有分析预计今年氯消毒片价格可能将上涨70%，不少地区的价格已经翻番。而美国最大的氯气生产商之一的生物实验室公司（BioLab）在8月份劳拉飓风的袭击中遭遇大火，据CNBC报道，公司要到2022年春季才能恢复运行，进一步加剧了供应短缺。一些供应商已经开始限制客户的购买量。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3366755.d.html</link>
-            <guid>2156080</guid>
-            <pubDate>Tue, 04 May 2021 05:41:40 GMT</pubDate>
+            <title><![CDATA[交易员：预计5月俄罗斯黑海港口TUAPSE的石油产品出口量为144.9万吨，4月为142.5万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0533407.d.html</link>
+            <guid>2156184</guid>
+            <pubDate>Tue, 04 May 2021 08:49:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【韩国警方搜查某交易所并冻结2.39亿美元加密货币】据韩联社消息，今日韩国警方对一家加密货币交易所进行了突击调查，警方共搜查了22个场所，包括该交易所的总部及员工的住所，最终冻结了2400亿韩元（约2.39亿美元）的加密货币。报道中未提及交易所名称。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0505617.d.html</link>
-            <guid>2156079</guid>
-            <pubDate>Tue, 04 May 2021 05:36:55 GMT</pubDate>
+            <title><![CDATA[【加拿大皇家银行：上调今年标普500指数目标】由于美联储资产负债表适度扩张，提高估值预期，因而将2021年标普500指数的目标位从4100点上调至4325点。将标普500指数2021年EPS预期从177美元上调至187美元；2022年从193美元上调至200美元。新的EPS预测考虑了利润率改善、回购增加，以及2022年标普500指数有效税率提高约4%等因素。预计拜登政府将可通过上调公司税的政策，料于明年生效。今年股市还有略微的上升空间，但是到年底或将出现回撤，市场波动性会加剧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3393391.d.html</link>
+            <guid>2156183</guid>
+            <pubDate>Tue, 04 May 2021 08:45:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【花旗：首予贝康医疗买入评级看40港元 受惠内地辅助生育市场扩张】花旗发表研究报告，首予贝康医疗-B(02170.HK)买入评级，目标价40港元。报告称，公司为内地辅助生育基因测试解决方案已建立创新平台，拥有首家及唯一获国家药品监督管理局(NMPA)许可第三代体外人工受孕(IVF)基因测试套装(PGT-A)。报告称，公司覆盖内地80家IVF医院/中心的其中42家。内地胚胎植入前遗传学检测(PGT)在2024年规模料扩至120亿元人民币，2019至2024年间年均复合增长料61%。IVF程序PGT渗透率在2024年料扩至18.4%。作为PGT市场先行者，该行料贝康医疗受惠板块增长强劲。报告料贝康医疗今年亏损800万元人民币，明年扭亏转赚1.04亿元人民币，2023年纯利料扩至2.77亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0505475.d.html</link>
-            <guid>2156078</guid>
-            <pubDate>Tue, 04 May 2021 05:35:49 GMT</pubDate>
+            <title><![CDATA[【一名瑞士驻伊朗外交官坠楼身亡】据伊朗塔斯尼姆通讯社当地时间5月4日消息，伊朗紧急医疗服务中心发言人表示，在伊朗首都德黑兰北部卡姆兰尼亚社区发现一名女性坠楼身亡。死者51岁，生前为瑞士驻伊朗大使馆一等秘书，目前尚不清楚其坠楼原因。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0532191.d.html</link>
+            <guid>2156182</guid>
+            <pubDate>Tue, 04 May 2021 08:39:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[台湾加权指数5月4日（周二）收盘下跌288.57点，跌幅1.68%，报16933.78点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3365832.d.html</link>
-            <guid>2156077</guid>
-            <pubDate>Tue, 04 May 2021 05:35:27 GMT</pubDate>
+            <title><![CDATA[IHS Markit主管Rob Dobson评英国4月制造业PMI：英国国内外针对新冠疫情的限制措施进一步放松，使英国工厂活动再次大幅增长。由于产出和新订单增长，整体PMI升至近27年来的高点。制造业前景也越来越乐观，三分之二的制造商预计一年后产量将上升。然而，由于小型制造商出口困难，出口增长仍然相对低迷。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0531607.d.html</link>
+            <guid>2156181</guid>
+            <pubDate>Tue, 04 May 2021 08:33:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞典北欧斯安银行：预计瑞典经济将在明年重回新冠疫情前趋势水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3365039.d.html</link>
-            <guid>2156076</guid>
-            <pubDate>Tue, 04 May 2021 05:30:07 GMT</pubDate>
+            <title><![CDATA[中国恒大：2021年4月份，本集团物业实现合约销售金额681.4亿元人民币，较去年同期增长4.5%；合约销售面积813.5万平方米，较去年同期增长14.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3391809.d.html</link>
+            <guid>2156180</guid>
+            <pubDate>Tue, 04 May 2021 08:32:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数小幅上涨，创日内新高至91.19，涨幅0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3364980.d.html</link>
-            <guid>2156075</guid>
-            <pubDate>Tue, 04 May 2021 05:29:42 GMT</pubDate>
+            <title><![CDATA[英国3月M4货币供应月率公布 0.6%，前值 0.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3391752.d.html</link>
+            <guid>2156179</guid>
+            <pubDate>Tue, 04 May 2021 08:31:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波兰总统：波兰政府可能会在6月恢复养老金改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0504564.d.html</link>
-            <guid>2156074</guid>
-            <pubDate>Tue, 04 May 2021 05:29:30 GMT</pubDate>
+            <title><![CDATA[英国3月央行消费信贷(亿英镑)公布 -5.35，前值 -12，预期 -5。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0531337.d.html</link>
+            <guid>2156178</guid>
+            <pubDate>Tue, 04 May 2021 08:31:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  纽元兑美元短线下挫，创日内新低至0.7167，跌幅0.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0504549.d.html</link>
-            <guid>2156073</guid>
-            <pubDate>Tue, 04 May 2021 05:29:23 GMT</pubDate>
+            <title><![CDATA[英国4月制造业PMI录得60.9，续创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0531312.d.html</link>
+            <guid>2156177</guid>
+            <pubDate>Tue, 04 May 2021 08:30:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【市场分析：尽管澳大利亚经济飙升 澳洲联储表现谨慎】尽管澳洲联储大幅上调了GDP增速预期，并降低了对失业率的预期，但该联储仍如市场预期维持鸽派立场，即将官方利率维持在纪录低位至至少2024年。澳洲联储预计到2022年底，失业率将达到4.5%，这与充分就业的定义相符。不过，在此前的经济周期中，当某些地区的失业率甚至降至更低水平时，仍未能引发薪资增长和通胀，因此澳洲联储仍然保持谨慎。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0503936.d.html</link>
-            <guid>2156072</guid>
-            <pubDate>Tue, 04 May 2021 05:24:49 GMT</pubDate>
+            <title><![CDATA[英国3月央行抵押贷款许可(万人)公布 8.2735，前值 8.77，预期 9.23。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3391666.d.html</link>
+            <guid>2156176</guid>
+            <pubDate>Tue, 04 May 2021 08:30:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  花旗：将特斯拉目标价从159美元上调至175美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3363781.d.html</link>
-            <guid>2156071</guid>
-            <pubDate>Tue, 04 May 2021 05:21:08 GMT</pubDate>
+            <title><![CDATA[英国4月制造业PMI公布 60.9，前值 60.7，预期 60.7。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3391635.d.html</link>
+            <guid>2156175</guid>
+            <pubDate>Tue, 04 May 2021 08:30:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[意大利药品机构AIFA负责人：意大利新冠疫苗的接种量可能将在本月前从每天50万剂提高到每天100万剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0502539.d.html</link>
-            <guid>2156070</guid>
-            <pubDate>Tue, 04 May 2021 05:16:33 GMT</pubDate>
+            <title><![CDATA[【五一头两日银联网络交易金额同比增长5.5%】最新数据显示：5月1日和2日，银联网络交易金额为7543亿元，较2020年同期增长5.5%，较2019年同期增长6.9%。网联平台共处理网络支付交易35.24亿笔，金额2.06万亿元，相比去年同期分别增长26.16%和45.11%。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3391206.d.html</link>
+            <guid>2156174</guid>
+            <pubDate>Tue, 04 May 2021 08:25:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[当地时间5月4日，泰国新冠疫情管理中心透露，该国单日新增新冠肺炎确诊病例1763例，累计确诊72788例；新增死亡病例27例，累计死亡303例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3362742.d.html</link>
-            <guid>2156069</guid>
-            <pubDate>Tue, 04 May 2021 05:14:06 GMT</pubDate>
+            <title><![CDATA[美、布两油期货均涨超1%，报65.13美元/桶和68.24美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3390968.d.html</link>
+            <guid>2156173</guid>
+            <pubDate>Tue, 04 May 2021 08:23:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：花旗集团在澳大利亚的面向消费者（零售业务）银行服务吸引了包括澳洲国民银行(National Australia Bank)和澳新银行（ANZBank）在内的许多银行的兴趣。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0502010.d.html</link>
-            <guid>2156068</guid>
-            <pubDate>Tue, 04 May 2021 05:12:49 GMT</pubDate>
+            <title><![CDATA[印度部长表示，印度的瑞德西韦药物产量增长三倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0530406.d.html</link>
+            <guid>2156172</guid>
+            <pubDate>Tue, 04 May 2021 08:22:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥市长：15人死于地铁坍塌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0501928.d.html</link>
-            <guid>2156067</guid>
-            <pubDate>Tue, 04 May 2021 05:12:12 GMT</pubDate>
+            <title><![CDATA[WTI原油期货重回65美元/桶，日内涨幅扩大至0.78%，布油期货重回68美元上方，日内涨0.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0530209.d.html</link>
+            <guid>2156171</guid>
+            <pubDate>Tue, 04 May 2021 08:20:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国和印度将宣布寻求在2030年前贸易翻一番。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3362037.d.html</link>
-            <guid>2156066</guid>
-            <pubDate>Tue, 04 May 2021 05:09:49 GMT</pubDate>
+            <title><![CDATA[瑞典央行行长英韦斯：通胀正在回升至2%，尽管这将是一段曲折的过程。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0529831.d.html</link>
+            <guid>2156170</guid>
+            <pubDate>Tue, 04 May 2021 08:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  紫金矿业(02899.HK)午后涨幅扩大至10%，报11.9港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3361861.d.html</link>
-            <guid>2156065</guid>
-            <pubDate>Tue, 04 May 2021 05:08:43 GMT</pubDate>
+            <title><![CDATA[马来西亚将从5月7日起公布新冠病毒热点地区，并将对热点地区提前采取干预措施以限制病毒传播。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0529669.d.html</link>
+            <guid>2156169</guid>
+            <pubDate>Tue, 04 May 2021 08:16:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  印尼财长：印尼政府将讨论提高增值税的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3361840.d.html</link>
-            <guid>2156064</guid>
-            <pubDate>Tue, 04 May 2021 05:08:33 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：目前没有证据表明破产将超越2020年低点的追赶效应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0529044.d.html</link>
+            <guid>2156168</guid>
+            <pubDate>Tue, 04 May 2021 08:10:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞典央行预计瑞典2021年GDP为4.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3361471.d.html</link>
-            <guid>2156062</guid>
-            <pubDate>Tue, 04 May 2021 05:06:11 GMT</pubDate>
+            <title><![CDATA[【五一假期实体商超流量大增 线上消费旺盛】“2021年全国消费促进月”启动24小时后，仅上海五五购物节累计消费金额已达173亿元，同时段同比增长了11%。国家信息中心大数据监测显示：假期前两天，全国各大城市重点商圈人流量明显增长，其中长沙、深圳、南京、天津等地已超过2019年同期水平。实体商超人气回暖的同时，线上消费依然旺盛。五一头两日投递快递包裹近5亿件。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3389333.d.html</link>
+            <guid>2156167</guid>
+            <pubDate>Tue, 04 May 2021 08:10:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  港股纸业股上涨，阳光纸业大涨近12%，晨鸣纸业涨近9%，玖龙纸业涨逾4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3361460.d.html</link>
-            <guid>2156061</guid>
-            <pubDate>Tue, 04 May 2021 05:06:06 GMT</pubDate>
+            <title><![CDATA[港股收盘，恒指收涨0.7%；有色金属板块、石油股普涨。]]></title>
+            <guid>2156166</guid>
+            <pubDate>Tue, 04 May 2021 08:09:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  瑞典央行表示，瑞典央行不太可能将回购利率降至零以下。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0500769.d.html</link>
-            <guid>2156060</guid>
-            <pubDate>Tue, 04 May 2021 05:05:11 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：不可过度夸大破产风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3389026.d.html</link>
+            <guid>2156165</guid>
+            <pubDate>Tue, 04 May 2021 08:09:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印度形势与西方乐观前景开始锯战，油价小幅震荡】① 据外媒报道，油价周二小幅震荡，美国和欧洲燃料需求回升的前景支撑着价格，因为纽约州、新泽西州和康涅狄格州将放松疫情限制措施，欧盟计划向更多接种过疫苗的外国游客开放；② CMC Markets Alpha主管Ash Goverer表示，在纽约联储的Williams暗示美国经济有望以数十年来最快速度增长后，对需求改善的乐观情绪似乎是推动油价上涨的主要动力；③ 万达咨询（Vanda Insights）能源分析师Vandana Hari表示，印度的形势正与西方反弹的乐观情绪展开拉锯战，但由于印度各地的限制措施在严重程度和持续时间上各不相同，需求损失估计很难确定，而且目标不断变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0500702.d.html</link>
-            <guid>2156059</guid>
-            <pubDate>Tue, 04 May 2021 05:04:48 GMT</pubDate>
+            <title><![CDATA[【印度比哈尔邦宣布实施短期全面封锁】印度比哈尔邦首席部长尼蒂什·库玛尔当地时间5月4日宣布，鉴于近期该邦确诊病例数激增，各地都面临床位、医用氧气和药品等医疗物资短缺问题，为了控制疫情，该邦决定自5月5日至5月15日实施全面封锁。据悉，封锁期间，民众非紧急事务不得外出，仅允许售卖生活必需品的店铺等场所开放。此前该邦曾于4月底宣布实施宵禁措施。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0528691.d.html</link>
+            <guid>2156164</guid>
+            <pubDate>Tue, 04 May 2021 08:08:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【越南宣布延长入境集中隔离时间】越南卫生部5月4日上午发布紧急通知，要求已经在该国隔离区完成14天隔离并且已经两次新冠病毒检测结果呈阴性的隔离对象，仍不能离开隔离场所，继续实施集中隔离。至于何时解除隔离须待另行通知。据越南卫生部称，目前越南国内已出现完成14天集中隔离后再进行新冠病毒检测呈阳性的案例。越南政府总理范明政已下令严肃处理在越南防疫工作中失职的有关单位和个人。（央视财经）]]></title>
-            <guid>2156058</guid>
-            <pubDate>Tue, 04 May 2021 05:04:08 GMT</pubDate>
+            <title><![CDATA[  【挪威电信公司将其缅甸业务估值从7.83亿美元降为零】挪威电信公司（Telenor）在5月4日发布的第一季度财报中表示，鉴于目前缅甸的政治局势，该公司已将缅甸业务（Telenor Myanmar）的估值从65亿挪威克朗（约合7.83亿美元）降为零，这部分业务将被移出总公司的季度和年度财报。缅甸境内的移动互联网功能于3月15日被电信部门关闭，至今没有恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0528655.d.html</link>
+            <guid>2156163</guid>
+            <pubDate>Tue, 04 May 2021 08:08:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  汇丰：将嘉年华邮轮目标价从15.3美元下调至14.7美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0500334.d.html</link>
-            <guid>2156057</guid>
-            <pubDate>Tue, 04 May 2021 05:02:16 GMT</pubDate>
+            <title><![CDATA[菲律宾卫生部：菲律宾新冠肺炎死亡病例新增97例至17662例，新增确诊病例5683例至1067892例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0528542.d.html</link>
+            <guid>2156162</guid>
+            <pubDate>Tue, 04 May 2021 08:07:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  恒指午盘开涨0.28%，报28437点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0500309.d.html</link>
-            <guid>2156056</guid>
-            <pubDate>Tue, 04 May 2021 05:02:03 GMT</pubDate>
+            <title><![CDATA[5月俄罗斯港口石油装载量预计为1012万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3388855.d.html</link>
+            <guid>2156161</guid>
+            <pubDate>Tue, 04 May 2021 08:07:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【5月3日全国铁路发送旅客1374.5万人次 较2019年同期增长3.2%】中国国家铁路集团有限公司透露，5月3日，铁路客流保持高位，全国铁路发送旅客1374.5万人次，较2019年同期增长3.2%。5月4日，返程客流递增，全国铁路预计发送旅客1520万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0498514.d.html</link>
-            <guid>2156055</guid>
-            <pubDate>Tue, 04 May 2021 04:51:20 GMT</pubDate>
+            <title><![CDATA[  Vaxart(VXRT.O)盘前涨超19%，周一发布一季度财报收跌逾25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3388842.d.html</link>
+            <guid>2156160</guid>
+            <pubDate>Tue, 04 May 2021 08:07:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥城当局表示，墨西哥城此前发生地铁事故，目前已造成13人死亡，70人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3358745.d.html</link>
-            <guid>2156054</guid>
-            <pubDate>Tue, 04 May 2021 04:49:06 GMT</pubDate>
+            <title><![CDATA[  辉瑞(PFE.N)盘前涨0.35%，美国食品药品监督管理局（FDA）下周将批准青少年接种辉瑞新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0528200.d.html</link>
+            <guid>2156159</guid>
+            <pubDate>Tue, 04 May 2021 08:05:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据俄罗斯卫星网，美国国防部发言人约翰·柯比表示，美国国防部长奥斯汀将于5月4日至5日访问新加坡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0497750.d.html</link>
-            <guid>2156053</guid>
-            <pubDate>Tue, 04 May 2021 04:47:01 GMT</pubDate>
+            <title><![CDATA[  Ocugen(OCGN.O)盘前跌超6%，周一收涨近24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0528180.d.html</link>
+            <guid>2156158</guid>
+            <pubDate>Tue, 04 May 2021 08:04:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拜登宣布美国2021财年接收难民数上调至6.25万】美国总统拜登3日宣布，将2021财年美国接收全球各地难民人数上限提高至6.25万人，较前任总统特朗普执政时期大幅增加。拜登在一份声明中表示，因重建相关基础设施需要时间，在截至9月30日的2021财年，美国实际接收难民人数不会达到这一上限。他重申，计划在2022财年将美国接收全球难民人数上限提高至12.5万人。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0497565.d.html</link>
-            <guid>2156052</guid>
-            <pubDate>Tue, 04 May 2021 04:45:57 GMT</pubDate>
+            <title><![CDATA[美股氢能源板块盘前走弱，普拉格能源跌3.7%，燃料电池能源跌2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0528161.d.html</link>
+            <guid>2156157</guid>
+            <pubDate>Tue, 04 May 2021 08:04:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：巴基斯坦寻求GDP高速增长，希望IMF放宽条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0497182.d.html</link>
-            <guid>2156051</guid>
-            <pubDate>Tue, 04 May 2021 04:43:29 GMT</pubDate>
+            <title><![CDATA[俄罗斯在过去24小时内报告新增7770例新冠肺炎确诊病例，新增337例死亡病例。（前一天分别为8489例新病例和336例）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0527962.d.html</link>
+            <guid>2156156</guid>
+            <pubDate>Tue, 04 May 2021 08:03:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据路透社统计，周一美国新冠肺炎确诊病例至少增加50084例，总数为3254万例，前一天为3249万。周一美国新冠肺炎死亡病例至少增加454例，累计死亡病例为577783例，前一天为577329例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3357687.d.html</link>
-            <guid>2156050</guid>
-            <pubDate>Tue, 04 May 2021 04:42:19 GMT</pubDate>
+            <title><![CDATA[伦敦金属交易所(LME)：铜库存减少6325吨，铝库存减少7350吨，锌库存减少175吨，镍库存减少48吨，锡库存减少55吨，铅库存减少275吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0527940.d.html</link>
+            <guid>2156155</guid>
+            <pubDate>Tue, 04 May 2021 08:03:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[柬埔寨报告单日新增创纪录的938例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0496656.d.html</link>
-            <guid>2156049</guid>
-            <pubDate>Tue, 04 May 2021 04:40:13 GMT</pubDate>
+            <title><![CDATA[伦敦金属交易所（LME）铜库存减少4.4%，为1月以来最大单日降幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3388272.d.html</link>
+            <guid>2156154</guid>
+            <pubDate>Tue, 04 May 2021 08:03:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  澳洲联储利率决议：在实际通胀持续处于2-3％目标区间内之前不会上调现金利率，委员会将恢复充分就业列为重中之重，通胀和薪资增长的回升是预料之中的，但可能只是渐进、温和的。]]></title>
-            <guid>2156048</guid>
-            <pubDate>Tue, 04 May 2021 04:38:54 GMT</pubDate>
+            <title><![CDATA[【希腊餐饮业重开大批民众光顾，异常高温海滩人满为患】希腊卫生部5月3日傍晚的统计数字显示，希腊累计确诊新馆肺炎病例348568例，因新冠病毒而死亡的人数在24小时内增加134人，累计死亡人数为10587人；据报道，5月3日，希腊餐饮业在阔别市场6个月后，重启室外营业。大批民众趁着复活节假期纷纷外出，享受“失而复得”的就餐乐趣。雅典市中心及周边各餐馆和咖啡馆在3日一早，就根据防疫守则在室外摆好座椅，准备迎接首批顾客。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0526572.d.html</link>
+            <guid>2156152</guid>
+            <pubDate>Tue, 04 May 2021 07:51:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储利率决议：委员会不考虑进一步延长定期贷款便利操作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0496101.d.html</link>
-            <guid>2156047</guid>
-            <pubDate>Tue, 04 May 2021 04:36:34 GMT</pubDate>
+            <title><![CDATA[【韩青瓦台重申不考虑赦免三星李在镕】韩国青瓦台相关人士4日表示，目前不考虑赦免三星电子副会长李在镕。该人士被执政党共同民主党籍议员李元旭问及对赦免李在镕的立场时做出如上表述。国务总理被提名人金富谦当天在向国会提交的听证会书面答辩书中也表示，没有考虑赦免李在镕。社会各界近期纷纷提出，鉴于新冠疫苗供应不足、半导体市场竞争激烈，应该考虑赦免李在镕。上月27日，五大经济团体向青瓦台正式建议赦免李在镕，当时青瓦台表示暂不考虑赦免，也没有研讨该问题的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3386774.d.html</link>
+            <guid>2156151</guid>
+            <pubDate>Tue, 04 May 2021 07:50:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储利率决议：在实际通胀持续处于2-3％目标区间内之前不会上调现金利率。委员会将恢复充分就业列为重中之重。通胀和薪资增长的回升是预料之中的，但可能只是渐进、温和的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3356673.d.html</link>
-            <guid>2156046</guid>
-            <pubDate>Tue, 04 May 2021 04:36:04 GMT</pubDate>
+            <title><![CDATA[欧洲斯托克600指数抹去此前涨幅，现基本持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3386449.d.html</link>
+            <guid>2156150</guid>
+            <pubDate>Tue, 04 May 2021 07:48:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储利率决议：今年第二季度CPI涨幅或暂时性超3%。将仔细监测住房贷款的趋势，保持贷款标准很重要。今年晚些时候将考虑是保留2024年4月的目标债券，还是转向下一个到期的债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3356547.d.html</link>
-            <guid>2156045</guid>
-            <pubDate>Tue, 04 May 2021 04:35:14 GMT</pubDate>
+            <title><![CDATA[希腊十年期国债收益率升至1%，刷新两个月新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0525823.d.html</link>
+            <guid>2156149</guid>
+            <pubDate>Tue, 04 May 2021 07:46:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳元兑美元AUD/USD短线上扬约14个点，现报0.7747%，日内跌幅收窄至0.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0495781.d.html</link>
-            <guid>2156044</guid>
-            <pubDate>Tue, 04 May 2021 04:34:33 GMT</pubDate>
+            <title><![CDATA[法国央行：法国国内银行业的气候风险敞口合理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0525409.d.html</link>
+            <guid>2156148</guid>
+            <pubDate>Tue, 04 May 2021 07:42:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储利率决议：在7月份的会议上，委员会将考虑在完成第二笔1000亿美元的债券购买之后，未来购债的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3356412.d.html</link>
-            <guid>2156043</guid>
-            <pubDate>Tue, 04 May 2021 04:34:17 GMT</pubDate>
+            <title><![CDATA[法国央行公布首份银行业气候压力测试报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3385674.d.html</link>
+            <guid>2156147</guid>
+            <pubDate>Tue, 04 May 2021 07:42:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储利率决议： 准备进一步购债，以协助实现充分就业和通胀目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3356283.d.html</link>
-            <guid>2156042</guid>
-            <pubDate>Tue, 04 May 2021 04:33:22 GMT</pubDate>
+            <title><![CDATA[欧盟碳排放基准价格升至50欧元/吨的历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0524793.d.html</link>
+            <guid>2156146</guid>
+            <pubDate>Tue, 04 May 2021 07:39:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储利率决议：将在7月会议上就三年期国债作出决定。并将在7月会议上考虑进一步量化宽松。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3356181.d.html</link>
-            <guid>2156041</guid>
-            <pubDate>Tue, 04 May 2021 04:32:40 GMT</pubDate>
+            <title><![CDATA[  【贝莱德：市场低估了中期通胀风险】贝莱德投资研究所的Jean Boivin等策略师预计，随着经济重启的不断推进，短期通胀率料出现波动；他们在一份报告中指出，市场没有足够重视潜在的中期物价压力。随着经济的重启，鉴于供应瓶颈和积压需求的互相作用，预计通胀风险偏上。预计2025-2030年，美国通胀率均值不到3%；市场对此仍然低估。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0524204.d.html</link>
+            <guid>2156145</guid>
+            <pubDate>Tue, 04 May 2021 07:34:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  澳洲联储利率决议：不考虑进一步延长定期融资安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0495493.d.html</link>
-            <guid>2156040</guid>
-            <pubDate>Tue, 04 May 2021 04:32:25 GMT</pubDate>
+            <title><![CDATA[【国海证券点评中国4月PMI数据：经济拐点被进一步确认】国海证券研报认为，4月PMI数据弱于市场一致预期，也弱于历史上出现的季节性回落，制造业超预期的下滑验证了经济周期可能已经走过拐点。考虑到制造业周期（剔除基数效应）可能已经在一季度走过顶峰，且大宗原材料上涨向下游的传导可能相对有限，通胀压力整体仍然可控，货币政策收紧的空间可能比较有限。在一季度经济数据不及预期的情况下，政治局会议再度明确传递了“政策不急转弯”的信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3384350.d.html</link>
+            <guid>2156144</guid>
+            <pubDate>Tue, 04 May 2021 07:32:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储利率决议：将2021年GDP修正至4.75%，2022年修正3.5%；到2022年底，失业率将在4.5%左右；2021年底失业率将在5%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3356033.d.html</link>
-            <guid>2156039</guid>
-            <pubDate>Tue, 04 May 2021 04:31:36 GMT</pubDate>
+            <title><![CDATA[荷兰国际银行：苏格兰将于本周四进行选举投票，由于苏格兰民族党（SNP）料将获胜，而该党希望再次就苏格兰独立举行公投，因此这可能标志着在推动第二次公投上再进一步。但不论结果如何，大多数人都认为独立公投不会马上进行，因此对英镑的影响料将非常有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0524005.d.html</link>
+            <guid>2156143</guid>
+            <pubDate>Tue, 04 May 2021 07:32:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储：维持政府债券购买计划的参数。 委员会仍将致力于维持高度支持性的货币环境，直到其目标实现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0495294.d.html</link>
-            <guid>2156038</guid>
-            <pubDate>Tue, 04 May 2021 04:31:08 GMT</pubDate>
+            <title><![CDATA[  沃尔沃汽车：4月总销量为62,724辆，去年同期为31,760辆，同比大增97.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0523250.d.html</link>
+            <guid>2156142</guid>
+            <pubDate>Tue, 04 May 2021 07:26:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储将基准利率及3年期国债收益率目标均维持在0.1%不变，符合市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0495099.d.html</link>
-            <guid>2156037</guid>
-            <pubDate>Tue, 04 May 2021 04:30:16 GMT</pubDate>
+            <title><![CDATA[  市场消息：随着新冠病毒在世界各地发生变异，世卫组织正在密切监测10种新型冠状病毒变种.]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3383475.d.html</link>
+            <guid>2156141</guid>
+            <pubDate>Tue, 04 May 2021 07:26:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【4月份5个重点城市首次集中供地 累计成交额超2000亿元】据克而瑞研究中心发布的数据，4月份受5个重点城市首次集中供地的影响，地市热度明显上涨，各大房企拿地积极性有所提升，销售TOP50房企单月拿地金额同比上涨29%。这5个首次集中供地的城市分别为广州、重庆、沈阳、长春和无锡，据统计，5个城市累计成交地块155宗，成交金额超过2000亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3355752.d.html</link>
-            <guid>2156036</guid>
-            <pubDate>Tue, 04 May 2021 04:30:02 GMT</pubDate>
+            <title><![CDATA[韩国央行：有委员认为，当复苏的证据更加确凿，应该考虑金融风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmxzfmm0522629.d.html</link>
+            <guid>2156140</guid>
+            <pubDate>Tue, 04 May 2021 07:22:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哈萨克斯坦4月CPI环比下降0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3355013.d.html</link>
-            <guid>2156035</guid>
-            <pubDate>Tue, 04 May 2021 04:25:03 GMT</pubDate>
+            <title><![CDATA[  【市场监管总局：进一步加强大型游乐设施等特种设备监督检查】市场监管总局发布通知，5月2日，河北省承德市某游乐场一台名为“高空飞翔”的飞行塔类大型游乐设施发生故障，导致多人高空滞留。市场监管总局要求，要进一步加强大型游乐设施等特种设备监督检查。各地市场监管部门要结合本地情况，举一反三，针对中小游乐场所使用的飞行塔类、自控飞机类等大型游乐设施，重点检查是否编制应急救援预案、是否开展应急救援演练、是否定期开展人员培训等情况，切实保障大型游乐设施等特种设备安全运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3382156.d.html</link>
+            <guid>2156139</guid>
+            <pubDate>Tue, 04 May 2021 07:17:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特4月IHS Markit综合PMI 55.2，3月份为53.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3353716.d.html</link>
-            <guid>2156034</guid>
-            <pubDate>Tue, 04 May 2021 04:18:41 GMT</pubDate>
+            <title><![CDATA[德国工商总会：预计德国2021年出口增速为8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3381940.d.html</link>
+            <guid>2156138</guid>
+            <pubDate>Tue, 04 May 2021 07:15:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度股市转跌，印度NIFTY指数现跌0.18%，印度SENSEX指数跌0.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3353356.d.html</link>
-            <guid>2156033</guid>
-            <pubDate>Tue, 04 May 2021 04:16:42 GMT</pubDate>
+            <title><![CDATA[美元指数DXY短线上扬逾10点，现报91.27，欧元兑美元EUR/USD短线跌十余点，现报1.2023。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3381733.d.html</link>
+            <guid>2156137</guid>
+            <pubDate>Tue, 04 May 2021 07:14:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国哥伦比亚广播公司（CBS）：美国食品药品监督管理局（FDA）或将于下周早些时候批准辉瑞公司的新冠疫苗用于青少年。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3353210.d.html</link>
-            <guid>2156032</guid>
-            <pubDate>Tue, 04 May 2021 04:15:57 GMT</pubDate>
+            <title><![CDATA[韩国央行：经济上行风险大于下行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-04/detail-ikmyaawc3381474.d.html</link>
+            <guid>2156136</guid>
+            <pubDate>Tue, 04 May 2021 07:12:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
