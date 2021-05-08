@@ -4,11 +4,197 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 08 May 2021 13:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 16:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加密货币以太坊站上3700美元/枚，再创历史新高，日涨幅达6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1309551.d.html</link>
+            <guid>2161954</guid>
+            <pubDate>Sat, 08 May 2021 16:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体：偏向独立的苏格兰政党仍将赢得议会选举】据BBC预计，主张苏格兰独立的苏格兰民族党（SNP）未能在苏格兰议会选举中获得绝对多数，但考虑到支持独立的绿党表现强势，偏向独立的苏格兰政党仍将继续控制苏格兰议会。英国首相约翰逊表示，他将等待最终的选举结果，但反对过早地再次进行独立公投，工作重心应该是实现从新冠疫情中复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4169886.d.html</link>
+            <guid>2161953</guid>
+            <pubDate>Sat, 08 May 2021 16:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞波币跌破1.55美元/枚，日跌幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1309148.d.html</link>
+            <guid>2161952</guid>
+            <pubDate>Sat, 08 May 2021 16:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币短线走低，比特币回落至58500美元/枚下方，瑞波币触及1.57美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1307819.d.html</link>
+            <guid>2161951</guid>
+            <pubDate>Sat, 08 May 2021 15:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增10176例新冠肺炎确诊病例，新增224例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1306643.d.html</link>
+            <guid>2161950</guid>
+            <pubDate>Sat, 08 May 2021 15:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度外交部官员：尚未就欧盟-印度自贸协定时间表作出任何决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1306213.d.html</link>
+            <guid>2161949</guid>
+            <pubDate>Sat, 08 May 2021 15:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增3195例新冠肺炎确诊病例，新增32例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4166679.d.html</link>
+            <guid>2161948</guid>
+            <pubDate>Sat, 08 May 2021 15:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗首都发生爆炸已致25人死亡，另有52人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1305670.d.html</link>
+            <guid>2161947</guid>
+            <pubDate>Sat, 08 May 2021 15:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府公布的数据显示，英国已有逾3518万人接种第一针新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1305092.d.html</link>
+            <guid>2161946</guid>
+            <pubDate>Sat, 08 May 2021 15:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增2047例新冠肺炎确诊病例，新增5例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4165493.d.html</link>
+            <guid>2161945</guid>
+            <pubDate>Sat, 08 May 2021 15:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【泰国曼谷公交系统已有45名工作人员确诊新冠肺炎】当地时间5月8日，泰国曼谷大众运输机构通报，当天又有两路公交车的售票员确诊新冠肺炎，自4月初泰国暴发第三波新冠肺炎疫情以来，已有45名公交系统员工确诊，其中大多数为公交车司机和售票员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4165273.d.html</link>
+            <guid>2161944</guid>
+            <pubDate>Sat, 08 May 2021 15:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天马显示科技第6代柔性AMOLED生产线项目主厂房顺利封顶】天马显示科技第6代柔性AMOLED项目主厂房封顶仪式已于日前顺利举行。据了解，上述项目设计产能为月加工柔性显示基板48千张，是目前国内单体最大、全球最先进的柔性AMOLED单体工厂，也是厦门史上投资最大的单体高科技制造项目，建成后将助力天马运营管理的柔性AMOLED产能规模跻身全球前三。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4165146.d.html</link>
+            <guid>2161943</guid>
+            <pubDate>Sat, 08 May 2021 15:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【马克龙批美国放弃新冠疫苗知识产权：问题在英美限制疫苗出口】美国近日宣布放弃新冠疫苗的支持产权专利，遭到欧盟国家反对。欧盟委员会主席冯德莱恩和英国贸易大臣特拉斯6日分别发表讲话，强调将继续致力于现有的疫苗分配机制。5月7日，法国总统马克龙也直言批评了美国此举并非解决问题的关键，当前的主要问题在于美国和英国限制疫苗出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4163645.d.html</link>
+            <guid>2161942</guid>
+            <pubDate>Sat, 08 May 2021 14:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国成功研制62比特量子计算原型机“祖冲之号”】从中国科学技术大学获悉，该校潘建伟院士团队近期成功研制了目前国际上超导量子比特数量最多的量子计算原型机“祖冲之号”，操纵的超导量子比特达到62个，并在此基础上实现了可编程的二维量子行走。日前，国际权威学术期刊《科学》发表了该研究成果。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1302064.d.html</link>
+            <guid>2161941</guid>
+            <pubDate>Sat, 08 May 2021 14:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印度的外交部官员表示，欧盟-印度自由贸易协定的时间表尚未决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1300632.d.html</link>
+            <guid>2161940</guid>
+            <pubDate>Sat, 08 May 2021 14:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿富汗首都喀布尔发生爆炸 已致35人受伤】当地时间5月8日，阿富汗内政部发布消息称，阿富汗首都喀布尔第13警区一所学校附近发生爆炸，已有35人受伤。目前尚无更多细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1299353.d.html</link>
+            <guid>2161939</guid>
+            <pubDate>Sat, 08 May 2021 14:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会主席冯德莱恩：超过25%的欧洲公民已经接种首剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4158914.d.html</link>
+            <guid>2161933</guid>
+            <pubDate>Sat, 08 May 2021 13:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【钟南山称中国新冠疫苗接种率距全民免疫还远远不够】中国工程院院士钟南山今日在广州医科大学附属肿瘤医院“2021医院管理与肿瘤防治系列线下研讨会”发表视频讲话表示，现在全球疫情形势仍然严峻，当前中国新冠疫苗接种率还不高，距全民免疫还远远不够，我们仍然要高度重视，谨防输入的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1297871.d.html</link>
+            <guid>2161927</guid>
+            <pubDate>Sat, 08 May 2021 13:53:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：希望美国能够移除疫苗出口限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4158526.d.html</link>
+            <guid>2161924</guid>
+            <pubDate>Sat, 08 May 2021 13:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会主席冯德莱恩：已经接收到2亿剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4158258.d.html</link>
+            <guid>2161923</guid>
+            <pubDate>Sat, 08 May 2021 13:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟印度联合声明：同意恢复双边贸易谈判，并建立连通性伙伴关系。启动投资保护协议谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1296696.d.html</link>
+            <guid>2161890</guid>
+            <pubDate>Sat, 08 May 2021 13:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：取消疫苗专利并不是实现提供更多疫苗的正确方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1296253.d.html</link>
+            <guid>2161784</guid>
+            <pubDate>Sat, 08 May 2021 13:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗副外长：若有需要伊朗将考虑延长国际原子能机构（IAEA）的核能合作期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1295887.d.html</link>
+            <guid>2161780</guid>
+            <pubDate>Sat, 08 May 2021 13:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：欧盟与印度的贸易谈判获得了新的动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4156598.d.html</link>
+            <guid>2161779</guid>
+            <pubDate>Sat, 08 May 2021 13:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：欧盟与印度需要开展更加密切的疫苗合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1295807.d.html</link>
+            <guid>2161778</guid>
+            <pubDate>Sat, 08 May 2021 13:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四维智联与途虎养车达成战略合作】5月8日，四维智联与途虎养车共同宣布，双方将基于各自优良的产品与服务，建立全面而深入的战略合作伙伴关系。途虎养车与四维智联联合推出“自驾甄选计划”，将搭载智能化车机功能，系统化AR高清行车记录仪，实时记录行车状况，保障行车安全；智能化AR实景导航，为用户精选自驾路线，定制出行体验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4156520.d.html</link>
+            <guid>2161777</guid>
+            <pubDate>Sat, 08 May 2021 13:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理默克尔：疫情蔓延问题是欧盟印度峰会的核心议题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1295747.d.html</link>
+            <guid>2161776</guid>
+            <pubDate>Sat, 08 May 2021 13:36:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗安全官员：阿富汗首都喀布尔一所学校附近发生爆炸事件，造成至少10人死亡，多人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1294954.d.html</link>
+            <guid>2161765</guid>
+            <pubDate>Sat, 08 May 2021 13:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拼多多再发声明，否认对极兔快递“政策倾斜”】5月8日晚，拼多多在其官方辟谣平台发布声明称，今天再次有营销机构报道拼多多对极兔快递“政策倾斜”。早在今年4月8日，拼多多已公开声明，坚持平台化经营，极兔“有拼多多投资，双方有特殊合作关系”为不实消息，平台规则按公布的统一标准执行，同商家发货选择哪家快递公司无关。该营销机构未向拼多多求证。针对该谣言特此声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4155559.d.html</link>
+            <guid>2161764</guid>
+            <pubDate>Sat, 08 May 2021 13:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：仅1%新冠疫苗进入低收入国家】8日，世卫组织官方微信发文称，全世界范围内已经接种了10亿多剂次新冠疫苗，其中4月份接种了1亿剂次，但仅有1%（100万剂次）进入了低收入国家，其余的9900万剂次都进入了高、中收入国家。另外，截至本月初仍有14个国家尚未获得任何疫苗。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4155185.d.html</link>
+            <guid>2161759</guid>
+            <pubDate>Sat, 08 May 2021 13:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【泰国国家足球队多人感染新冠病毒】泰国国家足球协会当地时间5月8日发布消息称，新冠肺炎疫情期间，泰国足协每周都会为进行闭门训练的男子足球和女子足球国家队队员进行新冠病毒检测。5月7日的检测结果显示，男足国家队2名运动员和4名工作人员感染新冠病毒，女足国家队1名运动员和1名工作人员感染新冠病毒。目前，感染人员已经全部被送往医院；其他检测结果为阴性的相关人员进入隔离观察阶段，每3天至5天须进行一次病毒检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4152869.d.html</link>
+            <guid>2161740</guid>
+            <pubDate>Sat, 08 May 2021 13:08:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今日财经TOP10】➊「网上炒作劣迹艺人，粉丝团网络非理性应援？整治！」➋「两部门：继续实施小微企业融资担保业务降费奖补政策」➌「WHO将中国国药新冠疫苗列入“紧急使用清单”」➍「官方：将恶意注册商标行为较多的申请人纳入黑名单」➎「“五一”楼市降温 你在的城市房价降了吗？」➏「这项禁令或逼中国三大运营商从美国退市，华尔街不满了」➐「李嘉诚错失的新能源风口：长江汽车烧光51亿后破产」➑「舆论风暴后，谁还在买特斯拉？」➒「罗永浩打假“腾讯独家撰文”：这文章不是我写的」➓「拜登想用这招打赢中国？」 http://t.cn/A6csGZLj]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4152540.d.html</link>
@@ -420,191 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4103432.d.html</link>
             <guid>2161592</guid>
             <pubDate>Sat, 08 May 2021 07:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西航空一航班风挡爆裂 视频显示为短路起火】针对日前航班高空飞行中风挡爆裂事故，5月8日，涉事的江西航空声明，旗下一架波音B737-800飞机执飞库尔勒至郑州航班，在巡航阶段高度10100米，驾驶舱左前风挡外层玻璃突遇破裂。江西航空称，根据飞机维修和飞行手册，该飞机风挡由多层玻璃组成，此次为外层玻璃发生破裂，风挡承受结构力的中间层和内层均完好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1242259.d.html</link>
-            <guid>2161591</guid>
-            <pubDate>Sat, 08 May 2021 07:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鸿海：印度厂有人确诊新冠肺炎 或包括多名中国工程师】据台湾“中央社”消息，近日有传闻称鸿海印度厂多人感染新冠肺炎，或包括10名中国内地工程师。对此，鸿海今日证实印度厂有人确诊，该厂在坦米尔那都省（TamilNadu）清奈，专为苹果生产iPhone。不过鸿海表示，印度厂区仍维持营运状态，并持续提供员工必要防疫物资与协助。另据当地业界人士透露，如果加上鸿海的清奈厂，或有高达100名中国内地工程师确诊，但这项消息并未获得官方消息来源确认。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1240815.d.html</link>
-            <guid>2161590</guid>
-            <pubDate>Sat, 08 May 2021 07:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奈雪计划5月13日港交所聆讯 预计6月中上旬上市】奈雪计划于5月13日聆讯。按照港交所上市流程，奈雪或将在6月中上旬完成上市。奈雪此次计划的募资额约6亿美元。以其发行15%股份来计，奈雪预计估值约40亿美元，折合港币约310亿。（腾讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1240534.d.html</link>
-            <guid>2161589</guid>
-            <pubDate>Sat, 08 May 2021 07:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国新冠疫苗接种超3亿剂次】国家卫健委8日最新通报，全国新冠病毒疫苗接种30822.6万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4101023.d.html</link>
-            <guid>2161586</guid>
-            <pubDate>Sat, 08 May 2021 07:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华泰证券：非农就业不及预期暂缓利率上行压力】非农就业不及预期，美债名义利率上行压力短期可能暂缓。4月非农数据公布后，10年期美债利率先跌后升，美元指数同样先跌后涨；美股走势上扬，源于市场认为低于预期的非农数据短期“稳固”联储宽松货币基调、6月FOMC超预期“转鹰”可能性下降。结合对消费、就业和通胀中期走势的分析，我们认为，排除4-5月数据的短期扰动，美债名义利率上行仍难言见顶；7月份及之后的议息会议仍可能围绕QE退出路径问题启动讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1238757.d.html</link>
-            <guid>2161584</guid>
-            <pubDate>Sat, 08 May 2021 06:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腾讯、B站关联公司入股青瓷数码】天眼查App显示，近日，厦门青瓷数码技术有限公司发生多项工商变更，投资人新增广西腾讯创业投资有限公司、上海幻电信息科技有限公司等。厦门青瓷数码技术有限公司成立于2012年3月，注册资本约1427万人民币，法定代表人及最大股东为杨煦，持股比例约37%。经营范围含软件开发、经营各类商品和技术的进出口等。官网信息显示，该公司为一家从事网络游戏研发、运营的互联网科技有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4098513.d.html</link>
-            <guid>2161583</guid>
-            <pubDate>Sat, 08 May 2021 06:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗安全部队打死250名塔利班成员】当地时间5月8日，阿富汗国防部发布声明表示，在过去24小时内，阿安全部队在楠格哈尔、拉格曼、加兹尼、坎大哈等多省与塔利班发生冲突，打死250名、打伤106名塔利班成员。此外安全部队销毁了大量武器和弹药，清除了塔利班此前埋设的29种不同类型的地雷。（央视新闻）]]></title>
-            <guid>2161582</guid>
-            <pubDate>Sat, 08 May 2021 06:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联军表示，无人机对驻扎在伊拉克阿萨德空军基地的美军进行了袭击，没有造成人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4097800.d.html</link>
-            <guid>2161581</guid>
-            <pubDate>Sat, 08 May 2021 06:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度德里首席部长ARVIND KEJRIWAL：本市新冠疫苗短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1236491.d.html</link>
-            <guid>2161580</guid>
-            <pubDate>Sat, 08 May 2021 06:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旅游与零售业白皮书出炉，中免集团成全球最大免税零售商】7日下午，首届消博会的主题论坛——全球消费创新暨免税与旅游零售大会发布了白皮书。报告显示，2020年，我国的免税龙头中免集团超越了Dufry，成为全球最大的免税零售商。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1236456.d.html</link>
-            <guid>2161579</guid>
-            <pubDate>Sat, 08 May 2021 06:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最高1亿元！河南与山东签订黄河流域省际生态保护补偿协议】记者从河南省财政厅、河南省生态环境厅了解到，近日，河南省与山东省正式签订了《山东省人民政府、河南省人民政府黄河流域（豫鲁段）横向生态保护补偿协议》 。这是黄河流域第一个省际横向生态补偿协议，对黄河全流域健全完善“保护责任共担、流域环境共治、生态效益共享”的横向生态补偿机制，探索开展生态产品价值计量，加快探索绿水青山就是金山银山的转化路径具有示范意义。《补偿协议》明确最高补偿资金规模达1亿元，分为水质基本补偿和水质变化补偿两部分。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4097218.d.html</link>
-            <guid>2161578</guid>
-            <pubDate>Sat, 08 May 2021 06:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多地延长紧急状态，日本首相回应“奥运还能开吗” 】鉴于疫情局势，日本政府7日正式决定，延长4个地区本定于11日到期的紧急状态宣言。而距离东京奥运开幕还有不到3个月时间，日本国内外多人发声呼吁停办奥运。7日，日本首相菅义伟对此回应称，他认为将东京奥运办成一届保护民众生命健康、安全安心的盛会是“能够实现的”。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4097163.d.html</link>
-            <guid>2161577</guid>
-            <pubDate>Sat, 08 May 2021 06:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南消博会：开展首日人流量近5万人，2万多人观展】今天（5月8日）是首届消博会的第二天。从今天入场的人员情况来看，客流量还是较大，但是观展依然平稳有序，入口安检处也没有长时间的排队现象出现。根据我们拿到的数据，在开展的第一天，也就是昨天，消博会的人流量近5万，其中参展人员有1.3万多人，观展人员有2.3万多人。根据今天的情况来看，人流量应该不会少于昨日，可见各采购商的热情还是很高。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1235155.d.html</link>
-            <guid>2161576</guid>
-            <pubDate>Sat, 08 May 2021 06:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本放送协会NHK：日本兵库县新发现568例新冠肺炎确诊病例，新增6例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4094965.d.html</link>
-            <guid>2161572</guid>
-            <pubDate>Sat, 08 May 2021 06:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟对美国支持豁免新冠疫苗知识产权持怀疑态度】美国贸易代表戴琦日前宣布，美国支持暂时豁免与新冠疫苗相关的知识产权保护，以扩大全球范围内疫苗接种。欧盟委员会主席冯德莱恩7日在一个记者会上表示，对美国政府针对疫苗知识产权的这一态度转变持怀疑态度。冯德莱恩的这一表态得到了法国总统马克龙的呼应。马克龙对媒体说，对暂时豁免疫苗知识产权的效果持怀疑态度。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1232244.d.html</link>
-            <guid>2161570</guid>
-            <pubDate>Sat, 08 May 2021 06:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本放送协会NHK：日本北海道单日新增创纪录的400例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4092571.d.html</link>
-            <guid>2161569</guid>
-            <pubDate>Sat, 08 May 2021 06:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家知识产权局：将恶意注册商标行为较多的申请人纳入黑名单】 国家知识产权局副局长何志敏表示，国家知识产权局坚决反对并且及时打击恶意商标注册行为。今年以来，在商标实质审查方面，适用新商标法驳回不以使用为目的的恶意商标注册申请已经超过了1万件；建立了黑名单制度，把一些恶意注册行为比较多的申请人纳入到黑名单，对相关新的申请严加监管，加注涉嫌恶意商标注册申请人近千人。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4092386.d.html</link>
-            <guid>2161568</guid>
-            <pubDate>Sat, 08 May 2021 06:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际定期客运航班预先飞行计划查询程序上线】中国民航局披露，为做好常态化疫情防控形势下的旅客服务工作，“国际定期客运航班预先飞行计划查询”小程序于5月8日正式上线。旅客可通过民航局官网首页进入小程序，自主查询已获批复的国际客运航班计划权威信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4092183.d.html</link>
-            <guid>2161567</guid>
-            <pubDate>Sat, 08 May 2021 06:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南：全产业链推进健康生活目的地建设】记者从7日召开的云南省打造世界一流“健康生活目的地牌”专题发布会获悉，“十四五”期间，以“边疆、民族、山区、美丽”为特征的云南，将进一步发挥生态资源、旅游资源等比较优势，聚焦“文、游、医、养、体、学、智”打造全产业链，以大滇西旅游环线、澜沧江沿岸休闲旅游示范区等为支撑，加快建设世界一流的健康生活目的地。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4092159.d.html</link>
-            <guid>2161566</guid>
-            <pubDate>Sat, 08 May 2021 06:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国联水产：目前水产养殖业务占比较少】国联水产5月8日在投资者互动平台表示，公司主要业务是水产食品业务，目前水产养殖业务占比较少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1231009.d.html</link>
-            <guid>2161565</guid>
-            <pubDate>Sat, 08 May 2021 06:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京新增1121例新冠肺炎确诊病例，新增重症病例71例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1228754.d.html</link>
-            <guid>2161563</guid>
-            <pubDate>Sat, 08 May 2021 06:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财经网站DailyFX分析师James：黄金重回上涨趋势】本周美指下行，助推金价大涨，并一举突破2周新高。未来金价有望继续走高，并走出一波更大的牛市，只是需要一段时间。回顾本周公布的经济数据，有理由相信美联储短期内至少不会缩减宽松政策，直到情况发生显著变化，例如就业报告持续造好，通胀显著抬头。随着投资者寻找避免负实际利率的投资标的，美元恐继续承压，从而利好金价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1227828.d.html</link>
-            <guid>2161561</guid>
-            <pubDate>Sat, 08 May 2021 05:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【光大银行：七成理财子公司未建立股票池 短期仍以“自主投资+委外合作”配置全类型产品】今日，光大银行联合波士顿咨询公司发布的《中国资产管理市场2020》报告指出，截至2020年末，理财子公司权益类资产占比仅为2.31%，超过八成的国有及城商行系理财子公司股票投资以委外合作为主，股票池暂未建仓的理财子公司数量占比超过七成。短期内多数理财子公司选择在权益投资的初期以“固收+委外”为主，借助“自主投资+委外合作”模式，快速实现对全类型产品的配置。中期来看，理财子公司可能在资产配置上逐步提高固收及混合类产品中权益资产配置比例，投资方式上从委外向直投过渡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4088315.d.html</link>
-            <guid>2161560</guid>
-            <pubDate>Sat, 08 May 2021 05:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【iPhone12需求强劲 郑州富士康1月三次提高装配线新员工奖金】昨日，富士康位于郑州的工厂最近提高了装配线上新员工的奖金。据富士康负责iPhone生产的综合数码产品事业部(IDPBG)发布的招聘信息显示，这是该公司在一个月内第三次增加郑州装配线工人的奖金。最新公告显示，每名员工如果工作90天，在岗时间至少55天，将获得7500元人民币的奖金。这个数字高于4月26日的6500元和4月15日的6000元奖金，也是3月底3500元奖金的两倍多。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4087213.d.html</link>
-            <guid>2161558</guid>
-            <pubDate>Sat, 08 May 2021 05:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【管清友：未来20%上市公司将占超九成市值及成交额】如是金融研究院院长管清友指出，A股市场伴随着注册制的深化，未来会越来越分化。20%的公司会占到整个市场上90%以上的市值以及成交额。同时数据显示，注册制改革加速以后，约有80%的企业跌破上市首日的收盘价，这是“价值回归”常态化的表现，尽快地实现完全意义的注册制，应该少一点“父爱主义”，多一点风险容忍度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1225752.d.html</link>
-            <guid>2161557</guid>
-            <pubDate>Sat, 08 May 2021 05:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼泊尔新冠肺炎疫情加速恶化 政府计划增加病床 增派医务人员】目前，尼泊尔很多地方的病床需求量都很大，几乎所有的医护人员都在超负荷工作。为此，尼泊尔总理奥利指示一些隶属于部队的医院、大学的教学医院，以及一些私立医院在这个特殊时期作为救治新冠肺炎的医院来运营。当地时间5月5日，尼泊尔军队已经发布指示，要求召回2017年以来的退休军事卫生工作者，预计他们当中将有300人加入到抗疫一线。  （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1224536.d.html</link>
-            <guid>2161556</guid>
-            <pubDate>Sat, 08 May 2021 05:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度发现3532种变异毒株？真相其实是这样】 今天，中国网络上多家媒体账号在纷纷转发一则极为可怕的消息，称印度已经检出了3532种变异毒株。这一消息也引起了许多网民的恐慌，担心这么多变异毒株会不会对全世界的疫情带来毁灭性的影响。查询了《印度快报》等印度媒体的报道后发现，这其实是翻译错了……翻译成中文后其实是在说：根据印度国家疾病控制中心的数据，印度对1.3万个样本进行了基因测序，发现其中有3532个携带主要的新冠病毒变种毒株，这其中有1527个携带的是被印度发现的B.1.617这种双重突变毒株。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1224393.d.html</link>
-            <guid>2161555</guid>
-            <pubDate>Sat, 08 May 2021 05:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰卫生部长：解除禁令对公众健康的风险很低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1224171.d.html</link>
-            <guid>2161554</guid>
-            <pubDate>Sat, 08 May 2021 05:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新西兰方面将于周日午夜解除对新南威尔士州的旅游暂停令。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmxzfmm1224039.d.html</link>
-            <guid>2161553</guid>
-            <pubDate>Sat, 08 May 2021 05:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快手接连成立快星空等三家科技公司，经营范围均涉及电影发行】据天眼查APP显示，5月6日，北京快悠然科技有限公司、北京快星空科技有限公司、北京快晴空科技有限公司接连成立，法定代表人同为银鑫，注册资本均为5000万人民币。经营范围均涉及演出经纪；电影发行；互联网信息服务；广播电视节目制作；从事互联网文化活动等。股东信息显示，三家公司均由北京快手科技有限公司全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4084348.d.html</link>
-            <guid>2161551</guid>
-            <pubDate>Sat, 08 May 2021 05:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本制药工业协会反对暂时放弃新冠疫苗专利】日本制药工业协会7日发表声明，反对美国政府支持暂时放弃新冠疫苗知识产权保护的行为。该协会会长中山让治表示，疫苗生产存在很多技术性课题，“并不是放弃知识产权就能扩大生产和供应”。“即使放弃知识产权，也不能保证生产出与现在疫苗同等品质的产品”，还可能会造成品质或效果不尽如人意的疫苗流通。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-08/detail-ikmyaawc4082661.d.html</link>
-            <guid>2161550</guid>
-            <pubDate>Sat, 08 May 2021 05:17:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
