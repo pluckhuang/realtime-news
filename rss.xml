@@ -4,11 +4,220 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 May 2021 19:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 May 2021 22:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储6月维持利率在0%-0.25%区间的概率为93%，加息25个基点至0.25%-0.50%区间的概率为7%；9月维持利率在0%-0.25%区间的概率为93%，加息25个基点的概率为7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4344917.d.html</link>
+            <guid>2163905</guid>
+            <pubDate>Sun, 09 May 2021 22:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约取暖油在Colonial Pipeline管道公司输油管道关闭后上涨了3.3％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4344678.d.html</link>
+            <guid>2163904</guid>
+            <pubDate>Sun, 09 May 2021 22:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI原油期货高开，短线冲高后回落，波幅超0.5美元，现报65.22美元/桶，涨约0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4344657.d.html</link>
+            <guid>2163903</guid>
+            <pubDate>Sun, 09 May 2021 22:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国汽油期货高开4.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1483283.d.html</link>
+            <guid>2163902</guid>
+            <pubDate>Sun, 09 May 2021 22:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金今日开盘小幅高开，最新报1831.82美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1483224.d.html</link>
+            <guid>2163901</guid>
+            <pubDate>Sun, 09 May 2021 22:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【正商实业以约4.43亿元收购河南省两地块】正商实业以2.39亿元收购河南省商丘市地块，面积约4.56万平方米，指定为住宅用途，使用年限70年。此外，该公司以2.04亿元收购河南省漯河市地块，面积约4.76万平方米，指定为住宅用途使用年限为70年及商业用途使用年限为40年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1483070.d.html</link>
+            <guid>2163900</guid>
+            <pubDate>Sun, 09 May 2021 21:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上实附属组联合体斥逾91亿人民币取上海地块】上海实业控股公布，由包括旗下非全资附属公司上实发展组成的投标联合体，投得上海虹口区北外滩地块，面积3.46万平方米，代价91.06亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1483013.d.html</link>
+            <guid>2163899</guid>
+            <pubDate>Sun, 09 May 2021 21:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊病例累计超过3270万例】美国约翰斯·霍普金斯大学美国东部时间5月9日16时20分（北京时间5月10日4时20分）统计的数据显示，美国新冠肺炎确诊病例已超过3270万例，达到32703500例。死亡病例超过58万例，达到581696例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1482807.d.html</link>
+            <guid>2163898</guid>
+            <pubDate>Sun, 09 May 2021 21:53:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：59%的日本人认为应该取消东京奥运会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1482762.d.html</link>
+            <guid>2163897</guid>
+            <pubDate>Sun, 09 May 2021 21:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福寿园收购安徽龙门文化陵园】福寿园公布，公司全资附属公司上海福寿园实业集团有限公司与安徽龙门文化陵园有限公司(卖方)及目标公司订立投资协议，据以承担债务的形式收购安徽龙门文化陵园，总投资额为1.45亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1482255.d.html</link>
+            <guid>2163896</guid>
+            <pubDate>Sun, 09 May 2021 21:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【万科A：前4个月合同销售金额2292.4亿元】万科A公告，2021年4月公司实现合同销售面积308.6万平方米，合同销售金额497.7亿元;2021年1~4月公司累计实现合同销售面积1413.0万平方米，合同销售金额2292.4亿元]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1482127.d.html</link>
+            <guid>2163895</guid>
+            <pubDate>Sun, 09 May 2021 21:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间5月9日凌晨，美国科罗拉多州发生一起枪击事件，共导致7人死亡，其中包括自杀的枪手。嫌疑人驾车前往该地举行的一场生日聚会，举枪射击在场6人，致5人当场死亡，1人受重伤后在医院不治身亡，嫌疑人随后自杀身亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1481620.d.html</link>
+            <guid>2163894</guid>
+            <pubDate>Sun, 09 May 2021 21:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colonial Pipeline管道公司：主要的1-4号线路仍处于离线状态，较小的外侧管道已经开始运转。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1481537.d.html</link>
+            <guid>2163893</guid>
+            <pubDate>Sun, 09 May 2021 21:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colonial Pipeline管道公司：正在制定重启输油管道的计划，主要的管道仍处于离线状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4342743.d.html</link>
+            <guid>2163892</guid>
+            <pubDate>Sun, 09 May 2021 21:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前三月服务出口增长22.8%】日前，商务部服贸司负责人介绍了2021年1—3月我国服务贸易总体情况。今年一季度，我国服务贸易进出口总值11581.9亿元，同比增长0.5%；其中服务出口5457.5亿元，增长22.8%；进口6124.4亿元，下降13.5%。服务出口增幅大于进口36.3个百分点，带动服务贸易逆差下降74.7%至666.9亿元，同比减少1970.5亿元。与2019年同期相比，服务进出口下降10.4%，其中出口增长17.7%；进口下降26.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4342293.d.html</link>
+            <guid>2163891</guid>
+            <pubDate>Sun, 09 May 2021 21:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔政府声明：卡塔尔决定自5月28日起进入四步“解封”的第四阶段，将继续逐步取消抗疫限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1480798.d.html</link>
+            <guid>2163890</guid>
+            <pubDate>Sun, 09 May 2021 21:07:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2020年A股分红总额突破1.5万亿 再创历史新高】2020年度A股总分红预案首次突破1.5万亿元，再创历史新高，相比2019年度的1.36万亿元增长近12%，已连续4年分红总额突破万亿大关。两市共有3000多家公司发布现金分红方案，占A股上市公司数量约70%，有24家上市公司分红额越过100亿大关]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1480631.d.html</link>
+            <guid>2163889</guid>
+            <pubDate>Sun, 09 May 2021 21:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国第三波新冠疫情已致超500名医务人员确诊新冠肺炎】当地时间5月9日，泰国政府新冠肺炎疫情管理中心发布通告，在4月初暴发的第三波疫情已致分布在全国57个府的512名医务人员确诊新冠肺炎。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1480605.d.html</link>
+            <guid>2163888</guid>
+            <pubDate>Sun, 09 May 2021 21:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国安理会将于周一讨论东耶路撒冷的紧张局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1480249.d.html</link>
+            <guid>2163887</guid>
+            <pubDate>Sun, 09 May 2021 20:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：东太平洋飓风季节出现首个热带风暴，由热带低气压演化形成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1479980.d.html</link>
+            <guid>2163886</guid>
+            <pubDate>Sun, 09 May 2021 20:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度海南离岛免税购物金额136亿元】从正在海南海口举办的首届中国国际消费品博览会上获悉，今年一季度，海南离岛免税购物金额136亿元，购物179万人次，免税购物件数1775万件，3项数据分别较去年同期增长356%、177%和328%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1479464.d.html</link>
+            <guid>2163862</guid>
+            <pubDate>Sun, 09 May 2021 20:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【SpaceX接受狗狗币作为明年发射“DOGE-1登月任务”的支付方式】SpaceX将在明年第一季度发射“DOGE-1登月任务”，马斯克的商业火箭公司将接受由米姆启发的加密货币狗狗币作为支付方式。Geometric能源公司周日宣布了狗狗币资助的任务，但声明没有披露任务的财务价值。“我们很兴奋能将DOGE-1发射到月球！”Geometric能源公司发布的声明引用了SpaceX商业销售副总裁Ochinero的话说。“这次任务将展示加密货币在地球轨道之外的应用，并为星际商业奠定基础。”]]></title>
+            <guid>2163846</guid>
+            <pubDate>Sun, 09 May 2021 20:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国2020年新生儿数量360万人 为41年来最少】美国疾病控制和预防中心近日发布的一份报告显示，2020年全美有360万人出生，低于2019年的374万人，同比下降4%，这是美国出生人数连续第六年下降，也是自1979年以来新生儿数量最少的一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4340281.d.html</link>
+            <guid>2163828</guid>
+            <pubDate>Sun, 09 May 2021 20:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大宗商品涨价向终端传导 输入型通胀总体可控】大宗商品涨价效应正在向更广的范围传导。联合国粮农组织5月6日发布报告指出，联合国粮农组织食品价格指数4月份平均上涨120.9点，环比上涨1.7%，同比上涨30.8%。这是该指数连续第11个月上涨。除此之外，国内外日化头部企业普遍上调产品价格，电视产品也迎来新一轮涨价。不过，专家指出，虽然一段时间以来国际大宗商品价格大幅上涨，来自外部的输入型通胀压力有所加大，但考虑到我国工业门类比较齐全，下游产品竞争比较充分，影响价格大幅上涨的因素会受到一定抑制，全年通胀水平总体处在可控状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4340279.d.html</link>
+            <guid>2163827</guid>
+            <pubDate>Sun, 09 May 2021 20:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰财长罗伯逊：同时也给了我们更大的债务上限空间，以便在复苏稳固之后再降低债务水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4340245.d.html</link>
+            <guid>2163820</guid>
+            <pubDate>Sun, 09 May 2021 20:20:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰财长罗伯逊：我们的资本运营和资本冲减有更多空间，可支撑经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4340191.d.html</link>
+            <guid>2163815</guid>
+            <pubDate>Sun, 09 May 2021 20:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰财长罗伯逊：经济复苏给了我们更多选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4340182.d.html</link>
+            <guid>2163812</guid>
+            <pubDate>Sun, 09 May 2021 20:18:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奥地利卫生部当地时间5月9日公布的数据，奥地利累计新冠肺炎确诊病例达627076例，较前一日新增1009例；累计死亡10121例，较前一日新增11例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4339827.d.html</link>
+            <guid>2163773</guid>
+            <pubDate>Sun, 09 May 2021 20:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新冠肺炎确诊病例累计达1596595例，新增11例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4339477.d.html</link>
+            <guid>2163726</guid>
+            <pubDate>Sun, 09 May 2021 19:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超过1.572亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月9日16时43分（北京时间5月9日22时43分），全球累计新冠肺炎确诊病例157289118例，累计死亡病例3277272例。5月9日，全球新冠肺炎确诊病例新增786943例，死亡病例新增12994例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1477784.d.html</link>
+            <guid>2163698</guid>
+            <pubDate>Sun, 09 May 2021 19:50:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥林匹克体育场举办田径测试赛 世界田联主席坚称奥运会将如期举行】东京奥运会田径测试赛9日在奥林匹克体育场举行，世界田联主席塞巴斯蒂安·科到现场观战，并再次表达了奥运会如期举办的决心。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4338714.d.html</link>
+            <guid>2163694</guid>
+            <pubDate>Sun, 09 May 2021 19:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列方面表示，火箭弹袭击未造成人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1477131.d.html</link>
+            <guid>2163693</guid>
+            <pubDate>Sun, 09 May 2021 19:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列方面表示，拦截了从加沙方向发射的2枚火箭弹中的1枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4338497.d.html</link>
+            <guid>2163691</guid>
+            <pubDate>Sun, 09 May 2021 19:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将任命西娅·李为交通部国际事务部门主管。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4337933.d.html</link>
+            <guid>2163639</guid>
+            <pubDate>Sun, 09 May 2021 19:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国新增新冠肺炎确诊病例1770例 累计确诊4434860例】当地时间5月9日，英国卫生和社会保障部公布最新数据显示，过去24小时英国新增新冠肺炎确诊病例1770例，累计确诊4434860例；新增死亡病例2例，目前累计死亡127605例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmxzfmm1476104.d.html</link>
+            <guid>2163586</guid>
+            <pubDate>Sun, 09 May 2021 19:11:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：福特召回了近61.7万辆探索者越野车。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-10/detail-ikmyaawc4337038.d.html</link>
@@ -389,213 +598,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1456982.d.html</link>
             <guid>2163068</guid>
             <pubDate>Sun, 09 May 2021 14:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福奇称美国“毫无疑问”少计了新冠死亡人数记者】美国公布的新冠死亡人数目前超过58.1万人，但该国总统乔·拜登的首席医学顾问说“毫无疑问”这一数字少算了。尽管如此，美国国立过敏和传染病研究所所长安东尼·福奇表示，华盛顿大学5月6日发表的分析中所估逾90万实际死亡人数“比我会认为的要多一些”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4318055.d.html</link>
-            <guid>2163051</guid>
-            <pubDate>Sun, 09 May 2021 14:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【参展商收获满满签订多张“超级订单” 折射出中国市场巨大消费潜力】今天（5月9日）是消博会举办的第三天，很多参展商收获了满满订单。一张张“超级订单”折射出中国市场巨大的消费潜力，这为疫情背景下的经济复苏注入新动力。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4317695.d.html</link>
-            <guid>2163040</guid>
-            <pubDate>Sun, 09 May 2021 14:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫顾问新冠肺炎疫情响应协调员Jeff Zients：美国疫情正迈向转折点，疫苗接种需要进一步铺开。]]></title>
-            <guid>2163009</guid>
-            <pubDate>Sun, 09 May 2021 14:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【本周全国钢材价格大幅上行 唐山钢坯涨至5500】本周全国钢材价格大幅上行。五一节日期间，市场需求表现好于预期，加之宏观消息影响，市场情绪十分高涨，价格大幅上行。今日，唐山地区主流钢厂（XD）普方坯出厂报价累计上调150，报5500，现金含税。目前钢坯市场整体成交一般，下游成品材价格宽幅上调。 ( 我的钢铁网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4317268.d.html</link>
-            <guid>2163008</guid>
-            <pubDate>Sun, 09 May 2021 14:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【集装箱海运价格居高不下 外贸企业大量产品积压】根据宁波航运交易所7号发布的“海上丝路指数”，宁波出口集装箱运价指数报收于2597.4点，再创历史新高。业内人士分析，今年9月以前，集装箱海运价格很难下降。运价居高不下，主要原因是我国疫情形势平稳，大量海外订单扎堆涌入，主干航线出现阶段性运力不足。在浙江慈溪一家外贸企业，欧美订单已经排到8月份，因为缺舱、缺箱，每天发货不到10个集装箱，导致大量产品积压。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4316823.d.html</link>
-            <guid>2162970</guid>
-            <pubDate>Sun, 09 May 2021 14:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国驻印大使：中国红十字会向印捐赠制氧机等物资 并提供100万美元援助】中国驻印度大使孙卫东表示，中国红十字会捐赠的首批100台制氧机、40台呼吸机以及其他防疫物资，今天已由中国货机从成都运抵印度。孙卫东还表示，中国红十字会决定给印度红十字会提供100万美元的现金援助，帮助印度抗疫。]]></title>
-            <guid>2162963</guid>
-            <pubDate>Sun, 09 May 2021 14:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“中国碳中和50人论坛”在京成立】5月8日，由清华大学全球共同发展研究院、华夏新供给经济学研究院、生态环境部环境规划院和北京华软科技发展基金会共同发起的“中国碳中和50人论坛”在京成立。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1454133.d.html</link>
-            <guid>2162962</guid>
-            <pubDate>Sun, 09 May 2021 13:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  新雷能(300593)5月9日晚间公告，持公司股份226.59万股（占本公司总股本比例1.3686%）的董事、高级管理人员杜永生计划以集中竞价、大宗交易方式减持公司股份不超过40万股(占公司总股本比例0.2416%)。]]></title>
-            <guid>2162911</guid>
-            <pubDate>Sun, 09 May 2021 13:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本疫情升温 北海道单日506例再创历史新高】日本首都东京新增1032例新冠确诊病例，连续两天单日新增病例数超过千例，引发居民担忧。同时，日本疫情正从首都向各地蔓延，北海道疫情形势严峻，9日新增506例新冠确诊病例再创历史新高。5月8日，日本全国新增确诊病例人数自1月中旬以来首次超过7000例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1451673.d.html</link>
-            <guid>2162850</guid>
-            <pubDate>Sun, 09 May 2021 13:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据尼泊尔卫生与人口部当地时间9日下午公布的统计数据，过去24小时，尼泊尔新增新冠肺炎确诊病例8850例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4312521.d.html</link>
-            <guid>2162835</guid>
-            <pubDate>Sun, 09 May 2021 13:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫顾问新冠肺炎疫情响应协调员Jeff Zients：不要过于着眼于单月的经济数据表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4311189.d.html</link>
-            <guid>2162771</guid>
-            <pubDate>Sun, 09 May 2021 13:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫顾问新冠肺炎疫情响应协调员Jeff Zients：美国疫情正迈向转折点，疫苗接种需要进一步铺开。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4311055.d.html</link>
-            <guid>2162765</guid>
-            <pubDate>Sun, 09 May 2021 13:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻印大使：中国红十字会向印捐赠制氧机等物资 并提供100万美元援助】中国驻印度大使孙卫东刚刚表示，中国红十字会捐赠的首批100台制氧机、40台呼吸机以及其他防疫物资，今天已由中国货机从成都运抵印度。孙卫东还表示，中国红十字会决定给印度红十字会提供100万美元的现金援助，帮助印度抗疫。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1449438.d.html</link>
-            <guid>2162725</guid>
-            <pubDate>Sun, 09 May 2021 13:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：毫无疑问，美国新冠肺炎死亡病例数字被“少计了”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1448879.d.html</link>
-            <guid>2162693</guid>
-            <pubDate>Sun, 09 May 2021 13:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【数字人民币公测升级 网商银行（支付宝）正式入列】数字人民币子钱包再度扩容，国内首批互联网银行之一的网商银行成为尝鲜者，成为第七家参与公测试点的商业银行。数字人民币App是我国试点数字人民币的应用平台，六大国有银行已经通过设立子钱包的模式参与其中。至此，参与数字人民币子钱包公开测试的商业银行已经达到七家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1448864.d.html</link>
-            <guid>2162690</guid>
-            <pubDate>Sun, 09 May 2021 13:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：美国在今年秋季至冬季之间不太可能出现确诊病例激增的现象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4309696.d.html</link>
-            <guid>2162673</guid>
-            <pubDate>Sun, 09 May 2021 13:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【首批恒生科技ETF快速进入发行期】首批恒生科技ETF快速进入发行期。下周就有华夏、易方达、大成、博时、华安旗下恒生科技ETF，以及华泰柏瑞南方东英恒生科技ETF进入发行期，发行开始日期主要是5月11日和12日，华夏和易方达旗下恒生科技ETF甚至采取一日发行“闪电战”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4309097.d.html</link>
-            <guid>2162666</guid>
-            <pubDate>Sun, 09 May 2021 13:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为鸿蒙有望下月规模化推送 相关合作伙伴有望受益】华为终端有限公司正式开通了“华为HarmonyOS”的官方微博。目前多方消息显示，最快在6月份安卓与iOS之外的第三大手机操作系统鸿蒙有望正式开始规模化推送。在软件合作伙伴方面，华为选择了中国应用市场下载使用排名前200的厂家，现在已确定初步展开合作的约有70%，预计随着鸿蒙系统的规划化推送，合作将进一步扩大，相关合作伙伴将迎来机遇。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1446629.d.html</link>
-            <guid>2162646</guid>
-            <pubDate>Sun, 09 May 2021 12:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【十大券商策略：震荡之下保持耐心 适度把握顺周期行情】因五一小长假，本周仅有两个交易日。周内A股市场出现了小幅下跌，且行业间涨跌分化。前期成长类“核心资产”领跌、而周期与价值风格占优。引发了机构对于顺周期布局的讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1444307.d.html</link>
-            <guid>2162617</guid>
-            <pubDate>Sun, 09 May 2021 12:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币跌破57000美元/枚，跌幅扩大至3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4305255.d.html</link>
-            <guid>2162616</guid>
-            <pubDate>Sun, 09 May 2021 12:22:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据叙利亚当地媒体：叙利亚巴尼亚斯附近海域有一艘空载油轮在维护期间发生爆炸。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1444122.d.html</link>
-            <guid>2162611</guid>
-            <pubDate>Sun, 09 May 2021 12:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[狗狗币持续下行，跌至0.43美元/枚下方，近24小时内跌超36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4303067.d.html</link>
-            <guid>2162596</guid>
-            <pubDate>Sun, 09 May 2021 12:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5月9日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、【在习近平新时代中国特色社会主义思想指引下】扬州三湾：古运河畔换新颜；2、【新征程开局“十四五”】建设重大科技创新平台 打造创新高地；3、2020年度党委（党组）书记抓基层党建工作述职评议考核扎实开展；4、奋斗百年路 启航新征程·数风流人物；5、各地扩大租赁住房供给；6、全国共有130个城市创建成为节水型城市；7、深圳构建全过程创新生态链；8、国家卫生健康委通报最新疫情；9、全球新冠确诊病例超1亿5649万例；10、俄罗斯纪念卫国战争胜利76周年；11、阿富汗喀布尔发生爆炸 超50人死亡；12、伊拉克一美国驻军基地遇袭 机库受损。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1441237.d.html</link>
-            <guid>2162593</guid>
-            <pubDate>Sun, 09 May 2021 11:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中钢协骆铁军：要在市场机制失灵的情况下发挥政府引导作用 有效遏制铁矿石价格不断上涨势头】中国钢铁工业协会副会长骆铁军认为，铁矿石价格居高不下的主要原因，在于供给端高度集中，主导权掌握在卖方手中。此外，市场预期和炒作成分很大。他呼吁，要在市场机制失灵的情况下，发挥政府引导作用，有效遏制铁矿石价格不断上涨势头。中钢协报告分析称，从需求端看，由于前期钢材价格上涨速度较快、幅度较大，造船、家电等下游用钢行业难以承受钢价持续高位，后期钢价难以持续大幅上涨。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1440533.d.html</link>
-            <guid>2162592</guid>
-            <pubDate>Sun, 09 May 2021 11:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将不与阿斯利康续签新冠疫苗采购合同】当地时间5月9日，欧盟执行委员布勒东（Thierry Breton）对媒体表示，欧盟未与阿斯利康续签今年6月以后的新冠疫苗采购合同。此前，欧盟已正式对阿斯利康公司提起诉讼，因该公司未履行新冠疫苗供应合约，也没有确保疫苗及时交付的可靠计划。因此，欧盟已决定不与该公司就后续采购新冠疫苗事宜续约。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4301246.d.html</link>
-            <guid>2162590</guid>
-            <pubDate>Sun, 09 May 2021 11:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赢时胜：参与金融机构的数字货币DCEP相关项目落地创新实践】赢时胜(300377)在日前的业绩说明会上介绍，公司目前正在与各大金融机构合作，实现金融科技赋能，并参与各大银行等金融机构的数字货币DCEP相关项目落地创新实践，公司在此领域具有多年技术积累，无论是广度和深度发展态势良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4300711.d.html</link>
-            <guid>2162584</guid>
-            <pubDate>Sun, 09 May 2021 11:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国开放式基金规模跃居亚太榜首】日前美国投资公司协会ICI 公布的最新一期数据显示，截至去年底，我国公募开放式公募基金规模达2.81万亿美元，同比大增近4成，并首次跃居亚太地区榜首。尽管在亚太地区排名靠前，我国公募基金总规模仅占全球受监管的开放式基金总规模的4.5%，不及美国的十分之一。另外我国长期限基金规模占GDP比例仅为75%左右，仍有长足发展空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4300111.d.html</link>
-            <guid>2162580</guid>
-            <pubDate>Sun, 09 May 2021 11:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上市券商一季报业绩持续分化，自营业务成分水岭】上市券商一季报悉数披露，龙头、中小券商前三个月营收、净利等财务指标、主营业务经营情况都浮出水面。整体来看，今年一季度，多家券商业绩保持稳健。有可比数据的40家上市券商一季度实现营业收入1368亿元，同比上涨28%，归母净利润422亿元，同比上涨27%。表现佼佼者有：中信证券、海通证券、国泰君安等几家龙头券商在营收、归母净利润上均处于领先地位；中原证券、东方财富上述两项指标的同比增速排名居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4298894.d.html</link>
-            <guid>2162558</guid>
-            <pubDate>Sun, 09 May 2021 11:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰新增新冠肺炎确诊病例3852例，累计确诊2833052例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4298230.d.html</link>
-            <guid>2162552</guid>
-            <pubDate>Sun, 09 May 2021 11:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及卫生部部长：将在5月18日接收到首批新冠肺炎疫苗原材料，预计将在6月末启动生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4296746.d.html</link>
-            <guid>2162540</guid>
-            <pubDate>Sun, 09 May 2021 11:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【保利地产：1-4月签约金额同比增长61.57%】保利地产公告，4月，公司实现签约面积330.91万平方米，同比增加35.62%；实现签约金额512.02亿元，同比增加36.22%。2021年1-4月，公司实现签约面积1049.16万平方米，同比增加42.89%；实现签约金额1754.84亿元，同比增加61.57%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435345.d.html</link>
-            <guid>2162538</guid>
-            <pubDate>Sun, 09 May 2021 10:58:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST山水：公司股票撤销其他风险警示】ST山水公告，公司涉及其他风险警示的情形已消除，公司也不触及其他退市风险警示的情形。公司认为，目前业务规模得到扩大，盈利能力增强，已具备可持续发展能力，符合申请撤销其他风险警示的条件。经公司董事会同意，公司已于4月27日向上海证券交易所提出了撤销对公司股票实施其他风险警示的申请。5月7日，上海证券交易所同意撤销对公司股票实施其他风险警示的申请。5月10日公司股票停牌1天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435114.d.html</link>
-            <guid>2162537</guid>
-            <pubDate>Sun, 09 May 2021 10:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日辰股份：拟与呷哺呷哺在天津市共同投资成立公司】日辰股份公告，与呷哺呷哺拟在天津市共同投资成立有限责任公司，生产经营调味料、火锅底料及即食和冷冻调理品等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1435082.d.html</link>
-            <guid>2162536</guid>
-            <pubDate>Sun, 09 May 2021 10:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ST国重装：公司股票撤销其他风险警示 明日停牌1天】ST国重装公告，2020年度，公司实现营业收入88.24亿元，实现归属于上市公司股东的净利润为3.37亿元。公司主营业务为国内外重大技术装备制造及重大工程建设，主营业务突出，有明确的战略规划和经营计划，公司股票已符合申请撤销其他风险警示的条件。经公司申请，上海证券交易所于2021年5月7日同意公司股票撤销其他风险警示。公司股票将于2021年5月10日停牌1天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmxzfmm1434370.d.html</link>
-            <guid>2162533</guid>
-            <pubDate>Sun, 09 May 2021 10:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【复星医药：子公司拟与BioNTech设合资公司 实现mRNA新冠疫苗的本地化生产及商业化】复星医药公告，控股子公司复星医药产业拟与BioNTech投资设立合资公司，以实现mRNA新冠疫苗产品的本地化生产及商业化。根据约定，双方将分别认缴合资公司注册资本的50%，其中:复星医药产业拟以现金及/或有形或无形资产(包括厂房及生产设施等)作价出资合计不超过1亿美元、BioNTech拟以其相关生产技术和专有技术许可等无形资产作价出资合计不超过1亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-09/detail-ikmyaawc4295014.d.html</link>
-            <guid>2162532</guid>
-            <pubDate>Sun, 09 May 2021 10:44:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
