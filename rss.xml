@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Jul 2021 19:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jul 2021 22:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【泰国普吉岛开放10天 已出现3例外籍游客感染新冠病毒】10日，据泰国普吉府公共卫生部门透露，继此前发现1名入境的外国游客感染新冠病毒后，当天又有2名外籍游客感染新冠病毒。为了恢复旅游业，泰国政府选择普吉岛作为先行开放试点，于7月1日启动登岛免隔离的“普吉沙盒”计划，所有游客入境前必须完成两剂新冠疫苗的接种并接受新冠病毒检测，以及办理各种符合泰方防疫规定的入境手续。“普吉沙盒”计划自7月1日开启以来，已在入境的外国游客中发现3例新冠病毒感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6136014.d.html</link>
+            <guid>2235457</guid>
+            <pubDate>Sat, 10 Jul 2021 22:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【逐步淘汰燃油公务车 南非正计划采购电动汽车】据南非媒体当地时间7月10日报道，南非政府正在制定“绿色采购指南”，通过购买电动汽车而逐步淘汰目前的燃油公务车。南非交通部发言人阿扬达·潘恩（Ayanda Allie-Paine）表示，南非交通部和南非贸易和工业部正在制定南非“绿色采购指南”，未来电动汽车将替代政府燃油公务车，同时将通过电动汽车和零配件的南非制造，带动南非经济并提高就业机会。未来还将调整目前的电动汽车进口税制，从而推动电动汽车的普及。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6135126.d.html</link>
+            <guid>2235456</guid>
+            <pubDate>Sat, 10 Jul 2021 21:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京奥运会允许观众入内的赛场只剩三个】东京奥组委10日宣布，在福岛举行的棒球和垒球比赛以及在札幌举行的足球比赛都将禁止观众入内，这样允许观众观看的奥运会比赛只剩下场地自行车和足球两个项目，赛场只剩下三个。另外，东京奥组委表示，在札幌巨蛋体育场举行的奥运会足球比赛也将闭门举行。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4736372.d.html</link>
+            <guid>2235455</guid>
+            <pubDate>Sat, 10 Jul 2021 21:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新冠肺炎死亡病例升至234907例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4735282.d.html</link>
+            <guid>2235454</guid>
+            <pubDate>Sat, 10 Jul 2021 20:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥新增9581例新冠肺炎确诊病例，累计确诊2586721例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4734618.d.html</link>
+            <guid>2235453</guid>
+            <pubDate>Sat, 10 Jul 2021 20:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊新增新冠肺炎确诊病例2327例，累计确诊437345例；新增死亡病例2例，累计死亡12787例。]]></title>
+            <guid>2235452</guid>
+            <pubDate>Sat, 10 Jul 2021 20:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：俄黑海舰队对7月10日进入黑海的希腊海军"达尼奥洛斯"号导弹艇的动向保持监控。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6130254.d.html</link>
+            <guid>2235451</guid>
+            <pubDate>Sat, 10 Jul 2021 19:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增新冠肺炎确诊病例5530例，累计确诊5476294例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqcfnca6129145.d.html</link>
+            <guid>2235450</guid>
+            <pubDate>Sat, 10 Jul 2021 19:20:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[受最新一波新冠疫情影响，7月以来，印度尼西亚和阿富汗两国国内新冠肺炎确诊病例数激增。阿联酋当局宣布从当地时间7月11日起，暂停所有来自印度尼西亚和阿富汗的航班（前往阿联酋和开往这些国家的过境航班除外）。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-11/detail-ikqciyzk4730498.d.html</link>
@@ -557,54 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6081726.d.html</link>
             <guid>2235346</guid>
             <pubDate>Sat, 10 Jul 2021 09:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【香港9日7万人接种新冠疫苗 再创单日接种人数新高】香港特区政府卫生署卫生防护中心10日公布，截至当日零时，香港新增1例输入性新冠肺炎确诊病例。香港累计报告新冠肺炎确诊病例11950例。香港9日有7万人接种新冠疫苗，再创单日接种人数新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4683597.d.html</link>
-            <guid>2235345</guid>
-            <pubDate>Sat, 10 Jul 2021 09:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：欧盟方面已准备好交付更多的疫苗，包括针对变异新冠病毒的疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4683094.d.html</link>
-            <guid>2235344</guid>
-            <pubDate>Sat, 10 Jul 2021 09:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家计算机病毒应急处理中心监测发现18款违法移动应用】国家计算机病毒应急处理中心近期通过互联网监测，发现18款移动应用存在隐私不合规行为，违反网络安全法相关规定，涉嫌超范围采集个人隐私信息，将对它们采取通报整改等处理举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6079543.d.html</link>
-            <guid>2235343</guid>
-            <pubDate>Sat, 10 Jul 2021 09:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印尼新一波疫情导致氧气短缺 政府正向新加坡、中国等国寻求紧急供应】新一波新冠确诊病例让印尼处于氧气短缺的境地。印尼政府正在向新加坡、中国等国寻求紧急供应。由于德尔塔变种病毒的迅速蔓延，印尼负责应对新冠大流行的政府部长卢胡特还警告说，印尼可能将面临每日新增5万例的最坏情况，未来两周将非常关键。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6079039.d.html</link>
-            <guid>2235342</guid>
-            <pubDate>Sat, 10 Jul 2021 09:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡将于7月12日收紧对印尼的入境限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4680673.d.html</link>
-            <guid>2235341</guid>
-            <pubDate>Sat, 10 Jul 2021 09:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中康养健康产业投资有限公司揭牌】7月10日，中康养健康产业投资有限公司揭牌仪式暨首届中国养老产业投资与发展论坛在京举行。该公司是由中国诚通牵头发起，联合中国铁建、中国国药三家中央企业与大家保险共同打造“康养国家队”，专注于康养产业投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4679294.d.html</link>
-            <guid>2235340</guid>
-            <pubDate>Sat, 10 Jul 2021 08:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：截至本月可以给至少70％的成年人接种疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4677969.d.html</link>
-            <guid>2235338</guid>
-            <pubDate>Sat, 10 Jul 2021 08:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国地学研究中心GFZ：印尼塔劳群岛发生6.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6074085.d.html</link>
-            <guid>2235337</guid>
-            <pubDate>Sat, 10 Jul 2021 08:36:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
