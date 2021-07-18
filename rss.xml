@@ -4,11 +4,370 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Jul 2021 07:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 10:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【新一批复必泰疫苗运抵香港】香港特区政府18日发布消息称，最新一批约86万剂的复必泰疫苗已于18日运抵香港。本批疫苗由复星医药公司联合BioNTech生产，并在德国Baxter厂房封装。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7591913.d.html</link>
+            <guid>2244059</guid>
+            <pubDate>Sun, 18 Jul 2021 10:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普评级：科威特2021年的石油产量将下降】标普评级报告称，由于正在执行欧佩克+减产协议，预计科威特的石油行业将在2021年出现萎缩，这将令其经济增长承压。标普评级预计，2021年科威特的原油产量将下降至239万桶/天，去年为243万桶/天；预计2022年反弹至278万桶/天，2023年为310万桶/天，2024年为320万桶/天。预计2021年科威特实际经济增长率仅为0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7591469.d.html</link>
+            <guid>2244058</guid>
+            <pubDate>Sun, 18 Jul 2021 10:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【越南河内暂停与其他37个省市的公共交通 直至14日内无新增确诊病例】据越南交通部7月18日称，鉴于目前防治新冠肺炎疫情的工作需要，往返首都河内与其他37个省市的公交车、出租车、部分合同车、旅游车和固定路线车辆于18日当天停止运营。该部门表示，搭载专家、官员、机构、工业园区与出口加工区员工的合同车辆仍可运营。据越南交通部称，这一禁令将在当地连续14日之内无新冠肺炎病例出现或特别通知后方可失效。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6194699.d.html</link>
+            <guid>2244057</guid>
+            <pubDate>Sun, 18 Jul 2021 10:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克代表：欧佩克+会议已开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6193722.d.html</link>
+            <guid>2244056</guid>
+            <pubDate>Sun, 18 Jul 2021 10:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克代表：阿联酋预计减产基线将被修改为350万桶/日左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6193623.d.html</link>
+            <guid>2244055</guid>
+            <pubDate>Sun, 18 Jul 2021 10:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  迈普医学：将创业板IPO股票发行价设在每股15.14元人民币，将发行1651.5766万股新股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6193358.d.html</link>
+            <guid>2244054</guid>
+            <pubDate>Sun, 18 Jul 2021 10:07:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：除了阿联酋，其他欧佩克+成员也有望获得新的减产基准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7590022.d.html</link>
+            <guid>2244053</guid>
+            <pubDate>Sun, 18 Jul 2021 10:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡新增88例本地新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7589408.d.html</link>
+            <guid>2244052</guid>
+            <pubDate>Sun, 18 Jul 2021 10:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界首套时速600公里高速磁浮交通系统7月20日将在青岛亮相】记者从中车青岛四方机车车辆股份有限公司获悉，世界首套时速600公里高速磁浮交通系统将于7月20日在青岛与世人见面。这是当前速度最快的地面交通工具，是世界轨道交通领域的尖端科技成果。（半岛新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588941.d.html</link>
+            <guid>2244050</guid>
+            <pubDate>Sun, 18 Jul 2021 09:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南：严禁以“不限购”“不限贷”等文字误导购房者】7月16日，海南省住房和城乡建设厅、省委网信办、省市场监督管理局联合通报海南近期房地产领域网络虚假宣传广告专项治理情况，强调要继续重点打击网络上以“不限购”“不限贷”等文字曲解限购政策、误导购房人的虚假房地产宣传广告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588863.d.html</link>
+            <guid>2244049</guid>
+            <pubDate>Sun, 18 Jul 2021 09:57:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【兴证策略：重视性价比 短期不追高】兴证策略团队发文指出，市场整体震荡为主，关注7、8月份，国内外风险因素或形成扰动和共振，有惊无险，没有系统性风险。重视性价比，短期不追高，震荡再布局。1）三季度国内或进入化解存量风险攻坚期，化解三大风险，海外美国8月、9月Taper或收紧预期可能会进一步发酵，内外共振形成扰动。2）进入中报预告密集期之后，特别是8月进入业绩期，这个阶段对于科创行情而言，往往容易出现长远理想与短期业绩现实交汇时的震荡调整。3）配置层面：成长方向，短期优先推荐军工，并等待短期市场震荡而择机加仓科技、先进制造、医药等。价值方向，聚焦中报季业绩超预期和“双碳”政策利多，继续推荐化工、有色、玻璃等传统行业的个股机会，就是具有阿尔法属性的优质核心资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588770.d.html</link>
+            <guid>2244048</guid>
+            <pubDate>Sun, 18 Jul 2021 09:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋航空把暂停来往印度的航班的决定延长至7月25日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7588401.d.html</link>
+            <guid>2244047</guid>
+            <pubDate>Sun, 18 Jul 2021 09:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府发言人：英国首相约翰逊将会像平时一样进行自我隔离，不会参加检测计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7587322.d.html</link>
+            <guid>2244045</guid>
+            <pubDate>Sun, 18 Jul 2021 09:40:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣苏纳克：将像往常一样进行自我隔离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6190410.d.html</link>
+            <guid>2244044</guid>
+            <pubDate>Sun, 18 Jul 2021 09:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华数传媒业绩快报：上半年净利润同比增长17.9%】华数传媒发布2021年半年度业绩快报，实现营业总收入36.01亿元，同比增长12.57%；归属于上市公司股东的净利润4.3亿元，同比增长17.9%；基本每股收益0.24元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6189754.d.html</link>
+            <guid>2244043</guid>
+            <pubDate>Sun, 18 Jul 2021 09:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美团上线“美团打车”微信小程序】据Tech星球，美团于近日上线了“美团打车”微信小程序。该小程序在6月底进行了名字更改，由“美团打车营销号”改为为“美团打车”。美团打车小程序与美团打车App相差无异，提供智能勾选服务，以及23种车型。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7586098.d.html</link>
+            <guid>2244042</guid>
+            <pubDate>Sun, 18 Jul 2021 09:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【韩国单日新增新冠肺炎确诊病例连续12天超千例】韩国中央防疫对策本部今天（18日）通报说，韩国昨天新增新冠肺炎确诊病例1454例，单日新增已经连续12天保持在四位数。目前韩国累计确诊病例为177951例。另外，昨天韩国新增2例死亡病例，目前韩国累计死亡病例为2057例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6189355.d.html</link>
+            <guid>2244041</guid>
+            <pubDate>Sun, 18 Jul 2021 09:28:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国农业信贷银行前瞻欧洲央行利率决议：目前的焦点转向7月22日的政策会议，投资者试图进一步了解欧洲央行通胀目标的改变对其政策前景和工具的影响。我行的欧洲央行策略师表示，更新后的政策框架应使政策委员会更致力于其鸽派政策立场。这将意味着欧洲央行使用紧急抗疫购债计划（PEPP）和资产购买计划，以及比以前更长时间地保持低利率。如果欧洲央行行长拉加德在下周证实了这一观点，将再次印证市场的看法，即欧洲央行已变得更加鸽派，从而提高了欧元作为融资货币的吸引力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7584819.d.html</link>
+            <guid>2244040</guid>
+            <pubDate>Sun, 18 Jul 2021 09:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【杭萧钢构：对合特光电的投资尚处于起步阶段 公司目前没有开展BIPV业务】杭萧钢构发布董事会决议的补充公告，公司对合特光电的投资尚处于起步阶段，尚未涉及具体项目，公司目前没有开展BIPV业务。尚无法预计此次投资对公司经营业绩的影响。公司设立BIPV子公司仅为初步意向，尚未确定时间点及具体投资规模，后续事宜尚待进一步推进，未来投资情况存在不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7583540.d.html</link>
+            <guid>2244039</guid>
+            <pubDate>Sun, 18 Jul 2021 09:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国首相约翰逊将被限制在办公室工作，在不工作时进行自我隔离】唐宁街在18日的一份声明中表示，英国首相约翰逊和财政大臣里希·苏纳克被确定为阳性病例的接触者，他们将仅限于在办公室进行工作，只在不工作时进行自我隔离。“他们将参与每日接触检测（计划），以允许他们继续在唐宁街工作，”英国首相府称，“在此期间，他们将只处理必要的政府事务。”据英国政府官网介绍，这项计划旨在研究每日接触检测是否是识别新病例的有效方法，它将被用作自我隔离的替代方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7583349.d.html</link>
+            <guid>2244038</guid>
+            <pubDate>Sun, 18 Jul 2021 09:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【孚能科技：仅供应相关召回车辆所搭载的模组 BMS非公司产品及供应】孚能科技7月18日晚间公告，公司关注到，7月16日长城汽车向国家市场监督管理总局备案了召回欧拉IQ汽车的相关公告，决定自7月16日起，召回2018年7月7日至2019年10月30日期间生产的长城欧拉IQ电动汽车，共计16,216辆。对此，公司表示，公司仅供应召回车辆所搭载的模组，召回的原因主要系召回车辆搭载的BMS软件控制策略与动力电池存在匹配差异，长期连续频繁快充后导致电池性能下降，极端情况下可能引发动力电池热失控，存在一定的安全隐患。BMS非本公司产品及供应。本次召回，公司预计不会对公司本年度业绩产生影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7582782.d.html</link>
+            <guid>2244037</guid>
+            <pubDate>Sun, 18 Jul 2021 08:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【粤港澳大湾区轨道交通重点工程深圳地铁16号线开始铺轨】记者18日从中国铁建股份有限公司获悉，粤港澳大湾区轨道交通重点工程——深圳地铁16号线开始铺轨施工。中铁十五局集团深圳地铁负责人郭英超介绍，深圳地铁16号线正线全长29.2公里，预计2023年开通运营。线路采用自动化无人驾驶技术，车辆最高速度可达每小时80公里。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7582551.d.html</link>
+            <guid>2244036</guid>
+            <pubDate>Sun, 18 Jul 2021 08:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国软件：拟与冠捷科技、深桑达等发起设立股权投资基金中电聚信】中国软件公告，公司及子公司麒麟软件拟与关联方麒飞网安、冠捷科技、深桑达、瑞达集团等共同发起设立股权投资基金中电聚信股权投资合伙企业(有限合伙)(简称中电聚信，暂定名)，该有限合伙企业将进行基金备案，经营期限10年，将重点投资于软件和信息技术服务业。基金规模拟定为5.16亿元，其中公司认缴额度为5150万元，麒麟软件认缴额度为1.03亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6184495.d.html</link>
+            <guid>2244035</guid>
+            <pubDate>Sun, 18 Jul 2021 08:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“ FELICIA”的等级仍然是四级，预计在本周将逐渐减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7580708.d.html</link>
+            <guid>2244034</guid>
+            <pubDate>Sun, 18 Jul 2021 08:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏省消保委通报PC端应用软件网络弹窗调查情况，点名迅雷、暴风影音】据“江苏省消保委”微信公众号消息，7月18日上午，江苏省消保委召开新闻发布会，通报了PC端应用软件网络弹窗调查情况。体验调查结果显示，从官方渠道下载的30款应用软件中，有迅雷、小鸟壁纸、暴风影音、酷我音乐、爱剪辑、360安全浏览器、ACDsee、2345看图王、360安全卫士、QQ、腾讯视频等11款存在网络弹窗问题，占调查总量的37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7580477.d.html</link>
+            <guid>2244033</guid>
+            <pubDate>Sun, 18 Jul 2021 08:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  九芝堂：全资子公司友搏药业研发的创新药物YB209获得美国FDA临床试验批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7580007.d.html</link>
+            <guid>2244032</guid>
+            <pubDate>Sun, 18 Jul 2021 08:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  东宏股份：预中标引汉济渭二期工程PCCP管、球墨铸铁管、压力钢管管道及管件采购项目，中标金额8.2亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7579842.d.html</link>
+            <guid>2244031</guid>
+            <pubDate>Sun, 18 Jul 2021 08:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国天空新闻：英国的部长表示，新冠肺炎病例激增的情况可能要持续到8月底，到9月初才会达到顶峰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7579802.d.html</link>
+            <guid>2244030</guid>
+            <pubDate>Sun, 18 Jul 2021 08:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金卡智能：上半年净利预增15%—30%】金卡智能(300349)7月18日晚间发布业绩预告，预计2021年半年度归母净利1.39亿元~1.57亿元，同比增长15%—30%。受智慧城市、物联网相关政策的推动，叠加安全用气理念的深入，NB-IoT物联网燃气终端及系统的市场渗透率显著提升，公司紧紧抓住物联网升级的市场机遇，积极发挥物联网综合解决方案优势，促使民用燃气场景业务板块实现良好增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6183253.d.html</link>
+            <guid>2244029</guid>
+            <pubDate>Sun, 18 Jul 2021 08:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  天际股份：子公司新泰材料与深圳比亚迪就长期供应六氟磷酸锂事宜签订了《长期合作协议》，2021年7月至2022年12月供应六氟磷酸锂不少于3500吨，2023年供应3600~7800吨。]]></title>
+            <guid>2244028</guid>
+            <pubDate>Sun, 18 Jul 2021 08:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯新增25018例新冠肺炎确诊病例，新增764例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7579553.d.html</link>
+            <guid>2244027</guid>
+            <pubDate>Sun, 18 Jul 2021 08:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  雪迪龙：牵头设立北京中关村大气污染防治协同创新发展有限公司，作为中关村大气污染防治协同创新中心的运营载体，通过建设运营创新中心开展技术研究、开发应用、产业转化等工作，以促进大气污染防治产业健康发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7579351.d.html</link>
+            <guid>2244026</guid>
+            <pubDate>Sun, 18 Jul 2021 08:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  合纵科技：大股东刘泽刚、韦强拟向徐海飞合计转上2.67%股份，以偿还在江海证券部分质押债务、降低股票质押风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6182457.d.html</link>
+            <guid>2244025</guid>
+            <pubDate>Sun, 18 Jul 2021 08:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康泰生物：子公司与与嘉晨西海签署《mRNA人用传染病疫苗项目战略合作协议》，双方已完成mRNA人用狂犬病疫苗部分项目有效性验证，验证结果表明嘉晨西海mRNA平台技术具备人用传染病疫苗开发基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7578965.d.html</link>
+            <guid>2244024</guid>
+            <pubDate>Sun, 18 Jul 2021 08:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  星网宇达：持股20.74%的董事李国盛拟减持不超过3.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6182321.d.html</link>
+            <guid>2244023</guid>
+            <pubDate>Sun, 18 Jul 2021 08:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【聚石化学：向工商银行申请不超7亿元融资及综合授信额度】聚石化学公告，公司向中国工商银行股份有限公司清远经济开发区支行(“工商银行”)申请不超过等值人民币7亿元的融资及综合授信额度。此次申请银行融资及授信额度事项无需提交股东大会审议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6182028.d.html</link>
+            <guid>2244022</guid>
+            <pubDate>Sun, 18 Jul 2021 08:23:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【*ST银亿：重整投资人仅累计支付15亿元 构成严重违约】*ST银亿公告，截至公告日，公司重整投资人梓禾瑾芯仅累计支付人民币15亿元（含履约保证金人民币1.53亿元），剩余投资款、利息及违约金仍未支付，已构成严重违约。在梓禾瑾芯成为银亿股份重整投资人后，每次投资款的支付都存在违约或严重违约。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7578426.d.html</link>
+            <guid>2244021</guid>
+            <pubDate>Sun, 18 Jul 2021 08:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【ST摩登：公司不涉及与酒企业“借壳”、“重组”的洽谈或谈判等行为】ST摩登发布股价异动公告，近日，公司关注到存在关于公司“酒企借壳”的相关传闻。经核实，上述传闻并不属实，公司并不涉及与酒企业的“借壳”、“重组”的洽谈或谈判等行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7577622.d.html</link>
+            <guid>2244020</guid>
+            <pubDate>Sun, 18 Jul 2021 08:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港天文台：预料位于南海北部的低压区会逐渐靠近广东西部沿岸，并稍为增强，但仍与香港保持一段距离，预计本港普遍风势在短期内不会明显增强。天文台会视乎该低压区的移动及发展，在今晚至明早考虑发出一号戒备信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7577440.d.html</link>
+            <guid>2244019</guid>
+            <pubDate>Sun, 18 Jul 2021 08:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[*ST赫美：收到深圳市国有免税商品（集团）有限公司《投资意向函》，集团下属子公司作为重整投资人参与赫美集团预重整及重整程序，进行战略型参股投资，集团现有免税牌照业务不参与此次重整。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6180555.d.html</link>
+            <guid>2244018</guid>
+            <pubDate>Sun, 18 Jul 2021 08:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴勒斯坦人与以色列警察在耶路撒冷老城发生冲突】当地时间7月18日清晨，为了阻止以色列犹太人前往耶路撒冷老城圣殿山进行斋戒祈祷，一些巴勒斯坦青年在前往耶路撒冷老城的路上设置了障碍物。在以色列警察清理这些路障时，巴勒斯坦青年向以色列警察投掷石块等物品，以色列警察则以海绵子弹驱散了巴勒斯坦民众。据巴勒斯坦红新月会报告，一些巴勒斯坦民众在与以色列警察的冲突中受伤，大多数伤者在现场接受了治疗。到目前为止，没有人被拘捕。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7577011.d.html</link>
+            <guid>2244017</guid>
+            <pubDate>Sun, 18 Jul 2021 08:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰胜风能：筹划控制权变更事项 股票停牌】泰胜风能(300129)18日晚公告，柳志成、黄京明、张锦楠、张福林正在筹划股份转让事宜，拟联合其他股东向广州凯得投资控股有限公司转让公司5.011%的股份，同时筹划公司向广州凯得投资控股有限公司非公开发行股份事宜。本次交易如顺利完成，将涉及公司控制权变更。本次股份转让的受让方和公司向特定对象发行股票的认购方均为广州凯得投资控股，其实控人为广州经济技术开发区管理委员会。公司7月19日起停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7576647.d.html</link>
+            <guid>2244016</guid>
+            <pubDate>Sun, 18 Jul 2021 08:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全球最大偏氟乙烯聚合物生产基地在湖北潜江开建 年产2.5万吨】据长江云APP消息，7月18日，潜江市孚诺林年产2.5万吨偏氟乙烯聚合物生产线及配套项目开工，建成后将解决半数国产锂电池隔膜核心原材料需要进口、长期面料供应紧张的尴尬。偏氟乙烯聚合物（PVDF)是一种热塑性含氟聚合物，为锂电池隔膜这一关键部件的核心原材料。为解决该原材料长期依赖进口的问题，孚诺林联合潜江加速该材料国产化进程。此次开工项目总投资12亿元，年产2.5万吨偏氟乙烯聚合物，相当于2021年全球锂电用PVDF供应量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6179406.d.html</link>
+            <guid>2244015</guid>
+            <pubDate>Sun, 18 Jul 2021 08:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾新增5411例新冠肺炎确诊病例，累计确诊病例达1507755例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6179359.d.html</link>
+            <guid>2244014</guid>
+            <pubDate>Sun, 18 Jul 2021 08:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【水利部：嫩江2021年第2号洪水形成】受降雨影响，嫩江尼尔基水库今天（7月18日）8时入库流量4110立方米每秒，依据水利部《全国主要江河洪水编号规定》，编号为“嫩江2021年第2号洪水”。到今天12时，尼尔基水库水位211.85米，较8时上涨0.19米，低于汛限水位1.52米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7575795.d.html</link>
+            <guid>2244013</guid>
+            <pubDate>Sun, 18 Jul 2021 08:03:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本东京新增1008例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6178328.d.html</link>
+            <guid>2244012</guid>
+            <pubDate>Sun, 18 Jul 2021 07:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【恒瑞医药：子公司药品获批开展临床试验】恒瑞医药公告，公司子公司福建盛迪医药有限公司近日收到国家药品监督管理局核准签发关于注射用甲苯磺酸瑞马唑仑、注射用HRS3797的《药物临床试验批准通知书》，将于近期开展临床试验。同意注射用甲苯磺酸瑞马唑仑开展用于重症监护（ICU）期间镇静的II期和III期临床试验；同意注射用HRS3797开展用于全身麻醉诱导期气管插管及维持术中骨骼肌松弛的临床试验。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6177743.d.html</link>
+            <guid>2244011</guid>
+            <pubDate>Sun, 18 Jul 2021 07:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国疫情持续蔓延 政府宣布扩大“封城”范围】泰国政府18日宣布，自7月20日起，调整最高级别疫情管控区范围，由此前的10个府（包括首都曼谷）扩大至13个府，增加春武里府、北柳府和大城府。这13个府自20日起实施为期14天的“封城”措施，包括每日21时至次日凌晨4时实施宵禁，餐厅禁止堂食，商场和购物中心内仅开放超市、药店和疫苗接种点等必要场所。此外，除了医院、诊所、银行、邮局、加油站和快递站等百姓生活必需的场所正常营业，其余经营场所须暂时停业。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6177520.d.html</link>
+            <guid>2244010</guid>
+            <pubDate>Sun, 18 Jul 2021 07:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：欧佩克+主要产油国已达成初步协议，将在12月前逐步提高石油产量，并将协议延长至2022年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7573645.d.html</link>
+            <guid>2244009</guid>
+            <pubDate>Sun, 18 Jul 2021 07:43:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【傲农生物：上半年预亏8000万元-1.2亿元 由盈转亏】傲农生物公告，预计上半年亏损8000万元-1.2亿元，上年同期盈利3.4亿元。今年上半年猪价持续下跌，特别是二季度猪价较去年同期大幅下降，养殖板块处于亏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6176973.d.html</link>
+            <guid>2244008</guid>
+            <pubDate>Sun, 18 Jul 2021 07:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【孚能科技：深圳安晏拟减持公司不超4%股权】孚能科技7月18日晚间公告，持股19.1%的深圳安晏，计划通过大宗交易减持公司股份不超总股本的4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7573096.d.html</link>
+            <guid>2244007</guid>
+            <pubDate>Sun, 18 Jul 2021 07:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【无锡银行业绩快报：上半年净利润同比增长15%】无锡银行发布业绩快报，上半年归母净利润7.8亿元，同比增长15.38%；营业收入21.89亿元，同比增长11.46%；基本每股收益0.42元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7572963.d.html</link>
+            <guid>2244006</guid>
+            <pubDate>Sun, 18 Jul 2021 07:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥运会倒计时5天 日本首都圈地区将实施大规模交通管制】距离东京奥运会开幕还有5天，17日，数百名奥运会参赛选手及相关人士陆续抵达日本。据日本广播协会电视台报道，所有从海外入境的奥运会参赛选手及相关人士在抵达日本后的14天内不能使用公共交通工具，须乘坐奥运专用车辆前往各地。另据报道，从19日开始，包括东京都在内的首都圈地区将实施大规模交通管制措施。届时，奥运车辆将沿着奥运专用车道行驶，社会普通车辆不得擅用奥运专用车道。此外，奥运会举办期间，尤其是开幕式和闭幕式举办当天，东京都多个高速公路也将关闭。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7572902.d.html</link>
+            <guid>2244005</guid>
+            <pubDate>Sun, 18 Jul 2021 07:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黄金市场怎么走？基金经理最新研判来了】受持续波动的金价拖累，黄金QDII今年以来收益不及预期。市场现有的7只产品中，4只在过去3个月里跑输业绩基准。进入7月以来国际黄金价格呈现止跌回升的势头，但刚刚过去的一周现货黄金冲高回落。业内人士预计短期金价走势或在美元指数上行、通胀水平上升等多重因素共振下走势将呈现区间波动的形态，同时维持对黄金价格中长期走势判断乐观，黄金资产仍值得关注。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7572819.d.html</link>
+            <guid>2244004</guid>
+            <pubDate>Sun, 18 Jul 2021 07:37:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【艾迪药业：乌司他丁新适应症I期临床试验首例受试者成功入组】艾迪药业公告，公司在研抗炎新药乌司他丁（研发代码：AD105（乌司他丁新适应症），简称“AD105”）正在开展临床研究，AD105 I期临床试验首例受试者于2021年7月16日成功入组给药。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7572800.d.html</link>
+            <guid>2244003</guid>
+            <pubDate>Sun, 18 Jul 2021 07:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【河北易县北易水河出现1963年以来最大洪水 未造成人员伤亡】7月18日，记者从河北易县防汛抗旱指挥部办公室获悉，7月16日20时到18日11时，易县全县平均降水量为160.3毫米，大暴雨站点达43个。此次大强度降雨发生后，易县五条主要山区行洪河道中，北易水河达到527m3/s，为1963年以来最大一次洪水。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7572645.d.html</link>
+            <guid>2244002</guid>
+            <pubDate>Sun, 18 Jul 2021 07:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西藏民航迎暑运高峰】民航西藏区局18日介绍，今年西藏旅游市场生机盎然，强力恢复。数据显示，今年上半年，西藏区内机场累计保障航班起降2.98万架次，实现旅客吞吐量307.4万人次、货邮吞吐量2.45万吨，较新冠肺炎疫情爆发前的2019年相比，同比增长18.7%、13%、30.62%。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7572597.d.html</link>
+            <guid>2244001</guid>
+            <pubDate>Sun, 18 Jul 2021 07:35:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大全能源：完成股票发行工作】7月18日晚间，大全能源(688303)公告首次公开发行股票并在科创板上市发行结果，公司本次以21.49元/股完成发行3亿股A股。其中，战略配售发行9000万股，网下发行1.47亿股，网上发行6300万股，战略配售及网上、网下缴款工作已结束。本次共募集资金64.47亿元，用于建设3.5万吨多晶硅项目，及建设年产1000吨高纯半导体材料项目。本次发行后，大全能源总股本为19.25亿股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7572327.d.html</link>
+            <guid>2244000</guid>
+            <pubDate>Sun, 18 Jul 2021 07:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港华燃气与上海燃气交叉持股25%：目标市场不止长三角】近日，港华燃气有限公司及其母公司香港中华煤气有限公司发布联合公告，宣布港华燃气已完成向上海燃气有限公司增资，直接持有后者25%的股权。这是两大城燃巨头深度联手的第一步，根据双方去年签署的交叉持股协议，后续上海燃气也将持有港华燃气25%的股权，实现“双向进入”。港华燃气执行董事暨营运总裁纪伟毅称，天然气管网等中游基础设施独立运行、互联互通之后，上海燃气的上游进口气源、洋山港液化天然气（LNG）接收站，以及香港中华煤气和港华燃气的港华金坛储气库、下游市场基础将形成独特而完整的“产供储销”产业链。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6175778.d.html</link>
+            <guid>2243999</guid>
+            <pubDate>Sun, 18 Jul 2021 07:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度孟买暴雨导致至少21人死亡】印度孟买近日持续暴雨。据当地政府消息，18日凌晨的暴雨导致孟买发生数起房屋倒塌事故，造成至少21人死亡。据孟买市政府防灾部门公布的消息，18日凌晨，孟买郊区一所房屋被倒塌的树木压垮，导致至少12人死亡。另一起房屋倒塌事故造成至少3名居民死亡，还有数量不明人员被埋。此外，暴雨导致孟买市区内涝，部分地区供电中断。由于积水，孟买部分铁路服务被取消。由于部分房屋年久失修，每年雨季，孟买都会发生多起房屋倒塌事故。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6175144.d.html</link>
+            <guid>2243998</guid>
+            <pubDate>Sun, 18 Jul 2021 07:27:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[马来西亚新增10710例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7570572.d.html</link>
@@ -196,7 +555,7 @@
             <pubDate>Sun, 18 Jul 2021 05:24:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[能源情报集团记者Amena Bakr：：欧佩克+将在维也纳时间13:00（北京时间19:00）召开新闻发布会。]]></title>
+            <title><![CDATA[能源情报集团记者Amena Bakr：欧佩克+将在维也纳时间13:00（北京时间19:00）召开新闻发布会。]]></title>
             <guid>2243962</guid>
             <pubDate>Sun, 18 Jul 2021 05:14:49 GMT</pubDate>
         </item>
@@ -247,362 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6154602.d.html</link>
             <guid>2243953</guid>
             <pubDate>Sun, 18 Jul 2021 04:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国俄勒冈州山火肆虐 过火面积超纽约市区面积】美国山火追踪网站17日数据显示，俄勒冈州南部最大一处山火的过火面积已经超过1138平方公里，超过纽约市区面积，目前仅有22%的火情得到控制。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7549263.d.html</link>
-            <guid>2243952</guid>
-            <pubDate>Sun, 18 Jul 2021 04:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海医疗器械产业规模2023年达500亿元，创新产品审批提速】根据7月16日上海市经济和信息化委员会与市药品监督管理局最新印发的一份《创新服务机制 推动本市医疗器械产业高质量发展实施方案》，上海医疗器械产业规模实现较快增长，力争年均可比增长10%，到2023年医疗器械制造业产值达500亿元。与此同时，创新医疗器械的审评审批也正在提速。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6150368.d.html</link>
-            <guid>2243950</guid>
-            <pubDate>Sun, 18 Jul 2021 04:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LG化学将与日本东丽建立湿法隔膜合资厂】据业内人士透露，LG化学计划与日本东丽在欧洲成立合资厂，生产锂电池湿法隔膜，详细内容尚未敲定。东丽是全球最大的湿法隔膜厂商之一。此前LG化学曾宣布，将在电池材料领域投入6万亿韩元。 (韩国IT News)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7546285.d.html</link>
-            <guid>2243949</guid>
-            <pubDate>Sun, 18 Jul 2021 04:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年海南省集中签约重点项目190个，协议投资金额超过900亿元】据统计，今年上半年，海南共举行3次重点项目集中签约活动，共签约项目190个，协议投资金额超过900亿元。统计数字显示，今年1月至5月，海南省新设立外商投资企业750家，同比增长393.42%；实际使用外资7.98亿美元，同比增长527.54%；共有81个国家和地区在海南省新设外资企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6148435.d.html</link>
-            <guid>2243948</guid>
-            <pubDate>Sun, 18 Jul 2021 03:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国联合参谋本部18日表示，在海外执行任务的的海军清海部队第34梯队“文武大王”号驱逐舰(4400吨级)的300多名舰员中，101人的新冠核酸检测结果当天上午8点出炉，又有61人确诊感染新冠病毒。据报道，自清海部队第34梯队15日出现首例确诊病例以来，确诊病例仅时隔三天增至68例。]]></title>
-            <guid>2243947</guid>
-            <pubDate>Sun, 18 Jul 2021 03:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四部门发文明确：中小学不得在校内设置小卖部、超市】近日，教育部联合国家卫生健康委等四部门印发《营养与健康学校建设指南》，对适应儿童青少年生长发育需要，推动学校营养与健康工作，规范学校营养与健康相关管理行为作出要求。《指南》第二十五条规定：“不得在校内设置小卖部、超市等食品经营场所，不得售卖高盐、高糖及高脂的食品和酒精饮料。不得对含糖饮料、调味面制品等零食进行广告宣传。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6147328.d.html</link>
-            <guid>2243946</guid>
-            <pubDate>Sun, 18 Jul 2021 03:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国日用电量刷新历史纪录 11个省级电网负荷创新高】今年入夏以来，全国用电量持续攀升。在7月14日，全国日用电量刷新了历史纪录，达到271.87亿千瓦时，比去年夏季的最高值增长超过了10%。在本轮用电高峰中，华东、华中区域电网及广东、江苏、浙江等11个省级电网负荷创历史新高。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7543290.d.html</link>
-            <guid>2243945</guid>
-            <pubDate>Sun, 18 Jul 2021 03:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港美国商会：香港作为国际商业中心至关重要】针对美国政府日前向在香港经营的美国企业发出所谓“商业警告”，香港美国商会发表声明指出，香港作为国际商业中心具有至关重要的作用，仍然是东西方贸易和资金流动的重要且活跃的推动者。商会认为，香港拥有亚洲最发达的基础设施之一、国际公认的商法体系以及比许多其他亚洲地区更为开放和完善的数字基础设施，并且香港的金融市场在全球位列前五。（央视新闻）]]></title>
-            <guid>2243941</guid>
-            <pubDate>Sun, 18 Jul 2021 03:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【21省出台十四五光伏规划 明确超258GW以上光伏等可再生能源新增装机目标】近期，随着各省十四五能源规划陆续出台，在“碳达峰”“碳中和”目标指引下，光伏等可再生能新增开发规模逐渐明晰。据统计，截至目前海南、内蒙古、河北、山东、江苏、宁夏、浙江、江西、西藏、四川、黑龙江等21省已公布了十四五能源规划，其中16个省份明确了超258GW以上光伏等可再生能源新增装机目标。从规模来看，十四五期间仅海南、内蒙古两省光伏新增规划约占到总量的39.5%；河北、山东、云南三省新增装机规划均超25GW，宁夏、浙江、四川新增装机达10GW及以上，江苏、西藏、辽宁、黑龙江、江西新增规模均在3GW以上。 (北极星太阳能光伏网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6143586.d.html</link>
-            <guid>2243863</guid>
-            <pubDate>Sun, 18 Jul 2021 03:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海通策略：续看好市场 以智能制造为代表的中盘成长更有弹性】海通策略指出，2019年初以来市场风格整体偏向成长，从风格指数和估值相对走势看成风格演化还未到极致。经济基本面、流动性、相对估值并非决定风格的核心变量，盈利相对趋势决定当前市场风格将延续。继续看好市场，以茅指数为代表的大盘成长仍是较好配置，以智能制造为代表的中盘成长更有弹性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6143469.d.html</link>
-            <guid>2243858</guid>
-            <pubDate>Sun, 18 Jul 2021 03:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国新增新冠肺炎确诊病例11397例 累计确诊403万例】当地时间7月18日，泰国新冠疫情管理中心透露，该国单日新增新冠肺炎确诊病例11397例，连续两天单日新增确诊病例数破纪录。其中，监狱系统确诊病例318例，累计确诊首次突破40万大关，达403386例。新增死亡病例101例，累计死亡3341例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6142175.d.html</link>
-            <guid>2243797</guid>
-            <pubDate>Sun, 18 Jul 2021 03:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信明明：下半年经济增速可能好于预期】明明认为，综合看两年的平均值，各项数据还有继续恢复的空间。6月单月出口数据继续超市场预期飙升，房地产销售单月同比增长7.5%，低于5月的9.2%，两年平均增速也低于五月，但新开工、施工、竣工增速均较前值加快。6月社会融资规模增量3.67万亿，新增幅度为近年来同期最高。在货币宽松前置、财政发力后置的政策组合之下，对于之前业内一致判断的经济前高后低的走势，可能会出现更积极的变化。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7536972.d.html</link>
-            <guid>2243740</guid>
-            <pubDate>Sun, 18 Jul 2021 03:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江阴港上半年累计完成货物吞吐量15496.6万吨 同比增长35.88%】据江阴发布，今年1-6月，江阴港累计完成货物吞吐量15496.6万吨，同比增长35.88%；外贸吞吐量3321.32万吨，同比增长19.56%；集装箱吞吐量完成301830标箱，同比增长33.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6140412.d.html</link>
-            <guid>2243734</guid>
-            <pubDate>Sun, 18 Jul 2021 03:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东京奥运村首次有运动员感染新冠 系2名外国选手】据NHK新闻网报道，日本东京奥组委18日宣布，东京奥运村中已有2名外国运动员确诊感染新冠。这是首次有奥运村内的运动员确诊。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6137256.d.html</link>
-            <guid>2243624</guid>
-            <pubDate>Sun, 18 Jul 2021 02:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽签约142个新材料产业项目，投资总额909.27亿元】7月16日至18日，由安徽省政府和国际玻璃协会共同主办的国际新材料产业大会在蚌埠举办。中国建材集团有限公司、国家制造业转型升级基金公司、国改双百发展基金管理公司、诚通混改私募基金管理有限公司、安徽海螺水泥股份有限公司、安徽省三重一创产业发展基金有限公司等10余家企业签署中建材（安徽）新材料产业投资基金（有限合伙）合作协议。中建材私募基金管理（北京）有限公司与安徽陶铝新材料研究院有限公司、蚌埠中光电科技有限公司、芜湖启迪半导体有限公司、安徽弘徽科技有限公司、赛创电气（铜陵）有限公司共同签署项目投资意向书。主会场和分会场共签约项目142个，投资总额909.27亿元。其中主会场签约项目70个，总投资614.85亿元；分会场签约项目72个，总投资294.42亿元。（安徽日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7531607.d.html</link>
-            <guid>2243543</guid>
-            <pubDate>Sun, 18 Jul 2021 02:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球多地遭遇极端天气：欧洲洪灾致百余人死亡 北美山火蔓延】全球多地遭遇极端天气，欧洲西部暴雨已导致超过170人死亡；而在北美，高温热浪的袭击下，山火持续蔓延。分析指出，气候变化增加了极端天气事件的频率，许多单一事件已经因全球变暖而变得更糟。德国和比利时近日遭遇了灾难性的洪水侵袭，已造成超过170人死亡，救援人员仍在努力应对洪水造成的破坏。德国总理默克尔预定18日前往遭重创的莱茵兰-普法尔茨州视察灾情。北美正持续遭遇热浪袭击，据美国家消防中心数据，12个州正在与71场山火作斗争，大火总面积约4021平方公里，超过1.4万名消防员和应急人员参与灭火，俄勒冈、蒙大拿等州14日宣布进入紧急状态。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6134879.d.html</link>
-            <guid>2243518</guid>
-            <pubDate>Sun, 18 Jul 2021 02:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国60岁及以上群体网络普及率为38.6% 其中10万老人每天上网超10小时】随着智能终端适老化改造的深入进行，互联网的门槛在老人面前变低了。更多的老人享受到互联网便利的同时，新问题随之产生。数据显示，我国60岁及以上群体的网络普及率为38.6%，其中，有超过10万老人日均在线超过10个小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6133409.d.html</link>
-            <guid>2243463</guid>
-            <pubDate>Sun, 18 Jul 2021 02:36:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华商储备商品管理中心：将于7月21日进行2021年第三次中央储备冻猪肉收储，本次挂牌竞价交易2万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6132198.d.html</link>
-            <guid>2243413</guid>
-            <pubDate>Sun, 18 Jul 2021 02:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OPEC+证实部长级视频会议定于本周日举行】消息称，OPEC+将于周日举行会议，此前在阿联酋反对增产建议后，OPEC+朝着化解与阿联酋的僵持局面取得了重大进展。OPEC+证实，部长们的视频会议定于维也纳时间中午12点举行。代表透露，沙特、科威特、阿联酋和阿曼的部长周六在网上讨论了此事。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6131455.d.html</link>
-            <guid>2243368</guid>
-            <pubDate>Sun, 18 Jul 2021 02:26:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国华盛顿特区警方：有两人在国民公园棒球场外遭受枪击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7527382.d.html</link>
-            <guid>2243348</guid>
-            <pubDate>Sun, 18 Jul 2021 02:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国君策略：指数拉升蓄势待发 看好新能源、半导体、医美、化妆品等】国泰君安证券研究所策略团队认为，当前7月全面降准仅是开始，通胀预期回落与稳增长压力下未来流动性易松难紧，政策相对宽松与无风险利率下行环境下，中盘蓝筹将持续受益。伴随中报业绩预告窗口期的打开，博弈盈利将为市场注入新的活力。风险评价逐步下行背景下，伴随着无风险利率下行进程的逐步开启，掘金科技成长。行业配置重点推荐新能源/半导体/医美/化妆品等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6130094.d.html</link>
-            <guid>2243345</guid>
-            <pubDate>Sun, 18 Jul 2021 02:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年重庆累计帮扶76.5万脱贫人口就业】记者从重庆市人社局获悉，今年以来重庆保持就业扶贫原有政策、资金支持，帮扶力量稳定，上半年共帮扶76.5万脱贫人口就业。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6129116.d.html</link>
-            <guid>2243343</guid>
-            <pubDate>Sun, 18 Jul 2021 02:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京铁路多趟列车因雨停运，旅客可全额退票】受持续强降雨影响，7月18日天津至石家庄北间K7709/10次、北京至张家口间Y535/6次、北京北至怀柔北间S515/6次、怀柔北至北京北间S512次、北京北至古北口间S501/2次、黄土店至延庆间S201/2次、黄土店至沙城间S251/252次、北京至德州间K7729/30次、北京至清河城间K5225/6次、北京西至邯郸间K5217/8次、北京西至涞源间K5295/6次列车停运。请广大旅客及时关注中国铁路12306网站信息或车站公告，妥善安排出行。铁路部门提示：已购买上述车票的旅客，可在30天内办理全额退票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7525187.d.html</link>
-            <guid>2243342</guid>
-            <pubDate>Sun, 18 Jul 2021 02:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美联社：美国华盛顿哥伦比亚特区的国民棒球场附近发生枪击事件，棒球比赛中止。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7523719.d.html</link>
-            <guid>2243325</guid>
-            <pubDate>Sun, 18 Jul 2021 02:08:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【"印度版支付宝"也要上市，蚂蚁是最大股东，或将被迫减持】印度最大电子钱包Paytm正式递交上市招股书，这家有“印度版支付宝”之称的金融科技公司迈出上市关键一步。Paytm拟筹资1660亿卢比（约144亿人民币）。Paytm母公司One97 Communications背后的投资者包括伯克希尔哈撒韦、蚂蚁集团以及软银。不过，作为持有该公司近30%股份的最大股东，蚂蚁集团很可能需要在IPO前和IPO过程中减持约5%的股份，以满足印度外资投资上市公司持股25%以下的相关规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7523221.d.html</link>
-            <guid>2243308</guid>
-            <pubDate>Sun, 18 Jul 2021 02:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新莱应材：公司半导体真空产品可以应用到半导体产业链上下游中】新莱应材在互动平台表示，公司一直专注于高纯及超高纯洁净应用材料的研究、制造与销售。公司的半导体真空系统和气体系统可以服务于所有的半导体设备供应商和终端制造商。公司半导体真空产品的AdvanTorr品牌以及气体产品]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7522218.d.html</link>
-            <guid>2243268</guid>
-            <pubDate>Sun, 18 Jul 2021 02:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币恐惧与贪婪指数7月18日读数为19，较前一日上涨5点，表明市场情绪处于极度恐惧状态，比特币价格24小时涨幅3.43%。最近24小时，全网共有50530人爆仓，1.90亿美元资金蒸发，最大单笔爆仓单发生在Bybit-BTC价值200万美元。过去1小时爆仓规模4669.35万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7520049.d.html</link>
-            <guid>2243162</guid>
-            <pubDate>Sun, 18 Jul 2021 01:51:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据星期日泰晤士报：英国首相约翰逊和英国财政大臣苏纳克就一项高达100亿英镑的医疗税收计划存在冲突。该计划旨在为社会保障的长期改革提供资金，并减少国民保健服务名单的等候时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7517921.d.html</link>
-            <guid>2243093</guid>
-            <pubDate>Sun, 18 Jul 2021 01:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国佛州住宅楼倒塌事故已致至少97人死亡，95人身份确认】美国佛罗里达州迈阿密-戴德县警方当地时间7月17日宣布，又一名公寓大楼倒塌事故的受害者身份被确认。目前警方已经确认了95名在这场灾难中丧生的受害者身份。在发现的至少97具尸体中，还有两人的身份尚未确认。当地的官员们认为，搜救工作已接近尾声，但由于搜救人员仍在继续清理废墟，目前还没有宣布搜救结束确切时间的打算。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7517290.d.html</link>
-            <guid>2243053</guid>
-            <pubDate>Sun, 18 Jul 2021 01:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国新增11397例新冠肺炎确诊病例，继续创下单日增幅新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7514866.d.html</link>
-            <guid>2242964</guid>
-            <pubDate>Sun, 18 Jul 2021 01:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南省上半年进出口总值3656.6亿元 居中部第1位】日前，郑州海关发布数据显示，今年上半年，河南省进出口总值3656.6亿元，居中部第1位、中西部第3位、全国第12位；比去年同期增长60%（与2019年上半年相比增长72.7%），高出全国整体增速32.9个百分点。河南外贸总量占中部地区的23.9%。上半年，中部地区实现进出口总值1.53万亿元，同比增长39.9%，是全国外贸发展速度最快的区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7514833.d.html</link>
-            <guid>2242959</guid>
-            <pubDate>Sun, 18 Jul 2021 01:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中车株洲所副总经理：结合5G，加大自动驾驶等投入发展智轨】中车株洲电力机车研究所有限公司副总经理陈剑表示，“城市交通拥堵已经是一个刻不容缓的问题，未来中车株洲所将以湖南为研发中心，结合5G通信，在自动驾驶和无人驾驶进行更多的技术投入。朝着更高效、更安全、更舒适三个方面发展，把智轨推向全国、走向一带一路国家，为全球城市轨道交通提供一个新的出行解决方案。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6116898.d.html</link>
-            <guid>2242884</guid>
-            <pubDate>Sun, 18 Jul 2021 01:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光大证券：水泥市场正式进入传统淡季 后续价格暂未出现大幅上涨基础整体缺乏弹性】光大证券研报认为，6月，水泥市场正式进入传统淡季，受农忙、高考、雨水天气偏多等多重因素共振影响，下游需求进一步走弱，单月水泥产量2.24亿吨，同比减少2.9%，环比减少7.4%。2020年至今，水泥跨区域流动加剧，对区域供给平衡带来挑战，同时企业间协同执行力度似有减弱，供给端或在探寻新的竞合平衡的过程中，后续价格暂未出现大幅上涨基础，整体缺乏弹性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6116144.d.html</link>
-            <guid>2242833</guid>
-            <pubDate>Sun, 18 Jul 2021 01:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南成我国首个全域低空飞行试点省份】从国家民航局了解到，湖南成为我国首个全域低空飞行试点省份。湖南将在3000米以下低空空域进行航空器监视通信覆盖、低空空域监管、低空空域运行管理等方面积累经验，为全国低空开放提供理论依据。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7511340.d.html</link>
-            <guid>2242822</guid>
-            <pubDate>Sun, 18 Jul 2021 01:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币迅速走高400美元，站上32000美元/枚关口上方，涨幅达1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7510740.d.html</link>
-            <guid>2242818</guid>
-            <pubDate>Sun, 18 Jul 2021 01:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：7月17日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例33例，其中境外输入病例32例（云南11例，北京4例，福建4例，广东4例，四川3例，陕西2例，内蒙古1例，上海1例，江苏1例，湖北1例），本土病例1例（在云南）；无新增死亡病例；无新增疑似病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7509141.d.html</link>
-            <guid>2242817</guid>
-            <pubDate>Sun, 18 Jul 2021 00:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统国土安全顾问率领的代表团在塔什干与阿富汗总统加尼、外长阿特马尔举行会晤，双方讨论了美国对阿富汗军方提供支持的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6112544.d.html</link>
-            <guid>2242815</guid>
-            <pubDate>Sun, 18 Jul 2021 00:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东省委书记李希到明阳智能了解研发经营和清洁能源产业发展情况】据广东卫视7月17日消息，近日，广东省委书记李希到中山市，深入社区、企业和城市新区。据悉，李希还来到火炬开发区的明阳智慧能源集团，实地了解企业研发经营和清洁能源产业发展情况，勉励企业聚焦主业加大研发投入，加快关键核心技术攻关，积极抢占产业链、价值链高端，在国际竞争中占得先机、占据主动，要求当地党委政府加大支持力度，及时为企业排忧解难，更好服务企业做强做优做大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6111753.d.html</link>
-            <guid>2242801</guid>
-            <pubDate>Sun, 18 Jul 2021 00:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【祝融号火星车行驶里程突破509米】据国家航天局探月与航天工程中心7月17日23时30分许发布的信息，当日祝融号火星车行驶里程突破509米，即将到达第二处沙丘，计划对沙丘及周边环境开展详细探测。截至目前，祝融号火星车在火星表面工作64个火星日，天问一号环绕器在轨工作360天，距离地球约3.75亿千米，单向通信时延接近21分钟。两器状态良好，各分系统工况正常。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6111539.d.html</link>
-            <guid>2242800</guid>
-            <pubDate>Sun, 18 Jul 2021 00:46:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊短线走高26美元，涨幅扩大至2%，现报1935.13美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6110222.d.html</link>
-            <guid>2242799</guid>
-            <pubDate>Sun, 18 Jul 2021 00:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京排水集团启动特级响应】今晨7时，北京排水集团启动特级响应，应对雨情。响应启动后，北京排水集团所有泵站人员全部在岗，共计备勤大、中、小型抢险单元221组、车巡处置组18组、人巡打捞组169组，累计备勤出动防汛人员2907人。集团雨水泵站运行正常，初期调蓄池全部进水，累计排蓄量9万立方米。 按照厂网一体化运行模式，16日11时集团11座再生水厂最大能力抽升处理，为管网腾容44万立方米。集团运营范围内下凹式立交桥及主要道路无积水断路情况。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7506032.d.html</link>
-            <guid>2242798</guid>
-            <pubDate>Sun, 18 Jul 2021 00:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国共有16130678人接种了1剂新冠疫苗，共有6563885人接种了2剂新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6109545.d.html</link>
-            <guid>2242797</guid>
-            <pubDate>Sun, 18 Jul 2021 00:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国新增1454例新冠肺炎确诊病例。（昨日新增1455例）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7505295.d.html</link>
-            <guid>2242796</guid>
-            <pubDate>Sun, 18 Jul 2021 00:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西新增新冠肺炎确诊病例34339例 累计确诊超1934万例】截至当地时间7月17日18时53分，据巴西卫生部发布的数据，巴西单日新增新冠肺炎确诊病例达34339例，累计确诊19342448例；新增死亡病例868例，累计死亡541266例；累计康复17983275人。16日，巴西新冠肺炎疫情数据监测平台统计显示，随着该国疫苗接种计划的推进，巴西近日新增确诊病例和死亡病例动态平均数较疫情高峰时期的数值均出现了明显下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6109057.d.html</link>
-            <guid>2242795</guid>
-            <pubDate>Sun, 18 Jul 2021 00:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美军派遣约25架F-22“猛禽”战斗机至西太平洋参加演习 规模达历史之最】总部位于夏威夷的美国太平洋空军司令部本周表示，本月将从夏威夷空军国民警卫队和阿拉斯加的埃尔门多夫·理查森联合基地部署大约25架F-22“猛禽”战斗机到关岛和提尼安岛地区，执行一项名为“太平洋钢铁·2021”（Pacific Iron 2021）的演习行动。 (观察者网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6108163.d.html</link>
-            <guid>2242794</guid>
-            <pubDate>Sun, 18 Jul 2021 00:26:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国疾控中心警告：新冠疫苗可能无法有效保护免疫力低下人群】美国疾病控制与预防中心（CDC）16日发布警告称，目前常规剂量的新冠肺炎疫苗可能无法有效保护免疫力低下的人群，并建议他们继续采取现有的预防措施——戴口罩、保持社交距离、尽量避免在人群聚集和不通风的室内场所停留。美国疾控中心正在研究免疫力低下者接受额外剂量新冠肺炎疫苗的可能性，即在完成两针辉瑞或者莫德纳疫苗、一针强生疫苗的接种之后再注射额外剂量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7503623.d.html</link>
-            <guid>2242793</guid>
-            <pubDate>Sun, 18 Jul 2021 00:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据俄罗斯航空公司在线航班时刻表消息显示，该公司一架17日从莫斯科飞往里斯本的飞机返回俄首都。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7502609.d.html</link>
-            <guid>2242792</guid>
-            <pubDate>Sun, 18 Jul 2021 00:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国地学研究中心：巴拿马南部发生6.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7502344.d.html</link>
-            <guid>2242791</guid>
-            <pubDate>Sun, 18 Jul 2021 00:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼西加里曼丹部分地区遭洪水袭击 约19121人受到影响】自7月13日以来，印尼西加里曼丹的卡普阿斯胡卢地区（Kapuas Hulu Regency）连续遭受洪水袭击。7月17日，印尼救灾署灾难数据、信息和通信中心代理负责人阿卜杜勒·穆哈里（Abdul Muhari）在一份书面报告中称，该地区目前共有7357个家庭、约19121人受到洪水影响。其中，至少有422个家庭的1681人因洪水被迫离开家园。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7502042.d.html</link>
-            <guid>2242790</guid>
-            <pubDate>Sun, 18 Jul 2021 00:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚维多利亚州在24小时内新增16例新的本地新冠病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6104669.d.html</link>
-            <guid>2242789</guid>
-            <pubDate>Sun, 18 Jul 2021 00:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京昨日新增4例境外输入确诊病例】7月17日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；新增4例境外输入确诊病例、4例境外输入无症状感染者，无新增疑似病例。治愈出院1例。（首都健康）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6103111.d.html</link>
-            <guid>2242788</guid>
-            <pubDate>Sat, 17 Jul 2021 23:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海昨日无新增本地新冠肺炎确诊病例，新增境外输入1例，治愈出院10例。（健康上海）]]></title>
-            <guid>2242787</guid>
-            <pubDate>Sat, 17 Jul 2021 23:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：三名中国人在马里遭绑架】法新社刚刚消息，马里军方表示，三名中国人以及两名毛里塔尼亚人在马里遭绑架。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6101460.d.html</link>
-            <guid>2242786</guid>
-            <pubDate>Sat, 17 Jul 2021 23:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下周沪深两市将有1543亿元限售股解禁 较本周有所增加】数据显示，下周(7月19日至7月23日)沪深两市将有58.4亿股限售到期，以7月16日收盘价计算，市值约为1543.4亿元，较本周有所增加。解禁数量较大的个股有招商轮船、孚能科技、西部证券、南山控股、京运通、奇安信等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6100339.d.html</link>
-            <guid>2242785</guid>
-            <pubDate>Sat, 17 Jul 2021 23:35:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本东京都单日新增确诊病例创近半年来新高】东京奥运会日益临近，据日本广播协会17日援引东京都政府官员的话报道称，东京都17日单日新增新冠肺炎确诊病例1410例，这是东京都连续第4天新增确诊病例过千例。而上一次东京都单日新增确诊病例超1400例是今年的1月21日，当时报告的单日新增确诊病例为1485例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7495695.d.html</link>
-            <guid>2242784</guid>
-            <pubDate>Sat, 17 Jul 2021 23:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、“中国是区域合作和多边主义的强大推动者”；2、共创共享繁荣美好的未来（和音）；3、加强地区合作 共谋和平发展；4、王毅将对中东三国进行正式访问；5、中国赴巴基斯坦跨部门联合工作组看望慰问中国伤员；6、第四十四届世界遗产大会在福州开幕；7、数字人民币试点场景超一百三十二万个；8、携手推进抗疫复苏合作，共创共享亚太繁荣未来；9、全面有效实施乡村振兴促进法 推进农业农村农民全面发展；10、加强地区合作 共谋和平发展；11、国际新材料产业大会在蚌埠开幕；12、美方言行实属荒谬无理 企业对香港信心无丝毫动摇；13、香港作为国际商业中心至关重要。]]></title>
-            <guid>2242783</guid>
-            <pubDate>Sat, 17 Jul 2021 23:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、携手推进抗疫复苏合作，共创共享亚太繁荣未来——习近平主席出席亚太经合组织领导人非正式会议，对于加强全球抗疫合作，推动世界经济复苏，构建亚太命运共同体，具有特殊重大意义；2、上海推动多中心、郊区化发展，优化重塑超大城市空间布局 “五个新城”培育强劲活跃增长极（“十四五”，我们这样开局起步）；3、栗战书在贵州调研时强调 全面有效实施乡村振兴促进法 推进农业农村农民全面发展；4、强化“造血”功能 激发内生动力 援疆项目落地生根硕果累累；5、上半年 全国实际使用外资同比增长28.7%；6、张河村 —— 一渠清流水 一地生“三金”（奋斗百年路 启航新征程·同心奔小康）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6097379.d.html</link>
-            <guid>2242782</guid>
-            <pubDate>Sat, 17 Jul 2021 23:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白鹤滩水电站正式投产发电 首批投产机组发电量超10亿度】白鹤滩水电站第三台百万千瓦机组昨天（7月17日）顺利通过72小时试运行，正式投产发电。目前，前两台机组累计已发电量超过10亿度。白鹤滩水电站位于四川省宁南县和云南省巧家县交界的金沙江河道上，电站总装机1600万千瓦，共安装16台我国自主研制、全球单机容量最大的百万千瓦水轮发电机组。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6096589.d.html</link>
-            <guid>2242781</guid>
-            <pubDate>Sat, 17 Jul 2021 23:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国新增新冠肺炎确诊病例54674例 累计确诊538万例】英国卫生和社会保障部当地时间17日公布，过去24小时英国新增新冠肺炎确诊病例54674例，累计确诊5386340例；新增死亡病例41例，累计死亡病例152856例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqcfnca7491671.d.html</link>
-            <guid>2242780</guid>
-            <pubDate>Sat, 17 Jul 2021 22:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿根廷新增新冠肺炎病例12230例 累计确诊475万例】当地时间7月17日，阿根廷卫生部通报，该国单日新增新冠肺炎确诊病例12230例，累计确诊病例增至4749443例。单日新增死亡病例276例，累计死亡病例达101434例。同时累计治愈病患4379169人。现有确诊病例268840例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-18/detail-ikqciyzk6095200.d.html</link>
-            <guid>2242779</guid>
-            <pubDate>Sat, 17 Jul 2021 22:55:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
