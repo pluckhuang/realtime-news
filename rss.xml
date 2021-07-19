@@ -4,11 +4,493 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 19 Jul 2021 16:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 19:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【拜登：如果高通胀趋势持续，美国经济或面临严重的复杂局面】美国总统拜登于当地时间周一表示，美国的高通胀现象是可以接受的，因为它被认为是暂时的。如若通胀趋势持续下去，美国经济可能面临严重的复杂局面。尽管我们对今天看到的情况充满信心，但我们将对任何必要的反应保持警惕。美联储可以采取它认为必要的任何措施来支持强劲、持久的经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7837350.d.html</link>
+            <guid>2245330</guid>
+            <pubDate>Mon, 19 Jul 2021 19:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球新冠肺炎确诊病例超1.905亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月19日17时42分（北京时间7月19日23点时42分），全球累计新冠肺炎确诊病例190597409例，累计死亡病例 4093145例。19日全球新冠肺炎确诊病例新增427576例，死亡病例新增7145例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6440626.d.html</link>
+            <guid>2245329</guid>
+            <pubDate>Mon, 19 Jul 2021 19:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股质押压力明显缓解】曾一度令市场担忧的上市公司质押风险，在今年得到进一步缓解。Wind数据显示，A股市场大股东质押股份数已从2018年底的约6300亿股降至如今（截至7月19日）的5483.97亿股，大股东质押股份占所持股份的比例从2018年末的22.5%降至如今的17.15%。市场质押股数占所有公司股份总量由9.61%降至6.3%。具体到公司，第一大股东质押比例超过80%的公司数已降至311家，不足巅峰时期的一半。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6440201.d.html</link>
+            <guid>2245328</guid>
+            <pubDate>Mon, 19 Jul 2021 19:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.92%，报27215点，低水275点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7836530.d.html</link>
+            <guid>2245327</guid>
+            <pubDate>Mon, 19 Jul 2021 19:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moderna(MRNA.O)涨幅扩大至10%，报315美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6439773.d.html</link>
+            <guid>2245326</guid>
+            <pubDate>Mon, 19 Jul 2021 18:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国政府发言人Attal：针对不尊重健康通行证行为的罚款将逐步增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7836342.d.html</link>
+            <guid>2245325</guid>
+            <pubDate>Mon, 19 Jul 2021 18:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品监督管理局：辉瑞(PFE.N)因药物内含的亚硝胺存在致癌风险在美国全国范围内自愿召回12批戒烟药Chantix；迄今为止，辉瑞尚未收到任何与召回相关的不良事件报告，其认为Chantix的收益/风险概况仍然是积极的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6439726.d.html</link>
+            <guid>2245324</guid>
+            <pubDate>Mon, 19 Jul 2021 18:56:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【险企重点配置成长股和顺周期股】多家主流保险机构近期调整了股票仓位，重点配置了半年报业绩超预期的板块个股，尤其是聚焦成长股和顺周期股。在险资看来，此番调仓的逻辑是，在半年报业绩集中披露期，部分板块和个股的机会将强于指数表现。一家保险资管公司股票投资经理表示，在今年下半年的A股策略中，“强调盈利”是核心，“景气程度高、产业前景相对明确”的部分成长主线的表现值得期待。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7836249.d.html</link>
+            <guid>2245323</guid>
+            <pubDate>Mon, 19 Jul 2021 18:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国洪灾死亡人数上升至164人，施坦巴赫大坝暂时安全】①根据德国警方当地时间19日公布的信息，莱茵兰-普法尔茨州阿尔韦勒地区的死亡人数已上升至117人，受伤人数为749人。北莱茵-威斯特法伦州的死亡人数为46人。巴伐利亚州也有1人不幸遇难。此次德国洪灾死亡人数已累计164人；②随着天气好转，洪水消退，之前岌岌可危的施坦巴赫大坝目前暂时安全。19日，德国联邦内政部长泽霍费尔与北莱茵-威斯特法伦州州长拉舍特共同视察了大坝的情况。拉舍特表示，大坝的紧张状况已有所缓解，不再有溃堤的危险，位于大坝下游的斯维斯塔尔和莱茵巴赫地区的疏散措施将暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6439297.d.html</link>
+            <guid>2245322</guid>
+            <pubDate>Mon, 19 Jul 2021 18:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑墨西哥比索USD/MXN涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6439236.d.html</link>
+            <guid>2245321</guid>
+            <pubDate>Mon, 19 Jul 2021 18:49:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国和德国预计将在未来几天宣布就北溪2号天然气管道问题达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7835598.d.html</link>
+            <guid>2245320</guid>
+            <pubDate>Mon, 19 Jul 2021 18:43:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】 上海黄金交易所黄金T+D 7月20日（周二）晚盘收盘下跌0.2%报377.2元/克； 上海黄金交易所白银T+D 7月20日（周二）晚盘收盘下跌2.25%报5207.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6438810.d.html</link>
+            <guid>2245319</guid>
+            <pubDate>Mon, 19 Jul 2021 18:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织消息人士：印度将从新冠肺炎疫苗实施计划（COVAX）中获得750万剂莫德纳疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6438756.d.html</link>
+            <guid>2245318</guid>
+            <pubDate>Mon, 19 Jul 2021 18:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至昨日，美国新冠肺炎确诊病例累计达33896296例，较前一日增加7156例。美国累计新冠肺炎死亡病例数升至606618例，较前一日增加27例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7835346.d.html</link>
+            <guid>2245317</guid>
+            <pubDate>Mon, 19 Jul 2021 18:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌5.45%，报413.1元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6438392.d.html</link>
+            <guid>2245316</guid>
+            <pubDate>Mon, 19 Jul 2021 18:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Odeon Capital：将富国银行(WFC.N)评级从买进下调至持有。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6438082.d.html</link>
+            <guid>2245315</guid>
+            <pubDate>Mon, 19 Jul 2021 18:27:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新一轮支持政策加码 绿色金融空间加速拓展】作为实现碳达峰、碳中和目标的重要助力，绿色金融发展迎来新一轮支持政策。近期，部委层面对绿色金融支持加码的政策信号密集释放，据了解，金融监管部门正加快完善绿色金融领域制度框架，绿色金融空间有望加速拓展。伴随着全国碳市场开启交易，业内预计碳减排货币政策工具或将以绿色再贷款的形式出台。一方面绿色再贷款作为定向性的货币政策支持工具，能够实现对绿色金融领域精准支持，另一方面，再贷款利率较MLF利率更为优惠。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6438055.d.html</link>
+            <guid>2245314</guid>
+            <pubDate>Mon, 19 Jul 2021 18:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：美国尚未对加拿大的边境规定作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7834296.d.html</link>
+            <guid>2245313</guid>
+            <pubDate>Mon, 19 Jul 2021 18:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  维多利亚的秘密CFO：预计2021年资本支出约为1.6亿-1.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7834223.d.html</link>
+            <guid>2245312</guid>
+            <pubDate>Mon, 19 Jul 2021 18:19:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Peloton(PTON.O)涨5.7%，Chewy(CHWY.N)涨6.3%，DoorDash(DASH.N)涨5.3%。由于市场对德尔塔变种毒株传播的忧虑加剧，受益于消费者在疫情期间居家的公司股价上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7834219.d.html</link>
+            <guid>2245311</guid>
+            <pubDate>Mon, 19 Jul 2021 18:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国俄勒冈州山火“布勒格”蔓延 过火面积相当于洛杉矶市面积】据美国媒体当地时间7月19日报道，美国俄勒冈州历史上最大的火灾之一“布勒格”（Bootleg）仍在进一步蔓延扩大，数千人面临疏散影响。气象学家称，近期当地天气极易引发新的火灾。美国山火追踪网站“InciWeb”7月19日公布的数据显示，“布勒格”的过火面积目前已经超过1229平方公里，相当于洛杉矶市面积，目前仅有25%的火情被控制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6437381.d.html</link>
+            <guid>2245310</guid>
+            <pubDate>Mon, 19 Jul 2021 18:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【病毒动摇对经济复苏的信心，美油期货一度下跌8.3％】① 美油期货周一跌幅高达8.3%，创下3月以来最大单日跌幅。欧佩克及其盟友同意每月增加40万桶的石油供应。与此同时，Delta变体病毒的蔓延正在更广泛的市场上引发一种避险情绪，并以新的全球流动性限制威胁着石油需求；② 世界各国都在应对新的Covid-19病例激增，因为这种传染性很强的Delta变种会推高感染率。印尼的每日病例数超过了印度和巴西。美国的感染率超过了全球的增长率，星期六英国报告了一月以来的大多数病例；③ 国际能源机构石油工业和市场部主管托里尔·博索尼说，过去两周，油价一直波动，而欧佩克+仍在为市场增加供应而争论不休。这项协议是在沙特阿拉伯和阿联酋就阿联酋提出的更为慷慨的产量限制达成妥协后于本周末达成的。随着竞争对手石油供应的增长，欧佩克明年将面临一系列“新的挑战”。 由于其他生产商的供应没有参与交易，而需求又出现季节性下跌；④ Oanda Corp.高级市场分析师埃德·莫亚（Ed Moya）表示，需求方面确实受到了很大冲击；而在供应方面，我们获得了更多的原油桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7833803.d.html</link>
+            <guid>2245309</guid>
+            <pubDate>Mon, 19 Jul 2021 18:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏上半年GDP增长13.2%，先进制造业与生产性服务业引领提质增效】7月19日，江苏省统计局对外通报，2021年上半年江苏实现生产总值55199.63亿元，同比增长13.2%；完成一般公共预算收入5647亿元，同比增长19.1%。上半年江苏GDP两年平均增长6.9%，比一季度加快了0.5个百分点，也高于2019年上半年6.5%的同期增速，经济已恢复到疫情前水平。工业是江苏经济长期保持全国前列的法宝之一。上半年，江苏工业生产者出厂价格增长，高新技术产业持续快速增长。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6437159.d.html</link>
+            <guid>2245308</guid>
+            <pubDate>Mon, 19 Jul 2021 18:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Odeon Capital：将美国银行(BAC.N)评级从买进下调至持有，目标价36.33美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7833525.d.html</link>
+            <guid>2245307</guid>
+            <pubDate>Mon, 19 Jul 2021 18:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[部分美股新能源车股拉升。小鹏汽车涨2%，蔚来汽车涨1.5%，Workhorse、Fisker涨0.7%，理想汽车涨0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7833497.d.html</link>
+            <guid>2245306</guid>
+            <pubDate>Mon, 19 Jul 2021 18:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zoom(ZM.O)跌3.6%，该公司拟以约147亿美元收购云软件提供商Five9。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6436522.d.html</link>
+            <guid>2245305</guid>
+            <pubDate>Mon, 19 Jul 2021 18:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非单日为223969人接种了疫苗，创纪录新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6436508.d.html</link>
+            <guid>2245304</guid>
+            <pubDate>Mon, 19 Jul 2021 18:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【油价引领市场暴跌疫情蔓延】① 纽约原油期货周一一度下跌8.3％，创下3月份以来的最大盘中跌幅。 OPEC及其盟友同意每月供应增加40万桶与此同时，Delta变量的利差正在加剧 避险情绪 以及全球范围内新的出行限制，威胁到石油需求；② IEA石油工业和市场部门主管Toril Bosoni说：“油价过去两周一直在波动，而OPEC+仍在为市场增加供应而争论不休，在本周末达成了协议。 OPEC+表示，随着竞争对手的供应增加，明年OPEC+将面临新的挑战” ；③ 虽然石油供应势将增加，但世界各国正在应对Covid-19作为高度传染性Delta变种的新病例激增。印尼的日病例数超过了印度和巴西。美国的感染率超过了全球增速，英国上周六报告的病例数为1月份以来最多；④ Ed Moya，Oanda Corp.的高级市场分析师称，需求的确在这里受到了很大的冲击，在供应方面，我们正在获得更多的原油。此举背后的势头可能变得难看。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6436501.d.html</link>
+            <guid>2245303</guid>
+            <pubDate>Mon, 19 Jul 2021 18:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加拿大延长了对印度航班的禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6436390.d.html</link>
+            <guid>2245302</guid>
+            <pubDate>Mon, 19 Jul 2021 17:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 8月黄金期货收跌0.3%，连续第二个交易日下跌，报1809.20美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6436361.d.html</link>
+            <guid>2245301</guid>
+            <pubDate>Mon, 19 Jul 2021 17:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员柯林斯：不能在周三的最后期限前解决基建计划问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7832634.d.html</link>
+            <guid>2245300</guid>
+            <pubDate>Mon, 19 Jul 2021 17:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国共和党参议员柯林斯：议员们将于今晚就基建问题举行会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6436049.d.html</link>
+            <guid>2245299</guid>
+            <pubDate>Mon, 19 Jul 2021 17:52:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【9个月被缉获36万副 美国假AirPods泛滥 或令苹果损失32亿美元】美国海关称随着苹果AirPods的流行，假无线耳机随之泛滥。仅9个月的时间，美国就缉获了360000副假无线耳机。据估计，假AirPods可能让苹果在美国损失了32亿美元的销售额。为了防止假货泛滥，苹果向美国海关提供了显微镜、探测器等设备，与其一起打击假苹果产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7832544.d.html</link>
+            <guid>2245298</guid>
+            <pubDate>Mon, 19 Jul 2021 17:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国家经济研究局：美国2020年经济衰退持续了两个月】美国国家经济研究局商业周期测年委员会在周一的公告中表示，美国由新冠疫情引起的衰退在2020年4月结束，成为美国有史以来最短的一次衰退。就业和生产的所有关键指标都“明确指出2020年4月是谷底”。此次衰退之前，美国经济经历10.5年的扩张，为1854年有记录以来最长的一次。之前最短的衰退发生在1980年，持续6个月。]]></title>
+            <guid>2245297</guid>
+            <pubDate>Mon, 19 Jul 2021 17:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通首席全球市场策略师：通货再膨胀交易将很快复苏】摩根大通的首席全球市场策略师Marko Kolanovic表示，近期经济好转受益股的抛售已经过度，跌势逆转近在眼前。德尔塔变种毒株迅速蔓延，以及人们对美国经济增长见顶的担忧加剧，导致所谓的通货再膨胀交易周一遭遇了加速平仓。交易员一直在涌入被视为避风港的科技等增长板块。但Kolanovic认为，随着全球经济从疫情中复苏，受益于通胀加快的价值股将进一步上涨。“我们预计，随着对德尔塔变种毒株的恐惧减轻，并且持续出现通胀超出预期，通货再膨胀交易（周期性股票、债券收益率、高贝塔股票、通货再膨胀和重新开放主题）将很快反弹。”]]></title>
+            <guid>2245296</guid>
+            <pubDate>Mon, 19 Jul 2021 17:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中企赴美上市出现变局，今年超六成新股破发】在市场和监管环境不确定性增加的背景下，近期已有多家中企终止了赴美IPO的进程。截至7月19日，今年共有38家中国企业在美股上市，其中20家发行的是存托凭证，18家发行的是普通股。38只中概股中，已有24只破发，破发率达到63%。破发幅度最大的是智能通讯云服务商容联易通，发行价为16美元/股，但截至目前公司股价仅为5美元/股，较发行价跌去64.75%。（21世纪）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6435405.d.html</link>
+            <guid>2245295</guid>
+            <pubDate>Mon, 19 Jul 2021 17:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时将对夏季度假返回人员加强入境管控 大型聚集活动也将受限】当地时间19日，比利时联邦新冠疫情协商委员会举行了最新一次会议。在会后的新闻发布会上，比利时首相德克罗宣布，将对夏季度假结束后返回比利时的人员加强入境管控。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7831907.d.html</link>
+            <guid>2245294</guid>
+            <pubDate>Mon, 19 Jul 2021 17:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【动力煤供需端整体呈现缺口 业内人士：煤炭期价或将维持高位震荡】近日，全国碳排放权交易启动和发改委准备投放超1000万吨煤炭两则消息备受关注，多位分析人士认为，这实则是产业围绕“双碳”目标所展开的实质行动。与此同时，自今年以来，由于以动力煤为首的黑色系品种期价呈现出高位震荡之势，不少产业企业则在其过程中经历了一轮风险考验。有专家告诉记者，由于煤炭在我国能源体系中的主体地位短期不可能改变，从供需端来看，煤炭期价或将维持高位震荡之势。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6435181.d.html</link>
+            <guid>2245293</guid>
+            <pubDate>Mon, 19 Jul 2021 17:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Robinhood更新招股书 估值或达350亿美元】美国在线券商Robinhood更新招股书。公司将IPO发行价区间定在每股38至42美元。基于42美元上限，Robinhood Markets此次IPO将最多融资23亿美元，最高目标估值达到350亿美元。招股书显示，Robinhood将发行5240万股A类普通股，公司创始人和首席财务官将在首次公开募股中额外出售263万股A类普通股。所得款项将用于偿还借款、营运资金、资本支出及一般公司用途。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6435063.d.html</link>
+            <guid>2245292</guid>
+            <pubDate>Mon, 19 Jul 2021 17:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股邮轮概念股全线下挫。挪威邮轮、嘉年华邮轮跌超5%，皇家加勒比邮轮跌4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7831579.d.html</link>
+            <guid>2245291</guid>
+            <pubDate>Mon, 19 Jul 2021 17:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宝格丽：即日起终止与吴亦凡的合作关系】7月20日，宝格丽官方微博发布消息称，宝格丽针对吴亦凡的相关事件予以高度重视，决定从即日起终止与吴亦凡的合作关系。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6435013.d.html</link>
+            <guid>2245290</guid>
+            <pubDate>Mon, 19 Jul 2021 17:41:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大将于8月9日向完全接种疫苗的美国游客开放边境，并于9月7日将范围扩大至所有国际游客。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6434840.d.html</link>
+            <guid>2245289</guid>
+            <pubDate>Mon, 19 Jul 2021 17:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fairlead Strategies创始人Katie Stockton：自6月中旬出现为期四天的回调以来，标普500指数在今天上午首次跌破20日均线。目前出现短期下行势头，但我们认为回调将是暂时的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6434564.d.html</link>
+            <guid>2245288</guid>
+            <pubDate>Mon, 19 Jul 2021 17:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国央行政策委员称收紧政策“不宜过早”】英国央行货币政策委员曼恩在英国议会财政委员会作证时发表讲话称，货币政策可以发挥的作用是在收紧方面不过早，我们可以在全球金融危机之后的这段时间吸取教训。当时有人担心通胀上升，人们担心通胀会持久，人们对债务负担是否可持续持怀疑态度。这段时间的教训是，全球经济损失的GDP从未恢复过。经济增速曾恢复到金融危机前水平，但全球GDP出现了大约5-7％的损失。这些损失不成比例地由年轻人承担。我们不想这种情况在疫情后重演，决策者在收紧货币政策方面不应过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6434363.d.html</link>
+            <guid>2245287</guid>
+            <pubDate>Mon, 19 Jul 2021 17:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：正在监控运动员的新冠病毒感染情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6434146.d.html</link>
+            <guid>2245286</guid>
+            <pubDate>Mon, 19 Jul 2021 17:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国报告新增4151例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7830445.d.html</link>
+            <guid>2245285</guid>
+            <pubDate>Mon, 19 Jul 2021 17:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MSCI新兴市场货币指数跌至1719.06，为近三个月来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7830073.d.html</link>
+            <guid>2245284</guid>
+            <pubDate>Mon, 19 Jul 2021 17:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投资公司Ally Invest首席策略师Lindsey Bell：在经历了几个月的平静后，今天的股市下跌让人感觉异常动荡。但在过去几周内，随着人们的担忧从通胀失控转向经济增长（可能见顶），人们一直在稳步轮换至居家概念板块。德尔塔变种毒株可能是压到骆驼的那根稻草。抛售的催化剂可能更多来自势头暂停，而不是对前景的真正担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6433261.d.html</link>
+            <guid>2245283</guid>
+            <pubDate>Mon, 19 Jul 2021 17:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家经济研究局（NBER）：美国经济衰退持续了两个月，已于2020年4月结束；美国2020年的经济衰退是有记录以来最短的一次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6433213.d.html</link>
+            <guid>2245282</guid>
+            <pubDate>Mon, 19 Jul 2021 17:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安联首席经济学家埃里安：投资者有两个担忧，一是对市场技术面的担忧，二是对增长的担忧。这就是所有资产类别显示出的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7829700.d.html</link>
+            <guid>2245281</guid>
+            <pubDate>Mon, 19 Jul 2021 17:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场分析：随着新冠疫情给经济复苏蒙上阴影，投资者纷纷涌入避险资产，全球股市大幅下挫，同时地缘政治的紧张局势升级。大宗商品、金融和工业股领跌标普500指数，并创下5月以来最大跌幅。此外，由于担心进一步的旅游限制升级，航空公司和邮轮运营商股价也暴跌。]]></title>
+            <guid>2245280</guid>
+            <pubDate>Mon, 19 Jul 2021 17:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韦德布什分析师Sahak Manuelian：德尔塔变种毒株目前受到很多关注，被认为是股市走软的原因。另一个（股市下挫的）原因是，估值和增长都达到峰值。第三个原因是地缘政治紧张局势，这可能是最令人不安的因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7829669.d.html</link>
+            <guid>2245279</guid>
+            <pubDate>Mon, 19 Jul 2021 17:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 美联储在固定利率逆回购中接纳了8650亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7829662.d.html</link>
+            <guid>2245278</guid>
+            <pubDate>Mon, 19 Jul 2021 17:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【张坤旗下4只基金二季度持仓下降 减配五粮液贵州茅台】7月20日凌晨， 张坤管理的4只基金公布了二季报。从行业配置来看，上述4只产品在二季度股票仓位均有下降，但调仓路径各异。其中，易方达蓝筹精选降低了计算机等行业的配置，增加了电子等行业的配置。该基金在二季度对香港交易所、腾讯控股、泸州老窖、洋河股份进行了增持，并减持了五粮液、贵州茅台、美团。截至二季度末，香港交易所已取代五粮液成为其第一大重仓股。二季度同时降低计算机等行业的配置。易方达优质企业三年持有二季度增加了医药、银行等的配置。与之相反的是，易方达中小盘却增加了计算机等行业的配置，同时降低了食品饮料等的配置。值得一提的是，该基金二季度大幅下调仓位，从一季度末的93.93%下降至二季度末的70.36%，虽然前十大重仓股名单与一季度末并无变化，但张坤对该基金持有的通策医疗、五粮液、贵州茅台等多只个股进行了减持。同期，易方达亚洲精选降低了消费等行业的配置，增加了银行、地产等行业的配置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7829613.d.html</link>
+            <guid>2245277</guid>
+            <pubDate>Mon, 19 Jul 2021 17:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国内有色金属期货收盘普跌，沪镍主力合约跌3.28%，沪铝主力合约跌2.04%，沪锡主力合约跌1.97%，沪铜主力合约跌1.86%，沪铅主力合约跌1.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6432333.d.html</link>
+            <guid>2245276</guid>
+            <pubDate>Mon, 19 Jul 2021 17:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货9月合约跌幅扩大至8%，现报66.07美元/桶，较今年高点已跌超10美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7828701.d.html</link>
+            <guid>2245275</guid>
+            <pubDate>Mon, 19 Jul 2021 17:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增7209例新冠肺炎确诊病例，累计确诊2302304例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6432227.d.html</link>
+            <guid>2245274</guid>
+            <pubDate>Mon, 19 Jul 2021 17:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货跌破69美元/桶，日内当前跌幅达到6.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6432099.d.html</link>
+            <guid>2245273</guid>
+            <pubDate>Mon, 19 Jul 2021 17:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[必和必拓旗下智利矿场Cerro Colorado工会开始谈判薪酬问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7828496.d.html</link>
+            <guid>2245272</guid>
+            <pubDate>Mon, 19 Jul 2021 17:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场分析：随着新冠疫情给经济复苏蒙上阴影，投资者纷纷涌入避险资产，全球股市大幅下挫，同时地缘政治的紧张局势升级。大宗商品、金融和工业股领跌标普500指数，并创下5月以来最大跌幅。此外，由于担心进一步的旅游限制升级，航空公司和邮轮运营商股价也暴跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6431961.d.html</link>
+            <guid>2245271</guid>
+            <pubDate>Mon, 19 Jul 2021 17:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【丹麦王储与新冠感染者有密切接触 将不会出席东京奥运会】当地时间7月19日，丹麦广播电视台(DR)报道，丹麦王储弗雷德里克不得不取消东京奥运之行，因为王储与新冠肺炎感染者有密切接触。由于东京奥运会有严格的检疫要求，这意味着王储没有机会前往日本。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7828286.d.html</link>
+            <guid>2245270</guid>
+            <pubDate>Mon, 19 Jul 2021 17:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美股经纪商Robinhood宣布将于7月24日进行IPO路演。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6431849.d.html</link>
+            <guid>2245269</guid>
+            <pubDate>Mon, 19 Jul 2021 17:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登称通胀是“暂时的”，并表示尊重美联储独立性】① 美国总统拜登周一在白宫表示，近期的物价上涨是“暂时的”，但美联储“应该采取其认为必要的任何步骤来支持强劲持久的经济复苏”；② 拜登发表上述言论之际，共和党人正抨击他的经济议程，称增加政府支出将导致通胀失控。美国上月物价创下逾12年来的最大涨幅，消费者价格同比上涨5.4％。众议院共和党人竞选团队在7月4日假期前后针对选情脆弱的民主党人投放在线广告，抨击“汉堡、面包、丙烷、天然气”的价格上涨；③ 拜登的讲话也正值其4万亿美元经济计划进入关键时刻。由两党共同支持的5790亿美元基础设施一揽子方案正在紧锣密鼓完成中，预计周三将进行试投票。上述截止日期也旨在迫使民主党人团结在该党3.5万亿美元的预算蓝图周围，其中包括总统的许多社会支出优先事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7828255.d.html</link>
+            <guid>2245268</guid>
+            <pubDate>Mon, 19 Jul 2021 17:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心将对前往英国的旅行者的警告级别提高到最高的4级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7828191.d.html</link>
+            <guid>2245267</guid>
+            <pubDate>Mon, 19 Jul 2021 17:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦铜收跌逾2%，伦镍收跌逾3%，在新冠疫情拖累欧美股市暴跌之际，投资者逃离周期股】LME期铜收跌205美元，跌幅大约2.2%，报9222美元/吨。LME期铝收跌63美元，报2426美元/吨。LME期锌收跌26美元，报2977美元/吨。LME期铅收跌35美元，报2285美元/吨。LME期镍收跌608美元，跌幅大约3.2%，报18462美元/吨。LME期锡收跌220美元，报33380美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6431764.d.html</link>
+            <guid>2245266</guid>
+            <pubDate>Mon, 19 Jul 2021 17:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概股盘中持续走低。新东方跌超10%，荔枝跌7%，滴滴跌6.8%，网易有道、贝壳跌5%，拼多多跌3.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7827927.d.html</link>
+            <guid>2245265</guid>
+            <pubDate>Mon, 19 Jul 2021 16:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际油价下跌，美股石油股跌幅居前。菲利普斯66跌5%，哈利伯顿跌4.8%，埃克森美孚石油跌4.5%，康菲石油、英国石油跌4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6431441.d.html</link>
+            <guid>2245264</guid>
+            <pubDate>Mon, 19 Jul 2021 16:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国抗疫概念板块逆市走高。联合保健产品(AHPI.O)涨31.7%，诺瓦瓦克斯医药(NVAX.O)涨11.6%，Ocugen(OCGN.O)涨7.6%，Moderna(MRNA.O)涨6.3%，BioNTech SE(BNTX.O)涨2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6431430.d.html</link>
+            <guid>2245263</guid>
+            <pubDate>Mon, 19 Jul 2021 16:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内已有14家信托公司被罚，总金额超4700万元】近日，银保监会官网公布了一张信托监管罚单，中泰信托因三项违规事实被罚150万元，成为今年下半年首家被罚的信托公司。据不完全统计，今年以来，监管部门已对14家信托公司（包括四川信托、中海信托、兴业信托等）开出罚单，被罚金额总计超4700万元，其中7家信托公司被罚金额超百万元，也不乏个别信托公司连续受到处罚，呈现出“严监管”的主基调。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7827664.d.html</link>
+            <guid>2245262</guid>
+            <pubDate>Mon, 19 Jul 2021 16:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【电报|张坤又选凌晨“出场”：二季度在管规模达1345亿 蓝筹精选大扩容至899亿】今日凌晨，张坤管理的易方达蓝筹精选、易方达中小盘、易方达优质企业三年持有、易方达亚洲精选4只产品二季报悉数出炉。数据显示，截至二季度末，张坤的管理规模达到1344.78亿元，较上季度末的1331.09亿元略有增加。其中，易方达蓝筹精选二季度末的规模达到了898.89亿元，较前一季度末的880.16亿元增加了18.73亿元。易方达中小盘规模则为287.01亿元，较前一季度末的314.64亿元缩水27.63亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7827542.d.html</link>
+            <guid>2245261</guid>
+            <pubDate>Mon, 19 Jul 2021 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油期货短线下挫逾0.5美元，WTI原油期货9月合约报66.42美元/桶，布伦特原油期货报68.73美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7827046.d.html</link>
+            <guid>2245260</guid>
+            <pubDate>Mon, 19 Jul 2021 16:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【公安部：上半年私家小客车肇事上升态势明显】从公安部交通管理局获悉，今年上半年，全国道路交通安全形势总体平稳，但私家小客车肇事呈明显上升态势，肇事导致人员伤亡的道路交通事故同比上升23.2%。事故调查结果显示，私家车肇事主要原因是未按规定让行、酒驾醉驾、未保持安全车距、超速行驶、逆行、违反交通信号、违法超车、无证驾驶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6430573.d.html</link>
+            <guid>2245259</guid>
+            <pubDate>Mon, 19 Jul 2021 16:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX最活跃WTI原油主力期货合约北京时间7月20日00:42一分钟内买卖盘面瞬间成交7147手，交易合约总价值4.75亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6430533.d.html</link>
+            <guid>2245258</guid>
+            <pubDate>Mon, 19 Jul 2021 16:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【量子计算应用场景占比不到2% 量子计算虽好 成熟商用仍需10年？】量子计算机计算时需要处于低温环境，豪K级。而1K温度相当于零下272摄氏度。加拿大量子计算企业D-Wave的一台量子计算退火机售价在1000万~1500万美元间。目前90%以上的应用场景仍需依靠传统计算机芯片，而量子芯片只能解决应用场景中1%~2%的难题。“通用”量子计算机预计成熟期可能需要10年甚至更久。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7826929.d.html</link>
+            <guid>2245257</guid>
+            <pubDate>Mon, 19 Jul 2021 16:43:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指跌超900点，成分股全线下挫，波音跌超5%，为表现最差成分股；标普500指数跌2%，纳指跌1.43%。]]></title>
+            <guid>2245256</guid>
+            <pubDate>Mon, 19 Jul 2021 16:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：接种疫苗有93%-94%的概率得到保护。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7826764.d.html</link>
+            <guid>2245255</guid>
+            <pubDate>Mon, 19 Jul 2021 16:41:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：社会保障计划的出台不需要等待太久。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6430183.d.html</link>
+            <guid>2245254</guid>
+            <pubDate>Mon, 19 Jul 2021 16:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  强生(JNJ.N)：季度股息为1.06美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6429969.d.html</link>
+            <guid>2245253</guid>
+            <pubDate>Mon, 19 Jul 2021 16:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：接种疫苗普遍来说可以受保护，但这不是绝对的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7826359.d.html</link>
+            <guid>2245252</guid>
+            <pubDate>Mon, 19 Jul 2021 16:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（7月19日）欧市尾盘，德国10年期国债收益率跌3.2个基点，报-0.386%，美股盘初一度走软至-0.402%，创2月12日以来盘中新低。法国10年期国债收益率跌2.3个基点，报-0.039%，美股盘初一度走软至-0.057%，创4月12日以来盘中新低。英国10年期国债收益率跌6.6个基点，报0.560%，美股盘初曾走软至0.516%，创2月12日以来新低。意大利10年期国债收益率涨0.5个基点，报0.713%。西班牙10年期国债收益率跌1.0个基点，报0.277%。希腊10年期国债收益率涨0.8个基点，报0.693%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6429831.d.html</link>
+            <guid>2245251</guid>
+            <pubDate>Mon, 19 Jul 2021 16:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：德尔塔变种毒株越来越占据主导地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6429720.d.html</link>
+            <guid>2245250</guid>
+            <pubDate>Mon, 19 Jul 2021 16:33:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【特斯拉推出Megapack订购页面】据媒体报道，特斯拉(TSLA.O)正式为Megapack电池组推出新的订购和定价页面。Megapack用于公用事业规模的能源存储，这是首次公开定价，此前仅向企业销售。在加州，Megapack起售价为1,235,890美元，不包含每年的维护费用和税费。目前Megapack不在美国以外地区销售。加州、内华达州和得州的Megapack将在2022年开始发货，其他州需要等到2023年或者更晚。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7825968.d.html</link>
@@ -118,489 +600,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7824471.d.html</link>
             <guid>2245231</guid>
             <pubDate>Mon, 19 Jul 2021 16:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄总理米舒斯京在普京总统主持召开的战略发展和国家项目委员会会议上发言时宣布：展开国产系列电动汽车研发推出工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6427939.d.html</link>
-            <guid>2245230</guid>
-            <pubDate>Mon, 19 Jul 2021 16:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：高盛(GS.N)将扩大对日本办公楼和数据中心等另类资产的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6427911.d.html</link>
-            <guid>2245229</guid>
-            <pubDate>Mon, 19 Jul 2021 16:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：将放宽一些关键工作人员的隔离规定，必须保护关键的服务部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6427737.d.html</link>
-            <guid>2245228</guid>
-            <pubDate>Mon, 19 Jul 2021 16:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：新冠肺炎的死亡和住院人数都在科学家一开始预测的范围之内 。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqcfnca7823968.d.html</link>
-            <guid>2245227</guid>
-            <pubDate>Mon, 19 Jul 2021 16:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚将8月邦尼轻质原油的官方售价定为较布伦特原油价格升水0.43美元/桶。]]></title>
-            <guid>2245226</guid>
-            <pubDate>Mon, 19 Jul 2021 16:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员曼恩：担心僵尸公司之所以能够生存下去，是因为人们对失业的担忧，而这是低工资的根源。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6426762.d.html</link>
-            <guid>2245225</guid>
-            <pubDate>Mon, 19 Jul 2021 16:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行委员曼恩：许多低生产率企业的生存时间远远超出了它们应有的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6426713.d.html</link>
-            <guid>2245224</guid>
-            <pubDate>Mon, 19 Jul 2021 16:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：美联储应该采取它认为经济复苏所必需的任何措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-20/detail-ikqciyzk6426655.d.html</link>
-            <guid>2245223</guid>
-            <pubDate>Mon, 19 Jul 2021 16:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登称他向鲍威尔明确表示美联储是独立的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822780.d.html</link>
-            <guid>2245222</guid>
-            <pubDate>Mon, 19 Jul 2021 15:54:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美联储是独立的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6426300.d.html</link>
-            <guid>2245221</guid>
-            <pubDate>Mon, 19 Jul 2021 15:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：对潜在的不受控制的通胀保持警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822693.d.html</link>
-            <guid>2245220</guid>
-            <pubDate>Mon, 19 Jul 2021 15:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见阿盟秘书长盖特】当地时间7月18日，国务委员兼外长王毅在阿拉曼会见阿盟秘书长盖特。王毅表示，中方支持阿拉伯国家走团结自强道路，中阿双方达成“努力携手打造面向新时代的中阿命运共同体”的共识，一致同意召开首届中阿峰会，为中阿战略伙伴关系发展注入强大动力。盖特表示，阿盟赞赏中方在地区问题上秉持的正义立场，支持中方就地区形势和热点问题提出的各项倡议，愿同中方密切沟通，确保首届阿中峰会成功召开。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822636.d.html</link>
-            <guid>2245218</guid>
-            <pubDate>Mon, 19 Jul 2021 15:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：大多数物价上涨是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822617.d.html</link>
-            <guid>2245217</guid>
-            <pubDate>Mon, 19 Jul 2021 15:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构总干事格罗西：伊朗是自愿保存核数据的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6426177.d.html</link>
-            <guid>2245216</guid>
-            <pubDate>Mon, 19 Jul 2021 15:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构总干事格罗西：伊朗仍然拒绝延长监督协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6426169.d.html</link>
-            <guid>2245215</guid>
-            <pubDate>Mon, 19 Jul 2021 15:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：在疫苗接种率低的社区，新冠肺炎确诊病例有所上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822581.d.html</link>
-            <guid>2245214</guid>
-            <pubDate>Mon, 19 Jul 2021 15:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：自从6个月前上任以来，新增岗位从每月新增6万个变成到每三天新增6万。这是有史以来任何一届政府中就业增长速度最快的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822572.d.html</link>
-            <guid>2245213</guid>
-            <pubDate>Mon, 19 Jul 2021 15:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国疫苗大臣扎哈维：鼓励企业使用新冠疫苗通行证。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822493.d.html</link>
-            <guid>2245212</guid>
-            <pubDate>Mon, 19 Jul 2021 15:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【明日飞往太空，贝索斯表示现在一点不紧张】7月20日，贝索斯旗下太空探索公司“蓝色起源”将进行首次“载客”飞行，提供太空游服务。届时贝索斯将连同其他三位乘客一起飞往太空。对此，贝索斯今日在接受媒体采访时表示：“人们不停地问我，是否紧张。我真的不紧张。我很兴奋，也很好奇。我想知道我们将要学到一些什么东西。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822472.d.html</link>
-            <guid>2245211</guid>
-            <pubDate>Mon, 19 Jul 2021 15:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：需要问的是，货币政策在推动投资、应对英国脱欧、新冠疫情和气候变化方面可以发挥什么作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6426041.d.html</link>
-            <guid>2245210</guid>
-            <pubDate>Mon, 19 Jul 2021 15:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国疫苗大臣扎哈维：在一些关键岗位上，已接种两剂疫苗的人不需要自我隔离。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822362.d.html</link>
-            <guid>2245209</guid>
-            <pubDate>Mon, 19 Jul 2021 15:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国疫苗大臣扎哈维：如果没有潜在的健康状况，目前不会开始为18岁以下儿童接种疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425934.d.html</link>
-            <guid>2245208</guid>
-            <pubDate>Mon, 19 Jul 2021 15:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国疫苗大臣扎哈维：已要求英国国家医疗服务系统（NHS）尽快为符合条件的人准备接种疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425863.d.html</link>
-            <guid>2245207</guid>
-            <pubDate>Mon, 19 Jul 2021 15:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：英国在新冠疫情爆发前的经济增长率并不高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425816.d.html</link>
-            <guid>2245206</guid>
-            <pubDate>Mon, 19 Jul 2021 15:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国疫苗大臣扎哈维：18-30岁年龄段人群的疫苗接种率太低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425804.d.html</link>
-            <guid>2245205</guid>
-            <pubDate>Mon, 19 Jul 2021 15:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据特斯拉(TSLA.O)在线设计工作室称，市场对长续航全轮驱动型Model 3的需求持续飙升，新订单的交付日期被推迟到11月。 目前，Model 3配置的预期交付时间为10-16周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822137.d.html</link>
-            <guid>2245204</guid>
-            <pubDate>Mon, 19 Jul 2021 15:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国疫苗大臣扎哈维：我们正在制定接种疫苗加强剂计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425742.d.html</link>
-            <guid>2245203</guid>
-            <pubDate>Mon, 19 Jul 2021 15:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：我们不希望再次陷入全球金融危机后出现的永久性损失的局面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822114.d.html</link>
-            <guid>2245202</guid>
-            <pubDate>Mon, 19 Jul 2021 15:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  小鹏汽车发布公告，于2021年7月19日因部分行使超额配股权而发行1208.33万股，每股发行价为165港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7822095.d.html</link>
-            <guid>2245201</guid>
-            <pubDate>Mon, 19 Jul 2021 15:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】德国DAX30指数7月19日（周一）收盘下跌417.76点，跌幅2.69%，报15122.55点；英国富时100指数7月19日（周一）收盘下跌162.89点，跌幅2.32%，报6845.20点；法国CAC40指数7月19日（周一）收盘下跌164.11点，跌幅2.54%，报6295.97点；欧洲斯托克50指数7月19日（周一）收盘下跌110.05点，跌幅2.73%，报3925.72点；西班牙IBEX35指数7月19日（周一）收盘下跌204.20点，跌幅2.40%，报8302.00点；意大利富时MIB指数7月19日（周一）收盘下跌824.28点，跌幅3.32%，报23968.50点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425681.d.html</link>
-            <guid>2245200</guid>
-            <pubDate>Mon, 19 Jul 2021 15:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧股大幅收跌 主要股指均跌逾2%】德国DAX30指数跌2.6%，英国富时100指数跌2.32%，法国CAC40指数跌2.54%，欧洲斯托克50指数跌2.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425655.d.html</link>
-            <guid>2245199</guid>
-            <pubDate>Mon, 19 Jul 2021 15:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：到年底，俄罗斯的通胀率可能达到5%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425628.d.html</link>
-            <guid>2245198</guid>
-            <pubDate>Mon, 19 Jul 2021 15:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：我们收紧货币政策的时机不能过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425602.d.html</link>
-            <guid>2245197</guid>
-            <pubDate>Mon, 19 Jul 2021 15:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：全球金融危机后，人们担心通胀上升和债务持续存在，经验教训表明，GDP从未得到复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425590.d.html</link>
-            <guid>2245196</guid>
-            <pubDate>Mon, 19 Jul 2021 15:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国将只给身体最脆弱的儿童接种新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821818.d.html</link>
-            <guid>2245195</guid>
-            <pubDate>Mon, 19 Jul 2021 15:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快递公司6月经营月报出炉：圆通营收增速超顺丰，行业陷入价格战】从发布了6月经营简报的四家快递公司来看，顺丰、韵达、圆通、和申通营收分别为151.24亿元、33.09亿元、31.22亿元和19.23亿元。但从营收同比增速来看，圆通位列最高，达22.99%。除了规模稳定增长，行业价格战仍在继续。以顺丰为例，2月、3月、4月、5月和6月的单票收入均低于16元，而去年同期单票收入则超过18元。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425276.d.html</link>
-            <guid>2245194</guid>
-            <pubDate>Mon, 19 Jul 2021 15:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：不认为通胀会螺旋上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425233.d.html</link>
-            <guid>2245193</guid>
-            <pubDate>Mon, 19 Jul 2021 15:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：大多数预测都不认为劳动力市场的紧俏程度会与GDP增长速度相匹配。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425226.d.html</link>
-            <guid>2245192</guid>
-            <pubDate>Mon, 19 Jul 2021 15:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利7月19日报告新增2072例新冠肺炎确诊病例，新增7例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821452.d.html</link>
-            <guid>2245191</guid>
-            <pubDate>Mon, 19 Jul 2021 15:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至23:23，WSB上讨论度最高的股票TOP 10分别是英伟达(NVDA.O)、ContextLogic (WISH.O)、苹果(AAPL.O)、维珍银河(SPCE.N)、游戏驿站(GME.N)、AMD(AMD.O)、AMC院线(AMC.N)、SOFI(SOFI.O)、特斯拉(TSLA.O)、Palantir(PLTR.N)。NVDA的讨论度从昨日同时段的第11名上升至第1名。]]></title>
-            <guid>2245190</guid>
-            <pubDate>Mon, 19 Jul 2021 15:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率0.050%，投标倍数3.44。拍卖六个月期国债，得标利率0.050%，投标倍数3.50。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821411.d.html</link>
-            <guid>2245189</guid>
-            <pubDate>Mon, 19 Jul 2021 15:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：许多对2023年和2024年的通胀预测显示，通胀率将大幅下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6425056.d.html</link>
-            <guid>2245188</guid>
-            <pubDate>Mon, 19 Jul 2021 15:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：物价上涨已经超过预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821366.d.html</link>
-            <guid>2245187</guid>
-            <pubDate>Mon, 19 Jul 2021 15:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吴亦凡商业版图仅剩1家公司】 吴亦凡（WU YI FAN）共关联4家企业，其中存续状态仅1家，为厦门亿和云起文化传媒合伙企业（有限合伙），持股比例为99.99%，法定代表人为吴林。其余3家显示已注销，注销时间集中在2020年6月至9月，此前吴亦凡持股比例均为99.0%及以上。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821346.d.html</link>
-            <guid>2245186</guid>
-            <pubDate>Mon, 19 Jul 2021 15:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌2.65%，报15136.83点。法国股指初步收跌2.68%，英国股指初步收跌2.28%，意大利股指初步收跌3.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821285.d.html</link>
-            <guid>2245185</guid>
-            <pubDate>Mon, 19 Jul 2021 15:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌2.29%，报444.32点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821272.d.html</link>
-            <guid>2245184</guid>
-            <pubDate>Mon, 19 Jul 2021 15:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OPEC+就基准配额所达成的协议仍有利于沙特和俄罗斯】① 沙特阿拉伯和俄罗斯达成了一项OPEC+增产协议，同时在更宽松配额的问题上部分向阿联酋做出妥协。但利雅得和莫斯科仍将从此次妥协中受益最大。在周日对该组织基准配额--衡量每个成员国减产的基准水平--进行的所有调整中，两个最大的OPEC+成员国上调幅度最大；② 虽然阿联酋的基准日产量将在2022年5月增加约33万桶至350万桶，增幅为10％，但莫斯科和利雅得的基准日产量将分别增加50万桶至1150万桶。这似乎只是学术性的。因沙特仅在极少见的情况下会进行如此多的开采，而国际能源署(IEA)则认为俄罗斯的实际产能为每天1040万桶。然而，这些调整意味着这两个国家将比同盟成员国更快回到疫情之前的产出水平；③ 沙特最早在11月有望将产量恢复到2020年3月的水平--在Covid-19疫情最严重影响之前，也是在价格战短暂推动沙特产量创纪录之前。俄罗斯则将在2022年4月突破这一里程碑，假设40万桶/日的月产量增幅将在石油输出国组织以及其盟友之间按比例分配。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7821015.d.html</link>
-            <guid>2245183</guid>
-            <pubDate>Mon, 19 Jul 2021 15:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧佩克+达成增产协议引发油价创4个月以来最大跌幅】此前欧佩克+每月在增产40万桶/日的协议，因美元上涨和大盘抛售加剧了市场压力，原油成为周一表现最差的大宗商品。石油经纪商PVM分析师Tamas Vargabs，在可预见的未来，石油可能会随着供应方面的发展而变化。德尔塔毒株扩散引发了对经济增长的担忧，对通胀以及因此而产生的利率上升的担忧又重新浮出水面。国际能源署石油行业和市场部门负责人Toril Bosoni表示，随着竞争对手的供应增加，欧佩克+明年将面临一系列新的挑战。由于协议之外的其他原油生产国供应反弹，且需求季节性下降，今年原油库存可能会再次增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7820373.d.html</link>
-            <guid>2245181</guid>
-            <pubDate>Mon, 19 Jul 2021 15:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸单日新增新冠肺炎死亡病例再次刷新纪录】缅甸卫生与体育部7月19日晚发布消息称，在当天检测的13916个样本中，发现5189个新冠肺炎确诊病例，确诊率超过37%，累计确诊234710例。当天新增死亡病例281例，再次刷新缅甸单日新增新冠肺炎死亡病例纪录，而且这也是缅甸在过去半个月中第十次刷新这一纪录，累计死亡5281例。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6423910.d.html</link>
-            <guid>2245180</guid>
-            <pubDate>Mon, 19 Jul 2021 15:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟对俄罗斯国有企业的采购行为在世贸组织发起争端解决程序。欧盟方面认为俄罗斯歧视外国供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7820240.d.html</link>
-            <guid>2245179</guid>
-            <pubDate>Mon, 19 Jul 2021 15:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为18，表明市场处在极度恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6423887.d.html</link>
-            <guid>2245178</guid>
-            <pubDate>Mon, 19 Jul 2021 15:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，7月份美国建筑商信心连续第二个月下滑，从6月份的81下降至80，创下11个月新低。此外衡量当前房屋销售状况和潜在买家流量的指标亦跌至去年8月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7820201.d.html</link>
-            <guid>2245177</guid>
-            <pubDate>Mon, 19 Jul 2021 15:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[财经网站Forexlive分析师Adam Button：与欧佩克达成协议相比，全球疫情反弹造成的油价压力更大。各种变种毒株破坏了复苏的进展，并让市场开始怀疑情况是否真的能够恢复正常。目前石油市场已经遭受重创。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7820182.d.html</link>
-            <guid>2245176</guid>
-            <pubDate>Mon, 19 Jul 2021 15:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安永数据显示，对美国初创企业的投资呈爆炸式增长，今年资金流入有望超过2000亿美元，将轻松打破去年创下的纪录；交易的规模也比以往任何时候都大，因主权财富基金和私募股权正在与传统风险投资公司一起进行投资。安永风险投资业务负责人Jeff Grabow分析称，新冠疫情加剧了这种狂热。去年，随着全球工作、旅行和购物方式发生了变化，初创企业如雨后春笋般涌现，开发新技术以帮助人们适应新的环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6423854.d.html</link>
-            <guid>2245175</guid>
-            <pubDate>Mon, 19 Jul 2021 15:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【路易威登发文：已暂停与吴亦凡的合作关系，直至司法调查结果公布】 路易威登发布微博称，高度重视此次针对吴亦凡先生的指控，并已暂停与吴亦凡先生之合作关系，直至司法调查结果公布。值得关注的是，路易威登回应的措辞上，是“暂停合作关系”，而此前的商家多用“终止合作关系”。至少截至北京时间23:10，路易威登的微博尚未删除有关吴亦凡的宣传消息。此外，保时捷也发布微博称，保时捷中国决定从即日起终止与吴亦凡先生“保时捷中国赛车运动代言人”的合作关系。（每经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7820165.d.html</link>
-            <guid>2245174</guid>
-            <pubDate>Mon, 19 Jul 2021 15:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙卫生部将研究对居民进行第三剂疫苗接种的可能性】根据多家西方媒体当地时间7月19日报道，西班牙卫生大臣达莉亚斯在当天宣布，该国卫生部正在等待研究进展，以决定是否有必要对已完成新冠疫苗接种的居民进行第三剂疫苗接种，以及是否有必要将新冠疫苗接种范围扩大到6至12岁儿童群体。西班牙卫生大臣达莉亚斯在7月19日当天同时报告称，西班牙卫生部的首要目标仍是在8月末之前保证该国70%人口完成新冠疫苗接种，并在2021—2022学年开始前为青少年群体进行疫苗接种，预计西班牙在本周内累计将超过2500万人口完成新冠疫苗免疫接种，这一数字超过该国人口的50%。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6423782.d.html</link>
-            <guid>2245173</guid>
-            <pubDate>Mon, 19 Jul 2021 15:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指跌幅收窄至1%以内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7819622.d.html</link>
-            <guid>2245172</guid>
-            <pubDate>Mon, 19 Jul 2021 15:08:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥股指下跌3%，至5月初以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6423289.d.html</link>
-            <guid>2245171</guid>
-            <pubDate>Mon, 19 Jul 2021 15:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹期货夜盘收跌2.00%，热卷收跌2.42%；铁矿石期货收跌1.02%。焦炭夜盘收跌0.66%，焦煤收跌0.59%，动力煤收涨0.29%。橡胶夜盘收跌4.35%，沥青收跌2.48%。豆粕夜盘收跌1.18%，菜粕收跌1.57%。郑棉夜盘收跌2.18%。]]></title>
-            <guid>2245170</guid>
-            <pubDate>Mon, 19 Jul 2021 15:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国已接种第一剂新冠疫苗人数达46314039人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6423002.d.html</link>
-            <guid>2245169</guid>
-            <pubDate>Mon, 19 Jul 2021 15:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【最新：12家品牌与吴亦凡终止合作】7月19日晚，保时捷官博发文宣布从即日起终止与吴亦凡“保时捷中国赛车运动代言人”的合作关系。至此，已有多家品牌商与吴亦凡解除或终止商务合作，包括韩束、良品铺子、云听app、立白、滋源、得宝、华帝、兰蔻、康师傅冰红茶、王者荣耀、腾讯视频和保时捷。此外，与吴亦凡有合作的部分品牌也已在官方微博中删除相关内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7819228.d.html</link>
-            <guid>2245168</guid>
-            <pubDate>Mon, 19 Jul 2021 15:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增39950例新冠肺炎确诊病例，新增19例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6422869.d.html</link>
-            <guid>2245167</guid>
-            <pubDate>Mon, 19 Jul 2021 15:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货9月合约暴跌7%，现报66.78美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7819037.d.html</link>
-            <guid>2245166</guid>
-            <pubDate>Mon, 19 Jul 2021 15:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货跌超6%，现报69.30美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6422701.d.html</link>
-            <guid>2245165</guid>
-            <pubDate>Mon, 19 Jul 2021 15:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【研究显示：印度雷击发生率过去一年增加34%，气候变化是主因】 《印度斯坦时报》网站当地时间19日报道称，印度科学与环境组织的研究报告显示，过去一年印度的雷击现象增加了34%，不断增加的雷击现象与城市化过度扩张、气候变化有一定联系。研究显示，从去年4月到今年3月，印度共发生雷击现象1850万次，比上一个统计周期的1380万次增长了34%。去年3月至今年4月，多达1697人因雷电事故身亡。专家认为，雷击事件不断增加与气候变化有关，气候变化可能会在全球引发更多的闪电，快速城市化和人口增长助长了雷击灾害天气的发生。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6422624.d.html</link>
-            <guid>2245164</guid>
-            <pubDate>Mon, 19 Jul 2021 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧佩克+妥协达成的协议仍有利于沙特和俄罗斯】沙特和俄罗斯在一定程度上满足了阿联酋更高的基线产量，从而达成了欧佩克+增产协议。但妥协仍然让沙特和俄罗斯占上风。这两个成员国的增产幅度最大，将基线产量从1100万桶/日上调为1150万桶/日，这将意味着两国将比其他成员国更快地恢复到疫情前水平，并在有能力的情况下继续保持更高产量。沙特有望在11月将产量恢复到疫情前水平。而俄罗斯将在明年4月突破这一里程碑，前提是欧佩克+按比例实现每月40万桶/日的增产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7818897.d.html</link>
-            <guid>2245163</guid>
-            <pubDate>Mon, 19 Jul 2021 15:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[研究机构Fundstrat Global Advisors的联合创始人及分析师Thomas Lee表示，投资者在当前的市场上看到的是由新冠肺炎德尔塔变种病毒引发的“7月崩盘”。他认为，德尔塔变种病毒给市场带来的担忧可能会导致标普500指数回调5%，但这将为2021年剩余时间的强劲反弹奠定一定的基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7818369.d.html</link>
-            <guid>2245162</guid>
-            <pubDate>Mon, 19 Jul 2021 14:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，天有教育集团有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6422010.d.html</link>
-            <guid>2245161</guid>
-            <pubDate>Mon, 19 Jul 2021 14:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国在线券商Robinhood预计将在7月29日登陆纳斯达克交易所。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6421799.d.html</link>
-            <guid>2245160</guid>
-            <pubDate>Mon, 19 Jul 2021 14:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【高端装备制造企业京仪装备拟科创板IPO】北京京仪自动化装备技术股份有限公司拟前往科创板上市，国泰君安任其辅导机构。公司官网显示，京仪装备主要产品包括半导体温控装置系列（Chiller）、机器人系列（Wafer Sorter/AMR）、废气处理装置系列（Local Scrubber）等专用设备，现已广泛应用于半导体、LED、LCD等领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7818057.d.html</link>
-            <guid>2245159</guid>
-            <pubDate>Mon, 19 Jul 2021 14:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国安全运输局（TSA）可能会针对能源输送管道发布新版网络安全监管，以回应4月份发生的Colonial Pipeline遭遇网络勒索，可能最早将在周一（7月19日）稍晚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7817949.d.html</link>
-            <guid>2245158</guid>
-            <pubDate>Mon, 19 Jul 2021 14:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国管道网络安全新规定最快将于当地时间周一出台。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6421236.d.html</link>
-            <guid>2245157</guid>
-            <pubDate>Mon, 19 Jul 2021 14:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：负利率尚未对政策产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6420985.d.html</link>
-            <guid>2245156</guid>
-            <pubDate>Mon, 19 Jul 2021 14:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度新冠疫苗接种量达4亿1140万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6420837.d.html</link>
-            <guid>2245155</guid>
-            <pubDate>Mon, 19 Jul 2021 14:40:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：只要通胀不螺旋上升，较长期证券的正通胀溢价与乐观的经济环境相一致，这不是对市场的负面信号。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7817101.d.html</link>
-            <guid>2245154</guid>
-            <pubDate>Mon, 19 Jul 2021 14:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股疫苗概念股表现强势，联合保健产品涨超21%，Aethlon Medic涨超18%，Moderna涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6420782.d.html</link>
-            <guid>2245153</guid>
-            <pubDate>Mon, 19 Jul 2021 14:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：美国的研究显示，各州的前瞻性指引是改善金融状况的最重要工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7816758.d.html</link>
-            <guid>2245152</guid>
-            <pubDate>Mon, 19 Jul 2021 14:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【受暴雨影响 郑州机场30多个航班取消】从河南省郑州机场了解到，受到暴雨影响，截至发稿前，郑州机场有70多个航班出现了不同程度的延误，有30多个进出港航班取消，在延误航班中，有30多个进港航班延误未到郑州。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7816718.d.html</link>
-            <guid>2245151</guid>
-            <pubDate>Mon, 19 Jul 2021 14:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：需要一种“详细的方式”来评估物价。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6420446.d.html</link>
-            <guid>2245150</guid>
-            <pubDate>Mon, 19 Jul 2021 14:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：英国脱欧和新冠疫情可能会影响通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqciyzk6420411.d.html</link>
-            <guid>2245149</guid>
-            <pubDate>Mon, 19 Jul 2021 14:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行新任委员曼恩：量化宽松和负利率等非常规货币政策的有效性在很大程度上取决于国内和全球的经济增长和政策环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-19/detail-ikqcfnca7816642.d.html</link>
-            <guid>2245148</guid>
-            <pubDate>Mon, 19 Jul 2021 14:36:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
