@@ -4,11 +4,77 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Jul 2021 16:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 19:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国新增25624例新冠肺炎确诊病例，新增22例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7455185.d.html</link>
+            <guid>2251963</guid>
+            <pubDate>Sat, 24 Jul 2021 19:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非遭遇极冷寒流 多地低温破历史纪录】据南非国家气象局当地时间7月23日晚通告称，受极冷寒流影响，南非多地最低气温打破历史纪录。南非国家气象局表示该国多地出现大范围结冰现象，24小时内突发低温至少打破19项该国历史低温纪录，北开普省的金伯利地区温度最低，达零下9.9摄氏度。未来低温还将持续一至两天，预计将在7月26日开始出现逐步回暖现象。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7454697.d.html</link>
+            <guid>2251962</guid>
+            <pubDate>Sat, 24 Jul 2021 19:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特领导的联军表示摧毁了也门胡塞武装向沙特南部地区施放的3台无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7454338.d.html</link>
+            <guid>2251961</guid>
+            <pubDate>Sat, 24 Jul 2021 18:56:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南京：定于7月25日上午11:00起对全市常住人口、来宁人员开展第二轮全员核酸检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7453225.d.html</link>
+            <guid>2251960</guid>
+            <pubDate>Sat, 24 Jul 2021 18:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间周六，日本首相菅义伟和法国总统马克龙举行了大约15分钟会议，随后进行了约80分钟的一对一午餐会。菅义伟和马克龙同意加强安全关系，强化在印太地区的合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7451526.d.html</link>
+            <guid>2251959</guid>
+            <pubDate>Sat, 24 Jul 2021 18:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国总统马克龙：2024年巴黎奥运会开幕式将在塞纳河举行】当地时间7月24日，法国总统马克龙在接受法国《队报》采访时表示，他希望2024年巴黎奥运会开幕式独特而具有革命性。开幕式将在塞纳河上，利用河面浮台和两边的河岸共同展开。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8848432.d.html</link>
+            <guid>2251958</guid>
+            <pubDate>Sat, 24 Jul 2021 18:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增12056例新冠肺炎确诊病例，累计确诊2368105例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7449693.d.html</link>
+            <guid>2251957</guid>
+            <pubDate>Sat, 24 Jul 2021 17:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京市委市政府：全面升级管控措施 尽快阻断疫情传播】7月24日上午和晚上，南京市委应对疫情工作领导小组暨市疫情防控指挥部两次召开调度会，并召开全市医疗卫生系统疫情防控视频调度会。会议强调，当前要把防扩散、防外溢作为工作重点，切断传播要全面提速，各项措施要全面提标，关口把控要全面从严，管理手段要全面加强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7447764.d.html</link>
+            <guid>2251956</guid>
+            <pubDate>Sat, 24 Jul 2021 17:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国印第安纳波利斯市发生多起枪击和暴力袭击事件 造成2人死亡多人受伤】美国印第安纳州印第安纳波利斯市当地时间7月24日凌晨发生多起枪击事件和一起暴力袭击事件，造成2人死亡，多人受伤。除此之外，当地警方还报告了另外4起枪击事件，4起枪击事件共造成4人受伤，其中3人情况危急。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8844592.d.html</link>
+            <guid>2251955</guid>
+            <pubDate>Sat, 24 Jul 2021 17:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增12381例新冠肺炎确诊病例，为5月中旬以来最高单日病例报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8842752.d.html</link>
+            <guid>2251954</guid>
+            <pubDate>Sat, 24 Jul 2021 17:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡新增127例本土新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8840907.d.html</link>
+            <guid>2251953</guid>
+            <pubDate>Sat, 24 Jul 2021 16:37:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比特币短线快速拉升，日内涨1.7%至34312美元/枚。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8840018.d.html</link>
@@ -535,72 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7391152.d.html</link>
             <guid>2251582</guid>
             <pubDate>Sat, 24 Jul 2021 08:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯卫生部：俄罗斯“卫星V”新冠疫苗可推荐给所有完成治疗的癌症患者接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8787896.d.html</link>
-            <guid>2251580</guid>
-            <pubDate>Sat, 24 Jul 2021 08:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国政府再延长《紧急状态法》实施期限2个月 直至9月30日】当地时间7月24日，泰国政宪公报网站发布由泰国总理巴育签署的政府公报。公报称，泰国将延长《紧急状态法》实施期限2个月，自8月1日至9月30日。此次是泰国政府自2020年3月26日首次宣布实施《紧急状态法》以来，第13次延长该法案实施期限。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7389157.d.html</link>
-            <guid>2251579</guid>
-            <pubDate>Sat, 24 Jul 2021 07:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京新增1128例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7388372.d.html</link>
-            <guid>2251578</guid>
-            <pubDate>Sat, 24 Jul 2021 07:49:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东京奥运会首次出现完赛选手确诊新冠，感染者已退出赛事】7月24日消息，荷兰赛艇运动员弗洛林（Finn Florijn）新冠病毒检测呈阳性，因此将退出东京奥运会。弗洛林成为本届赛事首位出赛后确诊新冠的参赛选手，东京奥组委正确认他是否传染给其他代表团成员。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7387377.d.html</link>
-            <guid>2251575</guid>
-            <pubDate>Sat, 24 Jul 2021 07:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本和法国将加强印太地区的防务关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8784456.d.html</link>
-            <guid>2251574</guid>
-            <pubDate>Sat, 24 Jul 2021 07:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华为张小军：政务、金融、医疗、制造将是区块链主流领域市场】华为区块链首席战略官张小军今日在杭州2021世界区块链大会上表示，区块链业界面临4个主要矛盾：技术特性增加与扩展性的矛盾、区块链与周边技术的交叉互通的矛盾、区块链应用与监管的矛盾以及区块链自身安全与过程安全的矛盾。此外，他认为，区块链以数据为核心，政务、金融、医疗、制造将是区块链主流领域，围绕这四个领域形成的存证、供应链金融、远程医疗、供给品溯源等衍生出主流场景市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7386883.d.html</link>
-            <guid>2251573</guid>
-            <pubDate>Sat, 24 Jul 2021 07:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚新增15902例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8783382.d.html</link>
-            <guid>2251571</guid>
-            <pubDate>Sat, 24 Jul 2021 07:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京新冠肺炎感染者增至53例 新增3处中风险地区】南京市疫情防控部门24日发布，23日该市新增本土新冠肺炎确诊病例12例（其中3例为轻型，9例为普通型），新增无症状感染者4例。截至目前，共有本土确诊病例35例（其中14例轻型，21例普通型），本土无症状感染者18例。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7385498.d.html</link>
-            <guid>2251570</guid>
-            <pubDate>Sat, 24 Jul 2021 07:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年全国电影总票房突破300亿元】据灯塔专业版实时数据，截至7月24日14时21分29秒，2021年我国电影市场总票房（含预售）突破300亿元，总观影人次达7.49亿人，总场次则为7384.44万场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8781408.d.html</link>
-            <guid>2251569</guid>
-            <pubDate>Sat, 24 Jul 2021 07:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内陆风力或达10-12级！上海浦东台风预警升级为橙色】7月24日14时，浦东新区气象台发布台风橙色预警信号：受今年第6号台风“烟花”影响，预计今天夜里到明天本区风力内陆将出现10-12级，沿江沿海地区12级以上的阵风，台风黄色预警信号更新为台风橙色预警信号。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8780371.d.html</link>
-            <guid>2251567</guid>
-            <pubDate>Sat, 24 Jul 2021 07:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：截至2021年7月23日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗152489.7万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7382385.d.html</link>
-            <guid>2251566</guid>
-            <pubDate>Sat, 24 Jul 2021 07:03:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
