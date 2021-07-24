@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Jul 2021 19:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 22:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国企业承建的赞比亚下凯富峡水电站举行并网发电仪式】当地时间7月23日，由中国企业承建的下凯富峡水电站在赞比亚齐坎卡塔举行并网发电仪式，赞比亚总统伦古以及中赞双方代表出席了下凯富峡水电站的并网发电仪式，伦古总统为项目的发电运营揭牌，他在致辞中感谢中国政府和企业对缓解赞比亚电力短缺所做的重要贡献，并表示下凯富峡水电站并网发电将极大促进当地社会经济发展，同时助力赞比亚成为南部非洲地区的电力中心。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8859210.d.html</link>
+            <guid>2251972</guid>
+            <pubDate>Sat, 24 Jul 2021 21:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国丹佛市发生枪击事件 共造成两人死亡】当地时间7月24日，美国科罗拉多州丹佛市发生枪击事件，共造成两人死亡，目前尚无嫌疑人被拘留。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7461056.d.html</link>
+            <guid>2251971</guid>
+            <pubDate>Sat, 24 Jul 2021 21:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利数十座城市爆发游行抗议推行“数字绿色证书”】意大利全国80多个城市爆发示威游行，抗议政府22日推出的要求进入餐饮场所、观看体育比赛和其他公共场所时必须出示“数字绿色证书”的法令。抗议者认为使用“数字绿色证书”会带来经济损失，人们应该拥有选择是否接种疫苗的自由。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8857144.d.html</link>
+            <guid>2251970</guid>
+            <pubDate>Sat, 24 Jul 2021 21:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克新增新冠肺炎确诊病例8001例，累计确诊1543501例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8856695.d.html</link>
+            <guid>2251969</guid>
+            <pubDate>Sat, 24 Jul 2021 20:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[古巴新增7732例新冠肺炎确诊病例，新增68例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7459111.d.html</link>
+            <guid>2251968</guid>
+            <pubDate>Sat, 24 Jul 2021 20:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国德尔塔毒株肆虐各州 疫情反弹导致专家担忧】根据多家美国媒体当地时间7月24日的报道，随着变异新冠病毒德尔塔毒株传播带来的疫情反弹，美国疫情反弹严重的几个州都开始呼吁民众接种新冠疫苗，以减缓德尔塔毒株的蔓延。据报道，佛罗里达州记录的新冠肺炎确诊病例数已经居美国各州榜首，部分地区的住院人数增长速度甚至达到了疫情暴发以来的最快水平。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7459103.d.html</link>
+            <guid>2251967</guid>
+            <pubDate>Sat, 24 Jul 2021 20:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗内政部24日宣布，在全国34个省中的31个省实施宵禁，以遏制因塔利班近期加大攻势所导致的暴力事件激增。根据宵禁规定，每日22时至次日4时民众必须待在家里，不得外出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7457408.d.html</link>
+            <guid>2251966</guid>
+            <pubDate>Sat, 24 Jul 2021 19:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至7月24日，美国已注射3.40亿剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7456223.d.html</link>
+            <guid>2251965</guid>
+            <pubDate>Sat, 24 Jul 2021 19:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非骚乱地区食品价格开始回落】据南非媒体当地时间7月23日报道，南非骚乱的重灾区德班地区的食品价格开始回落。因骚乱导致德班与外界的公路中断，该地生鲜产品市场临时关闭，当地商品价格一度出现飞涨。曾经53兰特（约合人民币23元）十公斤的土豆，上涨到了100兰特。不过到7月23日，价格又回落到85兰特。虽然价格仍然略高，但已经在向正常水平回落。除了土豆之外，包括卷心菜、 西红柿的价格也曾出现了较大幅度的上涨。不过现在价格正在回落，估计很快就会回到正常水平。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7455935.d.html</link>
+            <guid>2251964</guid>
+            <pubDate>Sat, 24 Jul 2021 19:27:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国新增25624例新冠肺炎确诊病例，新增22例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7455185.d.html</link>
@@ -547,60 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8795602.d.html</link>
             <guid>2251596</guid>
             <pubDate>Sat, 24 Jul 2021 09:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市金融监管局局长霍学文：将推动全国自愿减排交易中心建设】霍学文透露，近期，北京将积极推动全国自愿减排交易中心的建设，同时还将重磅推出ESG中国版的指数，为海内外基金、银行理财、保险资管、财富管理，提供ESG投资的中国标准。霍学文强调，北京还将进一步促进绿色金融产品、市场和规则创新，包括绿色信贷、绿色债券、绿色保险、绿色基金。（中新经纬）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8793891.d.html</link>
-            <guid>2251594</guid>
-            <pubDate>Sat, 24 Jul 2021 08:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河南省召开新闻发布会通报：强降雨已致河南死亡57人、失踪5人。（北京头条）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8793027.d.html</link>
-            <guid>2251592</guid>
-            <pubDate>Sat, 24 Jul 2021 08:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【某电商平台上，鸿星尔克3天销量超半年总和】鸿星尔克发布捐赠5000万元物资驰援河南的消息后，鸿星尔克抖音电商直播间有大量网友、消费者涌入，23日，其直播间最高在线人数突破了10万人，截至23日下午17点，累计观看达1400万，单场点赞量突破1.5亿。据了解，在抖音上，鸿星尔克在7月21日至7月23日的销售量已超过今年上半年销量总和。不少网友称“要买到让鸿星尔克缝纫机冒烟”。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8792737.d.html</link>
-            <guid>2251591</guid>
-            <pubDate>Sat, 24 Jul 2021 08:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯过去24小时新增799例新冠肺炎死亡病例，累计死亡153095例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7393505.d.html</link>
-            <guid>2251589</guid>
-            <pubDate>Sat, 24 Jul 2021 08:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯过去24小时新增23947例新冠肺炎确诊病例，累计确诊6102469例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8790775.d.html</link>
-            <guid>2251588</guid>
-            <pubDate>Sat, 24 Jul 2021 08:31:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【受台风“烟花”影响 长三角铁路部分列车停运】记者24日从中国铁路上海局集团有限公司获悉，针对今年第6号台风“烟花”可能带来的影响，为确保旅客列车运行安全，长三角铁路部门决定自7月24日至29日，对杭深铁路宁波至温州段、沪昆高铁及铁路义乌至诸暨段、杭甬铁路、金温铁路间列车采取临时停运措施。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7392457.d.html</link>
-            <guid>2251585</guid>
-            <pubDate>Sat, 24 Jul 2021 08:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【管涛：人民币在SDR权重第三，有追赶空间】7月24日，国家外汇管理局国际收支司原司长管涛在2021中国财富论坛上表示，中国现在经济体量很大，贸易、投融资规模比较大，投资现状和潜力相差比较大。人民币是SDR里头第三大权重货币，占比10.9%，我们有追赶空间。（财经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7392354.d.html</link>
-            <guid>2251584</guid>
-            <pubDate>Sat, 24 Jul 2021 08:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾卫生部：菲律宾新增6216例新冠肺炎确诊病例，累计确诊154.3万例；新增241例死亡病例，累计死亡27131例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7391169.d.html</link>
-            <guid>2251583</guid>
-            <pubDate>Sat, 24 Jul 2021 08:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会原副主席王兆星：巴塞尔监管规则并不是保守封闭、一成不变的】王兆星表示，巴塞尔监管规则并不是保守封闭、一成不变的，而是根据金融业态和金融风险变化不断进行调整完善的。中国金融监管部门从中国实际出发，因地制宜制定实施金融监管规则，有遵循、有创新、有发展，有些领域更严格，有些领域更灵活，注重补齐监管体系的弱项短板。在促进金融支持实体经济的同时，牢牢守住不发生系统性金融风险的底线。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7391152.d.html</link>
-            <guid>2251582</guid>
-            <pubDate>Sat, 24 Jul 2021 08:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
