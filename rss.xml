@@ -4,11 +4,141 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Jul 2021 16:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jul 2021 19:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗古城亚兹德旅游业受疫情影响遭重创】古城亚兹德，位于伊朗中部，是该国重要的旅游城市之一。而亚兹德所特有的波斯建筑、精美手工艺品等也被世界各地的游客所喜爱。2017年，亚兹德的老城因其历史悠久、文化独特，被联合国教科文组织列为世界文化遗产。自伊朗暴发新冠疫情以来，到访亚兹德的游客锐减，导致当地旅游业遭受重创，一些流传已久的手工艺品作坊也面临破产风险。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9017615.d.html</link>
+            <guid>2252303</guid>
+            <pubDate>Sun, 25 Jul 2021 19:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国西部被山火席卷 加州山火烧毁多所房屋】本周，美国西部继续被山火席卷，尤其在加州愈演愈烈，北加州“迪克西“山火摧毁了多所房屋。“迪克西”山火于当地时间24日天黑后席卷了印第安瀑布附近的社区，目前已经夷平了十几栋房屋和建筑物。消防官员表示，大火已经在加州北部的两个县烧焦了超过181000英亩（73200公顷）的土地，由于山火发生在一个交通不便的偏远地区，阻碍了消防人员救灾，目前仅有20%的山火被控制。”迪克西”山火促使附近多个社区发布了疏散命令，其中包括度假胜地阿尔马诺湖。加州州长加文纽森宣布加州北部四个县进入紧急状态，称山火正在造成“对人员和财产安全构成极度危险的状况”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9017395.d.html</link>
+            <guid>2252302</guid>
+            <pubDate>Sun, 25 Jul 2021 19:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【墨总统批美国“主导地位美洲大陆” 呼吁建立新地区合作机制】墨西哥总统洛佩斯24日表示，美洲一体化一直难以实现的主要原因之一是“美国在美洲大陆的主导地位”。他对受到美国制裁的古巴表示声援，呼吁拉美国家团结起来与美国对话，建立类似欧盟的全新美洲国家合作机制，推动地区经济及政治合作，在出现地区争端时承担调停工作。 (环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9017129.d.html</link>
+            <guid>2252301</guid>
+            <pubDate>Sun, 25 Jul 2021 18:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非总统拉马福萨：Aspen工厂将从10月份起为非洲大陆国家生产疫苗，预计在未来2-3个月内收到3100万剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9016974.d.html</link>
+            <guid>2252300</guid>
+            <pubDate>Sun, 25 Jul 2021 18:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非总统拉马福萨：学校将从周一开始重新开放；将从9月1日起向18-34岁的人群开放疫苗接种，南非有超过10%的人口接种了一剂新冠疫苗。]]></title>
+            <guid>2252299</guid>
+            <pubDate>Sun, 25 Jul 2021 18:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国伦敦大雨导致街道严重积水】当地时间7月25日下午，英国伦敦及周边地区普降大雨，部分街道严重积水，一些公路被关闭。伦敦消防队也接到大约300次个人住宅、公共街区被淹的报警电话。稍早前，英国气象局发布琥珀色雷暴天气警告，预计英格兰东南部的降水量会达到75到100毫米。根据气象预报显示，接下来的一周英国仍会持续降雨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9016935.d.html</link>
+            <guid>2252298</guid>
+            <pubDate>Sun, 25 Jul 2021 18:54:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非总统拉马福萨：第三波疫情的高峰已经过去，南非将放松疫情限制措施，疫情限制等级调整至三级警戒级别。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7619199.d.html</link>
+            <guid>2252297</guid>
+            <pubDate>Sun, 25 Jul 2021 18:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【26日上海浦东虹桥两机场通行能力仍大幅下降 将视天气情况逐步恢复航班】从上海机场集团获悉，根据目前台风“烟花”路径影响，7月26日浦东机场和虹桥机场通行能力仍将大幅下降，部分航班将视天气情况逐步恢复，请旅客及时查询所乘航空公司服务热线、官网、APP等，合理安排出行。上海机场也将根据台风影响情况，及时向社会发布两场航班调整情况。受台风“烟花”影响，7月25日全天，上海浦东机场和虹桥机场，所有客运进出港航班取消。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9015830.d.html</link>
+            <guid>2252296</guid>
+            <pubDate>Sun, 25 Jul 2021 18:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌干达媒体：乌联合国常驻代表电话遭窃听】据乌干达当地媒体报道，乌干达驻纽约联合国常驻代表的手机遭到“飞马”间谍软件授权用户的窃听。联合国IT工程师发现并通知了代表本人，联合国正在对事件进行调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7618721.d.html</link>
+            <guid>2252295</guid>
+            <pubDate>Sun, 25 Jul 2021 18:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国新增新冠肺炎确诊病例29173例 累计确诊5697912例】据英国政府最新统计数据，截至当地时间7月25日，英国新增新冠肺炎确诊病例29173例，累计确诊5697912例；新增死亡28例，累计死亡129158例。（央视）]]></title>
+            <guid>2252294</guid>
+            <pubDate>Sun, 25 Jul 2021 18:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Electrek，特斯拉在暂停一周后恢复Model S车型的交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9014166.d.html</link>
+            <guid>2252293</guid>
+            <pubDate>Sun, 25 Jul 2021 18:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国新增新冠肺炎确诊病例29173例 累计确诊5697912例】据英国政府最新统计数据，截至当地时间7月25日，英国新增新冠肺炎确诊病例29173例，累计确诊5697912例；新增死亡28例，累计死亡129158例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9013532.d.html</link>
+            <guid>2252292</guid>
+            <pubDate>Sun, 25 Jul 2021 18:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【地方密集谋局 全力冲刺经济“下半场”】截至7月25日，已公布上半年经济运行数据的27个省份中，25个省份GDP增速超过10%；6个省份上半年GDP两年平均增速超过2019年上半年增速，彰显巨大经济韧性。消费复苏势头强劲、新动能加速成长成为不少地方经济亮点。各地还在紧锣密鼓召开省委常委会、经济形势分析会等，分析上半年经济形势，谋划布局下半年经济工作，确保完成全年经济目标。其中，加力扩大内需、激发企业活力仍是重中之重。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7615423.d.html</link>
+            <guid>2252291</guid>
+            <pubDate>Sun, 25 Jul 2021 17:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内油价或遇年内第二次下调 加满一箱少花4.5元】今日(26日)24时，2021年第十四轮国内成品油调价窗口将开启。综合多家机构预测，本轮国内成品油价大概率下调，这或将是油价今年以来第二次下跌。调整幅度方面，有机构预计预计汽柴油下调约105元/吨，折合每升0.08-0.09元。即：加满一箱50L的92#汽油将少花4元-4.5元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7614835.d.html</link>
+            <guid>2252290</guid>
+            <pubDate>Sun, 25 Jul 2021 17:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央地遏制“两高”项目盲目发展】据悉，节能和坚决遏制“两高”项目盲目发展正成为中央和地方环境资源工作的重中之重。中央和地方多层面布局减碳控污和节能降耗，建立整改清单，对企业能耗建档立卡台账管理，全面遏制两高项目上马。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7614120.d.html</link>
+            <guid>2252288</guid>
+            <pubDate>Sun, 25 Jul 2021 17:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增15242例新冠肺炎确诊病例，新增6例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7612977.d.html</link>
+            <guid>2252287</guid>
+            <pubDate>Sun, 25 Jul 2021 17:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚旅游业复苏 德国航班首飞蒙巴萨】当地时间7月25日，德国汉莎航空公司的飞机完成了从法兰克福飞往肯尼亚东南沿海城市蒙巴萨的首飞。该航空公司每周将运营两趟从德国法兰克福直飞肯尼亚蒙巴萨的航班。肯尼亚的旅游业是仅次于农业的第二大外汇收入来源，疫情下旅游业正在开始复苏。世界银行在今年6月份表示，随着农业和旅游业等行业从大流行中复苏，肯尼亚今年的经济将增长 4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7612732.d.html</link>
+            <guid>2252286</guid>
+            <pubDate>Sun, 25 Jul 2021 17:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【希腊首都雅典再现反疫苗集会示威】当地时间7月24日下午，大约4500名示威者在希腊首都雅典市中心的宪法广场和协和广场举行集会。他们高举标语和高喊口号，反对希腊政府以解雇向员工施压，以促使他们接种新冠疫苗，并反对以是否接种疫苗来区分人群和区分待遇，示威者要求政府撤回相关决定。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7611844.d.html</link>
+            <guid>2252285</guid>
+            <pubDate>Sun, 25 Jul 2021 17:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华联期货：进入消费旺季，糖市趋势向好】① 各机构普遍预测本年度（2020/21年度）和下年度（2021/22年度）全球食糖供需都出现缺口，全球食糖库存已经连续三个年度下降；下年度如果能维持和本年度一样的去库节奏，那么下年度期末库存有望降至2016/17年度的低位，供需面有望支持糖价再次达到2016年的高位。另外今年全球受疫情影响处于超级货币宽松周期，同时目前国际原油价格高于2016年，加上后疫情时代的需求恢复，也有利于调低制糖比预期；② 国内供需形势也向好，目前我国食糖配额内进口配额已经用完，今年剩下时间只能使用配额外进口配额来进口。而配额外进口出现亏损，有望抑制后期食糖进口的数量，进而有助于减少国内市场的供应压力。当前我国产需已经进入纯销售期，三季度是国内传统的消费旺季，7-9月消费有望继续好转，加上本榨季我国制糖成本仍很高，预计糖市趋势向好，建议关注郑糖季节性买入做多机会。郑糖指数中期参考支撑位区间5400-5500元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7611214.d.html</link>
+            <guid>2252284</guid>
+            <pubDate>Sun, 25 Jul 2021 16:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏省水利厅2021年7月25日20时发布长江江苏段洪水蓝色预警】7月25日，长江镇江站高潮位7.39米，超警戒水位0.39米；江阴站高潮位6.33米，超警戒水位0.43米；天生港站高潮位6.12米，超警戒水位0.52米。提醒影响区域各级政府及各有关部门组织好防汛工作；社会公众注意避灾避险。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqciyzk7611031.d.html</link>
+            <guid>2252283</guid>
+            <pubDate>Sun, 25 Jul 2021 16:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增28例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9008089.d.html</link>
+            <guid>2252282</guid>
+            <pubDate>Sun, 25 Jul 2021 16:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国多地新冠肺炎病例激增 疫苗接种率暴跌】随着“德尔塔”变种病毒席卷美国，美国各州卫生官员警告公众，疫情还远未结束。根据约翰霍普金斯大学的数据，美国各州在过去一周报告的新冠病例数都比前一周多。根据美国疾病控制和预防中心的数据，美国仍有30个州尚未为至少一半的居民全面接种疫苗。7月23日，美国接种疫苗平均人数是自1月底开始接种疫苗以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-26/detail-ikqcfnca9007022.d.html</link>
+            <guid>2252281</guid>
+            <pubDate>Sun, 25 Jul 2021 16:39:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲地中海地震中心：新西兰克马德克群岛发生5.1级地震。]]></title>
             <guid>2252280</guid>
@@ -472,137 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8974157.d.html</link>
             <guid>2252172</guid>
             <pubDate>Sun, 25 Jul 2021 10:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[开源证券孙金钜：预计最快4季度初可看到首批精选层公司实现转板上市。（中证网）]]></title>
-            <guid>2252171</guid>
-            <pubDate>Sun, 25 Jul 2021 10:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【倍杰特中签号码出炉 近3.2万个】倍杰特(300774)7月25日晚披露中签结果，中签号码共有31,884个，每个中签号码只能认购500股公司A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7576313.d.html</link>
-            <guid>2252169</guid>
-            <pubDate>Sun, 25 Jul 2021 10:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【饿了么：已暂停上海部分沿海区域站点、舟山、宁波等地配送】 7月25日，饿了么宣布，已经暂停上海的部分沿海区域站点、舟山、宁波等地的配送服务，其他受到台风影响的区域也正实时根据天气情况缩小配送范围，延长配送时间。饿了么方面表示，如有外卖需求，请在家耐心等待，饿了么蓝骑士会在保障安全的前提下送餐。如果遇到关店前下单，但是配送时已经关店的订单，骑士会根据当前状况调整配送方案，若可以在保证自身安全的情况下完成配送，则会继续送达；若路面及天气情况实在不适宜行驶，则会第一时间联系消费者致歉，同时发起退款处理。因恶劣天气影响造成的相关超时订单不会计入骑士考核。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7576236.d.html</link>
-            <guid>2252168</guid>
-            <pubDate>Sun, 25 Jul 2021 10:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“烟花”今晚将二次登陆我国 强降雨波及浙江上海河南等9省市】今年第6号台风“烟花”已于今天（25日）12时30分前后在浙江省舟山普陀沿海登陆。根据中央气象台预报，“烟花”今天晚上将在浙江嘉兴到上海浦东沿海再次登陆。目前，上海风力逐渐加强，浙江、江苏、安徽、河南等地将先后迎来大到暴雨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7576188.d.html</link>
-            <guid>2252167</guid>
-            <pubDate>Sun, 25 Jul 2021 10:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【关联5省6市、感染66人 南京禄口机场疫情传播链再延长】安徽芜湖通告，7月24日晚，芜湖市发现1例南京禄口机场新冠肺炎疫情关联无症状感染者。至此，南京禄口机场疫情传播链再延长，感染者增至66人，关联5省6市，分别是广东中山、辽宁沈阳、安徽和县、江苏宿迁、四川绵阳以及安徽芜湖。 (北京日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7575747.d.html</link>
-            <guid>2252166</guid>
-            <pubDate>Sun, 25 Jul 2021 10:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越南寻求在年底前获得1.7亿剂新冠疫苗 】越南卫生部长表示，越南正在努力争取在年底前达成多达1.7亿剂新冠疫苗的协议，目前政府已获得1.3亿剂疫苗，并正试图谈判额外4000万剂疫苗。 越南政府上周表示，预计下半年将有9150万剂疫苗抵达国内，低于6月份预估的1.5亿剂。根据越南卫生部的数据，在全国9800万人口中，仅有37.2万人接受了两剂疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7574861.d.html</link>
-            <guid>2252165</guid>
-            <pubDate>Sun, 25 Jul 2021 10:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[环球音乐与掌上视频制作APP Lomotif敲定许可协议。（英国金融时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8971553.d.html</link>
-            <guid>2252164</guid>
-            <pubDate>Sun, 25 Jul 2021 10:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福建终止防台风应急响应。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7574418.d.html</link>
-            <guid>2252163</guid>
-            <pubDate>Sun, 25 Jul 2021 10:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州联合再生产业研究院院长：再生资源行业可贡献1/4的碳减排】天津商业大学再生资源研究所所长、广州联合再生产业研究院院长吴爱政在日前召开的2021国际货币论坛上表示，我国目前仍需要大量的基础设施建设，这需要消耗大量的燃料、铁矿石，我国碳排放还会进一步上升，而资源再生会减少大概25%的碳排放，相当于未来1/4的碳减排来自于循环经济。此外，资源循环利用产业的规模相当大，我国资源循环利用产业产值在2020年达到3万亿。这一产业会在双碳目标实现过程中发挥重要作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8969636.d.html</link>
-            <guid>2252162</guid>
-            <pubDate>Sun, 25 Jul 2021 10:03:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新预报：台风“烟花”再次登陆时间推迟】 浙江省应急管理厅防汛抗旱处应急指挥专员吕乐表示，根据最新气象预报，预计“烟花”会在7月26日凌晨在嘉兴到上海一带二次登陆。登陆的时间比之前预估的有所延迟。由于它现在大部分云系还在浙江境内，还是会给浙江带来强降雨。其中，宁波、绍兴、杭州北部、嘉兴等地降雨量会比较大。尤其杭嘉湖地区一方面要防止暴雨引发的城市积涝，另外还要防御流域性洪水的爆发。（浙江应急广播FM93交通之声）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7572883.d.html</link>
-            <guid>2252161</guid>
-            <pubDate>Sun, 25 Jul 2021 10:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新洋丰：拟9794.92万元收购磷矿资产】新洋丰7月25日晚间公告，公司拟以9794.92万元，收购雷波新洋丰矿业有限公司。通过此次收购，公司将取得雷波矿业100%股权，从而取得巴姑磷矿的采矿权。此次交易是控股股东洋丰集团履行重组上市时磷矿注入承诺的重要举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7570722.d.html</link>
-            <guid>2252159</guid>
-            <pubDate>Sun, 25 Jul 2021 09:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【洪涝过后 河南受灾地区生产生活正在逐步恢复】随着降雨逐步减弱，河南的防汛压力也正在缓解。自7月22日起，郑州已经将防汛一级应急响应降至三级。灾后恢复工作全面展开。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7570689.d.html</link>
-            <guid>2252158</guid>
-            <pubDate>Sun, 25 Jul 2021 09:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“泉州：宋元中国的世界海洋商贸中心”成功列入《世界遗产名录》。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8966814.d.html</link>
-            <guid>2252157</guid>
-            <pubDate>Sun, 25 Jul 2021 09:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙佰集团：合资投建10万吨磷酸铁生产线】龙佰集团7月25日晚间公告，下属子公司佰利新能源拟与湖北万润新能源成立合资公司，建设10万吨磷酸铁生产线。合资公司注册资本1亿元，佰利新能源认缴注册资本5100万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8966333.d.html</link>
-            <guid>2252156</guid>
-            <pubDate>Sun, 25 Jul 2021 09:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科德教育：K12课外培训业务占比小 “双减政策”对公司业绩影响较小】科德教育7月25日晚回应“双减政策”影响：公司目前主要为非义务阶段的学生提供职业学历教育及复读业务。随着今年陆续完成的并购学校项目，职业教育未来将成为公司的主要业务。2020年度，公司K12课外培训实现净利润300.37万元，占净利润比例为1.84%，对公司整体经营业绩影响较小。公司将配合双减政策的落地，进一步合规经营，把这部分业务的影响减至最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8966242.d.html</link>
-            <guid>2252155</guid>
-            <pubDate>Sun, 25 Jul 2021 09:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  龙佰集团公告，下属子公司佰利新能源拟与湖北万润新能源成立合资公司，建设10万吨磷酸铁生产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7569455.d.html</link>
-            <guid>2252154</guid>
-            <pubDate>Sun, 25 Jul 2021 09:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国金融时报：欧盟贸易专员称，美国钢铁协议可能达不到要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8965761.d.html</link>
-            <guid>2252153</guid>
-            <pubDate>Sun, 25 Jul 2021 09:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【信立泰：拟1亿元至2亿元回购】信立泰7月25日晚披露回购方案，回购的资金总额为1亿元至2亿元，回购股份价格不超过33元/股，此次回购的股份拟用作后期实施股权激励或员工持股计划的股份来源。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7569049.d.html</link>
-            <guid>2252152</guid>
-            <pubDate>Sun, 25 Jul 2021 09:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【豆神教育：“双减”政策将对公司营业收入、利润产生重大不利影响】 豆神教育公告，本次“双减”政策对学科培训机构性质、办学许可证、从业教师、教师资格证、培训时间、培训内容、培训形式、培训场地、培训价格、营销方式、融资方式等方面进行了严格的限制和规范，考虑到公司现有大语文学习服务业务收入占公司营业收入比例逐年增高，“双减”政策将对公司营业收入、利润产生重大不利影响。公司将认真分析研究“双减”政策，做好与监管机构以及政府部门的有效沟通和反馈，根据政策要求积极自查及整改。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7568816.d.html</link>
-            <guid>2252151</guid>
-            <pubDate>Sun, 25 Jul 2021 09:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据道琼斯：日本塩野义制药公司开始就治疗新冠的药片进行人体试验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8965405.d.html</link>
-            <guid>2252150</guid>
-            <pubDate>Sun, 25 Jul 2021 09:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【昆仑万维：参投公司Cytek在纳斯达克上市】昆仑万维7月25日晚间公告，7月23日，参投公司Cytek在美国纳斯达克全球精选成功上市，股票代码“CTKB.O”。Cytek上市后，公司持有Cytek普通股29.59万股。Cytek是一家细胞分析解决方案公司。2020年10月，昆仑万维全资子公司出资约200万美元投资Cytek公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7568248.d.html</link>
-            <guid>2252149</guid>
-            <pubDate>Sun, 25 Jul 2021 09:29:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华媒控股：“双减”政策不会对经营情况产生重大影响】华媒控股7月25日晚回应“双减政策”影响：公司及子公司未经营学科类培训业务，“双减”意见不会对公司的经营情况和财务状况产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7568227.d.html</link>
-            <guid>2252148</guid>
-            <pubDate>Sun, 25 Jul 2021 09:29:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
