@@ -4,604 +4,607 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 28 Jul 2021 22:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jul 2021 07:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[巴西最近24小时新增48,013例新冠肺炎病例，新增1,344例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9618424.d.html</link>
-            <guid>2259175</guid>
-            <pubDate>Wed, 28 Jul 2021 22:14:28 GMT</pubDate>
+            <title><![CDATA[  上海复旦(01385.HK)尾盘涨幅扩大至20%。]]></title>
+            <guid>2260365</guid>
+            <pubDate>Thu, 29 Jul 2021 07:18:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议员桑德斯：下周有足够票数通过预算计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220892.d.html</link>
-            <guid>2259174</guid>
-            <pubDate>Wed, 28 Jul 2021 22:12:48 GMT</pubDate>
+            <title><![CDATA[  《福布斯》援引推特(TWTR.N)发言人的话报道称，美国推特公司因冠状病毒德尔塔毒株传播而暂时关闭了其在旧金山的总部和在纽约的办公室。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9725168.d.html</link>
+            <guid>2260364</guid>
+            <pubDate>Thu, 29 Jul 2021 07:16:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国参议员桑德斯：已经获得50名民主党参议员的支持来通过预算决议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220802.d.html</link>
-            <guid>2259173</guid>
-            <pubDate>Wed, 28 Jul 2021 22:12:11 GMT</pubDate>
+            <title><![CDATA[国债期货小幅收涨，10年期主力合约涨0.13%，5年期主力合约涨0.09%，2年期主力合约涨0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8326952.d.html</link>
+            <guid>2260363</guid>
+            <pubDate>Thu, 29 Jul 2021 07:16:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国疾控中心：当前美国有67%的县新冠病毒传染率高企，昨日仅为63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220523.d.html</link>
-            <guid>2259172</guid>
-            <pubDate>Wed, 28 Jul 2021 22:09:28 GMT</pubDate>
+            <title><![CDATA[  【湖南省宁乡市：城区全员核酸检测 企业封闭式管理】湖南省宁乡市（县级市）新冠疫情防控指挥部今日发布调度令，要求即日起对城区四个街道开展全员核酸检测，严格做到应检尽检，不漏一户，不漏一人。该指挥部同时要求，对人员密集的生产型企业实行封闭管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9724811.d.html</link>
+            <guid>2260362</guid>
+            <pubDate>Thu, 29 Jul 2021 07:14:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据悉软银通过高盛出售4500万股Uber(UBER.N)股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220476.d.html</link>
-            <guid>2259171</guid>
-            <pubDate>Wed, 28 Jul 2021 22:08:58 GMT</pubDate>
+            <title><![CDATA[【宝通科技董事长包志方回应此前减持质疑：减持是为偿还借款 受规则限制暂无法增持】刚刚减持了公司股票，又倡议公司员工增持，宝通科技董事长包志方对市场质疑回应称，此前自己减持是为偿还借款，其本人也有增持意愿，但受规则影响，没有办法在6个月内进行买入交易，同时，公司进入业绩敏感期，管理层也没有办法进行股票交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9724749.d.html</link>
+            <guid>2260361</guid>
+            <pubDate>Thu, 29 Jul 2021 07:13:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【辉瑞上调疫苗销售预测 辉瑞新冠疫苗有望成为史上最畅销药物之一】辉瑞现在预计其Covid-19疫苗今年将带来335亿美元的收入，并有望成为有史以来最畅销的药物之一。该公司此前预计全年疫苗销售额为260亿美元。预测上修说明辉瑞与德国BioNTech合作开发的疫苗需求旺盛，因delta病毒变种在各国燃起新疫情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617946.d.html</link>
-            <guid>2259170</guid>
-            <pubDate>Wed, 28 Jul 2021 22:08:43 GMT</pubDate>
+            <title><![CDATA[美元指数DXY触及92.09，创7月6日以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9724634.d.html</link>
+            <guid>2260360</guid>
+            <pubDate>Thu, 29 Jul 2021 07:13:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Uber(UBER.N)盘后跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220437.d.html</link>
-            <guid>2259169</guid>
-            <pubDate>Wed, 28 Jul 2021 22:08:10 GMT</pubDate>
+            <title><![CDATA[英镑兑美元GBP/USD涨0.3%至1.3947，创6月24日以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8326517.d.html</link>
+            <guid>2260359</guid>
+            <pubDate>Thu, 29 Jul 2021 07:13:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook高管：公司在机器学习等领域投资，AI应该能够提高广告的有效性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617919.d.html</link>
-            <guid>2259168</guid>
-            <pubDate>Wed, 28 Jul 2021 22:08:01 GMT</pubDate>
+            <title><![CDATA[发改委：水电等可再生能源比重大的地方，要统筹考虑风光水多能互补因素，进一步建立健全丰枯电价机制，丰、枯时段应结合多年来水、风光出力特性等情况合理划分，电价浮动比例根据系统供需情况合理设置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9724467.d.html</link>
+            <guid>2260356</guid>
+            <pubDate>Thu, 29 Jul 2021 07:11:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook CFO Wehner：欧洲地区出现季节性的放缓以及疫情相关的疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220425.d.html</link>
-            <guid>2259167</guid>
-            <pubDate>Wed, 28 Jul 2021 22:07:52 GMT</pubDate>
+            <title><![CDATA[发改委：鼓励北方地区研究制定季节性电采暖电价政策，通过适当拉长低谷时段、降低谷段电价等方式，推动进一步降低清洁取暖用电成本，有效保障居民冬季清洁取暖需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9724408.d.html</link>
+            <guid>2260355</guid>
+            <pubDate>Thu, 29 Jul 2021 07:11:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook CFO Wehner：广告收入的增长由电子商务、消费品等行业推动；看到旅游、娱乐业的增长有所改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617906.d.html</link>
-            <guid>2259166</guid>
-            <pubDate>Wed, 28 Jul 2021 22:07:43 GMT</pubDate>
+            <title><![CDATA[据日本共同社：日本东京都官员称病例激增与奥运会无关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8325903.d.html</link>
+            <guid>2260352</guid>
+            <pubDate>Thu, 29 Jul 2021 07:09:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook CEO扎克伯格：下一个产品将是与雷朋眼镜和ESSILORLUXOTTICA合作推出的首款智能眼镜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220414.d.html</link>
-            <guid>2259165</guid>
-            <pubDate>Wed, 28 Jul 2021 22:07:32 GMT</pubDate>
+            <title><![CDATA[  瑞士信贷(CSGN.S)欧股跌幅扩大至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9723993.d.html</link>
+            <guid>2260351</guid>
+            <pubDate>Thu, 29 Jul 2021 07:09:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据CME“美联储观察”：美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%；12月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617827.d.html</link>
-            <guid>2259164</guid>
-            <pubDate>Wed, 28 Jul 2021 22:06:01 GMT</pubDate>
+            <title><![CDATA[发改委：鼓励工商业用户通过配置储能、开展综合能源利用等方式降低高峰时段用电负荷、增加低谷用电量，通过改变用电时段来降低用电成本。有条件的地方，要按程序推广居民分时电价政策，逐步拉大峰谷电价价差。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8325691.d.html</link>
+            <guid>2260349</guid>
+            <pubDate>Thu, 29 Jul 2021 07:08:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：软银出售优步的部分股权以弥补在滴滴的损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617759.d.html</link>
-            <guid>2259163</guid>
-            <pubDate>Wed, 28 Jul 2021 22:04:50 GMT</pubDate>
+            <title><![CDATA[  【发改委：合理确定峰谷电价价差】国家发改委发布关于进一步完善分时电价机制的通知。通知要求，各地要统筹考虑当地电力系统峰谷差率、新能源装机占比、系统调节能力等因素，合理确定峰谷电价价差，上年或当年预计最大系统峰谷差率超过40%的地方，峰谷电价价差原则上不低于4:1；其他地方原则上不低于3:1。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8325574.d.html</link>
+            <guid>2260348</guid>
+            <pubDate>Thu, 29 Jul 2021 07:07:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7月29日亚太盘初，纳斯达克100股指期货跌0.2%，刚刚发布了二季报的Facebook在美股盘后维持4.0%的跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220263.d.html</link>
-            <guid>2259162</guid>
-            <pubDate>Wed, 28 Jul 2021 22:04:31 GMT</pubDate>
+            <title><![CDATA[发改委：各地要结合实际情况在峰谷电价的基础上推行尖峰电价机制，尖峰电价在峰段电价基础上上浮比例原则上不低于20％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9723524.d.html</link>
+            <guid>2260346</guid>
+            <pubDate>Thu, 29 Jul 2021 07:07:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥卫生部：墨西哥累计新冠肺炎死亡病例升至239616例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220219.d.html</link>
-            <guid>2259161</guid>
-            <pubDate>Wed, 28 Jul 2021 22:03:43 GMT</pubDate>
+            <title><![CDATA[【发改委：建立分时电价动态调整机制】国家发改委表示，建立分时电价动态调整机制。各地要根据当地电力系统用电负荷或净负荷特性变化，参考电力现货市场分时电价信号，适时调整目录分时电价时段划分、浮动比例。电力现货市场运行的地方要完善市场交易规则，合理设定限价标准，促进市场形成有效的分时电价信号，为目录分时电价机制动态调整提供参考。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9723453.d.html</link>
+            <guid>2260345</guid>
+            <pubDate>Thu, 29 Jul 2021 07:06:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook CEO扎克伯格：下一阶段的重点是建立商店、市场、商业信息，以创建跨应用程序的本地商务体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617569.d.html</link>
-            <guid>2259160</guid>
-            <pubDate>Wed, 28 Jul 2021 22:02:14 GMT</pubDate>
+            <title><![CDATA[【发改委发布关于进一步完善分时电价机制的通知】各地要结合实际情况在峰谷电价的基础上推行尖峰电价机制，尖峰电价在峰段电价基础上上浮比例原则上不低于20%。（发改委）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9723040.d.html</link>
+            <guid>2260344</guid>
+            <pubDate>Thu, 29 Jul 2021 07:04:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook CEO扎克伯格：Reels是Instagram用户参与度增长的最大贡献者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8220059.d.html</link>
-            <guid>2259159</guid>
-            <pubDate>Wed, 28 Jul 2021 22:02:05 GMT</pubDate>
+            <title><![CDATA[英镑兑美元GBP/USD短线走高近20点，现报1.3941。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8324882.d.html</link>
+            <guid>2260341</guid>
+            <pubDate>Thu, 29 Jul 2021 07:04:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2021年上半年南非近千家企业倒闭】据南非媒体当地时间7月28日报道，南非统计局的最新数据显示，2021年1月至6月期间，该国共有997家公司或企业被清算，高于去年同期的763家。在各个行业中，金融、保险、房地产和商业服务业受到的打击最大，占迄今为止所有清算数量的32%。其次是贸易、餐饮和住宿行业，这些行业首先在2020年的大部分时间关门停业，随后在近期又受该国第三波新冠疫情的影响不得不再次关门停业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8219866.d.html</link>
-            <guid>2259158</guid>
-            <pubDate>Wed, 28 Jul 2021 21:58:32 GMT</pubDate>
+            <title><![CDATA[欧洲斯托克600指数上涨0.3％，创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8324703.d.html</link>
+            <guid>2260339</guid>
+            <pubDate>Thu, 29 Jul 2021 07:02:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据日经新闻：日本考虑对中年人接种阿斯利康新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617226.d.html</link>
-            <guid>2259157</guid>
-            <pubDate>Wed, 28 Jul 2021 21:54:07 GMT</pubDate>
+            <title><![CDATA[瑞士信贷欧股开跌近2%，因Archegos爆仓事件损失惨重。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9722665.d.html</link>
+            <guid>2260336</guid>
+            <pubDate>Thu, 29 Jul 2021 07:02:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日减少98吨，当前持仓量为17177.76吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9617125.d.html</link>
-            <guid>2259156</guid>
-            <pubDate>Wed, 28 Jul 2021 21:50:35 GMT</pubDate>
+            <title><![CDATA[  北向资金全天净买入42.28亿元，其中沪股通净卖出18.27亿元，深股通净买入60.55亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9722639.d.html</link>
+            <guid>2260335</guid>
+            <pubDate>Thu, 29 Jul 2021 07:02:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[周三（7月28）纽约尾盘，CBOT玉米期货涨0.23%，报5.50美元/蒲式耳。CBOT小麦期货涨2.33%，报6.90-1/2美元/蒲式耳。CBOT大豆期货跌0.22%，报13.69-3/4美元/蒲式耳。CBOT软木期货涨3.63%，报603.10美元/1000板英尺。CBOT瘦肉猪期货跌2.77%，ICE原糖期货涨1.69%、ICE白糖期货涨0.99%，ICE棉花期货涨0.30%。ICE阿拉比卡咖啡期货跌0.02%，罗布斯塔咖啡期货涨0.52%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9616858.d.html</link>
-            <guid>2259155</guid>
-            <pubDate>Wed, 28 Jul 2021 21:45:30 GMT</pubDate>
+            <title><![CDATA[WTI原油期货站上73美元，日内涨幅达0.86%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8324575.d.html</link>
+            <guid>2260334</guid>
+            <pubDate>Thu, 29 Jul 2021 07:02:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议院少数党领袖麦康奈尔：将投票继续推进两党基础设施法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9616618.d.html</link>
-            <guid>2259154</guid>
-            <pubDate>Wed, 28 Jul 2021 21:40:35 GMT</pubDate>
+            <title><![CDATA[  欧洲主要股指开盘多数上涨，德国DAX指数涨0.13%，法国CAC40指数涨0.19%，英国富时100指数涨0.37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8324542.d.html</link>
+            <guid>2260333</guid>
+            <pubDate>Thu, 29 Jul 2021 07:01:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国新基础设施法案计划通过加密税收筹集约280亿美元】美国两党基础设施法案计划通过在交易所和其他各方应用新的信息报告要求，通过加密货币税收筹集约280亿美元。根据一份法案草案副本，转让任何数字资产的经纪人都需要根据修改后的信息报告制度提交申报表。区块链协会执行董事Kristin Smith表示，该草案的描述可能意味着许多参与加密货币的个人可能不得不开始报告他们的交易。此前消息，美国白宫表示，基建计划的资金来自未动用的紧急救济基金、目标企业用户费用、与加密货币相关的更强有力的税收执法，以及来自更强劲增长的收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8218868.d.html</link>
-            <guid>2259153</guid>
-            <pubDate>Wed, 28 Jul 2021 21:38:42 GMT</pubDate>
+            <title><![CDATA[  焦煤、热卷、不锈钢期货主力收盘涨超3%，乙二醇、PTA、郑煤、20号胶涨超2%，沥青、螺纹、玻璃、沪银、焦炭等涨超1%]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8324522.d.html</link>
+            <guid>2260332</guid>
+            <pubDate>Thu, 29 Jul 2021 07:01:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：与加密货币相关的更强有力的税收执法将为美国基建法案资金筹集带来280亿美元的收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8218716.d.html</link>
-            <guid>2259152</guid>
-            <pubDate>Wed, 28 Jul 2021 21:35:19 GMT</pubDate>
+            <title><![CDATA[  诺基亚(NOK.N)欧股涨5.2%，公司上调全年财务预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8324497.d.html</link>
+            <guid>2260331</guid>
+            <pubDate>Thu, 29 Jul 2021 07:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高通：看到印度手机市场出现一些疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9616097.d.html</link>
-            <guid>2259151</guid>
-            <pubDate>Wed, 28 Jul 2021 21:32:23 GMT</pubDate>
+            <title><![CDATA[【收评：创指全天单边上行涨逾5% 光刻胶板块强势领涨】7月29日消息， 三大指数高开，开盘后创指涨逾3%，光伏、BIPV板块全线走高，锂电池板块走强，前期热点银行、白酒板块回调。随后三大指数高位震荡，创业板指涨幅领先，深强沪弱格局较为明显，科技股集体反弹，半导体芯片股走高，光刻胶板块大幅拉升。午后三大指数高位震荡，沪指涨逾1%重回3400点，创指午后涨幅扩大至5%，宁德时代、阳光电源等权重股涨幅较大，锂电板块掀涨停潮，光刻胶板块延续强势，沪深两市成交额再超万亿，北向流入超80亿元。总体而言，多头发力，板块、个股普涨，赚钱效应极好。盘面上，半导体、稀土永磁板块涨幅居前，银行、白酒板块跌幅居前。]]></title>
+            <guid>2260330</guid>
+            <pubDate>Thu, 29 Jul 2021 07:01:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据悉，美国食品药品管理局（FDA）的顾问们抨击FDA批准渤健的阿尔兹海默症药品一事。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8218432.d.html</link>
-            <guid>2259150</guid>
-            <pubDate>Wed, 28 Jul 2021 21:29:27 GMT</pubDate>
+            <title><![CDATA[西班牙7月CPI月率公布 -0.7%，前值 0.50%，预期 -0.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8324296.d.html</link>
+            <guid>2260329</guid>
+            <pubDate>Thu, 29 Jul 2021 07:00:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国参议院将于当地时间下午6点（北京时间早6点）左右就开始审议两党基础设施法案的程序动议进行投票；该动议需要60票才能进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8218247.d.html</link>
-            <guid>2259149</guid>
-            <pubDate>Wed, 28 Jul 2021 21:25:19 GMT</pubDate>
+            <title><![CDATA[【创业板指收盘点位首次超沪指】A股今日强势反弹，创业板指收涨5.29%，收盘点位史上首次高于沪指，沪指收涨约1.5%，深成指收涨约3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9722238.d.html</link>
+            <guid>2260328</guid>
+            <pubDate>Thu, 29 Jul 2021 07:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多方发力，数字人民币试点提速升级】伴随着运营机构扩围以及商业银行和多地政府大力推广，数字人民币试点呈现出提速升级和全面开花的局面。日前，央行官宣招商银行被纳入数字人民币运营机构，上海银行等多家商业银行积极参与数字人民币钱包的推广。与此同时，海南、长沙、西安等第二批试点城市最近也纷纷晒出数字人民币试点“成绩单”。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8218178.d.html</link>
-            <guid>2259148</guid>
-            <pubDate>Wed, 28 Jul 2021 21:22:50 GMT</pubDate>
+            <title><![CDATA[  北向资金净流入达90亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9722141.d.html</link>
+            <guid>2260327</guid>
+            <pubDate>Thu, 29 Jul 2021 07:00:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经济新动能加速聚集，A股中长期向上趋势不改】7月28日，沪深两市成交额连续第6个交易日破万亿，北向资金也在今日回流超80亿元，市场情绪进一步好转。机构人士表示，当前经济基本面强劲，A股的流动性环境可能要好于大多数投资者的预期，中长期来看，市场向上趋势不改。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9615611.d.html</link>
-            <guid>2259147</guid>
-            <pubDate>Wed, 28 Jul 2021 21:21:54 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：07月29日14时42分在西藏那曲市聂荣县发生3.8级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9722097.d.html</link>
+            <guid>2260324</guid>
+            <pubDate>Thu, 29 Jul 2021 06:59:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[周三（7月28）纽约尾盘，CME比特币期货BTC主力合约报39985美元，较周二纽约尾盘涨5.53%，盘中交投于38150-40940美元区间。CME以太币期货DCR主力合约报2299.75美元，较周二涨2.03%，盘中交投于2248.25-2355.00美元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8218057.d.html</link>
-            <guid>2259146</guid>
-            <pubDate>Wed, 28 Jul 2021 21:19:14 GMT</pubDate>
+            <title><![CDATA[【巴西对无缝非合金碳钢管发起反倾销日落复审调查】商务部消息，近日，巴西外贸秘书处在《联邦政府公报》上发布公告，决定对原产自中国的无缝非合金碳钢管发起反倾销日落复审调查。涉案产品的南共市税号为73043110、73043190、73043910、73043920、73043990。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9722044.d.html</link>
+            <guid>2260323</guid>
+            <pubDate>Thu, 29 Jul 2021 06:59:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.4859元，较周二纽约尾盘涨410点，盘中整体交投于6.5275-6.4845元区间，美股盘后曾涨至6.4845元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217991.d.html</link>
-            <guid>2259145</guid>
-            <pubDate>Wed, 28 Jul 2021 21:16:27 GMT</pubDate>
+            <title><![CDATA[  三菱日联银行报告第一财季因“美国客户”相关损失达141亿日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8323908.d.html</link>
+            <guid>2260322</guid>
+            <pubDate>Thu, 29 Jul 2021 06:58:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中消协：上半年消费投诉同比下降7.04%，食品和互联网服务投诉量居前】2021年上半年全国消协组织受理的消费者投诉投诉521976件，同比下降7.04%，解决412561件，投诉解决率79.04%，为消费者挽回经济损失75089万元。食品和经营性互联网服务分别居具体商品和服务投诉量首位。中消协建议，尽快出台新兴消费领域国家标准，加强市场准入安全性审查，为消费者维权提供保障。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217973.d.html</link>
-            <guid>2259144</guid>
-            <pubDate>Wed, 28 Jul 2021 21:15:59 GMT</pubDate>
+            <title><![CDATA[【全国累计报告接种新冠疫苗超16亿剂次】据国家卫健委，截至2021年7月28日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗160124.9万剂次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9721886.d.html</link>
+            <guid>2260320</guid>
+            <pubDate>Thu, 29 Jul 2021 06:57:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特CEO：看到了半导体芯片供应改善的迹象，但情况仍然不稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217909.d.html</link>
-            <guid>2259143</guid>
-            <pubDate>Wed, 28 Jul 2021 21:14:21 GMT</pubDate>
+            <title><![CDATA[【海啸预警中心：阿拉斯加海域地震可能会在震源周围引发大规模海啸】2021年7月29日14时15分（北京时间），美国阿拉斯加半岛海域发生8.0级（国家地震台网正式测定8.1级）地震，震源深度为15.0千米。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发大规模海啸，但不会对我国沿岸造成灾害性影响。我中心将继续跟踪分析地震和海啸监测数据，并及时发布信息。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8323805.d.html</link>
+            <guid>2260319</guid>
+            <pubDate>Thu, 29 Jul 2021 06:57:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook首席执行官：下一个发布的产品将是公司的第一款智能眼镜。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9615387.d.html</link>
-            <guid>2259142</guid>
-            <pubDate>Wed, 28 Jul 2021 21:13:59 GMT</pubDate>
+            <title><![CDATA[北向资金净流入达70亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9721694.d.html</link>
+            <guid>2260317</guid>
+            <pubDate>Thu, 29 Jul 2021 06:56:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[优步（UBER）盘后下跌4.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217408.d.html</link>
-            <guid>2259141</guid>
-            <pubDate>Wed, 28 Jul 2021 20:59:43 GMT</pubDate>
+            <title><![CDATA[  【北京昌平：4.1万人已全部按要求落实管控措施】7月28日0时至7月29日12时，北京新增2例京外疫情关联新冠肺炎确诊病例，均为湖南张家界返京人员。7月29日，在北京市新型冠状病毒肺炎疫情防控工作第227场新闻发布会上，昌平区副区长佟立志介绍，目前追踪到昌平区内的密切接触者267人，已全部落实管控措施，连夜封控管理确诊病例居住的小区——龙跃苑二区及周边9个小区，约4.1万人，全部按要求落实管控措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8323500.d.html</link>
+            <guid>2260316</guid>
+            <pubDate>Thu, 29 Jul 2021 06:55:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高通：对手机收入不断增长有更高信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8217344.d.html</link>
-            <guid>2259140</guid>
-            <pubDate>Wed, 28 Jul 2021 20:57:24 GMT</pubDate>
+            <title><![CDATA[据日本富士新闻网：日本冲绳县报告新增392例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9721525.d.html</link>
+            <guid>2260315</guid>
+            <pubDate>Thu, 29 Jul 2021 06:54:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国交通部长BUTTIGIEG：相信我们有足够的票数以通过两党基建法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9614531.d.html</link>
-            <guid>2259139</guid>
-            <pubDate>Wed, 28 Jul 2021 20:51:06 GMT</pubDate>
+            <title><![CDATA[荷兰皇家壳牌CEO本·范伯登：尽管存在新冠疫情，但需求前景乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8323326.d.html</link>
+            <guid>2260314</guid>
+            <pubDate>Thu, 29 Jul 2021 06:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南非斥资近10亿兰特参与莫桑比克维和】据南非媒体当地时间7月28日报道，南非议会宣布该国总统拉马福萨已通知议会，为履行南非对南部非洲发展共同体的义务，南非共派遣1495名军人参与莫桑比克维和行动，该行动将花费9.84亿兰特（约4.34亿人民币）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9614404.d.html</link>
-            <guid>2259138</guid>
-            <pubDate>Wed, 28 Jul 2021 20:48:07 GMT</pubDate>
+            <title><![CDATA[荷兰皇家壳牌CEO本·范伯登：欧佩克并没有为市场带来“大量”石油供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8323110.d.html</link>
+            <guid>2260312</guid>
+            <pubDate>Thu, 29 Jul 2021 06:52:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国得克萨斯州单日新增超10000例新冠肺炎确诊病例，为2月来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9614095.d.html</link>
-            <guid>2259137</guid>
-            <pubDate>Wed, 28 Jul 2021 20:39:15 GMT</pubDate>
+            <title><![CDATA[据日本放送协会NHK：日本气象厅正在检查阿拉斯加地震后，日本是否有可能遭受海啸袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9720849.d.html</link>
+            <guid>2260309</guid>
+            <pubDate>Thu, 29 Jul 2021 06:50:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗最高领袖：美国等西方国家在伊核谈判中不可信】伊朗最高领袖哈梅内伊28日表示，美国等西方国家在伊核谈判中不可信。只要有机会，它们就会伤害其他国家。哈梅内伊当天在与伊朗总统鲁哈尼等政府成员举行的会议上表示，在最近的伊核谈判中，美国坚持其顽固立场，没有向前迈出一步。他说，美方承诺取消对伊朗的制裁，实际上却没有也不会兑现承诺，美国还要求在业已存在的协议中添加新的内容。哈梅内伊表示，美国等西方国家违背在之前协议中的承诺，也不保证它们将来会遵守诺言。伊朗政府不应在国内事务上依赖西方，否则将会失败。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8216590.d.html</link>
-            <guid>2259136</guid>
-            <pubDate>Wed, 28 Jul 2021 20:39:04 GMT</pubDate>
+            <title><![CDATA[  市场消息：物美科技所有者另一家公司多点新鲜赴美IPO计划据悉同样暂缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9720802.d.html</link>
+            <guid>2260308</guid>
+            <pubDate>Thu, 29 Jul 2021 06:50:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  百胜中国(YUMC.N)财报公布后，盘后跌4.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8216388.d.html</link>
-            <guid>2259135</guid>
-            <pubDate>Wed, 28 Jul 2021 20:32:36 GMT</pubDate>
+            <title><![CDATA[  【北京严控中高风险地区人员进京】、7月29日，北京市疫情防控发布会上，北京市政府新闻发言人徐和建介绍，要严控中高风险地区人员进京。严密防范境外疫情输入，持续加强监测预警，落实“14+7健康管理措施。做好集中观察点安全管理，全面提升管理服务水平。严格按照防疫规定，做好封闭小区管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9720757.d.html</link>
+            <guid>2260307</guid>
+            <pubDate>Thu, 29 Jul 2021 06:50:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[百胜中国：第二季度必胜客简餐同店销售+11%，市场预估+12.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613873.d.html</link>
-            <guid>2259134</guid>
-            <pubDate>Wed, 28 Jul 2021 20:32:28 GMT</pubDate>
+            <title><![CDATA[美国地质勘探局：阿拉斯加以南海域发生8.2级地震后，共发生2次5级以上余震，第一次为6.2级，震源深度42.2千米，第二次为5.6级，震源深度为5千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8322590.d.html</link>
+            <guid>2260304</guid>
+            <pubDate>Thu, 29 Jul 2021 06:49:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[百胜中国：第二季度肯德基同店销售+4%，市场预估+10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8216369.d.html</link>
-            <guid>2259133</guid>
-            <pubDate>Wed, 28 Jul 2021 20:31:56 GMT</pubDate>
+            <title><![CDATA[  日月光半导体(ASX.N)：第二季度营收103.4亿新台币，市场预期96.7亿新台币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8322414.d.html</link>
+            <guid>2260303</guid>
+            <pubDate>Thu, 29 Jul 2021 06:48:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[百胜中国：第二季度调整后每股收益42美分，市场预估44美分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613834.d.html</link>
-            <guid>2259132</guid>
-            <pubDate>Wed, 28 Jul 2021 20:31:26 GMT</pubDate>
+            <title><![CDATA[市场消息：物美科技港交所IPO申请目前在交易所审查阶段搁置。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8322290.d.html</link>
+            <guid>2260300</guid>
+            <pubDate>Thu, 29 Jul 2021 06:47:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[百胜中国：第二季度营收24.5亿美元，市场预估24.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613821.d.html</link>
-            <guid>2259131</guid>
-            <pubDate>Wed, 28 Jul 2021 20:31:04 GMT</pubDate>
+            <title><![CDATA[【北京昌平累计采样38699人 已经出结果8427人全部为阴性】 北京市第227场新冠肺炎疫情防控工作新闻发布会召开。昌平区人民政府副区长佟立志介绍，昌平新增2例京外关联本地新冠肺炎确诊病例，昌平迅速开展核酸检测，已经设置16个采样点，连夜对病例居住小区、工作单位、就诊医院等相关人员进行核酸检测，截至今日12时，已累计采样38699人，已经出结果8427人全部为阴性。（北京青年报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9720073.d.html</link>
+            <guid>2260296</guid>
+            <pubDate>Thu, 29 Jul 2021 06:46:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：美国总统拜登提名Thea Kendler为美国商务部出口管理部副部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613808.d.html</link>
-            <guid>2259130</guid>
-            <pubDate>Wed, 28 Jul 2021 20:30:38 GMT</pubDate>
+            <title><![CDATA[法国6月PPI月率公布 1.1%，前值 0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9720001.d.html</link>
+            <guid>2260294</guid>
+            <pubDate>Thu, 29 Jul 2021 06:45:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[截至发稿，WSB上讨论度最高的股票TOP 10分别是Tilray(TLRY.O)、AMD(AMD.O)、苹果(AAPL.O)、微软(MSFT.O)、Facebook(FB.O)、阿里巴巴(BABA.N)、纳斯达克100指数ETF(QQQ)、ContextLogic (WISH.O)、Clover Health(CLOV.O)、游戏驿站(GME.N)。]]></title>
-            <guid>2259129</guid>
-            <pubDate>Wed, 28 Jul 2021 20:28:28 GMT</pubDate>
+            <title><![CDATA[法国6月PPI年率公布 7.5%，前值 7.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9719973.d.html</link>
+            <guid>2260293</guid>
+            <pubDate>Thu, 29 Jul 2021 06:45:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储公布议息结果，将贴现利率维持在0.25%不变，称未有足够条件启动削减量化宽松(QE)措施，其后主席鲍威尔称，在削减QE前，就业市场仍有改善空间，消息带动美股道指曾缩窄跌幅至100点以内，标指一度转涨，纳指则维持造好。截至收盘，道指收跌0.36%，标指微跌0.02%，纳指涨0.7%。盘面上，钢铁股、中概股普涨，科技股造好。个股方面，新股移动学习平台多邻国(DUOL.O)收涨36.28%，网易有道(DAO.N)涨30%，天境生物(IMAB.O)涨21.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613623.d.html</link>
-            <guid>2259128</guid>
-            <pubDate>Wed, 28 Jul 2021 20:24:50 GMT</pubDate>
+            <title><![CDATA[【李彦宏：未来十年人工智能领域将有八项关键技术实现从量变到质变】2021智能经济高峰论坛29日在京举行。百度创始人、董事长兼CEO李彦宏表示，未来十年人工智能领域将有八项关键技术实现从量变到质变，从而深刻地改变我们的社会，分别是自动驾驶、数字城市运营、机器翻译、生物计算、深度学习框架、知识管理、AI芯片和个人智能助手。这八项技术是AI时代决胜未来的关键，要提前布局，并长期、持续地投入。李彦宏表示，做技术就是要耐得住寂寞，“熬得过万丈孤独，藏得下星辰大海”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8321658.d.html</link>
+            <guid>2260289</guid>
+            <pubDate>Thu, 29 Jul 2021 06:43:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  截至发稿，道指成交量报3.47亿股（上一交易日为3.06亿股），纳指成交量报38.02亿股（上一交易日为37.9亿股），标普500指数成量报20.82亿股（上一交易日为18.16亿股）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8216038.d.html</link>
-            <guid>2259127</guid>
-            <pubDate>Wed, 28 Jul 2021 20:22:28 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：07月29日14时15分在美国阿拉斯加州以南海域发生8.1级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8321066.d.html</link>
+            <guid>2260287</guid>
+            <pubDate>Thu, 29 Jul 2021 06:40:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Paypal财报公布后，盘后跌近7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215909.d.html</link>
-            <guid>2259126</guid>
-            <pubDate>Wed, 28 Jul 2021 20:19:07 GMT</pubDate>
+            <title><![CDATA[北京昌平区：连夜封控管理确诊病例居住小区及周边9个小区。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9719015.d.html</link>
+            <guid>2260285</guid>
+            <pubDate>Thu, 29 Jul 2021 06:40:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Paypal：Q2新增1140万活跃账户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613348.d.html</link>
-            <guid>2259125</guid>
-            <pubDate>Wed, 28 Jul 2021 20:18:53 GMT</pubDate>
+            <title><![CDATA[  【安踏注册冠军相关商标】据天眼查App显示，近日，安踏（中国）有限公司申请注册多个“安踏冠军”商标，国际分类涉及健身器材、服装鞋帽、广告销售等，当前商标状态为申请中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8320869.d.html</link>
+            <guid>2260283</guid>
+            <pubDate>Thu, 29 Jul 2021 06:39:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Paypal：Q2总支付成交额为3109.9亿美元，市场预估2970.8亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613339.d.html</link>
-            <guid>2259124</guid>
-            <pubDate>Wed, 28 Jul 2021 20:18:40 GMT</pubDate>
+            <title><![CDATA[欧洲地中海地震中心：冰岛地区发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8320664.d.html</link>
+            <guid>2260279</guid>
+            <pubDate>Thu, 29 Jul 2021 06:38:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Paypal：仍然预测全年营收大约257.5亿美元，市场预估259亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613332.d.html</link>
-            <guid>2259123</guid>
-            <pubDate>Wed, 28 Jul 2021 20:18:30 GMT</pubDate>
+            <title><![CDATA[【贾跃亭旗下世茂工三商场16.45亿拍卖成功】7月29日，北京产权交易所官网显示，北京市朝阳区工体北路13号院3号楼1-4层及5幢不动产（世茂工三商场）历时24小时，最终成交，作价16.45亿元。拍卖于7月28日上午10时开拍，起拍价约合16.4亿元，评估价为29.29亿元。 本次拍卖为第二次拍卖。上一次拍卖于4月15日上午10时开拍，起拍价约合20.5亿元，评估价为29.29亿元，最终流拍。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8320454.d.html</link>
+            <guid>2260276</guid>
+            <pubDate>Thu, 29 Jul 2021 06:36:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paypal：预计Q3调整后每股收益大约1.07美元，市场预估1.14美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613327.d.html</link>
-            <guid>2259122</guid>
-            <pubDate>Wed, 28 Jul 2021 20:18:21 GMT</pubDate>
+            <title><![CDATA[美国地质勘探局：将阿拉斯加地震的震级从7.2级修改为8.2级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9718441.d.html</link>
+            <guid>2260275</guid>
+            <pubDate>Thu, 29 Jul 2021 06:36:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Paypal：Q2每股盈利1美元，市场预期0.73美元，去年同期1.29美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613321.d.html</link>
-            <guid>2259121</guid>
-            <pubDate>Wed, 28 Jul 2021 20:18:13 GMT</pubDate>
+            <title><![CDATA[  港股在线教育板块涨幅持续扩大，思考乐教育涨超40%，新东方在线涨16%，新东方涨11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8320367.d.html</link>
+            <guid>2260274</guid>
+            <pubDate>Thu, 29 Jul 2021 06:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Paypal：预计Q3营收61.5亿美元至62.5亿美元，市场预估64.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613307.d.html</link>
-            <guid>2259120</guid>
-            <pubDate>Wed, 28 Jul 2021 20:17:36 GMT</pubDate>
+            <title><![CDATA[  【索尼PS5全球销量突破1000万台】索尼互动娱乐今日宣布，新一代游戏主机PS5自2020年11月12日首度问世以来，全球销量已突破1000万台。PS5是SIE史上销售最快的主机，并持续超越前代主机PS4的销量。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9718366.d.html</link>
+            <guid>2260273</guid>
+            <pubDate>Thu, 29 Jul 2021 06:35:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Paypal第二季度净营收62.4亿美元，市场预估62.7亿美元；第二季度调整后每股收益1.15美元，市场预估1.12美元。]]></title>
-            <guid>2259119</guid>
-            <pubDate>Wed, 28 Jul 2021 20:17:20 GMT</pubDate>
+            <title><![CDATA[  【数据指美散户趁低吸纳中概股 包括阿里、小鹏汽车】据Business Insider援引Vanda Research数据，美国零售投资者在中概股近日急挫期间大手买进相关股票。本周6只被美国零售投资者买入最多股份当中，有3只中概股，包括蔚来汽车(NIO.N)  、小鹏汽车(XPEV.N)及阿里巴巴(BABA.N)。其中蔚来录得最少1.05亿散户资金流入。其余3只被买入最多股份包括苹果(AAPL.O)、AMD(AMD.O)及特斯拉(TSLA.O)。Vanda Research指，上周美国散户破纪录吸纳后，本周散户活动沉寂一段长时间，直至美国股票随中概股急跌，散户大军再度出现。该公司数据亦指，中概股于周一(26日)录得2.39亿美元散户资金流入，占当日散户增持股份总值约14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9718052.d.html</link>
+            <guid>2260265</guid>
+            <pubDate>Thu, 29 Jul 2021 06:33:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook：由于监管、平台变化，特别是最近的ios更新，预计2021年广告定位的阻力将增加，我们预计这对Q3的影响将更大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215864.d.html</link>
-            <guid>2259118</guid>
-            <pubDate>Wed, 28 Jul 2021 20:17:05 GMT</pubDate>
+            <title><![CDATA[【长江存储128层闪存量产出货 填补国产空白】日前，国内存储产品代工企业“嘉合劲威”发布消息称，该公司旗下品牌阿斯加特发布新品AN4 PCle4.0 SSD，闪存颗粒采用长江存储128层3D TLC NAND，主控方案来自国内企业英韧科技。7月29日，长江存储方面证实这一消息：测试结果显示长江存储128层TLC闪存的素质良好。资深业内人士分析指出，此次阿斯加特新品的发布，意味着长江存储128层闪存已正式量产出货，而且对于目前尚没有高端PCle4.0 SSD的国产存储市场来说，更是填补了这一空白。（观察者网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9717967.d.html</link>
+            <guid>2260262</guid>
+            <pubDate>Thu, 29 Jul 2021 06:32:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  福特汽车(F.N)财报公布后，盘后涨0.76%。]]></title>
-            <guid>2259117</guid>
-            <pubDate>Wed, 28 Jul 2021 20:13:59 GMT</pubDate>
+            <title><![CDATA[机场航运板块持续低迷，春秋航空跌超4%，白云机场、中国国航、中国东航跟跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9717874.d.html</link>
+            <guid>2260258</guid>
+            <pubDate>Thu, 29 Jul 2021 06:32:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特汽车(F.N)2021年Q2 净利润（亿美元）：前值 11.17，预期 0.51，公布 5.61。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613114.d.html</link>
-            <guid>2259116</guid>
-            <pubDate>Wed, 28 Jul 2021 20:12:53 GMT</pubDate>
+            <title><![CDATA[北京：本市报告确诊病例所在街道和单位人员原则上不允许出京。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9717824.d.html</link>
+            <guid>2260256</guid>
+            <pubDate>Thu, 29 Jul 2021 06:31:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  福特汽车(F.N)：Q2汽车营收241.3亿美元，去年同期为166.3亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613059.d.html</link>
-            <guid>2259115</guid>
-            <pubDate>Wed, 28 Jul 2021 20:10:51 GMT</pubDate>
+            <title><![CDATA[韩国KOSPI指数7月29日（周四）收盘上涨5.79点，涨幅0.18%，报3242.65点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9717783.d.html</link>
+            <guid>2260255</guid>
+            <pubDate>Thu, 29 Jul 2021 06:31:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook：预计全年资本支出190亿美元至210亿美元，市场预估201.4亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215561.d.html</link>
-            <guid>2259114</guid>
-            <pubDate>Wed, 28 Jul 2021 20:10:24 GMT</pubDate>
+            <title><![CDATA[美国地质勘探局：认为海啸可能对关岛造成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8319492.d.html</link>
+            <guid>2260252</guid>
+            <pubDate>Thu, 29 Jul 2021 06:30:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  福特汽车(F.N)：Q2每股盈利0.14美元，市场预期亏损0.06美元，去年同期盈利0.28美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215549.d.html</link>
-            <guid>2259113</guid>
-            <pubDate>Wed, 28 Jul 2021 20:10:10 GMT</pubDate>
+            <title><![CDATA[美国国家海啸预警中心：阿拉斯加奇尼克东南部发生8.1级地震后发布海啸警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8319059.d.html</link>
+            <guid>2260242</guid>
+            <pubDate>Thu, 29 Jul 2021 06:26:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook：预计在2021年剩余时间里，广告收入的增长将主要受到同比广告价格上涨的推动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9613001.d.html</link>
-            <guid>2259112</guid>
-            <pubDate>Wed, 28 Jul 2021 20:10:03 GMT</pubDate>
+            <title><![CDATA[大众汽车：大众对芯片危机的应对“相当不错”，预计将在第三季度受到芯片短缺的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9716892.d.html</link>
+            <guid>2260236</guid>
+            <pubDate>Thu, 29 Jul 2021 06:25:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Facebook：在2021年Q3/Q4，我们预计总营收同比增速将连续大幅放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612973.d.html</link>
-            <guid>2259111</guid>
-            <pubDate>Wed, 28 Jul 2021 20:09:55 GMT</pubDate>
+            <title><![CDATA[西班牙制药公司Reig Jofre：将在2021年下半年开始生产强生新冠疫苗，而不是之前预计的第二季度末。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8318704.d.html</link>
+            <guid>2260232</guid>
+            <pubDate>Thu, 29 Jul 2021 06:24:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook：Q2月活跃用户29亿，市场预估29亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612930.d.html</link>
-            <guid>2259110</guid>
-            <pubDate>Wed, 28 Jul 2021 20:08:45 GMT</pubDate>
+            <title><![CDATA[7月28日0时至7月29日12时，北京新增2例京外疫情关联新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8318628.d.html</link>
+            <guid>2260230</guid>
+            <pubDate>Thu, 29 Jul 2021 06:23:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook二季度日活用户数19.1亿，分析师预期19.1亿。Facebook美股盘后跌5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215412.d.html</link>
-            <guid>2259109</guid>
-            <pubDate>Wed, 28 Jul 2021 20:08:17 GMT</pubDate>
+            <title><![CDATA[  北向资金净流入达50亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9716634.d.html</link>
+            <guid>2260228</guid>
+            <pubDate>Thu, 29 Jul 2021 06:23:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Facebook第二季度营收290.8亿美元，市场预估278.6亿美元；第二季度每股收益3.61美元，市场预估3.02美元。]]></title>
-            <guid>2259108</guid>
-            <pubDate>Wed, 28 Jul 2021 20:07:22 GMT</pubDate>
+            <title><![CDATA[美国地质勘探局：阿拉斯加佩里维尔东南106公里发生7.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9716398.d.html</link>
+            <guid>2260224</guid>
+            <pubDate>Thu, 29 Jul 2021 06:21:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【ETF谨慎建仓，上市前平均仓位不到两成】 7月以来，A股弱势震荡，整体情绪较为低迷。交易型开放式指数基金（ETF）建仓也多开启“防御模式”，新上市ETF平均仓位不足两成，部分基金空仓上市。业内人士认为，基金经理建仓趋于谨慎，应是基于对市场中期继续弱势调整的预判。多位基金经理直言“建仓难”，尤其是新能源、半导体、医药主题基金，赛道估值处于高位，调整压力之下基金很难出手。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215289.d.html</link>
-            <guid>2259107</guid>
-            <pubDate>Wed, 28 Jul 2021 20:06:05 GMT</pubDate>
+            <title><![CDATA[澳大利亚S&P/ASX200指数7月29日（周四）收盘上涨38.10点，涨幅0.52%，报7417.40点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8318113.d.html</link>
+            <guid>2260220</guid>
+            <pubDate>Thu, 29 Jul 2021 06:20:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中欧基金股东转让20%股权，员工持股比例超过50%】 中欧基金发布关于公司股权转让的公告，北京百骏投资有限公司（下称“百骏投资”）向中欧基金员工个人股东转让20%的公司股权，至此，中欧核心员工（含员工持股平台）的持股比例已超过50%。 中欧基金介绍，公司正处于高速发展期，这部分股权将用于对核心员工的股权激励。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612777.d.html</link>
-            <guid>2259106</guid>
-            <pubDate>Wed, 28 Jul 2021 20:05:59 GMT</pubDate>
+            <title><![CDATA[江苏省淮安市洪泽区对城区居民进行全员核酸检测。（交汇点新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8317874.d.html</link>
+            <guid>2260214</guid>
+            <pubDate>Thu, 29 Jul 2021 06:19:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【社保基金、QFII增持通信、电子、医药等行业】 截至7月27日，已有80多家上市公司披露半年报。从已披露的信息看，机构投资者对行业龙头的偏好体现出趋同性。二季度，社保基金和QFII重点加仓了互联网龙头东方财富；社保基金和险资则对激光设备龙头华工科技较为青睐。截至二季度末，社保基金共现身14只个股，偏爱通信和电子设备、医药、化工等领域。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215281.d.html</link>
-            <guid>2259105</guid>
-            <pubDate>Wed, 28 Jul 2021 20:05:49 GMT</pubDate>
+            <title><![CDATA[  【乐视成立新公司乐嗨，最终受益人为贾跃亭】数据显示，7月26日，乐视乐嗨文化传媒（北京）有限公司成立，注册资本1000万人民币，法定代表人为孟宇。公司经营范围含组织文化艺术交流活动；软件开发；体育咨询；动漫设计；文化娱乐经纪人服务；广播电视节目制作等。信息显示，该公司由乐视鹏展企业管理（北京）有限公司全资控股，后者为乐视网信息技术（北京）股份有限公司子公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8317851.d.html</link>
+            <guid>2260213</guid>
+            <pubDate>Thu, 29 Jul 2021 06:18:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【股市收盘】道琼斯指数7月28日（周三）收盘下跌128.25点，跌幅0.37%，报34930.27点；标普500指数7月28日（周三）收盘下跌0.46点，跌幅0.01%，报4401.00点；纳斯达克综合指数7月28日（周三）收盘上涨102.0点，涨幅0.70%，报14762.6点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215259.d.html</link>
-            <guid>2259104</guid>
-            <pubDate>Wed, 28 Jul 2021 20:05:04 GMT</pubDate>
+            <title><![CDATA[伊拉克沙法齐通讯社援引安全机构一名消息人士的话报道称，美国驻巴格达大使馆所在的区遭到火箭弹袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9715828.d.html</link>
+            <guid>2260211</guid>
+            <pubDate>Thu, 29 Jul 2021 06:17:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  高通(QCOM.O)：预计2021年日历年3G/4G/5G手机出货量将出现高个位数增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612749.d.html</link>
-            <guid>2259103</guid>
-            <pubDate>Wed, 28 Jul 2021 20:04:55 GMT</pubDate>
+            <title><![CDATA[  阿斯利康(AZN.O)：预计新冠疫苗将在下半年在美国获批。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9715819.d.html</link>
+            <guid>2260208</guid>
+            <pubDate>Thu, 29 Jul 2021 06:17:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克金龙中国指数收涨9.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215179.d.html</link>
-            <guid>2259102</guid>
-            <pubDate>Wed, 28 Jul 2021 20:02:48 GMT</pubDate>
+            <title><![CDATA[科创50涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9715245.d.html</link>
+            <guid>2260197</guid>
+            <pubDate>Thu, 29 Jul 2021 06:12:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  高通(QCOM.O)：预计Q4每股盈利1.78-1.98美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612642.d.html</link>
-            <guid>2259101</guid>
-            <pubDate>Wed, 28 Jul 2021 20:02:19 GMT</pubDate>
+            <title><![CDATA[标普500指数期货抹去日内跌幅，纳指期货跌幅缩窄至0.1%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8317095.d.html</link>
+            <guid>2260196</guid>
+            <pubDate>Thu, 29 Jul 2021 06:12:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  高通(QCOM.O)：预计Q4营收84亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215143.d.html</link>
-            <guid>2259100</guid>
-            <pubDate>Wed, 28 Jul 2021 20:02:12 GMT</pubDate>
+            <title><![CDATA[诺基亚CEO：半导体供应仍然“紧张”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9714937.d.html</link>
+            <guid>2260189</guid>
+            <pubDate>Thu, 29 Jul 2021 06:10:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  高通(QCOM.O)财报公布后，盘后涨近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612632.d.html</link>
-            <guid>2259099</guid>
-            <pubDate>Wed, 28 Jul 2021 20:02:06 GMT</pubDate>
+            <title><![CDATA[南向资金净流出达10亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9714544.d.html</link>
+            <guid>2260185</guid>
+            <pubDate>Thu, 29 Jul 2021 06:09:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中概股普涨，教育股涨幅居前，高途涨超25%，掌门教育涨超24%，名创优品、向上融科涨超17%，理想汽车、好未来、拼多多涨超15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612623.d.html</link>
-            <guid>2259098</guid>
-            <pubDate>Wed, 28 Jul 2021 20:01:42 GMT</pubDate>
+            <title><![CDATA[诺基亚CEO：5G的地位“明显增强”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9714526.d.html</link>
+            <guid>2260184</guid>
+            <pubDate>Thu, 29 Jul 2021 06:09:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高通第三财季调整后营收80亿美元，市场预期75.79亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612614.d.html</link>
-            <guid>2259097</guid>
-            <pubDate>Wed, 28 Jul 2021 20:01:26 GMT</pubDate>
+            <title><![CDATA[中芯国际概念板块指数上涨7.09%；中微公司上涨12.85%，国科微上涨11.36%，雅克科技涨停，通富微电涨超9%。]]></title>
+            <guid>2260181</guid>
+            <pubDate>Thu, 29 Jul 2021 06:08:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储维持基准利率不变，道指初步收跌约130点，热门中概股、教育股、新能源汽车股普涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612571.d.html</link>
-            <guid>2259096</guid>
-            <pubDate>Wed, 28 Jul 2021 20:00:15 GMT</pubDate>
+            <title><![CDATA[中国台湾报告新增16例新冠肺炎本土确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8316099.d.html</link>
+            <guid>2260177</guid>
+            <pubDate>Thu, 29 Jul 2021 06:07:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国10年期国债收益率跌至日低，报1.226%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8215051.d.html</link>
-            <guid>2259095</guid>
-            <pubDate>Wed, 28 Jul 2021 19:58:39 GMT</pubDate>
+            <title><![CDATA[阿斯利康：上半年新冠药物相关收入为11.69亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9714208.d.html</link>
+            <guid>2260176</guid>
+            <pubDate>Thu, 29 Jul 2021 06:07:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国参议院共和党人威胁要阻止两名财政部提名人，除非拜登在“北溪2号”天然气管道问题上改变立场。]]></title>
-            <guid>2259094</guid>
-            <pubDate>Wed, 28 Jul 2021 19:58:08 GMT</pubDate>
+            <title><![CDATA[【鸿星尔克发紧急通知：鸿星尔克系统崩溃恳请退款 仓库已售空】今日凌晨，鸿星尔克发布紧急通知称，由于近期订单大量涌入，导致公司系统崩溃，40多款产品跟不上备货量的需求，各地的仓库已售空，主生产线已超负荷生产。鸿星尔克呼吁大家理性消费，退掉目前没有库存的商品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9714151.d.html</link>
+            <guid>2260174</guid>
+            <pubDate>Thu, 29 Jul 2021 06:06:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货白银站上25美元/盎司，日内涨1.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612522.d.html</link>
-            <guid>2259093</guid>
-            <pubDate>Wed, 28 Jul 2021 19:57:56 GMT</pubDate>
+            <title><![CDATA[菲律宾央行行长迪奥克诺：地区经济疲软，比索走软。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9714050.d.html</link>
+            <guid>2260171</guid>
+            <pubDate>Thu, 29 Jul 2021 06:05:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：奈飞(NFLX.O)将要求在美国制作影片的演员和其他1区工作人员接种新冠病毒疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8214934.d.html</link>
-            <guid>2259092</guid>
-            <pubDate>Wed, 28 Jul 2021 19:54:16 GMT</pubDate>
+            <title><![CDATA[  道达尔(TOT.N)：第二季度调整后净利润35亿美元，市场预期33.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9713979.d.html</link>
+            <guid>2260169</guid>
+            <pubDate>Thu, 29 Jul 2021 06:05:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全球最大的铜矿面临罢工风险 工会建议拒绝资方的工资方案】智利埃斯孔迪达铜矿的工会领导人呼吁工人拒绝矿主必和必拓集团的最终工资提议，在全球供应吃紧、铜价高涨的情况下提高了这个世界最大铜矿发生罢工的可能性。工会周三发布声明称，在智利常规薪资谈判期结束时提出的工资方案未能满足工人的要求，必和必拓还要求延长工作时间以提高生产率和利润。工会的2330名成员将在7月31日之前对该方案进行投票。]]></title>
-            <guid>2259091</guid>
-            <pubDate>Wed, 28 Jul 2021 19:50:34 GMT</pubDate>
+            <title><![CDATA[【商务部：积极推进中日绿色低碳第三方市场合作】今日，中日促进绿色低碳第三方市场合作研讨会在湖北武汉召开，商务部部长助理任鸿斌强调，今年是中国“十四五”规划的开局之年。中国将积极贯彻新发展理念，坚持走生态优先、绿色低碳的发展道路，与日本在绿色低碳领域拓展合作空间面临新的契机。中日第三方市场合作是双方与有关国家开展绿色低碳等领域合作的有效路径，将为中日绿色资源、产品、服务与东道国绿色发展需求高效对接搭建桥梁，发展前景广阔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9713931.d.html</link>
+            <guid>2260168</guid>
+            <pubDate>Thu, 29 Jul 2021 06:05:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【7月新基金募集火爆，超2100亿资金驰援市场】近几天，A股市场大幅调整，资金态度谨慎。而受益于前期新能源等主题的强劲走势，基金“吸金”效应不减，基金发行市场一片暖意。数据显示，截至7月27日，7月份以来新基金发行规模合计超过2100亿元，虽然较6月份的2838亿元还有差距，但比起四五月份1400亿的水平，近期的发行已是相当可观。一些具备市场号召力的明星基金经理继续得到资金认可，涌现出一批“大块头”基金。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612333.d.html</link>
-            <guid>2259090</guid>
-            <pubDate>Wed, 28 Jul 2021 19:50:24 GMT</pubDate>
+            <title><![CDATA[  沪深两市成交额连续第7个交易日突破一万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8315616.d.html</link>
+            <guid>2260166</guid>
+            <pubDate>Thu, 29 Jul 2021 06:04:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【机构资金逆市加仓，“成长+景气度”逻辑获青睐】作为机构投资的风向标，权益ETF（股票ETF和跨境ETF）市场再现“大跌大买”的操作。本周前两个交易日中，虽然A股迎来震荡调整，但是，资金借道权益ETF大举买入143亿元。浦银安盛基金预判，外围市场扰动并不改变A股市场中长期走势，A股整体宏观基本面、流动性、景气赛道产业趋势等未发生根本性改变。在风险短期释放后，对于未来的A股投资，浦银安盛基金仍持谨慎乐观的态度，预计A股将延续“重成长、关注行业景气度”的投资逻辑。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612321.d.html</link>
-            <guid>2259089</guid>
-            <pubDate>Wed, 28 Jul 2021 19:50:08 GMT</pubDate>
+            <title><![CDATA[  【华为、凯盛科技研发提高柔性玻璃弯折性能的加工方法】天眼查数据显示：7月27日，华为技术有限公司公开了多项专利申请，其中包括“一种提高柔性玻璃弯折性能的加工方法”专利，公开号为CN113173708A。申请人为：凯盛科技股份有限公司和华为技术有限公司。摘要显示本发明公开了一种提高柔性玻璃弯折性能的加工方法，能够显著提高柔性玻璃的弯折性能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8315567.d.html</link>
+            <guid>2260165</guid>
+            <pubDate>Thu, 29 Jul 2021 06:03:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国加州呼吁那些完全接种了新冠肺炎疫苗的人群在室内也佩戴口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8214819.d.html</link>
-            <guid>2259088</guid>
-            <pubDate>Wed, 28 Jul 2021 19:49:51 GMT</pubDate>
+            <title><![CDATA[  荷兰皇家壳牌(RDS.A.N)：将回购价值20亿美元的股份回购计划，将在年底前完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8315503.d.html</link>
+            <guid>2260164</guid>
+            <pubDate>Thu, 29 Jul 2021 06:03:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【油价上涨，因美国库存在需求旺季下降】① 周三美油收涨逾1%，升至两周最高水平，美国原油、汽油和精炼油库存下降预示夏日出行旺季的需求旺盛；美国政府的一份报告显示原油库存跌至2020年1月以来最低，精炼油库存创4月以来最大降幅，上周汽油库存减少逾200万桶；② Tortoise的投资组合经理Brian Kessens说，从库存角度来看，美国的需求相当健康；虽然delta病毒变种值得关注，但在美国“到目前为止，它对出行没有任何影响”；③ 纽约商业交易所9月WTI上涨74美分，结算价报每桶72.39美元；伦敦ICE欧洲期货交易所9月布伦特上涨26美分，收于每桶74.74美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8214760.d.html</link>
-            <guid>2259087</guid>
-            <pubDate>Wed, 28 Jul 2021 19:47:56 GMT</pubDate>
+            <title><![CDATA[  日经225指数收盘涨0.73%，报27782.42点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8315234.d.html</link>
+            <guid>2260162</guid>
+            <pubDate>Thu, 29 Jul 2021 06:01:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国10年期国债收益率回吐涨幅，并转而下跌至1.24%下方，脱离美联储主席鲍威尔新闻发布会开始时录得的日高1.2727%，逼近欧市盘初录得的日低1.2277%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8214742.d.html</link>
-            <guid>2259086</guid>
-            <pubDate>Wed, 28 Jul 2021 19:47:27 GMT</pubDate>
+            <title><![CDATA[【民航局：保证国际国内航班工作人员不交叉】7月28日，民航局召开民航防控工作领导小组扩大会议，分析近期疫情防控形势，对进一步强化民航疫情防控措施进行再动员、再部署。民航局局长冯正霖表示，要对直接接触国际旅客、货物的保障人员实施封闭管理。保证国际和国内航班的工作人员不交叉，工作区域和休息区域严格区分。继续增加核酸检测频次，一线重点人员每两天完成一次核酸检测。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9713298.d.html</link>
+            <guid>2260161</guid>
+            <pubDate>Thu, 29 Jul 2021 06:01:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  西方石油(OXY.N)提议常规季度股息每股0.01美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612240.d.html</link>
-            <guid>2259085</guid>
-            <pubDate>Wed, 28 Jul 2021 19:47:16 GMT</pubDate>
+            <title><![CDATA[  【中钢协：加快国内铁矿资源开发】中国钢铁工业协会会长沈彬7月29日在中钢协第六届会员大会二次会议上表示，“十四五”时期，钢铁行业要增强资源保障能力。将消除不利于铁矿资源开发的政策性障碍，加快国内铁矿资源开发，提升国内铁矿资源自给率。稳步推进境外资源开发利用，加快推动西非、西澳等境外特大型铁矿项目建设，提高海外权益铁矿比例。推动形成合理的铁矿石定价机制。 (中国证券网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8314889.d.html</link>
+            <guid>2260157</guid>
+            <pubDate>Thu, 29 Jul 2021 05:59:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【世卫组织：德尔塔变异株已传播至132个国家和地区】7月28日，世界卫生组织发布的新冠肺炎每周流行病学报告显示，上周（7月19日至25日），全球共报告新冠肺炎新增病例超过380万例，与前一周相比增加了8%。这一增长趋势主要归因于美洲地区和西太平洋地区的大幅增长。美洲地区的新增病例数增长了30%，西太平洋地区增长了25%。上周的死亡病例数出现了急剧增加，超过69000人，与前一周相比增加了21%。132个国家和地区报告发现了德尔塔变异株，比前一周增加了8个国家和地区。报告指出，全球报告的累计病例数已接近1.94亿，预计全球报告的累计病例数在未来两周内可能超过2亿。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8214631.d.html</link>
-            <guid>2259084</guid>
-            <pubDate>Wed, 28 Jul 2021 19:42:45 GMT</pubDate>
+            <title><![CDATA[ 【海南：“十四五”期间将打造国家热带现代农业基地】海南省新闻办公室今日召开新闻发布会，对《海南省“十四五”推进农业农村现代化规划》进行解读说明。《规划》提出，实施乡村产业发展行动，建设国家热带现代农业基地。包括保障自贸港重要农产品有效供给，做强做优热带特色高效农业，补齐加工流通服务短板，打造世界级农（渔）业旅游目的地等4个方面任务，突出高质量发展方向，用足用好自由贸易港政策，做强做优热带特色高效农业。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8314806.d.html</link>
+            <guid>2260154</guid>
+            <pubDate>Thu, 29 Jul 2021 05:58:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：07月29日03时24分在青海玉树州治多县发生4.2级地震，震源深度8千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9612127.d.html</link>
-            <guid>2259083</guid>
-            <pubDate>Wed, 28 Jul 2021 19:41:48 GMT</pubDate>
+            <title><![CDATA[创业板指持续上行，涨幅扩大至5％，半导体及元件、新材料板块涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8314796.d.html</link>
+            <guid>2260153</guid>
+            <pubDate>Thu, 29 Jul 2021 05:58:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【受新冠肺炎疫情影响 泰国黄金交易市场萧条】泰国黄金交易协会7月28日发布信息称，受第三波新冠肺炎疫情的影响，全国黄金交易行情出现前所未有的萧条，大部分金店的日交易额仅为疫情前的5%~10%。主要原因是疫情导致收入减少，抑制了人们的消费能力，加上近期黄金价格处于高位以及泰铢贬值等因素，一些人会将黄金饰品出售兑现，但购买黄金的人大幅减少。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611910.d.html</link>
-            <guid>2259082</guid>
-            <pubDate>Wed, 28 Jul 2021 19:34:57 GMT</pubDate>
+            <title><![CDATA[  【国创中心与矽睿科技达成战略合作】日前，国家智能传感器创新中心与上海矽睿科技股份有限公司签订战略合作协议。该协议将启动国创中心与矽睿科技在智能传感器技术产品创新、国产供应链完善、产业生态建设的全方位合作。双方将在传感器材料、工艺、设计、测试、模组、系统、应用等领域深度合作，加快先进传感器领域前沿技术创新和产业化。同时通过和国内半导体装备企业合作，打造智能传感器国产供应链和产业生态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8314297.d.html</link>
+            <guid>2260149</guid>
+            <pubDate>Thu, 29 Jul 2021 05:54:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：美国共和党的法案草案将限制科技公司的责任保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611799.d.html</link>
-            <guid>2259081</guid>
-            <pubDate>Wed, 28 Jul 2021 19:31:51 GMT</pubDate>
+            <title><![CDATA[沪深两市成交额突破9500亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8313414.d.html</link>
+            <guid>2260145</guid>
+            <pubDate>Thu, 29 Jul 2021 05:50:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元兑美元EUR/USD较日低回升逾70点，创近二周新高，报1.1845。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611775.d.html</link>
-            <guid>2259080</guid>
-            <pubDate>Wed, 28 Jul 2021 19:31:14 GMT</pubDate>
+            <title><![CDATA[【中国国际矿业大会将于10月在津召开】据中国自然资源报报道，第23届中国国际矿业大会将于10月21日~23日在天津梅江会展中心召开。本次大会主要由论坛、展览、“国家推介”等内容组成，共同研讨新形势下全球矿业面临的热点问题，并为矿业权人、投资者、技术服务商和设备制造商等各方面专业机构、专业买家及观众提供交流合作的平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8312904.d.html</link>
+            <guid>2260138</guid>
+            <pubDate>Thu, 29 Jul 2021 05:46:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[丰田汽车(TM.N)北美地区主管表示，公司预计到2030年在美国销售150万至180万辆电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611743.d.html</link>
-            <guid>2259079</guid>
-            <pubDate>Wed, 28 Jul 2021 19:30:15 GMT</pubDate>
+            <title><![CDATA[【荣耀申请荣耀盲盒商标】近日，荣耀终端有限公司申请注册“荣耀盲盒”商标，国际分类为教育娱乐、通讯服务等。目前状态为商标申请中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8312805.d.html</link>
+            <guid>2260137</guid>
+            <pubDate>Thu, 29 Jul 2021 05:46:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  丰田汽车(TM.N)北美地区主管表示，预计今年美国新车销量将达到1660万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611710.d.html</link>
-            <guid>2259078</guid>
-            <pubDate>Wed, 28 Jul 2021 19:29:15 GMT</pubDate>
+            <title><![CDATA[空客CEO：空中交通复苏仍然“非常缓慢”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9710284.d.html</link>
+            <guid>2260136</guid>
+            <pubDate>Thu, 29 Jul 2021 05:41:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据悉美国在线券商Robinhood的招股需求在区间范围内。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqciyzk8214215.d.html</link>
-            <guid>2259077</guid>
-            <pubDate>Wed, 28 Jul 2021 19:28:55 GMT</pubDate>
+            <title><![CDATA[港股汽车板块午后涨幅扩大，小鹏汽车涨超12%，东风集团股份、比亚迪股份均涨超9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9710276.d.html</link>
+            <guid>2260135</guid>
+            <pubDate>Thu, 29 Jul 2021 05:41:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔的新闻发布会结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9611624.d.html</link>
-            <guid>2259076</guid>
-            <pubDate>Wed, 28 Jul 2021 19:27:10 GMT</pubDate>
+            <title><![CDATA[  【世界黄金协会：上半年中国黄金ETF净流入7.8吨】世界黄金协会7月29日发布的第二季度黄金需求趋势报告显示，二季度中国黄金ETF持仓净流出3.6吨，主要由于当季金价上涨，部分投资者赎回获利。但上半年整体持仓仍有7.8吨的净流入，其主要原因为黄金价格较2020年下半年有所回调，一些中国投资者抓住时机加大了配置黄金ETF的力度。（中国证券网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-29/detail-ikqcfnca9710216.d.html</link>
+            <guid>2260134</guid>
+            <pubDate>Thu, 29 Jul 2021 05:41:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
