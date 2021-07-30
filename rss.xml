@@ -4,11 +4,388 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Jul 2021 16:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jul 2021 19:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国否认亚马逊创始人贝索斯试图推翻SpaceX与美国的登月车交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0020235.d.html</link>
+            <guid>2262803</guid>
+            <pubDate>Fri, 30 Jul 2021 19:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.16%，报25856点，低水105点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8623025.d.html</link>
+            <guid>2262802</guid>
+            <pubDate>Fri, 30 Jul 2021 19:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：在抗击疫情的过程中，不会进入封锁状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0019696.d.html</link>
+            <guid>2262801</guid>
+            <pubDate>Fri, 30 Jul 2021 19:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：暂不考虑全国强制新冠疫苗接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8622722.d.html</link>
+            <guid>2262800</guid>
+            <pubDate>Fri, 30 Jul 2021 19:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：新冠传染率在美国73.8%的县为“显著”或“高”，上周四这一数据为69.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0019598.d.html</link>
+            <guid>2262799</guid>
+            <pubDate>Fri, 30 Jul 2021 19:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国累计发现超过11万例新冠疫苗突破感染病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8622540.d.html</link>
+            <guid>2262798</guid>
+            <pubDate>Fri, 30 Jul 2021 18:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增2677例新冠肺炎确诊病例，新增3例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0019415.d.html</link>
+            <guid>2262797</guid>
+            <pubDate>Fri, 30 Jul 2021 18:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空航天局（NASA）：NASA和国际伙伴将资助国际空间站任务至少到2024年，将与各自的利益相关方就未来计划进行合作 。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0019217.d.html</link>
+            <guid>2262795</guid>
+            <pubDate>Fri, 30 Jul 2021 18:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元对秘鲁索尔在利马市场收盘上扬3.6%，至4.068的创纪录收盘高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8622085.d.html</link>
+            <guid>2262794</guid>
+            <pubDate>Fri, 30 Jul 2021 18:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国泰晤士报：一艘油轮在阿曼海岸遭遇袭击，造成2人死亡，其中包括一名英国船员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0019017.d.html</link>
+            <guid>2262793</guid>
+            <pubDate>Fri, 30 Jul 2021 18:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻发言人Jean-Pierre：政府和国会正在就延长租客驱逐禁令一起努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621861.d.html</link>
+            <guid>2262792</guid>
+            <pubDate>Fri, 30 Jul 2021 18:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻发言人Jean-Pierre：接种新冠疫苗的平均人数上升了30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621832.d.html</link>
+            <guid>2262791</guid>
+            <pubDate>Fri, 30 Jul 2021 18:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄能源部要求政府禁止汽油出口 按计划禁令可能持续至少三个月】据俄罗斯媒体报道，7月30日俄罗斯能源部向该国政府提议，加快启动禁止汽油出口的程序。俄联邦能源部负责人舒尔吉诺夫此前表示，由于俄国内汽油价格屡创新高，因此该部门正在研究禁止汽油出口的可能性，按计划禁令可能持续至少三个月。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621767.d.html</link>
+            <guid>2262790</guid>
+            <pubDate>Fri, 30 Jul 2021 18:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 9月原油期货收涨0.33美元，涨幅0.45%，报73.95美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621443.d.html</link>
+            <guid>2262789</guid>
+            <pubDate>Fri, 30 Jul 2021 18:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金失守1810美元/盎司，日内跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0018406.d.html</link>
+            <guid>2262788</guid>
+            <pubDate>Fri, 30 Jul 2021 18:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南湘西2个区域升级为中风险地区】据了解，根据国务院应对新冠肺炎疫情联防联控机制《关于调整新冠肺炎疫情分区分级标准实施精准管控措施的通知》（国电发〔2020〕11号）文件精神，按照科学划定、精准管控工作要求，结合湖南湘西自治州新增新冠肺炎患者行动轨迹和活动范围，自2021年7月30日24时起，将古丈县默戎镇墨戎苗寨、吉首市峒河街道办事处五里牌社区公租房小区划定为中风险地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0018369.d.html</link>
+            <guid>2262787</guid>
+            <pubDate>Fri, 30 Jul 2021 18:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国食品药品监督管理局（FDA）将加快对辉瑞新冠疫苗的审查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0018353.d.html</link>
+            <guid>2262786</guid>
+            <pubDate>Fri, 30 Jul 2021 18:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚央行将关键贷款利率保持在1.75%，与市场预期一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621331.d.html</link>
+            <guid>2262785</guid>
+            <pubDate>Fri, 30 Jul 2021 18:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 7月31日（周六）晚盘收盘下跌0.85%报377.01元/克；上海黄金交易所白银T+D 7月31日（周六）晚盘收盘下跌0.36%报5312.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621326.d.html</link>
+            <guid>2262784</guid>
+            <pubDate>Fri, 30 Jul 2021 18:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上期所原油期货2109合约夜盘收涨0.88%，报458.30元人民币/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0018263.d.html</link>
+            <guid>2262783</guid>
+            <pubDate>Fri, 30 Jul 2021 18:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX期金回落至1810美元/盎司下方，日内跌1.16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8621106.d.html</link>
+            <guid>2262782</guid>
+            <pubDate>Fri, 30 Jul 2021 18:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至昨日，美国新冠肺炎累计死亡病例达610264人，此前为609853人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8620907.d.html</link>
+            <guid>2262781</guid>
+            <pubDate>Fri, 30 Jul 2021 18:24:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至昨日，美国新冠肺炎累计确诊病例达34818278例，此前为34722631例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0017946.d.html</link>
+            <guid>2262780</guid>
+            <pubDate>Fri, 30 Jul 2021 18:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国司法部认为财政部应提供特朗普的纳税申报】美国司法部表示，财政部应该向众议院民主党人移交前总统特朗普的纳税申报表。司法部法律顾问办公室周五在其网站发布长达39页的意见，称“我们认为财政部长必须遵守众议院筹款委员会2021年6月16日的要求，”提供特朗普的纳税申报和相关税务信息。这一决定推翻了2019年的一份意见。当时的意见认为财政部不应提供纳税申报，声称筹款委员会掩饰其寻求特朗普税务信息的真实目的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8620823.d.html</link>
+            <guid>2262779</guid>
+            <pubDate>Fri, 30 Jul 2021 18:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【随着需求复苏，欧佩克基本实现了计划中的供应增加】由于燃料需求继续从疫情中恢复，欧佩克本月基本上按照计划恢复了中断的石油供应。机构调查显示，欧佩克石油产量提高了42万桶/日，至2682万桶/日，但增加幅度比预期小，表明一些国家可能难以恢复到疫情爆发前的产量水平。欧佩克及其盟友在去年通过削减产量拯救了石油行业，到目前为止，欧佩克+已经让1000万桶/日的减产规模恢复了40%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0017602.d.html</link>
+            <guid>2262778</guid>
+            <pubDate>Fri, 30 Jul 2021 18:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Goldentree资产管理公司购买了比特币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0017459.d.html</link>
+            <guid>2262777</guid>
+            <pubDate>Fri, 30 Jul 2021 18:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西雷亚尔兑美元在现货市场交易中下跌2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8620384.d.html</link>
+            <guid>2262776</guid>
+            <pubDate>Fri, 30 Jul 2021 18:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国修改入境规定和疫情风险地区划分标准】当地时间7月30日，德国联邦内阁正式通过了一项新规定，要求从8月1日起，所有12岁以上的入境者，无论来自哪个国家和地区，都必须提供新冠病毒检测阴性证明、新冠疫苗接种证明或者新冠肺炎康复证明中的一种。与此同时，德国决定把对疫情风险地区的划分由此前的三个类别减少至两个类别，即只保留疫情高风险地区和病毒变异地区，取消疫情普通风险地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8620182.d.html</link>
+            <guid>2262775</guid>
+            <pubDate>Fri, 30 Jul 2021 18:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：印尼塔劳群岛Kepulauan地区发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0017005.d.html</link>
+            <guid>2262774</guid>
+            <pubDate>Fri, 30 Jul 2021 18:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国在线券商Robinhood和承销商对于股票价格跌破IPO发行价格感到惊讶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8619479.d.html</link>
+            <guid>2262773</guid>
+            <pubDate>Fri, 30 Jul 2021 17:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国银行：美联储逆回购操作量可能需要5年时间才能回到零】美国银行策略师Mark Cabana和Meghan Swiber表示，美联储逆回购协议的交易量可能要到2026年下半年才可能回到零。这个预测假设美联储资产负债表不收缩，货币供应量年增长6.5%，银行准备金和财政部一般账户余额年增长4%。隔夜逆回购的长期使用增强了美联储资产负债表收缩、调整补充杠杆率或提高财政部一般账户余额的重要性。他们表示，如果基本情境得到证实，担心随着流动性提供方因交易和收费潜力有限而退出，货币市场功能可能恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8619241.d.html</link>
+            <guid>2262772</guid>
+            <pubDate>Fri, 30 Jul 2021 17:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张家界新增3例本土确诊病例】7月30日2—22时，湖南省张家界市新增3例本土新冠肺炎确诊病例。自7月29日以来，湖南省张家界市累计发现本土确诊病例5例（其中永定区5例）。（掌上张家界） 【]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0015900.d.html</link>
+            <guid>2262771</guid>
+            <pubDate>Fri, 30 Jul 2021 17:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 12月黄金期货收跌1.0%，报1817.20美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8618858.d.html</link>
+            <guid>2262770</guid>
+            <pubDate>Fri, 30 Jul 2021 17:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：07月31日01时10分在秘鲁（南纬5.00度，西经80.65度）发生6.3级地震，震源深度30千米。]]></title>
+            <guid>2262769</guid>
+            <pubDate>Fri, 30 Jul 2021 17:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心研究：在133名前往巴恩斯特布尔县的马萨诸塞州居民的样本中，检测发现90%的样本中有德尔塔变种毒株。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0014780.d.html</link>
+            <guid>2262768</guid>
+            <pubDate>Fri, 30 Jul 2021 17:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心研究：7月3日至17日期间，在马萨诸塞州居民中发现的469例新冠病毒感染病例中，74%的人完全接种了新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8617686.d.html</link>
+            <guid>2262767</guid>
+            <pubDate>Fri, 30 Jul 2021 17:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心主任：新的口罩建议可确保接种疫苗的公众不会在不知情的情况下将变种病毒传播给他人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8617399.d.html</link>
+            <guid>2262766</guid>
+            <pubDate>Fri, 30 Jul 2021 17:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心主任：数据显示，在接种疫苗和未接种疫苗的人群中，感染病例体内的德尔塔变种病毒载量和新冠病毒几乎一样高。数据引起的担忧是与其他变种不同，接种过疫苗的人感染了德尔塔病毒也可以发生传播。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8617392.d.html</link>
+            <guid>2262765</guid>
+            <pubDate>Fri, 30 Jul 2021 17:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国地学研究中心GFZ：秘鲁北部海岸附近发生6.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8617331.d.html</link>
+            <guid>2262764</guid>
+            <pubDate>Fri, 30 Jul 2021 17:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购中接纳了10393亿美元，规模史上首次突破1万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8617044.d.html</link>
+            <guid>2262763</guid>
+            <pubDate>Fri, 30 Jul 2021 17:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增24309例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8616898.d.html</link>
+            <guid>2262762</guid>
+            <pubDate>Fri, 30 Jul 2021 17:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CNBC：美国司法部表示，特朗普的纳税申报单可以向国会公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0013733.d.html</link>
+            <guid>2262761</guid>
+            <pubDate>Fri, 30 Jul 2021 17:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院以66票赞成，28票反对，通过1万亿美元的跨党派基础设施法案的程序性投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0013411.d.html</link>
+            <guid>2262760</guid>
+            <pubDate>Fri, 30 Jul 2021 17:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[油服贝克休斯：美国钻井平台连续11个月增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8616339.d.html</link>
+            <guid>2262759</guid>
+            <pubDate>Fri, 30 Jul 2021 17:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国皇家加勒比邮轮公司一邮轮上6名乘客新冠病毒检测结果呈阳性】据美国媒体报道，当地时间7月30日，美国皇家加勒比邮轮公司证实，7月24日从巴哈马拿骚出发的皇家加勒比“国际海上冒险号”上有6名乘客的新冠病毒检测结果呈阳性，其中4人已接种疫苗，另外2名未成年人未接种疫苗，所有人均未出现严重症状。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8616218.d.html</link>
+            <guid>2262758</guid>
+            <pubDate>Fri, 30 Jul 2021 17:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯能源部要求政府下令禁止汽油出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8616140.d.html</link>
+            <guid>2262757</guid>
+            <pubDate>Fri, 30 Jul 2021 17:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构调查：欧佩克7月增产幅度小于允许水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0013134.d.html</link>
+            <guid>2262756</guid>
+            <pubDate>Fri, 30 Jul 2021 17:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构调查：欧佩克7月石油产量增加42万桶/日至2682万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8616061.d.html</link>
+            <guid>2262755</guid>
+            <pubDate>Fri, 30 Jul 2021 17:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：美国食品药品监督管理局（FDA）可能会选择使用完整的批准程序来批准12岁以下儿童使用新冠疫苗，而不是紧急使用授权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0013067.d.html</link>
+            <guid>2262754</guid>
+            <pubDate>Fri, 30 Jul 2021 17:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非新增13025例新冠肺炎确诊病例，累计确诊病例达2435000例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8615939.d.html</link>
+            <guid>2262753</guid>
+            <pubDate>Fri, 30 Jul 2021 17:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际铜夜盘收跌0.86%，沪铜夜盘收跌0.66%，沪铝收涨0.05%，沪锌收涨0.45%，沪铅收涨0.88%，沪镍收跌1.14%，沪锡收涨0.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0012964.d.html</link>
+            <guid>2262752</guid>
+            <pubDate>Fri, 30 Jul 2021 17:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME期铜收跌96美元，报9728美元/吨。 LME期铝收跌2美元，报2590美元/吨。 LME期锌收涨29美元，报3027美元/吨。 LME期铅收涨16美元，报2382美元/吨。 LME期镍收跌283美元，报19552美元/吨。 LME期锡收跌249美元，报34649美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0012764.d.html</link>
+            <guid>2262751</guid>
+            <pubDate>Fri, 30 Jul 2021 17:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：希望美国食品和药物管理局最早在8月中旬开始全面批准新冠疫苗接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0012749.d.html</link>
+            <guid>2262750</guid>
+            <pubDate>Fri, 30 Jul 2021 17:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：苹果应用商店的费用实际上是对互联网征收的一种全球税，游戏平台Epic是正确的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8615576.d.html</link>
+            <guid>2262749</guid>
+            <pubDate>Fri, 30 Jul 2021 16:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院有足够票数通过规模为1万亿美元的跨党派基础设施法案的程序性投票，让法案可在参议院展开讨论，投票仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8615345.d.html</link>
+            <guid>2262748</guid>
+            <pubDate>Fri, 30 Jul 2021 16:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：苹果公司首席执行官蒂姆·库克当时拒绝见面。特斯拉当时的市值约为目前的6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8615327.d.html</link>
+            <guid>2262747</guid>
+            <pubDate>Fri, 30 Jul 2021 16:54:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：此前有传言称我要求与库克会面，讨论苹果收购特斯拉的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0012045.d.html</link>
+            <guid>2262746</guid>
+            <pubDate>Fri, 30 Jul 2021 16:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆·马斯克：苹果公司首席执行官蒂姆·库克和我从来没通过写信进行沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8614942.d.html</link>
+            <guid>2262745</guid>
+            <pubDate>Fri, 30 Jul 2021 16:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲和美国消息人士：伊朗涉嫌袭击阿曼附近的由以色列管理的石油产品油轮。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0011755.d.html</link>
+            <guid>2262744</guid>
+            <pubDate>Fri, 30 Jul 2021 16:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特首席财务官：预计随着汽车供应的增加，汽车价格会下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0011262.d.html</link>
+            <guid>2262743</guid>
+            <pubDate>Fri, 30 Jul 2021 16:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货站上74美元/桶，日内涨近0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0010980.d.html</link>
+            <guid>2262742</guid>
+            <pubDate>Fri, 30 Jul 2021 16:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国证交会（SEC）主席：对中企通过VIE方式上市提出担忧】美国证交会（SEC）主席加里·詹斯勒（Gary Gensler）发布公开声明，对中企通过VIE方式上市提出担忧。他表示，中国政府最近针对中国公司在海外筹集资金提出了新的指导和限制，包括对通过离岸实体筹集资金的公司进行网络安全审查。稍早前路透社报道称，SEC已停止处理中国公司在美国IPO注册”。（国际金融报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0010595.d.html</link>
+            <guid>2262741</guid>
+            <pubDate>Fri, 30 Jul 2021 16:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  周五（7月30日）欧市尾盘，ICE欧盟碳排放交易许可（期货价格）跌1.33%，报53.28欧元/吨，本周累涨4.80%，7月份累跌5.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8613589.d.html</link>
+            <guid>2262740</guid>
+            <pubDate>Fri, 30 Jul 2021 16:36:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国参议院恢复对规模为1万亿美元的两党基础设施法案的表决。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8613003.d.html</link>
@@ -228,383 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8607456.d.html</link>
             <guid>2262703</guid>
             <pubDate>Fri, 30 Jul 2021 15:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为26，表明市场处在恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0003963.d.html</link>
-            <guid>2262702</guid>
-            <pubDate>Fri, 30 Jul 2021 15:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大高级卫生官员：加拿大的新冠病例预计将集中在未接种疫苗的年轻人群中，放松公共卫生措施需要谨慎的态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0003643.d.html</link>
-            <guid>2262701</guid>
-            <pubDate>Fri, 30 Jul 2021 15:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长沙警方：“所有在长沙人员非必要不离开长沙”系谣言，造谣者被行拘7日】7月30日，部分微信圈群流传落款“中共长沙市委新冠肺炎疫情防控工作领导小组”的《关于切实加强当前新冠肺炎疫情防控工作的通告》，“通告”信息系网络谣言。长沙市公安局雨花分局查明，7月30日8时许，杨某虹（女，59岁，长沙市雨花区人）因劝阻家人近日不要前往外市旅游未果，看到株洲市发布的“关于切实加强当前新冠肺炎疫情防控工作的通告”后，临时起意将通告原文中的“株洲”两字全部替换为“长沙”，以此劝阻家人不要离长外出旅游，并将该不实信息发至亲友微信群，随后被亲友转发并扩散，造成不良社会影响。目前，警方已依法对违法嫌疑人杨某虹处以行政拘留7日处罚。（长沙市公安局官方微博长沙警事）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8606808.d.html</link>
-            <guid>2262700</guid>
-            <pubDate>Fri, 30 Jul 2021 15:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大高级卫生官员：加拿大可能正处于德尔塔毒株驱动的第四波疫情的开端，其发展轨迹将取决于疫苗接种的进展和重新开放的步伐。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0003477.d.html</link>
-            <guid>2262699</guid>
-            <pubDate>Fri, 30 Jul 2021 15:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增6619例新冠肺炎确诊病例，新增18例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8606406.d.html</link>
-            <guid>2262698</guid>
-            <pubDate>Fri, 30 Jul 2021 15:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国五大科技巨头FAMGA（谷歌、苹果、Facebook、亚马逊和微软）二季度利润激增，继续从疫情对在线广告、电子商务和消费者支出的刺激作用中获利。汇总数据显示，五家公司的二季度利润均打破了之前的纪录，其中苹果、Alphabet和Facebook几乎翻了一番。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0003027.d.html</link>
-            <guid>2262697</guid>
-            <pubDate>Fri, 30 Jul 2021 15:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国方面表示，已有46775525人接种第一剂新冠疫苗，已有37962407人完全接种新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0002997.d.html</link>
-            <guid>2262696</guid>
-            <pubDate>Fri, 30 Jul 2021 15:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内商品期货夜盘多数收跌 动力煤跌超6%】国内商品期货夜盘多数收跌，动力煤跌超6%，螺纹、热卷跌超4%，铁矿、纯碱、玻璃跌超2%，焦煤、PVC、焦炭跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8606073.d.html</link>
-            <guid>2262695</guid>
-            <pubDate>Fri, 30 Jul 2021 15:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增29622例新冠肺炎确诊病例，新增68例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0002899.d.html</link>
-            <guid>2262694</guid>
-            <pubDate>Fri, 30 Jul 2021 15:02:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据扬州发布微博：根据疫情防控要求，自2021年7月31日起，临时停运所有镇村公交线路。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0002883.d.html</link>
-            <guid>2262693</guid>
-            <pubDate>Fri, 30 Jul 2021 15:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：相信参议院可以在几天内完成两党基础设施法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0002693.d.html</link>
-            <guid>2262692</guid>
-            <pubDate>Fri, 30 Jul 2021 15:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD短线走高超30点，日内涨幅达0.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605820.d.html</link>
-            <guid>2262691</guid>
-            <pubDate>Fri, 30 Jul 2021 15:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线跌20点，跌破1.39，日内跌0.38%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605805.d.html</link>
-            <guid>2262690</guid>
-            <pubDate>Fri, 30 Jul 2021 15:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道明证券：预计下周的英国央行利率决议不会为英镑兑美元提供强劲方向指引。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0002584.d.html</link>
-            <guid>2262689</guid>
-            <pubDate>Fri, 30 Jul 2021 15:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业公司（Codelco）2021年上半年铜产量同比增长7.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0002405.d.html</link>
-            <guid>2262688</guid>
-            <pubDate>Fri, 30 Jul 2021 14:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：俄罗斯副总理诺瓦克表示与土耳其正在就长期输气协议进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605518.d.html</link>
-            <guid>2262686</guid>
-            <pubDate>Fri, 30 Jul 2021 14:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：对“房地产泡沫初期”感到紧担忧，美联储不应该继续购买资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605317.d.html</link>
-            <guid>2262685</guid>
-            <pubDate>Fri, 30 Jul 2021 14:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：只要在2022年第一季度结束购债，对每个月更大的减购增量与花费更多的时间是无关的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605273.d.html</link>
-            <guid>2262684</guid>
-            <pubDate>Fri, 30 Jul 2021 14:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：5月美国原油产量增加8万桶/日，至1123.1万桶/日（4月修正后为1115.1万桶/日）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605246.d.html</link>
-            <guid>2262683</guid>
-            <pubDate>Fri, 30 Jul 2021 14:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：美联储倾向于在9月份的会议上决定缩减购债计划，之后开始缩减购债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605236.d.html</link>
-            <guid>2262682</guid>
-            <pubDate>Fri, 30 Jul 2021 14:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：风险是，如果通胀爆发，美联储将不得不匆忙提高利率，而这往往会以经济衰退告终。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0002021.d.html</link>
-            <guid>2262681</guid>
-            <pubDate>Fri, 30 Jul 2021 14:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织卫生紧急项目负责人瑞安：病毒传播变得更快了，但这不会改变我们的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605205.d.html</link>
-            <guid>2262680</guid>
-            <pubDate>Fri, 30 Jul 2021 14:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：太晚进行缩债将会产生风险，考虑到通胀风险和持续的就业增长，美联储可能会落在后面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605111.d.html</link>
-            <guid>2262679</guid>
-            <pubDate>Fri, 30 Jul 2021 14:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织流行病学家Van Kerkhove：我们拥有遏制德尔塔变种病毒传播的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605096.d.html</link>
-            <guid>2262678</guid>
-            <pubDate>Fri, 30 Jul 2021 14:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：通胀预期大体上与美联储新的弹性平均通胀目标制框架一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8605087.d.html</link>
-            <guid>2262677</guid>
-            <pubDate>Fri, 30 Jul 2021 14:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国在线券商Robinhood周四首秀表现不佳，上市首日大跌8.4%，是有史以来51家同等IPO规模美国公司中最糟糕的首秀。在首日破发后，与机构投资者联手做空Robinhood的讨论已登上reddit股票讨论板块WallStreetBets。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0001834.d.html</link>
-            <guid>2262676</guid>
-            <pubDate>Fri, 30 Jul 2021 14:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：应该在风险管理的情况下逐步缩减购债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0001746.d.html</link>
-            <guid>2262675</guid>
-            <pubDate>Fri, 30 Jul 2021 14:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：迅速提高利率会损害经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0001665.d.html</link>
-            <guid>2262674</guid>
-            <pubDate>Fri, 30 Jul 2021 14:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：美联储仍预计将在2022年第四季度首次加息，但如果需要，美联储应该会提前加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0001633.d.html</link>
-            <guid>2262673</guid>
-            <pubDate>Fri, 30 Jul 2021 14:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：到2022年底，俄罗斯有能力将石油产量提高到1130万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0001468.d.html</link>
-            <guid>2262672</guid>
-            <pubDate>Fri, 30 Jul 2021 14:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500房地产指数创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0001356.d.html</link>
-            <guid>2262671</guid>
-            <pubDate>Fri, 30 Jul 2021 14:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南湘西凤凰古城芙蓉镇等热门景区暂停接待游客】 湖南省湘西土家族苗族自治州多部门表示，包括凤凰古城、永顺县芙蓉镇、十八洞村在内的湘西各大景区于30日起陆续暂停接待游客。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8604532.d.html</link>
-            <guid>2262670</guid>
-            <pubDate>Fri, 30 Jul 2021 14:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织流行病学家Van Kerkhove：德尔塔毒株并不针对英国的儿童群体。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0001103.d.html</link>
-            <guid>2262669</guid>
-            <pubDate>Fri, 30 Jul 2021 14:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁索尔兑美元跌幅扩大至超过3.0%，刷新历史低点至4.0448索尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0000974.d.html</link>
-            <guid>2262668</guid>
-            <pubDate>Fri, 30 Jul 2021 14:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月密歇根大学消费者购买状况指数恶化，购房和购车态度均降至新的周期低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0000956.d.html</link>
-            <guid>2262667</guid>
-            <pubDate>Fri, 30 Jul 2021 14:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  张家界新增1例新冠肺炎确诊病例，曾带团观看魅力湘西演出。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8604044.d.html</link>
-            <guid>2262666</guid>
-            <pubDate>Fri, 30 Jul 2021 14:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：伯恩光学控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8603984.d.html</link>
-            <guid>2262665</guid>
-            <pubDate>Fri, 30 Jul 2021 14:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  同程艺龙(00780.HK)：与腾讯订立为期三年的战略合作及营销推广框架协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8603978.d.html</link>
-            <guid>2262664</guid>
-            <pubDate>Fri, 30 Jul 2021 14:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议员Defazio：认为基础设施法案应该提交会议委员会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0000673.d.html</link>
-            <guid>2262663</guid>
-            <pubDate>Fri, 30 Jul 2021 14:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：汽车融资租赁服务供应商喜相逄集团有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0000212.d.html</link>
-            <guid>2262662</guid>
-            <pubDate>Fri, 30 Jul 2021 14:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【江苏淮安市三个区域调整为中风险地区】据淮安发布，市联防联控工作指挥部决定自2021年7月30日起，将淮安市洪泽区高良涧街道洪泽园三村宏盛家园十栋、高良涧街道崔朱社区泽地华城12栋、高良涧街道王庄村13组胡桑田庄台风险等级调整为中风险，全市其他区域仍为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfncc0000193.d.html</link>
-            <guid>2262661</guid>
-            <pubDate>Fri, 30 Jul 2021 14:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织紧急事务负责人瑞安：德尔塔毒株和其他变种毒株一样是一个挑战，目前的疫苗提供了预防重症和住院治疗的保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8603312.d.html</link>
-            <guid>2262660</guid>
-            <pubDate>Fri, 30 Jul 2021 14:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织流行病学家Van Kerkhove：我们尚未看到德尔塔毒株体导致的死亡率上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9999748.d.html</link>
-            <guid>2262659</guid>
-            <pubDate>Fri, 30 Jul 2021 14:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD短线上扬近20点，现报1.2450。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8602649.d.html</link>
-            <guid>2262657</guid>
-            <pubDate>Fri, 30 Jul 2021 14:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE美元指数上涨将近0.2%，刷新日高至92.07。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8602401.d.html</link>
-            <guid>2262654</guid>
-            <pubDate>Fri, 30 Jul 2021 14:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国基建草案包括加强数字资产方面的报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8602159.d.html</link>
-            <guid>2262653</guid>
-            <pubDate>Fri, 30 Jul 2021 14:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚：预计随着经济复苏，下游供应和需求将趋紧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9998748.d.html</link>
-            <guid>2262652</guid>
-            <pubDate>Fri, 30 Jul 2021 14:23:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高10点，现报92.07。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8601870.d.html</link>
-            <guid>2262650</guid>
-            <pubDate>Fri, 30 Jul 2021 14:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走低近30点，现报1.3925。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9998645.d.html</link>
-            <guid>2262649</guid>
-            <pubDate>Fri, 30 Jul 2021 14:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织总干事谭德塞：抗击疫情来之不易的成果正在失去。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9998578.d.html</link>
-            <guid>2262648</guid>
-            <pubDate>Fri, 30 Jul 2021 14:22:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【锋尚文化：获得文化和旅游部通报表扬】锋尚文化公告，2021年7月29日，中华人民共和国文化和旅游部召开庆祝中国共产党成立100周年文艺演出工作总结大会，此次会议上，文化和旅游部对北京锋尚世纪文化传媒股份有限公司在庆祝中国共产党成立100周年大型情景史诗《伟大征程》组织排演工作中作出的突出贡献，特予通报表扬。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8601747.d.html</link>
-            <guid>2262646</guid>
-            <pubDate>Fri, 30 Jul 2021 14:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国基建法案草案提交参议院。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8601679.d.html</link>
-            <guid>2262645</guid>
-            <pubDate>Fri, 30 Jul 2021 14:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月份个人收入同比增长2.3%，支出同比增长13.6%；个人储蓄率下降至9.4%，为2020年2月（疫情前）以来的最低水平。]]></title>
-            <guid>2262644</guid>
-            <pubDate>Fri, 30 Jul 2021 14:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  赣锋锂业(01772.HK)：公司将注册资本提高到21.4亿元人民币，投资者同意增资3.885亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8601672.d.html</link>
-            <guid>2262643</guid>
-            <pubDate>Fri, 30 Jul 2021 14:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率延续跌势，跌至盘中低点，报1.226%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9998430.d.html</link>
-            <guid>2262641</guid>
-            <pubDate>Fri, 30 Jul 2021 14:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国卫生部表示“封城”措施有效，预测10月份感染人数达峰值】 泰国卫生部疾控厅厅长欧帕30日表示，政府实施的局部“封城”措施取得了一定效果，“封城”初期的效果主要为抑制感染人数过快增加，但收效不会十分明显，确诊人数还会持续上升一段时间，并强调“封城”效果取决于广大民众的配合。如果继续实施严格的防控措施，日新增感染将减少20%至25%，为每天约3万例，日新增死亡约400例，预测峰值将于10月出现。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8601262.d.html</link>
-            <guid>2262639</guid>
-            <pubDate>Fri, 30 Jul 2021 14:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  联想控股(03396.HK)：预期上半年净利润不少于人民币30亿元，同比增长不低于371%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8601241.d.html</link>
-            <guid>2262638</guid>
-            <pubDate>Fri, 30 Jul 2021 14:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特斯拉澳洲最大储能电站今日发生火灾或燃烧24个小时】据报道，经消防部门证实，特斯拉位于澳大利亚的电池储能项目基地今日发生火灾，火势几乎无法控制。该电池储能项目位于澳大利亚Geelong附近的Moorabool，几天前正式注册，储能容量为300MW/450MWh，为澳大利亚目前最大的电池储能项目。目前，该项目仍处于测试阶段，尚未使用。该项目由特斯拉与法国可再生能源开发商Neoen共同开发。目前，起火原因尚不清楚。据悉，救火人员数量约为150人，预计大火将燃烧8~24个小时，着意味着整个一晚上都要在燃烧。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8600714.d.html</link>
-            <guid>2262632</guid>
-            <pubDate>Fri, 30 Jul 2021 14:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：通货膨胀会随着时间的推移而稳定下来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8600693.d.html</link>
-            <guid>2262631</guid>
-            <pubDate>Fri, 30 Jul 2021 14:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：我们担心通胀并对此密切关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8600680.d.html</link>
-            <guid>2262630</guid>
-            <pubDate>Fri, 30 Jul 2021 14:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：拜登的经济计划将降低通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9997447.d.html</link>
-            <guid>2262628</guid>
-            <pubDate>Fri, 30 Jul 2021 14:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源咨询机构JBC：欧佩克7月份的产量增加了78万桶/日，达到2700万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqciyzk8600255.d.html</link>
-            <guid>2262627</guid>
-            <pubDate>Fri, 30 Jul 2021 14:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南大光电：高管配偶窗口期违规买卖公司股票及短线交易】南大光电公告，公司近日查询到公司副总经理宋学章的配偶王艳秋的证券账户出现违规买卖公司股票的行为。7月27日买入公司股票200股，买入均价54.01元/股，成交金额10802元；7月28日卖出公司股票200股，卖出均价57.5元/股，成交金额11500元。前述交易所得收益为698元。王艳秋上述买卖公司股票行为所得收益作为此次短线交易的获利金额全数上交公司。截至公告披露日，王艳秋未持有公司股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-30/detail-ikqcfnca9997073.d.html</link>
-            <guid>2262626</guid>
-            <pubDate>Fri, 30 Jul 2021 14:09:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
