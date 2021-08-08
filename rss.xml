@@ -4,11 +4,76 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Aug 2021 19:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Aug 2021 22:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【热门赛道太拥挤？机构建议向“相对低位”扩散】上周，以锂电为龙头的成长板块持续创出历史新高。同时，上证指数周涨幅近1.8%，表现强于创业板指，显露反弹势头。对此，机构认为，当前A股市场风格平衡的过程已经开启，但基本面因素制约下，风格的切换仍需等待，以科技成长为主的热门赛道亦难言见顶。但科技成长板块的赛道拥挤问题也不容忽视，在具体配置上，机构建议投资者从高位赛道向“相对低位”品种扩散。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0328973.d.html</link>
+            <guid>2273041</guid>
+            <pubDate>Sun, 08 Aug 2021 22:18:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【失联保险代理人被举报 监管连发数函寻找调查】保险代理人离职后的追责机制正在监管层面推进落实。近日，上海银保监局连发数封“个人接受调查通知书”，急找已离职的失联保险代理人。业内人士表示，由于保险行业长期以来一直延续粗放的发展经营模式，保险代理人“大进大出”，甚至部分代理人在一家公司供职时间都不超过一年，存在“把保单卖给亲朋好友熟人后就转行”的情况。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0328662.d.html</link>
+            <guid>2273040</guid>
+            <pubDate>Sun, 08 Aug 2021 22:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%；12月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0328486.d.html</link>
+            <guid>2273039</guid>
+            <pubDate>Sun, 08 Aug 2021 22:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货开跌1.3%，报67.36美元/桶，布伦特原油期货盘初跌1.4%，报69.7美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0327845.d.html</link>
+            <guid>2273038</guid>
+            <pubDate>Sun, 08 Aug 2021 22:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊拉克新增新冠肺炎确诊病例8346例，累计确诊1712709例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1726118.d.html</link>
+            <guid>2273037</guid>
+            <pubDate>Sun, 08 Aug 2021 21:55:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里巴巴公布处理决定：业务总裁和HRG引咎辞职 涉嫌男员工被辞退，永不录用】8月9日凌晨，阿里巴巴董事会主席兼CEO张勇在阿里内网公布了“女员工被侵犯”的阶段性内部调查结果和处理决定：同城零售事业群总裁李永和和HRG徐昆引咎辞职，阿里巴巴首席人力资源官童文红记过处分，涉嫌男员工被辞退，永不录用，其是否存在违法行为，警方正在调查取证。]]></title>
+            <guid>2273036</guid>
+            <pubDate>Sun, 08 Aug 2021 21:36:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿根廷新增新冠肺炎确诊病例6141例，累计确诊5018895例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0325880.d.html</link>
+            <guid>2273035</guid>
+            <pubDate>Sun, 08 Aug 2021 21:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【维珍航空考虑在伦敦证券交易所上市】据媒体报道，理查德布兰森的维珍大西洋航空公司正在考虑首次公开募股并可能在伦敦证券交易所上市，以加强公司的财务状况。报道称，布兰森的维珍集团拥有英国克劳利航空公司51%的股份，该航空公司一直在与机构投资者讨论可能的IPO，内部人士表示，花旗和巴克莱银行的银行家已被聘请来监督此次上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1724075.d.html</link>
+            <guid>2273034</guid>
+            <pubDate>Sun, 08 Aug 2021 21:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦西南部一警车遇袭致2死11伤】巴基斯坦西南部俾路支省首府奎达8日发生一警车遭炸弹袭击事件，造成2名警察死亡、至少11人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1724029.d.html</link>
+            <guid>2273033</guid>
+            <pubDate>Sun, 08 Aug 2021 21:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【储能风口带动股价起飞 英维克获机构密集调研】受半年报窗口期因素影响，近期机构调研热度持续下降，截至记者发稿，上周仅有30余家上市公司接待机构调研并披露投资者关系记录。市场表现方面，上周获调研股整体涨跌参半，个股分化显著。其中，涨幅最大公司为英维克。该股上周收获4个涨停，周涨幅达55%。不止是上周股价走牛，近一个月，英维克已走出翻倍行情，股价上涨102%。并且，公司在调研热度方面也位居前列。英维克于8月2日晚间发布半年报，8月3日、4日及6日，公司先后接待了3批次、合计逾150家机构，上投摩根、景林资产、景顺长城、中金公司等一众知名机构现身。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1721299.d.html</link>
+            <guid>2272989</guid>
+            <pubDate>Sun, 08 Aug 2021 20:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳二手房参考价“半年记”：7月网签量跌逾八成】今年2月8日，深圳市住建局发布消息，建立二手住房参考价格发布机制，并发布了全市3595个小区的指导价。曾经火爆的深圳二手房市场，在二手房参考价推出后迅速降温，7月深圳二手房网签套数同比下跌84.5%。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqciyzm0320891.d.html</link>
+            <guid>2272964</guid>
+            <pubDate>Sun, 08 Aug 2021 19:23:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【公募基金年内分红1575亿元 创历史同期新高】今年以来，股债市场双双震荡，受益于去年较好的赚钱行情，公募基金分红十分慷慨，年内累计分红1574.86亿元，同比大增逾四成，创历史同期新高；其中，权益基金贡献了一半以上的分红金额，取代债基成为分红主力。 (证券时报)]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-09/detail-ikqcfncc1718151.d.html</link>
@@ -540,72 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0274986.d.html</link>
             <guid>2272846</guid>
             <pubDate>Sun, 08 Aug 2021 10:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡新增73例本土新冠肺炎病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0274640.d.html</link>
-            <guid>2272844</guid>
-            <pubDate>Sun, 08 Aug 2021 09:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗新增39619例新冠肺炎确诊病例，新增542例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1672822.d.html</link>
-            <guid>2272843</guid>
-            <pubDate>Sun, 08 Aug 2021 09:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖北荆门掇刀区卫生健康局局长被免职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1672805.d.html</link>
-            <guid>2272842</guid>
-            <pubDate>Sun, 08 Aug 2021 09:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【特朗普前发言人：特朗普将竞选2024年美国总统】综合外媒8月7日报道，美国前总统特朗普的前发言人斯派塞(Sean Spicer)表示，特朗普将参加2024年的美国总统大选。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0274033.d.html</link>
-            <guid>2272841</guid>
-            <pubDate>Sun, 08 Aug 2021 09:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里王帅转发文章：在阿里9年从没听说过有女同事要去陪酒】阿里王帅转发了一位阿里同事的文章。该转发的言论称，在阿里这9年，从没被要求过，也没听说过有女同事要去陪酒或做其他超越底线的事情。这不是阿里的工作方式，请放心。该文章称，不能保护好一个女性，是件很丢脸的事。一个企业让女性在遭受屈辱又丢下尊严找回尊严是件很丢脸的事。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0273926.d.html</link>
-            <guid>2272840</guid>
-            <pubDate>Sun, 08 Aug 2021 09:50:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州：加强当前疫情常态化防控工作，强化防控责任落实。各级党政机关、企事业单位加强出省报告制度，非必要不出省。大型活动按照“非必要不举办”“谁举办、谁负责”原则，举办前制定疫情防控方案和应急处置预案。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0273582.d.html</link>
-            <guid>2272839</guid>
-            <pubDate>Sun, 08 Aug 2021 09:47:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴西男足夺冠未披匹克领奖服 匹克：已通过巴西奥委会交涉】@匹克官方微博 发布关于巴西男足违规拒披匹克领奖服情况的回应：我们尊重巴西足球队对比赛装备的选择及现有赞助商权益，但是根据匹克与巴西奥委会协议，所有运动员须统一着匹克全套装备领奖，不得出现其它品牌露出。很遗憾，巴西男足在领奖时刻做出这一违规举动，违反了国际奥委会对于领奖装备只能出现一家的准则，且并未在赛前与匹克进行任何沟通。目前匹克已就此事通过巴西奥委会交涉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0273245.d.html</link>
-            <guid>2272838</guid>
-            <pubDate>Sun, 08 Aug 2021 09:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安信策略：宁组合为代表的高景气成长股还将是A股主线】安信策略分析师陈果等8月8日表示，最近一个阶段，机构快速调仓，这不可避免地使得相关行业波动性明显增大。综合评估，首先这个阶段不至于担心系统性风险，其次“宁组合”中期主线尚未看到变化条件，预计市场在经历一定震荡整固后，成长结构牛还会继续，以宁组合为代表的高景气成长股还将是A股主线，短期如果出现调整，投资者可以积极把握机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0272376.d.html</link>
-            <guid>2272837</guid>
-            <pubDate>Sun, 08 Aug 2021 09:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【扬州：18时起 ，临时停办宝应站、高邮站、高邮北站、江都站客运业务】@扬州发布 微博8月8日消息，扬州市新冠肺炎疫情防控工作指挥部发布通告指出，根据疫情防控需要，经扬州市新冠肺炎疫情防控工作指挥部研究，决定自今日18时起 ，临时停办宝应站、高邮站、高邮北站、江都站客运业务（关闭进出站通道），具体恢复时间另行通告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1669068.d.html</link>
-            <guid>2272836</guid>
-            <pubDate>Sun, 08 Aug 2021 09:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京对铁路出站旅客实行100%测温】8日，在北京市新冠肺炎疫情防控工作新闻发布会上，北京市重点站区管委会副主任王兰表示，将进一步#严格铁路进出京通道疫情防控#工作，铁路部门将在进站时，对所有进（返）京旅客实行100%测温、查验“北京健康宝”，对非绿码人员将劝阻登车，未安装“北京健康宝”的，现场下载并查验赋码状态；在列车上，加强验证验票；在列车进京前，对所有进（返）京旅客查验“北京健康宝”；在列车抵京后，对所有出站旅客实行100%测温。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0269480.d.html</link>
-            <guid>2272835</guid>
-            <pubDate>Sun, 08 Aug 2021 09:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体报道：韩国央行（BOK）可能会上调2021年CPI预期至2.0%-2.2%，先前预计为1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1667978.d.html</link>
-            <guid>2272834</guid>
-            <pubDate>Sun, 08 Aug 2021 09:13:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
