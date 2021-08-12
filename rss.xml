@@ -4,11 +4,237 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 12 Aug 2021 19:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 22:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【7月消费或延续恢复态势 制造业投资有望提速】今年下半年中国经济首张月度成绩单将于下周一公布。市场普遍预期，随着基数抬升，7月主要宏观指标同比增速有所放缓，但消费有望延续恢复态势，制造业投资或提速。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1143903.d.html</link>
+            <guid>2277984</guid>
+            <pubDate>Thu, 12 Aug 2021 22:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[李宁：上半年净利润19.6亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2541550.d.html</link>
+            <guid>2277983</guid>
+            <pubDate>Thu, 12 Aug 2021 22:05:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[李宁：上半年营收102亿元人民币，市场预估100.5亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2541544.d.html</link>
+            <guid>2277982</guid>
+            <pubDate>Thu, 12 Aug 2021 22:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  李宁上半年EBITDA为31.6亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1143229.d.html</link>
+            <guid>2277981</guid>
+            <pubDate>Thu, 12 Aug 2021 22:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：新增24975例新冠肺炎确诊病例，累计确诊病例达3045571例；新增608例死亡病例，累计死亡病例达246811例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1143195.d.html</link>
+            <guid>2277980</guid>
+            <pubDate>Thu, 12 Aug 2021 22:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国新冠肺炎确诊病例累计超3631万例】根据美国约翰斯·霍普金斯大学数据，截至美国东部时间8月12日17时22分（北京时间13日5时22分），美国新冠肺炎确诊病例累计达36317354例，累计死亡619154例。与24小时前相比，新增确诊病例156150例，新增死亡病例376例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2541173.d.html</link>
+            <guid>2277979</guid>
+            <pubDate>Thu, 12 Aug 2021 21:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【铝坯价格创下纪录新高 得益于建筑等行业的旺盛需求】铝坯价格飙升至纪录新高，因为建筑等行业的旺盛需求导致这种通常廉价且供应充沛的材料出现罕见的短缺。伦敦金属交易所（LME）期铝价格今年以来飙升了30%以上，而铝坯相对于期铝的溢价涨幅更大。分析师和交易员们预计铝坯价格会进一步上涨，因为电动车和可再生领域的用铝需求劲升。高盛则预计期铝价格明年晚些时候也将创下纪录新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1142537.d.html</link>
+            <guid>2277978</guid>
+            <pubDate>Thu, 12 Aug 2021 21:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南非宣布将国家灾难状态延长至9月15日】当地时间8月12日，南非合作治理和传统事务部部长德拉米尼·祖马宣布，该国国家灾难状态延长一个月。德拉米尼称，政府为减轻新冠疫情对南非人民生活和生计的影响而作出该决定。所有民众在国家灾难状态期间须遵守该国三级防疫规定，出门必须始终佩戴口罩，保持社交距离，避免人群聚集和参加各种聚会，并勤用肥皂或含酒精的洗手液洗手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2540358.d.html</link>
+            <guid>2277977</guid>
+            <pubDate>Thu, 12 Aug 2021 21:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【确保减产、稳价保供两手抓，下半年钢铁市场料将无忧】下半年全国钢铁行业减产已拉开帷幕，大宗商品稳价保供仍是各地的工作重点之一。在此背景下，部分市场观点认为，钢铁行业减产会收缩钢材供应量，或导致钢材供给难以满足需求，与稳价保供的要求相悖。对此，多位行业专家表示，钢铁行业有能力在“确保减产”和“稳价保供”间实现平衡，下半年钢铁市场料将无忧。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2540256.d.html</link>
+            <guid>2277976</guid>
+            <pubDate>Thu, 12 Aug 2021 21:39:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  离岸人民币（CNH）兑美元北京时间04:59报6.4776元，较周三纽约尾盘跌13点，盘中整体交投于6.4741-6.4819元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1141616.d.html</link>
+            <guid>2277975</guid>
+            <pubDate>Thu, 12 Aug 2021 21:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  周四（8月12日）纽约尾盘，CME比特币期货BTC主力合约报44325美元，较周三纽约尾盘跌4.59%，盘中交投于46295-43780美元区间。 CME以太币期货DCR主力合约报3082.75美元，较周三跌4.37%，盘中交投于3250.00-2986.50美元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1141518.d.html</link>
+            <guid>2277974</guid>
+            <pubDate>Thu, 12 Aug 2021 21:28:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据AXIOS网站：塔利班占领了阿富汗第二大城市坎大哈，这是塔利班在一周内占领的第12座城市，同时也是塔利班运动的起源地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2539414.d.html</link>
+            <guid>2277973</guid>
+            <pubDate>Thu, 12 Aug 2021 21:22:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷报告新增13369例新冠肺炎确诊病例，新增182例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2539030.d.html</link>
+            <guid>2277972</guid>
+            <pubDate>Thu, 12 Aug 2021 21:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股新陈代谢常态化，年内18家公司收到“退市通知”】作为2021年资本市场重点改革方向之一，“退市”在退市新规之下已呈现出新特征。截至8月12日，今年以来已有17家上市公司退市，另外天翔环境也收到交易所终止上市事先告知书，并已进入退市整理期，将于8月30日摘牌，成为创业板今年首家退市公司。至此，年内共有18家上市公司收到“退市通知”。南开大学金融发展研究院院长田利辉表示，年内退市公司共18家已超过2020年全年退市数量，说明在退市新规下，A股市场的退市工作正逐步常态化。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2538980.d.html</link>
+            <guid>2277971</guid>
+            <pubDate>Thu, 12 Aug 2021 21:14:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南非新增14271例新冠肺炎确诊病例 累计确诊2568511例】当地时间8月12日，南非卫生部确认，南非当天新增新冠肺炎确诊病例14271例，累计确诊2568511例。南非全国已检测15426667人，当日检测63369人。南非当日新增死亡病例473例，累计死亡76247例；累计治愈2344896例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2538890.d.html</link>
+            <guid>2277970</guid>
+            <pubDate>Thu, 12 Aug 2021 21:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫德纳：新的研究表明新冠疫苗对变异毒株仍然有效，有效时间为六个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2538607.d.html</link>
+            <guid>2277969</guid>
+            <pubDate>Thu, 12 Aug 2021 21:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【11地证监局强化抽检，重点“关照”新股发行】行至下半年，各地证监局纷纷将“双随机”抽查提上工作议程。据不完全统计，7月至今已有13批现场检查随机抽查名单公布，共涉及11地证监局。这一频率相比今年上半年有大幅增加。证券期货分支机构仍是监管现场检查的重点对象，但相比于上半年，各地证监局近期明显增加了对相关法律及审计项目的抽取检查，而对债券发行人的检查则较上半年有所减少。同时，中证协、深交所也在持续加强对新股发行方面的抽查、检查工作。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2538274.d.html</link>
+            <guid>2277968</guid>
+            <pubDate>Thu, 12 Aug 2021 21:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【信贷结构单月波动莫忧，融资供需仍稳健有力】7月信贷社融数据公布后，对“融资需求明显转弱、经济下行风险加大”的担忧之声再起。新增信贷社融规模是资金供需两端变化共同作用的结果，单月新增人民币中长期贷款不及预期，难以有效说明实体经济融资需求的明显转弱。从金融数据全貌看，7月新增信贷社融在剔除季节性和临时性因素后对实体经济的支持力度依然表现不俗，人民币贷款余额同比增速与上月持平，今年以来社融增量高达18.8万亿元，表明融资供需两端的稳健有力。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2538225.d.html</link>
+            <guid>2277967</guid>
+            <pubDate>Thu, 12 Aug 2021 20:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国债务上限悬而未决 投资者的国库券热情有所降温】尽管金融系统中有大量资金到处游荡，但许多投资者在近几次国库券发行中都没有积极参与。这种冷淡源于美国财政部根据债务上限耗尽其举债授权日期的不确定性。此外财政部在供应问题上也让人感到一定程度的困惑，稍早前其宣布将三个月和六个月国库券的发行规模分别减少30亿美元，以便继续保持在债务上限下方。与此同时，该部还将发行500亿美元的57天期现金管理票据，并结束42天期的发行。]]></title>
+            <guid>2277966</guid>
+            <pubDate>Thu, 12 Aug 2021 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【增长势头足，高技术制造业获投资“热捧”】当前保持快速增长的高技术制造业将获更多支持。近期地方密集披露的经济发展“半年报”显示，多地高技术制造业投资实现两位数高增长，彰显制造业后劲十足。日前上海、重庆、天津、浙江、广东等地密集出炉“十四五”时期制造业发展相关规划，明确未来五年高技术制造业增长目标与发展路径，并围绕电子及通信设备、医药制造、高端装备等领域谋划和储备重点投资项目，完善财政、金融、社会资本等资金保障，以加快培育现代产业体系，带动地方产业链向中高端迈进。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2537482.d.html</link>
+            <guid>2277965</guid>
+            <pubDate>Thu, 12 Aug 2021 20:40:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风Linda预计将在未来几天内加强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1139146.d.html</link>
+            <guid>2277964</guid>
+            <pubDate>Thu, 12 Aug 2021 20:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【田径诚信组织：已对4名涉嫌违反反兴奋剂条例的东京奥运会选手启动纪律程序】当地时间12日晚，田径诚信委员会（AIU）发布公告称，根据国际兴奋剂检测机构（ITA）的反馈，目前已对4名涉嫌违反反兴奋剂条例的东京奥运会男子选手启动了纪律程序。田径诚信委员会表示，目前仍在等待国际兴奋剂检测机构对上述运动员相关检测程序作出的最后结论，以判定其是否违反反兴奋剂条例，并由此决定这将对运动员在东京奥运会上的成绩及之后的参赛产生怎样的影响。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2537197.d.html</link>
+            <guid>2277963</guid>
+            <pubDate>Thu, 12 Aug 2021 20:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国驻美大使会见美国常务副国务卿舍曼】中国驻美国大使秦刚12日会见美国常务副国务卿舍曼。舍曼欢迎秦刚来美履新，表示美国务院将为其履职提供便利和支持。秦刚感谢美方为其履职提供支持和协助。秦刚表示，当前中美关系站在新的十字路口。他将按照两国元首今年除夕通话的精神，加强同美方的及时沟通对话，努力推动理性、稳定可控、建设性的中美关系。双方并就共同关心的问题交换意见，同意继续保持密切对话沟通。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1138877.d.html</link>
+            <guid>2277962</guid>
+            <pubDate>Thu, 12 Aug 2021 20:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：发生在英国普利茅斯的枪击事件与恐怖主义无关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2536952.d.html</link>
+            <guid>2277961</guid>
+            <pubDate>Thu, 12 Aug 2021 20:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股大类资产ETF涨跌各异，农产品基金涨超0.8%，人民币做多涨0.6%，纳指100ETF涨超0.3%，标普500ETF、美国房地产ETF涨超0,2%，恐慌指数做多跌近2.1%，新兴市场ETF跌近0.9%，美国布伦特原油基金跌近0.5%，罗素2000指数ETF跌超0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1138565.d.html</link>
+            <guid>2277960</guid>
+            <pubDate>Thu, 12 Aug 2021 20:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股行业ETF涨跌各异，医疗业ETF涨近0.8%，网络科技股指数、科技行业ETF涨超0.5%，全球科技股指数ETF涨超0.2%，全球航空业ETF跌1.7%，半导体ETF跌约1.1%，区域银行ETF跌超0.6%，银行业ETF跌超0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2536723.d.html</link>
+            <guid>2277959</guid>
+            <pubDate>Thu, 12 Aug 2021 20:23:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱彼迎二季度营收13.4亿美元，分析师预期12.7亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2536291.d.html</link>
+            <guid>2277958</guid>
+            <pubDate>Thu, 12 Aug 2021 20:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国援助伊拉克的第三批新冠疫苗运抵巴格达。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2536279.d.html</link>
+            <guid>2277957</guid>
+            <pubDate>Thu, 12 Aug 2021 20:13:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西在过去24小时中报告新增39982例新冠肺炎确诊病例，新增1148例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2535845.d.html</link>
+            <guid>2277956</guid>
+            <pubDate>Thu, 12 Aug 2021 20:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[有网友发文称“推特的每个帐户都应该有一个用于存储(非同质化代币)的钱包地址”。对此加密初创公司nocodepros.co创始人回复“感觉这件事对以太坊生态系统的好处比对推特的好处多”。推特CEO Dorsey则评论赞同后者的说法，并表示“而且推特上每个账户都可以链接到一个闪电钱包”。]]></title>
+            <guid>2277955</guid>
+            <pubDate>Thu, 12 Aug 2021 20:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱彼迎(ABNB.O)：预计第三季度营收将大幅高于2019年同期水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2535678.d.html</link>
+            <guid>2277954</guid>
+            <pubDate>Thu, 12 Aug 2021 20:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指初步收涨逾0.3%，领跑美国三大股指，苹果收涨约2%，带动大盘整体上扬，微软和特斯拉也涨超1%。Fisker跌超17%，领跌新能源汽车类股，Arrival跌7%，法拉第未来跌超6%，蔚来汽车和小鹏汽车跌超3%，RIDE则涨超2%。疫苗股诺瓦瓦克斯涨超5%，BioNTech涨超4%，辉瑞涨超2%，莫德纳涨超1%，略微挽回前几日失地，带动生物科技指数涨约0.8%。中概股百度财报发布后跌3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1137385.d.html</link>
+            <guid>2277953</guid>
+            <pubDate>Thu, 12 Aug 2021 20:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【土耳其新增22261例新冠肺炎确诊病例 累计确诊6018485例】土耳其卫生部网站更新的数据显示，过去24小时对281535人进行了新冠病毒检测，其中22261人检测结果呈阳性，累计确诊6018485例；新增138例死亡病例，新增15685例治愈病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1137249.d.html</link>
+            <guid>2277951</guid>
+            <pubDate>Thu, 12 Aug 2021 19:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大总理特鲁多料将在周日号召提前大选并寻求第三个任期】外媒预计加拿大总理贾斯汀·特鲁多将在本周末号召提前大选，利用他的自由党当前的民调领先优势重新获得加拿大议会的多数席位。民调显示，自2015年以来执政的自由党目前的支持率徘徊在36%附近。在加拿大势力分散的政治体系中，这个比例接近重新获得议会控制权所需的门槛。此外，特鲁多的胜算还包括保守党及其领导人Toole对他软性支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1136977.d.html</link>
+            <guid>2277950</guid>
+            <pubDate>Thu, 12 Aug 2021 19:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指尾盘再度翻红，三大指数目前均转涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2534389.d.html</link>
+            <guid>2277949</guid>
+            <pubDate>Thu, 12 Aug 2021 19:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[太平洋海啸警报中心(PTWC)：加勒比地区的7.6级地震不会引发海啸威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1135845.d.html</link>
+            <guid>2277948</guid>
+            <pubDate>Thu, 12 Aug 2021 19:27:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人Kirby：如果安全局势恶化，美国也并不打算向阿富汗增派更多部队。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2533866.d.html</link>
+            <guid>2277947</guid>
+            <pubDate>Thu, 12 Aug 2021 19:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国太阳报：英国普利茅斯传出“枪声”和“巨响”，当地议员呼吁人们待在室内。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2533744.d.html</link>
+            <guid>2277946</guid>
+            <pubDate>Thu, 12 Aug 2021 19:20:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【世卫组织：推进下一阶段新冠溯源研究 去政治化至关重要】当地时间12日晚，世卫组织发表声明表示，自新冠疫情暴发以来，世界卫生组织与成员国和科学家协作进行溯源调查。今年3月，世卫组织发布了第一阶段溯源报告，世卫组织希望继续与成员国和专家开展下一阶段工作。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1135322.d.html</link>
@@ -378,231 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1123602.d.html</link>
             <guid>2277884</guid>
             <pubDate>Thu, 12 Aug 2021 16:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：08月12日23时53分在菲律宾棉兰老岛附近海域（北纬6.21度，东经127.30度）发生5.5级地震，震源深度40千米。]]></title>
-            <guid>2277883</guid>
-            <pubDate>Thu, 12 Aug 2021 16:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据株洲发布：自2021年8月13日0时起，将株洲市云龙示范区学林街道学府港湾小区和锦绣香江小区调整为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2521360.d.html</link>
-            <guid>2277882</guid>
-            <pubDate>Thu, 12 Aug 2021 16:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国旧金山将强制接种新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2521203.d.html</link>
-            <guid>2277881</guid>
-            <pubDate>Thu, 12 Aug 2021 16:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【福奇：未来每个人或都需要注射新冠疫苗加强针】美国白宫首席医疗顾问安东尼·福奇在接受采访时表示，虽然目前只有免疫系统受损的人群需要注射新冠疫苗加强针，但在未来某个时刻，很可能每个人都需要接受加强针注射。福奇说，预计美国食品和药物管理局将在接下来的48小时内正式授权为免疫功能低下的人群注射新冠疫苗加强针。福奇还补充道，免疫功能低下的人群注射的新冠疫苗加强针应与最初接种的新冠疫苗为相同品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1122163.d.html</link>
-            <guid>2277880</guid>
-            <pubDate>Thu, 12 Aug 2021 16:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【赵明：不排斥荣耀在合适时机上市 但更重要是构建面向未来的核心能力】有传闻称荣耀计划近期上市，荣耀CEO赵明对此表示否认。他表示，荣耀未来肯定会更加开放和透明，融资渠道也会多元化，不排斥未来在合适的机会上市。但目前更重要的是构建面向未来的核心能力，荣耀的团队不会追求一夜暴富。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2520285.d.html</link>
-            <guid>2277879</guid>
-            <pubDate>Thu, 12 Aug 2021 16:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院民主党议员ESHOO：众议院应修改加密税收申报规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2520260.d.html</link>
-            <guid>2277878</guid>
-            <pubDate>Thu, 12 Aug 2021 16:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国农业部（USDA）：预计美国大豆期末库存1.55亿蒲式耳，分析师预期1.5696亿蒲式耳，USDA此前预计1.55亿蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2519848.d.html</link>
-            <guid>2277877</guid>
-            <pubDate>Thu, 12 Aug 2021 16:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国农业部（USDA）：预计美国小麦期末总库存6.27亿蒲式耳，分析师预期6.3800亿蒲式耳，USDA此前预计6.65亿蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2519839.d.html</link>
-            <guid>2277876</guid>
-            <pubDate>Thu, 12 Aug 2021 16:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国农业部（USDA）：预计美国玉米期末库存12.42亿蒲式耳，分析师预期12.7030亿蒲式耳，USDA此前预计14.32亿蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1121568.d.html</link>
-            <guid>2277875</guid>
-            <pubDate>Thu, 12 Aug 2021 16:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：菲律宾群岛发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1121477.d.html</link>
-            <guid>2277874</guid>
-            <pubDate>Thu, 12 Aug 2021 15:59:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【赵明：荣耀海外份额几乎跌到0 将重新恢复运作】荣耀今日举行线上新品发布会，推出了荣耀Magic3系列新品。荣耀CEO赵明接受了媒体采访。赵明表示，此前发布的荣耀50系列现在处于供不应求的状态，只要把产品做好，消费者会用脚投票。今日发布的Magic3系列肯定也会供不应求，不会愁卖。至于海外市场，他透露荣耀的市场份额几乎跌到0。荣耀50系列正在准备海外发货和销售，目前荣耀在全球50多个国家恢复运作，荣耀50系列可能会在其中30几个国家上市，支持谷歌GMS服务。“今年海外的重点还是恢复渠道和运作能力。国内市场份额最低只有3%，现在反弹到14.6%，相信海外市场也会走出这个曲线。”他说。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1121467.d.html</link>
-            <guid>2277873</guid>
-            <pubDate>Thu, 12 Aug 2021 15:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班攻占阿富汗第三大城市赫拉特，政府军撤出该市。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2519592.d.html</link>
-            <guid>2277872</guid>
-            <pubDate>Thu, 12 Aug 2021 15:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀是否涉足造车？赵明：只有把手机做到绝对领先 才会考虑其他领域】在造车风口之下，华为、小米已经明确涉足汽车领域，传闻OPPO也在调研造车。对于荣耀是否会涉足汽车？赵明回应称，只有把手机等消费者业务做到绝对领先，才会考虑其他领域。“为了追求营收规模，摊大饼，消费者会抛弃你的。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2519577.d.html</link>
-            <guid>2277871</guid>
-            <pubDate>Thu, 12 Aug 2021 15:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部发言人华春莹就巴基斯坦政府公布达苏恐袭事件调查进展答记者问】华春莹表示，中方高度关注巴方对有关恐袭事件调查工作在较短时间内取得重大进展，对巴方所作积极努力表示赞赏。目前，巴方进一步调查仍在进行之中。双方将按照两国领导人达成的重要共识，查明所有事实真相，在此基础上追究和严惩肇事真凶。同时，双方将继续升级和强化安保合作机制，确保中方在巴项目、人员和机构安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1121063.d.html</link>
-            <guid>2277870</guid>
-            <pubDate>Thu, 12 Aug 2021 15:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【荣耀赵明三点回应美政客要求把荣耀列入“实体清单”传闻】荣耀CEO赵明在荣耀Magic3系列发布会上接受采访时，列出三点回应近期的美国政客要求把荣耀列入“实体清单”传闻。赵明称，首先核心是做好自己的事情，荣耀致力于与全球合作伙伴开发面向消费者的解决方案和产品，我们跟全球的合作伙伴一起打造性能极致的产品，今天也看到诸多合作伙伴站台，未来我们持开放的态度；第二，自从去年11月17日后，荣耀是独立公司，华为没有股份；第三，荣耀特别注意遵守所在国的法律和法规，按照法律的要求进行全球贸易和生意。我们坚持自己的事情，希望所有的事情都能解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2519090.d.html</link>
-            <guid>2277869</guid>
-            <pubDate>Thu, 12 Aug 2021 15:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  福特汽车信贷部门CFO Brian Schaaf：二手车市场已经见顶，但二手车价格不会出现悬崖式下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1120573.d.html</link>
-            <guid>2277868</guid>
-            <pubDate>Thu, 12 Aug 2021 15:42:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元北京时间23:30收报6.4791，较上一交易日夜盘收盘跌1点。成交量329.69亿美元，较周三减少0.79亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2518453.d.html</link>
-            <guid>2277867</guid>
-            <pubDate>Thu, 12 Aug 2021 15:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏伊士运河单日船舶通过数量创新高】苏伊士运河管理局主席拉比耶8月11日称，当天运河航行记录显示，82艘船只从两个方向驶过，创单日船舶通过数量新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2518364.d.html</link>
-            <guid>2277866</guid>
-            <pubDate>Thu, 12 Aug 2021 15:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据阿富汗1TV电视台报道，阿富汗民族和解高级委员会主席阿卜杜拉·阿卜杜拉呼吁联合国安理会就该国局势召开紧急会议，并称该国情况危急。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2518350.d.html</link>
-            <guid>2277865</guid>
-            <pubDate>Thu, 12 Aug 2021 15:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银：将特斯拉目标价从660美元上调至725美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1119985.d.html</link>
-            <guid>2277864</guid>
-            <pubDate>Thu, 12 Aug 2021 15:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为40，表明市场处在恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1119780.d.html</link>
-            <guid>2277863</guid>
-            <pubDate>Thu, 12 Aug 2021 15:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲STOXX 600指数初步收涨0.09%，报474.79点。 德国DAX 30指数初步收涨0.75%，报15944.16点。 法国股指初步收涨0.45%，英国股指初步收跌0.44%，意大利股指初步收涨0.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2517904.d.html</link>
-            <guid>2277862</guid>
-            <pubDate>Thu, 12 Aug 2021 15:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广发证券：宁德时代拟定增募资不超582亿元 关注锂电设备公司机会】宁德时代晚间公布了582亿的定增融资方案，主要集中于福鼎、广东瑞庆等6个项目的投资。广发证券解读称，目前来看，宁德产业链中，比较核心的标的包括先导智能、利元亨、联赢激光、海目星、星云股份、先惠技术等。其中，先导已经和宁德签订战略合作协议，明年正式生效。建议继续重视新能源扩产的力度和强度，我们认为本轮扩产至少持续到2023年，全产业链的受益机会，目前设备公司估值还处在比较低的水位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2517868.d.html</link>
-            <guid>2277861</guid>
-            <pubDate>Thu, 12 Aug 2021 15:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Canalys: 小米首次位列东南亚市场智能手机出货量第一，三星第二】雷军刚刚在年度演讲中喊出要站稳全球第二，小米就在他们出海的起点东南亚市场收获了好消息。据市场调研机构Canalys日前公布的报告，二季度小米以22%的市场份额和107%的年增长率排名东南亚区首位，三星以19%的市场份额位居第二， OPPO则以18%的市场占比紧随其后，vivo、realme分列第四第五，市场份额分别为14%和12%。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1119420.d.html</link>
-            <guid>2277860</guid>
-            <pubDate>Thu, 12 Aug 2021 15:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全美房地产经纪人协会（NAR）：美国房价在第二季度大幅上涨】由于强劲的需求继续压倒待售房屋的供应，美国几乎每个角落第二季度的房价都出现飙升。NAR表示，该协会追踪的183个大都会区中，有182个地区的单户成屋销售价格中值较上年同期有所上升，其中94%的都会区房价中值较上年同期上涨了10%以上。过去一年，由于低利率和远程办公的增加刺激了新的购房需求，房价攀升。另外，由于潜在卖家取消或推迟了搬迁计划，市场上的房屋库存有所下降。不过，近几个月来，购房热潮已经显示出放缓的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1118898.d.html</link>
-            <guid>2277859</guid>
-            <pubDate>Thu, 12 Aug 2021 15:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[二季度财报显示，美国四大客运航空公司的业绩均出现大幅反弹，其中三家航空公司的营业收入都同比翻了两番，但与2019年同期相比仍低30%-50%。虽然最新业绩显示出航空业复苏的迹象，但Delta变体相关新感染病例的卷土重来再度给前景蒙上阴影。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1118869.d.html</link>
-            <guid>2277858</guid>
-            <pubDate>Thu, 12 Aug 2021 15:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  8月12日21时，国家减灾委、应急管理部针对湖北省近期严重暴雨洪涝灾害，启动国家Ⅳ级救灾应急响应，派出工作组赶赴灾区指导抢险救灾工作，支持帮助地方做好受灾群众转移安置、基本生活救助等工作。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1118807.d.html</link>
-            <guid>2277857</guid>
-            <pubDate>Thu, 12 Aug 2021 15:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  阿迪达斯将以最高21亿欧元金额出售锐步品牌给美国品牌管理公司Authentic Brands。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1118797.d.html</link>
-            <guid>2277856</guid>
-            <pubDate>Thu, 12 Aug 2021 15:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  螺纹期货夜盘收跌1.70%，热卷收跌1.98%；铁矿石期货收跌1.85%。 焦炭夜盘收涨0.61%，焦煤收涨0.89%，动力煤收涨0.45%。 橡胶夜盘收跌0.22%，沥青收涨0.31%。 豆粕夜盘收跌0.78%，菜粕收跌1.01%。 郑棉夜盘收跌0.03%。]]></title>
-            <guid>2277855</guid>
-            <pubDate>Thu, 12 Aug 2021 15:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利报告新增7270例新冠肺炎确诊病例，前一天新增6968例；报告新增30例死亡病例，前一天新增31例。]]></title>
-            <guid>2277854</guid>
-            <pubDate>Thu, 12 Aug 2021 15:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货日内跌幅达1%，现报68.56美元/桶，布伦特原油期货现跌0.97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2516517.d.html</link>
-            <guid>2277853</guid>
-            <pubDate>Thu, 12 Aug 2021 15:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国上周初请失业金人数连续第三周下降，已低于40万的重要心理水平。但只有超过72万人退出了疫情紧急援助，依靠某种形式政府救济金的总人数依然在1200万以上。与此同时，此前数据显示美国职位空缺则创下历史新高，达到1010万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2516306.d.html</link>
-            <guid>2277852</guid>
-            <pubDate>Thu, 12 Aug 2021 15:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【兰石重装：中核嘉华主营业务与光伏、氢能领域无关】兰石重装就拟收购中核嘉华55%股权事项补充披露：中核嘉华主营业务与光伏、氢能领域无关。特此公司在《关于筹划拟现金收购中核嘉华设备制造股份公司控股权的提示性公告》中“第一部分本次筹划交易概述”中的语词表意不准确。中核嘉华近三年年均净利润为155万元左右，相对盈利能力较弱，即使本次交易达成预计也不会对公司经营业绩构成重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1118012.d.html</link>
-            <guid>2277851</guid>
-            <pubDate>Thu, 12 Aug 2021 15:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南郑州个体诊所暂停诊疗服务，离郑人员需增开离郑证明】据8月12日河南郑州疫情防控发布会介绍，当前，郑州市疫情防控正处于关键期，但仍有少数个体诊所违反规定私自接诊发热病人，为切实堵塞漏洞，即日起，郑州要求全市个体诊所暂停诊疗服务，未设置发热门诊的基层医疗机构一律不得收治与新冠肺炎相似症状的患者。在人员离郑方面，经过郑州疫情防控领导小组研究，即日起，离郑人员还需提供其所在单位或居住地社区开具的离郑证明。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2516234.d.html</link>
-            <guid>2277850</guid>
-            <pubDate>Thu, 12 Aug 2021 15:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度报告接种了510万剂新冠疫苗，累计接种量达5.289亿剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2515785.d.html</link>
-            <guid>2277849</guid>
-            <pubDate>Thu, 12 Aug 2021 15:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国方面表示，已有47170968人接种首剂新冠疫苗，已有40013470人接种第二剂新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqciyzm1117492.d.html</link>
-            <guid>2277848</guid>
-            <pubDate>Thu, 12 Aug 2021 15:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国报告新增33074例新冠肺炎确诊病例，新增94例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2515679.d.html</link>
-            <guid>2277847</guid>
-            <pubDate>Thu, 12 Aug 2021 15:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国大使馆官网：美国大使馆敦促美国公民立即离开阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-12/detail-ikqcfncc2515549.d.html</link>
-            <guid>2277846</guid>
-            <pubDate>Thu, 12 Aug 2021 15:01:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
