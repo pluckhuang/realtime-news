@@ -6,6 +6,355 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2278942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1337175.d.html",
+            "title": "【缅甸央行澄清废钞和私营银行关闭传闻】当地时间8月13日，缅甸央行发布公告，就近期一系列关于金融市场的谣言进行澄清。公告中表示，近日来关于面值为五千和一万的缅币现钞将被废止和多家私营银行将被关闭的传闻均属谣言，这些谣言已经引发民众的担忧，导致大量现金被取出。目前，缅甸央行已指示各家银行正常提供服务，避免引发民众恐慌。（央视）",
+            "date_modified": "2021-08-13T19:15:36.000Z"
+        },
+        {
+            "id": 2278940,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1336499.d.html",
+            "title": "美国官员：位于美国华盛顿特区的军事基地已解除封锁。",
+            "date_modified": "2021-08-13T19:00:58.000Z"
+        },
+        {
+            "id": 2278939,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2734737.d.html",
+            "title": "恒指期货夜盘收涨0.14%，报26348点，低水44点。",
+            "date_modified": "2021-08-13T19:00:31.000Z"
+        },
+        {
+            "id": 2278938,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2734450.d.html",
+            "title": "法国新增74例新冠肺炎死亡病例，累计112607例。",
+            "date_modified": "2021-08-13T18:54:44.000Z"
+        },
+        {
+            "id": 2278937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1336187.d.html",
+            "title": "洲际交易所ICE：上周汽油期货投机性净多头头寸减少28858手至99490手，为20周低位。",
+            "date_modified": "2021-08-13T18:54:11.000Z"
+        },
+        {
+            "id": 2278936,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2734375.d.html",
+            "title": "联合国秘书长古特雷斯：阿富汗局势正在失控。",
+            "date_modified": "2021-08-13T18:53:01.000Z"
+        },
+        {
+            "id": 2278935,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2734099.d.html",
+            "title": "联合国秘书长古特雷斯：当前是避免阿富汗长期内战的时候。",
+            "date_modified": "2021-08-13T18:47:53.000Z"
+        },
+        {
+            "id": 2278934,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1335781.d.html",
+            "title": "联合国秘书长古特雷斯：呼吁塔利班立即停止进攻，真诚地进行谈判。",
+            "date_modified": "2021-08-13T18:46:16.000Z"
+        },
+        {
+            "id": 2278933,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2734004.d.html",
+            "title": "联合国秘书长古特雷斯呼吁各方采取更多措施保护平民，并警告说，针对平民的袭击构成战争罪。",
+            "date_modified": "2021-08-13T18:45:45.000Z"
+        },
+        {
+            "id": 2278932,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2733884.d.html",
+            "title": "英国方面表示，鉴于安全局势恶化，敦促英国国民立即离开阿富汗。",
+            "date_modified": "2021-08-13T18:44:27.000Z"
+        },
+        {
+            "id": 2278931,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1335360.d.html",
+            "title": "  洲际交易所（ICE）：最近一周，投机者所持ICE布伦特汽油净多头头寸减少28,858手合约，至99,490手合约。",
+            "date_modified": "2021-08-13T18:40:01.000Z"
+        },
+        {
+            "id": 2278930,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2733465.d.html",
+            "title": "美国纽约州报告新增4591例新冠肺炎确诊病例，新增13例死亡病例。",
+            "date_modified": "2021-08-13T18:37:30.000Z"
+        },
+        {
+            "id": 2278929,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2733413.d.html",
+            "title": "【美国人口普查：人口增长速度放缓 老龄化趋势明显】当地时间8月12日，根据美国人口普查局公布的2020年人口普查结果显示，美国人口分布呈现更加多元化的趋势，总人口的增长速度也在放缓，美国白人人口数量在下降，这也是在过去10年中，白人人口数量在美国历史上首次下降。此外，美国人口正在向老龄化发展。18岁或以上的成年人现在占所有美国人口的78%，18岁以下人群只有22%。（央视新闻）",
+            "date_modified": "2021-08-13T18:36:38.000Z"
+        },
+        {
+            "id": 2278928,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2733195.d.html",
+            "title": "  WTI 9月原油期货收跌0.65美元，跌幅0.94%，报68.44美元/桶。",
+            "date_modified": "2021-08-13T18:33:40.000Z"
+        },
+        {
+            "id": 2278927,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2733029.d.html",
+            "title": "美国国防部发言人Kirby：喀布尔目前并没有面临迫在眉睫的威胁，但塔利班正试图使其孤立无援。",
+            "date_modified": "2021-08-13T18:31:05.000Z"
+        },
+        {
+            "id": 2278926,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2732990.d.html",
+            "title": "上海黄金交易所黄金T+D 8月14日（周六）晚盘收盘上涨1.29%报371.22元/克；上海黄金交易所白银T+D 8月14日（周六）晚盘收盘上涨1.78%报5100.0元/千克。",
+            "date_modified": "2021-08-13T18:30:23.000Z"
+        },
+        {
+            "id": 2278925,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2732986.d.html",
+            "title": "  上期所原油期货2109合约夜盘收跌0.23%，报430.40元人民币/桶。",
+            "date_modified": "2021-08-13T18:30:18.000Z"
+        },
+        {
+            "id": 2278924,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1334721.d.html",
+            "title": "【调查：全球游戏业连续三月销量同比上升 今年赚335亿美元】根据市场调查机构NPD调查显示，7月全球游戏产业销售额达46亿美元，同比增长10%，创下历史同期最高纪录，并连续三个月录得同比增长。本年至今全球游戏产业销售额达335亿美元，比去年同期增加14%。",
+            "date_modified": "2021-08-13T18:29:49.000Z"
+        },
+        {
+            "id": 2278923,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2732785.d.html",
+            "title": "伊拉克新增新冠肺炎确诊病例9967例，累计确诊1761143例。",
+            "date_modified": "2021-08-13T18:26:44.000Z"
+        },
+        {
+            "id": 2278922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1334335.d.html",
+            "title": "欧洲地中海地震中心：南桑维奇群岛地区发生5.2级地震。",
+            "date_modified": "2021-08-13T18:22:41.000Z"
+        },
+        {
+            "id": 2278921,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1334189.d.html",
+            "title": "美国国防部发言人Kirby：塔利班的推进速度令人深感担忧。",
+            "date_modified": "2021-08-13T18:20:24.000Z"
+        },
+        {
+            "id": 2278920,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1333821.d.html",
+            "title": "美国国防部发言人Kirby：美国大使馆的缩编反映的是应急计划。",
+            "date_modified": "2021-08-13T18:13:57.000Z"
+        },
+        {
+            "id": 2278919,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1333672.d.html",
+            "title": "  【施罗德增持阿里巴巴至第一大重仓股 减持多只中概股】据13F报告显示：施罗德二季度建仓做多图森未来、iShares MSCI，清仓所持的多只ETF，包括ACWI ETF、Frontier、安硕MSCI加拿大ETF、SPDR斯托克50ETF等。增持幅度较大的包括微软、谷歌A、百胜中国、阿里巴巴、及英伟达。减持台积电、京东、新东方、网易及百度等多只中概股。截至第二季度，施罗德前五大重仓股为阿里巴巴、微软、谷歌A及亚马逊。",
+            "date_modified": "2021-08-13T18:11:27.000Z"
+        },
+        {
+            "id": 2278918,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1333542.d.html",
+            "title": "  【先锋领航二季度大买科技股 清仓阿里巴巴】据先锋领航资本提交的13F文件显示，公司二季度加仓幅度最大的为英伟达、微软、苹果与亚马逊等多只科技股，减持家得宝、宝洁及联合健康等消费及医疗板块股票。新建仓Coinbase、AppLovin及图森未来等次新股，所持400多万股阿里巴巴股票全部清出。截至第二季度末，先锋领航前五大持仓股依次为苹果、微软、亚马逊、Facebook和谷歌A。",
+            "date_modified": "2021-08-13T18:09:32.000Z"
+        },
+        {
+            "id": 2278917,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2731271.d.html",
+            "title": "  COMEX 12月黄金期货收涨1.5%，报1778.20美元/盎司，本周累涨将近0.9%。",
+            "date_modified": "2021-08-13T18:01:11.000Z"
+        },
+        {
+            "id": 2278916,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1332782.d.html",
+            "title": "  【索罗斯二季度建仓亚马逊和微软等科技股 清仓腾讯音乐】13F报告显示索罗斯资本管理二季度建仓做多亚马逊、微软、谷歌A、推特、Roblox等24只股票。增持应用材料和苹果等21只股票。清仓奈飞、自由港、腾讯音乐ADR、华纳音乐、DoorDash等14只股票。减持美光科技、拉姆研究、英特尔等14只股票或ETF。重仓应用材料和亚马逊等个股。",
+            "date_modified": "2021-08-13T17:58:59.000Z"
+        },
+        {
+            "id": 2278915,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1332481.d.html",
+            "title": "【桥水Q2持仓：卖出近一半的SPDR标普500ETF，以及SPDR黄金ETF等ETF】全球最大对冲基金桥水不久前提交了二季度13F文件。据文件显示，桥水第二季度卖出了将近一半的SPDR标普500ETF，以及SPDR黄金ETF等ETF，将资金更多投入股票中，但SPY目前仍是桥水最大持仓标的。",
+            "date_modified": "2021-08-13T17:54:36.000Z"
+        },
+        {
+            "id": 2278914,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1332269.d.html",
+            "title": "【币安因保持符合当地法规将下架马币交易及支付渠道】继13日下午发布公告下架韩元交易对及韩元支付渠道。币安再次发布公告，称由于币安不断评估其产品和服务以保持符合当地法规，将于2021年8月16日UTC 时间04:00（UTC+8 下午12:00）下架马币交易对、MYR付款方式以及P2P商户应用的产品和服务。",
+            "date_modified": "2021-08-13T17:51:46.000Z"
+        },
+        {
+            "id": 2278913,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2730631.d.html",
+            "title": "美国疾控中心小组投票建议免疫功能受损的患者接种第三剂新冠疫苗。",
+            "date_modified": "2021-08-13T17:51:33.000Z"
+        },
+        {
+            "id": 2278912,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2730337.d.html",
+            "title": "俄罗斯石油公司Rosneft：预计2021年天然气产量将增加20-30亿立方米，2022年将再增加100亿立方米。",
+            "date_modified": "2021-08-13T17:48:52.000Z"
+        },
+        {
+            "id": 2278911,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2730239.d.html",
+            "title": "波音：现在判断Starliner飞船能否在2021年发射还为时过早。",
+            "date_modified": "2021-08-13T17:47:57.000Z"
+        },
+        {
+            "id": 2278910,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2730174.d.html",
+            "title": "俄罗斯石油公司Rosneft：计划在今年部署现有的闲置石油产能。",
+            "date_modified": "2021-08-13T17:46:59.000Z"
+        },
+        {
+            "id": 2278909,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1330854.d.html",
+            "title": "市场消息：俄罗斯和印度正在讨论在能源方面扩大合作。",
+            "date_modified": "2021-08-13T17:35:29.000Z"
+        },
+        {
+            "id": 2278908,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2728790.d.html",
+            "title": "13日，香港卫生防护中心公布一例初步确诊携带德尔塔毒株的输入病例，患者为一名38岁外籍女佣。（央视新闻）",
+            "date_modified": "2021-08-13T17:28:41.000Z"
+        },
+        {
+            "id": 2278907,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1330352.d.html",
+            "title": "美国国家航空航天局：波音Starliner飞船至少要到10月中旬后才会恢复发射。",
+            "date_modified": "2021-08-13T17:27:39.000Z"
+        },
+        {
+            "id": 2278906,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2728349.d.html",
+            "title": "【美国财政部正在准备定义加密货币经纪人的指南】据外媒报道，美国财政部正在准备一项指南，料将阐明只有被认为是经纪人的加密货币公司才需要遵守拟议的美国国税局（IRS）报告要求，试图平息人们对加密税收规则过于宽泛的担忧。美国财政部一名官员表示，在这个近2万亿美元的加密货币市场上发挥关键作用的其他类型公司不会有任何新的要求，只要它们不同时充当经纪人。该名官员称，财政部的指导方针不会根据公司自己定义的身份来给予全面豁免，而是关注其活动是否符合税法规定的经纪商资格。据报道，该指导意见最早可能于下周公布。",
+            "date_modified": "2021-08-13T17:22:37.000Z"
+        },
+        {
+            "id": 2278905,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1329426.d.html",
+            "title": "美联储在固定利率逆回购中接纳了10509亿美元，为连续两日破万亿。",
+            "date_modified": "2021-08-13T17:16:22.000Z"
+        },
+        {
+            "id": 2278904,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1329180.d.html",
+            "title": "法国报告新增26453例新冠肺炎确诊病例。",
+            "date_modified": "2021-08-13T17:13:08.000Z"
+        },
+        {
+            "id": 2278903,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2727485.d.html",
+            "title": "市场消息：美国财政部正在准备指南，以帮助定义加密货币经纪人。",
+            "date_modified": "2021-08-13T17:12:30.000Z"
+        },
+        {
+            "id": 2278902,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1328944.d.html",
+            "title": "土耳其新增新冠肺炎确诊病例21372例，累计确诊6039857例。",
+            "date_modified": "2021-08-13T17:10:04.000Z"
+        },
+        {
+            "id": 2278901,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1328748.d.html",
+            "title": "美国疾控中心：对于免疫功能受损的患者，不推荐使用处方或医生签字同意接种额外剂量的新冠疫苗。",
+            "date_modified": "2021-08-13T17:07:54.000Z"
+        },
+        {
+            "id": 2278900,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1328472.d.html",
+            "title": "  国际铜夜盘收涨1.26%，沪铜夜盘收涨0.91%，沪铝收涨1.75%，沪锌收涨0.63%，沪铅收涨1.01%，沪镍收涨0.44%，沪锡收跌0.06%。",
+            "date_modified": "2021-08-13T17:04:20.000Z"
+        },
+        {
+            "id": 2278899,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1328311.d.html",
+            "title": "荷兰首相吕特：新冠肺炎病例正在减少，但目前仍需要一些限制措施。",
+            "date_modified": "2021-08-13T17:02:31.000Z"
+        },
+        {
+            "id": 2278898,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2726528.d.html",
+            "title": "  美国至8月13日当周石油钻井总数为397口，前值为387口。",
+            "date_modified": "2021-08-13T17:01:16.000Z"
+        },
+        {
+            "id": 2278897,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1327993.d.html",
+            "title": "  LME期铜收涨102美元，报9570美元/吨。 LME期铝收涨18美元，报2600美元/吨。 LME期锌收涨41美元，报3034美元/吨。 LME期铅收涨27美元，报2334美元/吨。 LME期镍收跌22美元，报19656美元/吨。 LME期锡收涨54美元，报35324美元/吨。",
+            "date_modified": "2021-08-13T16:59:02.000Z"
+        },
+        {
+            "id": 2278896,
+            "content_html": "",
+            "title": "据俄罗斯卫星网：声明显示，华盛顿特区附近的美国军事基地在现场报告出现“潜在武装人员”后实行了封锁 。",
+            "date_modified": "2021-08-13T16:56:54.000Z"
+        },
+        {
+            "id": 2278895,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2725529.d.html",
+            "title": "南非报告新增13921例新冠肺炎确诊病例，累计达2582427例。",
+            "date_modified": "2021-08-13T16:48:56.000Z"
+        },
+        {
+            "id": 2278894,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1327123.d.html",
+            "title": "【美国前财长萨默斯指责拜登不应试图压低汽油价格】美国前财长萨默斯批评拜登为降低汽油价格所采取的行动，称不应该阻止汽油价格上涨，因为化石燃料的使用会导致地球气温升高。萨默斯周五在接受采访时表示，拜登政府应该调整贸易和经济政策，以帮助降低其他商品的价格。萨默斯称，“碳基燃料价格上涨对于美国经济的重要性超过其他任何产品价格的上涨，从我的角度来看，我更愿意看到我们采取其他措施，而不是帮助欧佩克”。",
+            "date_modified": "2021-08-13T16:48:12.000Z"
+        },
+        {
+            "id": 2278893,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1326354.d.html",
+            "title": "联合国发言人：联合国正对喀布尔和其他地方的安全形势进行“逐小时”评估，联合国工作人员没有撤离阿富汗。",
+            "date_modified": "2021-08-13T16:37:50.000Z"
+        },
+        {
+            "id": 2278892,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1325867.d.html",
+            "title": "波音：将暂停“星际客机”（Starliner）飞船的发射窗口，将对其进行更深层的故障排查。",
+            "date_modified": "2021-08-13T16:31:50.000Z"
+        },
+        {
             "id": 2278891,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2723947.d.html",
@@ -351,353 +700,6 @@
             "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2714276.d.html",
             "title": "美国至8月6日当周ECRI领先指标年率公布 6.8%，前值 8.9%。",
             "date_modified": "2021-08-13T14:31:05.000Z"
-        },
-        {
-            "id": 2278841,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2714256.d.html",
-            "title": "据悉，巴西餐饮连锁Madero Industria e Comercio SA寻求通过IPO募资大约12亿巴西雷亚尔资金，从而获得大约70亿巴西雷亚尔（折合13亿美元）估值，该公司已经获得私募Carlyle Group Inc.的投资。Carlyle拒绝透露相关信息，称目前处于噤声期。",
-            "date_modified": "2021-08-13T14:30:52.000Z"
-        },
-        {
-            "id": 2278840,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2713793.d.html",
-            "title": "美国十年期国债收益率延续跌势，一度触及1.3%，日内跌幅达4.77%。",
-            "date_modified": "2021-08-13T14:26:32.000Z"
-        },
-        {
-            "id": 2278839,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1315296.d.html",
-            "title": "【阿里巴巴达摩院AI刷新全球VQA纪录】近日，国际权威机器视觉问答榜单VQA Leaderboard出现关键突破，阿里巴巴达摩院以81.26%的准确率创造了新纪录，让AI在“读图会意”上首次超越人类基准。（证券时报）",
-            "date_modified": "2021-08-13T14:26:05.000Z"
-        },
-        {
-            "id": 2278838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2713639.d.html",
-            "title": "纽元兑美元NZD/USD日内涨幅达0.50%，现报0.7037。",
-            "date_modified": "2021-08-13T14:24:57.000Z"
-        },
-        {
-            "id": 2278837,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1315124.d.html",
-            "title": "【佳都科技联合体中标西部（重庆）科学城一片区智慧城市设计深化权】佳都科技(600728)消息，公司与广州市城市规划勘测设计研究院等组成的联合体日前中标《西部（重庆）科学城北碚园区歇马片区城市设计方案国际征集》的深化权，佳都科技深度参与智慧城市设计，将多种智慧产品、技术和实操经验融入设计方案，保证智慧城市设计的可落地性，为西部（重庆）科学城的智慧城市设计方案贡献传感器产业分析、低碳节能、智慧交通等方面的重要设计内容。",
-            "date_modified": "2021-08-13T14:24:22.000Z"
-        },
-        {
-            "id": 2278836,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2713380.d.html",
-            "title": "  【欧盟：今年上半年中国继续保持欧盟第一大贸易伙伴地位】欧盟统计局13日公布的数据显示，新冠疫情下，欧中经贸合作保持强劲韧性，今年上半年中国继续保持欧盟第一大贸易伙伴地位。数据显示，今年上半年，欧盟货物贸易出口额为10489亿欧元，同比增长13.8%；进口额为9645亿欧元，同比增长13.9%。其中，欧盟向中国出口商品1126亿欧元，同比增长20.2%；从中国进口商品2101亿欧元，同比增长15.5%。",
-            "date_modified": "2021-08-13T14:22:36.000Z"
-        },
-        {
-            "id": 2278835,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1314921.d.html",
-            "title": "【波罗的海干散货运价指数升至逾11年高位】波罗的海干散货运价指数涨63点或约2%，报3566点，为2010年中期以来最高水平，周线涨5.8%，为近八周最佳水平。海岬型船运价指数涨158点或3.4%，报4766点，近4个月以来最高水平；周线录得连续第四周上涨，涨幅9.3%；日均获利增加1309美元至39526美元。巴拿马型船运价指数涨16点或0.5%，报3566点，为6月21日以来最高水平，周线涨3.4%，日均获利增加143美元至32092美元。超灵便型船运价指数涨19点，报3098点，续刷纪录新高。",
-            "date_modified": "2021-08-13T14:22:23.000Z"
-        },
-        {
-            "id": 2278834,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1314689.d.html",
-            "title": "  美国总统拜登在提名下一任美联储主席方面关注气候变化问题。",
-            "date_modified": "2021-08-13T14:20:30.000Z"
-        },
-        {
-            "id": 2278833,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1314564.d.html",
-            "title": "  机构评美国8月密歇根大学消费者信心指数：8月初，由于德尔塔新冠病毒的扩散，美国人对国民经济的展望出现了恶化，消费者心理也出现了下降。数据较7月份下降了13.5%，仅有的两次更大降幅发生在2020年4月经济关闭期间(-19.4%)和2008年10月大衰退最严重时期(-18.1%)。",
-            "date_modified": "2021-08-13T14:19:43.000Z"
-        },
-        {
-            "id": 2278832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2712931.d.html",
-            "title": "欧元兑美元EUR/USD日内涨0.50%，现报1.1788。",
-            "date_modified": "2021-08-13T14:18:57.000Z"
-        },
-        {
-            "id": 2278831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2712666.d.html",
-            "title": "财经网站Forexlive评美国密歇根大学消费者信心指数：数据表明，经济调查日益成为政治晴雨表。这是自2011年以来的最低水平，打破了新冠疫情以来的低点。很难相信。美元兑日元USD/JPY面临额外压力，跌至110.04。美国国债收益率下跌了3.8个基点，至1.328%。",
-            "date_modified": "2021-08-13T14:16:05.000Z"
-        },
-        {
-            "id": 2278830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2712344.d.html",
-            "title": "美股白银板块多数上扬，迈利达电子涨3.79%，First Majestic涨3.65%，泛美白银涨3.23%，Fortuna Silver涨2.74%，Endeavour Silver涨2.02%。",
-            "date_modified": "2021-08-13T14:13:07.000Z"
-        },
-        {
-            "id": 2278829,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1313890.d.html",
-            "title": "美元指数DXY短线走低近10点，现报92.68。",
-            "date_modified": "2021-08-13T14:13:01.000Z"
-        },
-        {
-            "id": 2278828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1313782.d.html",
-            "title": "  道指转跌，盘初一度涨0.28%。",
-            "date_modified": "2021-08-13T14:11:39.000Z"
-        },
-        {
-            "id": 2278827,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1313765.d.html",
-            "title": "江苏淮安3地由中风险地区调整为低风险地区。（交汇点新闻）",
-            "date_modified": "2021-08-13T14:11:32.000Z"
-        },
-        {
-            "id": 2278826,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2712136.d.html",
-            "title": "“智能手机巅峰”已经过去？全球智能手机出货量在2016年达到顶峰，到2020年出货量已回落至12.92亿台，为2013年以来的最低水平。但市场研究机构IDC仍预计该行业能够回到之前的高度，甚至超越。在其最新行业预测中，IDC预计2021年的5G过渡将带来重大推动作用，到2025年全球智能出货量预计将超过15亿台，增长率将保持低个位数。",
-            "date_modified": "2021-08-13T14:10:40.000Z"
-        },
-        {
-            "id": 2278825,
-            "content_html": "",
-            "title": "美国股市指数在密歇根大学情绪数据公布后下跌；目前三大股指均持平。",
-            "date_modified": "2021-08-13T14:09:40.000Z"
-        },
-        {
-            "id": 2278824,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2711815.d.html",
-            "title": "据国际文传电讯社：俄罗斯7月新冠肺炎累计死亡病例17237例。",
-            "date_modified": "2021-08-13T14:08:57.000Z"
-        },
-        {
-            "id": 2278823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1313148.d.html",
-            "title": "现货白银日内涨幅达2%，现报23.68美元/盎司。 现货黄金站上1770美元/盎司，日内涨幅近1%。",
-            "date_modified": "2021-08-13T14:07:17.000Z"
-        },
-        {
-            "id": 2278822,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2711496.d.html",
-            "title": "COMEX期银日内涨2.06%，现报23.58美元/盎司。",
-            "date_modified": "2021-08-13T14:06:50.000Z"
-        },
-        {
-            "id": 2278820,
-            "content_html": "",
-            "title": "现货黄金短线走高4美元，现报1767.91美元/盎司；现货白银短线走高0.12美元，现报23.49美元/盎司。",
-            "date_modified": "2021-08-13T14:04:28.000Z"
-        },
-        {
-            "id": 2278819,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1312707.d.html",
-            "title": "美国密歇根大学消费调查主管Curtin：在未来的几个月里，消费者很可能会再次表达出更合理的预期，而且随着德尔塔变种病毒得到控制，消费者会转向完全的乐观。",
-            "date_modified": "2021-08-13T14:03:56.000Z"
-        },
-        {
-            "id": 2278818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2710976.d.html",
-            "title": "美国密歇根大学消费调查主管Curtin：8月上半月消费者信心大幅下降。毫无疑问，由于德尔塔变种病毒而导致疫情卷土重来促使消费者推断，未来几个月经济表现将下滑。",
-            "date_modified": "2021-08-13T14:02:44.000Z"
-        },
-        {
-            "id": 2278817,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2710852.d.html",
-            "title": "  美国8月密歇根大学消费者信心指数初值骤降至70.2，创2011年以来新低。美国10年期国债收益率下挫4个基点，报1.32%。",
-            "date_modified": "2021-08-13T14:01:38.000Z"
-        },
-        {
-            "id": 2278816,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1312431.d.html",
-            "title": "美国8月密歇根大学现况指数初值公布 77.9，前值 84.5，预期 82。",
-            "date_modified": "2021-08-13T14:01:14.000Z"
-        },
-        {
-            "id": 2278815,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2710781.d.html",
-            "title": "美国8月五至十年期通胀率预期公布 3%，前值 2.80%。",
-            "date_modified": "2021-08-13T14:01:03.000Z"
-        },
-        {
-            "id": 2278814,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2710766.d.html",
-            "title": "美国8月密歇根大学预期指数初值公布 65.2，前值 79，预期 77.5。",
-            "date_modified": "2021-08-13T14:00:53.000Z"
-        },
-        {
-            "id": 2278813,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2710720.d.html",
-            "title": "美国8月一年期通胀率预期公布 4.6%，前值 4.7%，预期 4.6%。",
-            "date_modified": "2021-08-13T14:00:41.000Z"
-        },
-        {
-            "id": 2278812,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1312287.d.html",
-            "title": "美国8月密歇根大学消费者信心指数初值公布 70.2，前值 81.2，预期 81.2。",
-            "date_modified": "2021-08-13T14:00:20.000Z"
-        },
-        {
-            "id": 2278811,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2710531.d.html",
-            "title": "  【上海经信委：加快协调推进华为青浦研发中心项目】今日，上海市经济信息化委主任吴金城、副主任刘平带队调研华为青浦研发中心项目。吴金城指出，华为青浦研发中心项目是具有重要战略意义的重大产业项目，对本市集成电路产业发展具有重要推动作用，对长三角一体化示范区建设起到产业引领作用。青浦区要全面支持华为项目，强化项目服务。市经济信息化委将依托项目专班服务机制，联合各专班部门加快协调推进项目，全力保障项目建设。",
-            "date_modified": "2021-08-13T13:58:54.000Z"
-        },
-        {
-            "id": 2278810,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2710012.d.html",
-            "title": "德国外交部长：德国将把驻阿富汗喀布尔大使馆的工作人员数量降到最低。",
-            "date_modified": "2021-08-13T13:53:28.000Z"
-        },
-        {
-            "id": 2278809,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2709879.d.html",
-            "title": "【深圳国资：正式入主方正微电子】深圳国资消息，8月12日，市属国企深圳市重大产业投资集团有限公司（简称“重投集团”）完成深圳方正微电子有限公司（简称“方正微电子”）重组变更的全部法律程序并正式进驻，在半导体及集成电路领域再下一城。方正微电子拥有两条6英寸晶圆生产线，年产能达60万片。",
-            "date_modified": "2021-08-13T13:52:09.000Z"
-        },
-        {
-            "id": 2278808,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1311402.d.html",
-            "title": "市场消息：丹麦将撤离驻阿富汗喀布尔大使馆工作人员。",
-            "date_modified": "2021-08-13T13:51:16.000Z"
-        },
-        {
-            "id": 2278807,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1311040.d.html",
-            "title": "  【新华三集团与绿盟科技达成战略合作】日前，紫光股份旗下新华三集团与绿盟科技集团股份有限公司签署战略合作，双方将基于各自在安全领域的优势与积累，积极探索多形式的合作模式，有效整合能力与资源，共同为客户提供完善的安全解决方案、产品及专业安全服务。",
-            "date_modified": "2021-08-13T13:48:48.000Z"
-        },
-        {
-            "id": 2278806,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2709456.d.html",
-            "title": "美股区块链板块整体走强，Silvergate Capital涨6.87%，Marathon Patent涨6.39%，比特矿业涨5.7%，嘉楠科技涨4.7%，Bit Digital涨4.06%，Coinbase涨2.6%。",
-            "date_modified": "2021-08-13T13:48:41.000Z"
-        },
-        {
-            "id": 2278805,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2709277.d.html",
-            "title": "阿富汗副总统阿姆鲁拉·萨利赫在塔利班武装分子在各省发动进攻的大背景下发表声明称，阿富汗总统加尼主持安全会议期间做决定，将采取各种手段回击塔利班。（卫星新闻）",
-            "date_modified": "2021-08-13T13:47:17.000Z"
-        },
-        {
-            "id": 2278804,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1310810.d.html",
-            "title": "美股疫苗股上涨，BioNTech涨3.7%，Moderna涨3%，辉瑞涨1.6%。",
-            "date_modified": "2021-08-13T13:47:05.000Z"
-        },
-        {
-            "id": 2278803,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1310685.d.html",
-            "title": "  特斯拉CEO马斯克：将于10月9日在柏林-勃兰登堡超级工厂举办集市并开放参观，勃兰登堡和柏林的居民优先参与，也对其他公众开放。",
-            "date_modified": "2021-08-13T13:45:53.000Z"
-        },
-        {
-            "id": 2278802,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1310559.d.html",
-            "title": "【金本位结束50周年 黄金总回报远远落后于标普500指数】黄金本周日将迎来一个五十周年纪念日。五十年前，美国总统尼克松宣布，美国政府将不再以每盎司35美元的价格将美元兑换成黄金。这一决定实际上结束了金本位制度。虽然自那时以来，黄金的涨幅表面上超过了标普500指数，但在计入股息后，两者却没有可比性。到本周为止，标普500指数的总回报率接近20,000％，黄金回报率约为4,200％。",
-            "date_modified": "2021-08-13T13:44:45.000Z"
-        },
-        {
-            "id": 2278801,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1310067.d.html",
-            "title": "  【万孚生物：公司质量体系暨产品获得IVDR CE认证】万孚生物公告，公司于近日获得由 TüV 南德意志集团签发的欧盟质量管理体系证书(IVDR)。同时，公司的糖化血红蛋白检测试剂盒(免疫荧光分析法)和 C-反应蛋白检测试剂盒(免疫荧光分析法)等产品也获得了IVDR CE证书。",
-            "date_modified": "2021-08-13T13:40:32.000Z"
-        },
-        {
-            "id": 2278800,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2708422.d.html",
-            "title": "【供应链问题并无缓和迹象经济学家持续上调美国通胀预期】困扰美国经济复苏的供应紧张问题几乎没有在短期之内消散的迹象，令经济承压，并可能引发通胀。彭博对经济学家进行的最新月度调查显示，预测人士们下调了今年的经济增长预期，并上调今明两年的多项通胀预期指标。ING首席国际经济学家JamesKnightley表示，持续的供应链限制和劳动力短缺不仅妨碍经济增长，还提高了企业的成本。“供不应求不仅意味着通胀走高，也意味着增长机会错失。”",
-            "date_modified": "2021-08-13T13:40:24.000Z"
-        },
-        {
-            "id": 2278799,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2708265.d.html",
-            "title": "热门中概股多数走跌，叮咚买菜跌5.74%，哔哩哔哩跌3.93%，小鹏汽车跌3.02%，贝壳跌3.26%，理想汽车跌2.79%，百度跌2.29%。",
-            "date_modified": "2021-08-13T13:39:18.000Z"
-        },
-        {
-            "id": 2278798,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1309408.d.html",
-            "title": "  辉瑞(PFE.N)涨1.48%，BioNTech SE(BNTX.O)涨2.58%，Moderna(MRNA.O)涨2.17%，美国食品药品监督管理局对三家公司新冠疫苗进行了修订，允许在某些免疫缺陷患者中使用额外剂量的疫苗。",
-            "date_modified": "2021-08-13T13:35:17.000Z"
-        },
-        {
-            "id": 2278797,
-            "content_html": "",
-            "title": "  【外交部副部长马朝旭会见俄罗斯驻华大使杰尼索夫】据外交部网站，今日，外交部副部长马朝旭会见俄罗斯驻华大使杰尼索夫。双方积极评价中俄新时代全面战略协作伙伴关系，以及多边领域高水平合作，一致同意进一步加强在联合国等多边机构的沟通协调，维护双方共同利益，为世界和平与发展发挥积极作用。",
-            "date_modified": "2021-08-13T13:35:04.000Z"
-        },
-        {
-            "id": 2278796,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1309225.d.html",
-            "title": "  Rocket Companies(RKT.N)涨5.6%，第三季度指引好于市场预期。",
-            "date_modified": "2021-08-13T13:33:57.000Z"
-        },
-        {
-            "id": 2278795,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2707612.d.html",
-            "title": "  Luminar(LAZR.O)跌近4%，上调2021年销售额预期，预计将在2023年推出消费者可以购买的汽车。",
-            "date_modified": "2021-08-13T13:33:21.000Z"
-        },
-        {
-            "id": 2278794,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2707574.d.html",
-            "title": "  XL FLEET(XL.N)跌9.58%，第二季度业绩不及市场预期。",
-            "date_modified": "2021-08-13T13:32:49.000Z"
-        },
-        {
-            "id": 2278793,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1309124.d.html",
-            "title": "  SOFI(SOFI.O)跌超12%，公司维持财务指引，不及市场预期。",
-            "date_modified": "2021-08-13T13:32:29.000Z"
-        },
-        {
-            "id": 2278792,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1308997.d.html",
-            "title": "  DoorDash(DASH.N)跌4.75%，第二季度净亏损超预期，预计第三季度新用户获取量将下降。",
-            "date_modified": "2021-08-13T13:31:30.000Z"
-        },
-        {
-            "id": 2278791,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1308959.d.html",
-            "title": "  ContextLogic (WISH.O)跌近27%，第二季度业绩不及预期。",
-            "date_modified": "2021-08-13T13:31:12.000Z"
         }
     ]
 }
