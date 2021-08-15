@@ -4,11 +4,373 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 15 Aug 2021 10:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Aug 2021 13:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【德国新增新冠肺炎确诊病例4728例】根据德国联邦疾控机构罗伯特·科赫研究所发布的最新数据，截至当地时间8月15日零时，德国累计新冠肺炎确诊病例3821013例，新增4728例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1626446.d.html</link>
+            <guid>2279668</guid>
+            <pubDate>Sun, 15 Aug 2021 13:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：留在阿富汗“根本不符合我们的利益”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3025619.d.html</link>
+            <guid>2279667</guid>
+            <pubDate>Sun, 15 Aug 2021 13:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江苏扬州首批5名新冠肺炎治愈患者出院。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3025386.d.html</link>
+            <guid>2279663</guid>
+            <pubDate>Sun, 15 Aug 2021 13:18:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【50家公司本周获机构密集调研】本周，沪深两市共有50家上市公司接待了包括基金公司、证券公司、海外机构、阳光私募、保险公司、QFII等在内的多家机构调研。其中，有31家公司期间累计接待参与调研的机构家数超过10家，华东医药、永太科技、TCL科技等3家公司期间累计接待参与调研的机构家数均超200家，分别达到224家、213家、212家，三花智控、新宙邦、许继电气、贝达药业、鱼跃医疗、伊之密、新雷能、双星新材、甘源食品等9家公司期间也均受到100家以上机构联袂调研。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1626062.d.html</link>
+            <guid>2279662</guid>
+            <pubDate>Sun, 15 Aug 2021 13:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙决定撤离在阿富汗居住的本国公民】据西班牙媒体当地时间8月15日消息，由于塔利班已进入阿富汗首都喀布尔，西班牙外交部和国防部已经启动对居住在阿富汗的本国公民的撤离计划。据悉，西班牙不仅会撤离驻阿富汗的外交人员，还会撤离居住在阿富汗的西班牙公民，以及与西班牙军方等机构合作的阿富汗公民。西班牙外交部同时表示，若情况安全，西班牙驻阿富汗使领馆将保持开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3025344.d.html</link>
+            <guid>2279661</guid>
+            <pubDate>Sun, 15 Aug 2021 13:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：美国已告知塔利班，如果他们干涉美国人员，美国方面将作出“迅速而果断的反应”。]]></title>
+            <guid>2279660</guid>
+            <pubDate>Sun, 15 Aug 2021 13:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典外交部长：所有瑞典驻喀布尔大使馆人员必须立即离开喀布尔，撤离将于周一完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3025053.d.html</link>
+            <guid>2279659</guid>
+            <pubDate>Sun, 15 Aug 2021 13:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：事实是阿富汗军队一直无法保卫自己的国家。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3024677.d.html</link>
+            <guid>2279652</guid>
+            <pubDate>Sun, 15 Aug 2021 13:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：包括阿富汗议会下院议长在内的部分阿富汗官员已从喀布尔飞抵巴基斯坦。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1625321.d.html</link>
+            <guid>2279651</guid>
+            <pubDate>Sun, 15 Aug 2021 13:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：阿富汗总统府消息人士称，国际武装部队已经控制了喀布尔绿区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3024613.d.html</link>
+            <guid>2279650</guid>
+            <pubDate>Sun, 15 Aug 2021 13:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[唐宁街10号（英国首相府）：首相约翰逊已于今天下午晚些时候召开了一次联合会议，讨论阿富汗局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1625309.d.html</link>
+            <guid>2279649</guid>
+            <pubDate>Sun, 15 Aug 2021 13:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  海天股份：上半年实现净利润7697.27万元，同比增长44.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1624667.d.html</link>
+            <guid>2279639</guid>
+            <pubDate>Sun, 15 Aug 2021 13:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中金公司：成长风格把控节奏 关注部分“老白马”】中金公司认为，4月初至今表现强势的偏成长风格近期股价出现波动，与之相对应的是此前调整较多的部分“老白马”，如消费、价值蓝筹、周期板块中的龙头公司有所反弹。我们重申“轻指数，重结构”观点，在科技成长与“老白马”之间更加均衡，在继续关注科技成长景气持续性的同时，把控节奏、关注已经回调较多、估值具备吸引力的部分“老白马”个股。]]></title>
+            <guid>2279635</guid>
+            <pubDate>Sun, 15 Aug 2021 12:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉本土新冠肺炎患者首批7人出院】8月15日晚上7点左右，7名新冠肺炎患者从武汉市金银潭医院出院，成为武汉此次本土疫情的首批出院患者。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1623309.d.html</link>
+            <guid>2279633</guid>
+            <pubDate>Sun, 15 Aug 2021 12:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南胡志明市政府：将居家令延长一个月，并维持宵禁令不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3022384.d.html</link>
+            <guid>2279632</guid>
+            <pubDate>Sun, 15 Aug 2021 12:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国外交部宣布将关闭驻阿富汗大使馆】英国《卫报》刚刚援引路透社消息称，德国外交部已宣布将关闭驻阿富汗大使馆，并要求德国民众离开阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1622616.d.html</link>
+            <guid>2279631</guid>
+            <pubDate>Sun, 15 Aug 2021 12:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国谈判代表：美方人员完成撤离前 塔利班不可进入喀布尔】据美国有线电视新闻网（CNN）15日报道，美国阿富汗问题特别代表扎尔迈·哈利勒扎德8月15日已向塔利班方面发出要求，称塔利班不可以在美方人员完成撤离前进入阿富汗首都喀布尔。塔利班希望能实现喀布尔的“和平交接”，其武装人员正在喀布尔郊区待命。CNN还报道称，曾参与卡塔尔谈判的塔利班谈判代表团成员目前正在阿富汗总统府。美国正在加快其撤离驻阿大使馆人员的速度，并希望能在未来72小时内完成这一进程。 (澎湃新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3020844.d.html</link>
+            <guid>2279630</guid>
+            <pubDate>Sun, 15 Aug 2021 12:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约官员：北约将在喀布尔维持外交作用，以帮助维持喀布尔机场的运作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3020810.d.html</link>
+            <guid>2279629</guid>
+            <pubDate>Sun, 15 Aug 2021 12:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：尼日利亚福卡多斯原油出口港口宣布遭遇不可抗力。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1621694.d.html</link>
+            <guid>2279628</guid>
+            <pubDate>Sun, 15 Aug 2021 12:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  海口发布将南宝花园小区调整为低风险地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3020300.d.html</link>
+            <guid>2279627</guid>
+            <pubDate>Sun, 15 Aug 2021 12:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿里女员工被侵害案采取测谎辅助手段】8月14日晚，济南市公安局槐荫区分局发布通报，阿里女员工周某被侵害案，“犯罪嫌疑人王某文、张某因涉嫌强制猥亵罪，被济南市槐荫区分局依法采取刑事强制措施，没有证据证明有强奸犯罪事实发生。”据新京报贝壳财经从多方了解到，警方在办案过程中对涉案人员还采取了测谎等辅助手段。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1621131.d.html</link>
+            <guid>2279626</guid>
+            <pubDate>Sun, 15 Aug 2021 12:22:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗国防部长：安全部队致力于保卫喀布尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1621063.d.html</link>
+            <guid>2279625</guid>
+            <pubDate>Sun, 15 Aug 2021 12:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华尔街英语过半学员贷款支付学费】自从8月12日传出华尔街英语将宣布破产的消息后，连日来，不断有学员建立维权群寻找退费的途径。不少维权学员反映，购课时销售人员会推荐大家通过第三方机构贷款交费。据悉，在上述的统计中，52%的学员称是通过银行或金融平台贷款的方式支付的学费。“一旦华尔街破产，他们将面临几万到十余万不等的损失，对于这群渴望学习英语的成年人特别是年轻人而言，无疑将是一次巨大打击。”一学员接受采访时说，她贷款的5万余元学费已经于今年6月还完，而有的学员6、7月才贷款交费，现在不能上课，但贷款还得还。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1621005.d.html</link>
+            <guid>2279624</guid>
+            <pubDate>Sun, 15 Aug 2021 12:21:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塔利班释放阿富汗最大监狱约5000名囚犯】塔利班今日占领阿富汗普利查尔希中央监狱，并释放约5000名关押在内的囚犯。报道称，该监狱系阿富汗最大的监狱。此前报道称，阿富汗内政部长承诺将和平交权。美联社援引匿名官员的话称塔利班代表正前往总统府，双方将就权力交接做最后的准备。 (环球时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1620398.d.html</link>
+            <guid>2279623</guid>
+            <pubDate>Sun, 15 Aug 2021 12:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陈茂波：调高香港经济增长预测 国家系列措施护航发展】香港特区政府财政司司长陈茂波15日发表网志表示，考虑到上半年香港经济表现强劲，特区政府将今年全年的经济增长预测由原来的3.5%至5.5%上调到5.5%至6.5%，并相信在香港持续防疫控疫和国家系列措施的支持之下，香港下半年经济还继续有改善的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1619784.d.html</link>
+            <guid>2279622</guid>
+            <pubDate>Sun, 15 Aug 2021 12:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据德国《图片报》：德国派出A400M运输机前往阿富汗首都喀布尔撤侨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3018838.d.html</link>
+            <guid>2279621</guid>
+            <pubDate>Sun, 15 Aug 2021 12:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南卫生部报告新增9580例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3017914.d.html</link>
+            <guid>2279620</guid>
+            <pubDate>Sun, 15 Aug 2021 11:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【8月15日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、《求是》杂志发表习近平总书记重要文章《总结党的历史经验，加强党的政治建设》；2、【新征程开局“十四五”】上半年我国造船业实现快速高质量发展；3、浦东：打造自主创新发展的时代标杆；4、【奋斗百年路 启航新征程 中国共产党人的精神谱系】铭记抗战历史 弘扬伟大抗战精神；5、日本无条件投降76周年 各地举行纪念活动缅怀英烈 铭记历史；6、【走进乡村看小康】公共服务暖人心 乡村生活更幸福；7、十四运会和残特奥会各项筹办工作进展顺利；8、各地精准施策 坚决遏制疫情传播；9、国家卫生健康委通报最新疫情；10、国际锐评：“全球第一政治撕裂国”抗疫失败实属必然——美国抗疫真相之四；11、阿富汗内政部表示将和平移交权力；12、海地西部发生7.3级地震 304人死亡；13、美国累计新冠肺炎确诊病例超3664万例；14、黎巴嫩油罐车爆炸致28人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1618561.d.html</link>
+            <guid>2279619</guid>
+            <pubDate>Sun, 15 Aug 2021 11:54:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【B站日活跃用户超越优酷，优爱腾三足鼎立格局或将被打破】国内长视频网站巨头——腾讯、优酷、爱奇艺一直以来“三足鼎立”的格局有望被打破。据悉，视频网站哔哩哔哩日活跃用户突破6500万，这一数字已超越优酷，成为仅次于爱奇艺和腾讯视频的第三大长视频平台。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1618441.d.html</link>
+            <guid>2279618</guid>
+            <pubDate>Sun, 15 Aug 2021 11:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：消息人士称，阿富汗当局、塔利班和美国正在就和平移交权力进行谈判，但尚未做出任何决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1618232.d.html</link>
+            <guid>2279617</guid>
+            <pubDate>Sun, 15 Aug 2021 11:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据澳大利亚金融评论报：伍德赛德石油公司正就收购必和必拓200亿美元的石油、天然气资产进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3017155.d.html</link>
+            <guid>2279616</guid>
+            <pubDate>Sun, 15 Aug 2021 11:49:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东新冠疫苗全人群全程接种覆盖率逾六成】广东省卫生健康委员会15日发布该省新冠病毒疫苗接种数据。数据显示，截至14日24时，该省累计接种17714.88万剂次，共有7765.82万人完成全程接种。按照广东省1.26亿常住人口计算，全人群全程接种覆盖率为61.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1617143.d.html</link>
+            <guid>2279615</guid>
+            <pubDate>Sun, 15 Aug 2021 11:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【许多阿富汗政府高级官员已前往机场 等待离开喀布尔】阿富汗首都喀布尔哈米德·卡尔扎伊国际机场的消息人士透露，许多阿富汗政府高级官员已抵达机场，准备乘坐飞机离开喀布尔。报道称，这些高官的目的地尚未可知。 (澎湃新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1617124.d.html</link>
+            <guid>2279614</guid>
+            <pubDate>Sun, 15 Aug 2021 11:38:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度外交部官员：印度驻喀布尔大使馆没有关闭，但官员们正在迅速制定撤离计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3015808.d.html</link>
+            <guid>2279613</guid>
+            <pubDate>Sun, 15 Aug 2021 11:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CNN：消息人士称，来自卡塔尔的八到九名塔利班代表目前正在阿富汗总统府内，其中包括塔利班组织副领导人西拉朱丁·哈卡尼的兄弟阿纳斯·哈卡尼。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3015798.d.html</link>
+            <guid>2279612</guid>
+            <pubDate>Sun, 15 Aug 2021 11:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班发言人：我们希望在未来几天内实现权力的和平过渡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1616206.d.html</link>
+            <guid>2279611</guid>
+            <pubDate>Sun, 15 Aug 2021 11:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：美国将在72小时内撤出驻阿大使馆全部人员】据CNN报道，两名消息人士透露，美国将在接下来的72小时内完全撤出驻喀布尔大使馆的所有人员，包括高级官员。消息人士称，包括美国驻阿富汗最高外交官在内的少数核心人员目前将留在喀布尔机场。这意味着美国驻喀布尔大使馆将于周二（17日）关闭，至少暂时关闭。报道称，美国目前没有强大的地面情报，这是促使这些外交官回国的原因之一，美国此前撤出了大部分的军队，包括收集情报的官员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1616135.d.html</link>
+            <guid>2279610</guid>
+            <pubDate>Sun, 15 Aug 2021 11:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班发言人：呼吁阿富汗总统加尼和其他领导人与我们合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3015078.d.html</link>
+            <guid>2279609</guid>
+            <pubDate>Sun, 15 Aug 2021 11:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CNN：包括阿富汗总统顾问在内的几名阿富汗高级官员正在喀布尔机场等待离开。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1616063.d.html</link>
+            <guid>2279608</guid>
+            <pubDate>Sun, 15 Aug 2021 11:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  塔利班宣布不在喀布尔作战。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3015054.d.html</link>
+            <guid>2279607</guid>
+            <pubDate>Sun, 15 Aug 2021 11:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地水泥价格继续上调 江苏下半年第二轮普涨开始】进入八月中旬，国内一些地区仍有降雨或疫情管控加严等因素影响，需求尚在逐渐走出淡季的恢复阶段。但本周多地水泥价格继续上涨，主要集中在中南和西南地区，且幅度较大，周均价环比继续明显上扬。8月10日-12日起江苏宿迁、徐州、连云港、盐城、淮安、南通等地一些主要厂家再次通知上调高标水泥价格20-30元/吨。整体来看，江苏地区下半年第二轮水泥价格上调逐渐展开。 (中国水泥网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3014829.d.html</link>
+            <guid>2279606</guid>
+            <pubDate>Sun, 15 Aug 2021 11:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华民股份：公司实控人将由卢建之变更为欧阳少红】华民股份公告，8月13日，建湘晖鸿股东桃源县湘晖农业投资有限公司(“桃源湘晖”)与股东欧阳少红签订《股权转让协议》，约定桃源湘晖将其持有的建湘晖鸿60%股权转让给欧阳少红。此次股权转让后，桃源湘晖不再持有建湘晖鸿股权，欧阳少红持有建湘晖鸿100%股权。此次权益变动后，建湘晖鸿仍持有公司 20%股份，为公司控股股东，公司实际控制人由卢建之变更为欧阳少红。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1615145.d.html</link>
+            <guid>2279605</guid>
+            <pubDate>Sun, 15 Aug 2021 11:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：阿富汗总统加尼还没有辞去阿富汗总统一职，与各政党的协商仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3013837.d.html</link>
+            <guid>2279604</guid>
+            <pubDate>Sun, 15 Aug 2021 11:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：瑞典将于周日从喀布尔大使馆撤离所有工作人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1614872.d.html</link>
+            <guid>2279603</guid>
+            <pubDate>Sun, 15 Aug 2021 11:12:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家防办、应急管理部进一步部署指导南北方防汛工作】国家防办、应急管理部召开防汛视频会商调度会，与中国气象局、水利部、自然资源部会商研判，视频连线黑龙江、浙江、广西、贵州、云南等13个省（自治区、直辖市）防指和消防救援总队、森林消防总队，分析当前防汛形势，进一步部署防汛工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1614655.d.html</link>
+            <guid>2279602</guid>
+            <pubDate>Sun, 15 Aug 2021 11:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据法新社：阿富汗总统加尼敦促政府部队维持喀布尔的法律和秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3013087.d.html</link>
+            <guid>2279601</guid>
+            <pubDate>Sun, 15 Aug 2021 11:05:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：18时41分在阿富汗（北纬37.50度，东经70.05度）发生5.2级地震，震源深度30千米。]]></title>
+            <guid>2279600</guid>
+            <pubDate>Sun, 15 Aug 2021 11:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  *ST科林：上半年亏损2861.7万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1613705.d.html</link>
+            <guid>2279599</guid>
+            <pubDate>Sun, 15 Aug 2021 11:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班发言人：塔利班首席谈判代表Mullah Baradar目前在卡塔尔，而不是在喀布尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1613500.d.html</link>
+            <guid>2279598</guid>
+            <pubDate>Sun, 15 Aug 2021 10:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔利班发言人：我们寻求（建立）包容性的阿富汗政府，让所有阿富汗人都能参与。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3012335.d.html</link>
+            <guid>2279597</guid>
+            <pubDate>Sun, 15 Aug 2021 10:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  外媒：阿富汗总统加尼将在几小时内放弃权力，塔利班领导的新政府将组建。（环球网）]]></title>
+            <guid>2279596</guid>
+            <pubDate>Sun, 15 Aug 2021 10:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国高级官员：目前还没有看到塔利班的主要部队进入喀布尔。除非塔利班影响美国撤离人员，否则美国在阿富汗的军事计划不会改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1613251.d.html</link>
+            <guid>2279595</guid>
+            <pubDate>Sun, 15 Aug 2021 10:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  三峰环境：公司2021年半年度实现营业收入3,097,822,730.75元，同比增长30.32%；归属于上市公司股东的净利润758,179,288.56元，同比增长124.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3012057.d.html</link>
+            <guid>2279594</guid>
+            <pubDate>Sun, 15 Aug 2021 10:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  联瑞新材：预计2021年半年度实现归属于母公司所有者的净利润7,900万元至8,100万元，同比增加84.71%到89.39%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1613108.d.html</link>
+            <guid>2279593</guid>
+            <pubDate>Sun, 15 Aug 2021 10:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼新增新冠肺炎确诊病例20813例，累计确诊3854354例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1612333.d.html</link>
+            <guid>2279592</guid>
+            <pubDate>Sun, 15 Aug 2021 10:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中金公司：成长风格把控节奏 关注部分“老白马”】中金公司认为，4月初至今表现强势的偏成长风格近期股价出现波动，与之相对应的是此前调整较多的部分“老白马”，如消费、价值蓝筹、周期板块中的龙头公司有所反弹。我们重申“轻指数，重结构”观点，在科技成长与“老白马”之间更加均衡，在继续关注科技成长景气持续性的同时，把控节奏、关注已经回调较多、估值具备吸引力的部分“老白马”个股。另外目前已经进入中报业绩披露高峰期，关注中报期间业绩可能超过或低于预期的板块和个股。配置建议：成长风格把控节奏，关注部分“老白马”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1612170.d.html</link>
+            <guid>2279591</guid>
+            <pubDate>Sun, 15 Aug 2021 10:44:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【东华科技：目前公司未有正在执行的锂电领域相关合同】东华科技发布异动公告，近期，互动平台上有多项关于公司在氢能、锂电相关业务方面的提问，且相关概念近期广受资本市场关注。公司作为工程公司，主要为化工、基础设施及环境治理等领域的工程项目建设提供工程设计、总承包等服务。目前，公司未有正在执行的锂电领域相关合同，敬请投资者注意投资风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3010444.d.html</link>
+            <guid>2279590</guid>
+            <pubDate>Sun, 15 Aug 2021 10:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  CNN报道，美国在未来72小时内从阿富汗首都喀布尔大使馆撤出人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1611520.d.html</link>
+            <guid>2279589</guid>
+            <pubDate>Sun, 15 Aug 2021 10:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯卫星网消息，阿富汗前内政部长阿里·艾哈迈德·贾拉里将成为阿富汗过渡政府首脑。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc3010212.d.html</link>
+            <guid>2279588</guid>
+            <pubDate>Sun, 15 Aug 2021 10:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【兆新股份：公司尚未偿还的债务及违约金合计5.54亿元】兆新股份公告，截至目前，公司尚未偿还东莞瑞禾投资发展有限公司债务及违约金合计人民币4.88亿元，尚未偿还青岛博扬基业信息科技合伙企业(有限合伙)债务及利息合计人民币6562.2万元。公司实控人陈永弟持有的公司股份累计被质押股份占其持有公司股份总数的99.92%；累计被司法冻结股份占其持有公司股份总数的100%；累计被轮候冻结40.24亿股，占其持有公司股份总数的820.59%。陈永弟及沈少玲(二人为夫妻关系)100%共同持股的深圳市彩虹创业投资集团有限公司已被破产拍卖，截至2021年7月16日累计已完成过户1.04亿股，占公司总股本的5.51%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1611252.d.html</link>
+            <guid>2279587</guid>
+            <pubDate>Sun, 15 Aug 2021 10:35:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江苏扬州市经济技术开发区施桥镇由中风险地区调整为低风险地区，为本轮疫情扬州首次调低一地区的疫情风险等级。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1610816.d.html</link>
+            <guid>2279586</guid>
+            <pubDate>Sun, 15 Aug 2021 10:31:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[当地时间15日，阿富汗总统加尼在总统府与塔利班举行会见。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1609847.d.html</link>
@@ -240,368 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2995651.d.html</link>
             <guid>2279545</guid>
             <pubDate>Sun, 15 Aug 2021 08:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【阿富汗塔利班宣布将不在喀布尔作战】当地时间15日，阿富汗塔利班发言人穆贾希德在社交媒体上发布消息称，塔利班将不在阿富汗首都喀布尔作战。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2995642.d.html</link>
-            <guid>2279544</guid>
-            <pubDate>Sun, 15 Aug 2021 08:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST长动：法院对公司预重整进行备案登记并指定临时管理人】*ST长动(000835)8月15日晚间公告，公司收到福建省厦门市中级法院作出的《通知书》，通知对公司预重整进行备案登记，并指定北京大成律师事务所担任预重整阶段的临时管理人。公司是否进入重整程序尚具有不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2995063.d.html</link>
-            <guid>2279543</guid>
-            <pubDate>Sun, 15 Aug 2021 08:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【驻日本使馆发言人就日方涉靖国神社消极动向表明严正立场】中国驻日本使馆发言人：中方对日方在靖国神社问题上的消极动向表示强烈不满和坚决反对，已向日方提出严正交涉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2995027.d.html</link>
-            <guid>2279542</guid>
-            <pubDate>Sun, 15 Aug 2021 08:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【立中集团：上半年净利润2.75亿元 同比增61%】立中集团披露半年度报告，公司2021年半年度实现营业收入86.65亿元，同比增长61.80%；净利润2.75亿元，同比增长61.32%；基本每股收益0.47元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1595951.d.html</link>
-            <guid>2279541</guid>
-            <pubDate>Sun, 15 Aug 2021 08:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【凯莱英：上半年净利润4.29亿元 同比增36%】凯莱英披露半年度报告，公司2021年半年度实现营业收入17.6亿元，同比增长39.04%；净利润4.29亿元，同比增长36.03%；基本每股收益1.78元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1595655.d.html</link>
-            <guid>2279540</guid>
-            <pubDate>Sun, 15 Aug 2021 08:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【湖北宜化：上半年盈利7.26亿元 同比大幅扭亏】湖北宜化披露半年度报告，公司2021年半年度实现营业收入93.49亿元，同比增长52.14%；净利润7.26亿元，同比扭亏，上年同期公司亏损2.71亿元；基本每股收益0.81元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1595630.d.html</link>
-            <guid>2279539</guid>
-            <pubDate>Sun, 15 Aug 2021 08:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【协鑫能科：分别与西井科技、趣链科技签合作框架协议】协鑫能科公告，公司与上海西井信息科技有限公司（简称“西井科技”）签署合作框架协议，构建战略合作伙伴关系，旨在通过密切合作推动新能源商用汽车及配套充换电站业务发展。同时，公司与杭州趣链科技有限公司（简称“趣链科技”）签署合作框架协议，就新能源汽车电池全生命周期管理、区块链技术应用、区块链金融及充换电站推广等方面建立战略伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1594787.d.html</link>
-            <guid>2279538</guid>
-            <pubDate>Sun, 15 Aug 2021 08:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：已指示武装人员“在喀布尔大门口”停下来。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1594726.d.html</link>
-            <guid>2279537</guid>
-            <pubDate>Sun, 15 Aug 2021 08:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  锡业股份：上半年净利润为9.6亿元，同比增长375.11%。上半年实现有色金属产量17.46万吨，完成年计划的56.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1594175.d.html</link>
-            <guid>2279536</guid>
-            <pubDate>Sun, 15 Aug 2021 08:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：计划“以和平的方式进入喀布尔”。正在就和平过渡进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1593949.d.html</link>
-            <guid>2279535</guid>
-            <pubDate>Sun, 15 Aug 2021 08:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：我们不想让任何无辜的阿富汗平民受伤或被杀害，但我们还没有宣布停火。]]></title>
-            <guid>2279534</guid>
-            <pubDate>Sun, 15 Aug 2021 08:07:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【武汉凡谷：上半年净利润1.29亿元 同比增61.26%】武汉凡谷(002194)8月15日晚间披露半年度报告，公司2021年半年度实现营业收入8.72亿元，同比增长25.84%；净利润1.29亿元，同比增长61.26%；基本每股收益0.19元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1593833.d.html</link>
-            <guid>2279533</guid>
-            <pubDate>Sun, 15 Aug 2021 08:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【哈药股份：半年度净利3.42亿元 同比扭亏为盈】哈药股份发布2021年半年度报告，实现营业收入64.06亿元，同比增长33.19%；归属于上市公司股东的净利润3.42亿元，上年同期为亏损3.33亿元；归属于上市公司股东的扣除非经常性损益的净利润1.99亿元；基本每股收益0.14元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1593808.d.html</link>
-            <guid>2279532</guid>
-            <pubDate>Sun, 15 Aug 2021 08:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：我们不想让任何无辜的阿富汗平民受伤或被杀害，但我们还没有宣布停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2992905.d.html</link>
-            <guid>2279531</guid>
-            <pubDate>Sun, 15 Aug 2021 08:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美联社：塔利班方面表示他们不打算通过“武力”占领喀布尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2992865.d.html</link>
-            <guid>2279530</guid>
-            <pubDate>Sun, 15 Aug 2021 08:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【凯立新材：上半年净利同比增42% 拟10派6元】凯立新材披露半年度报告，公司2021年半年度实现营业收入7.13亿元，同比增长37.25%；净利润8282.11万元，同比增长41.95%；基本每股收益1.18元。公司拟每10股派发现金红利6元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1593591.d.html</link>
-            <guid>2279529</guid>
-            <pubDate>Sun, 15 Aug 2021 08:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗总统府：尽管可以听到喀布尔市里传出枪声，但政府军队仍控制着这座城市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1593403.d.html</link>
-            <guid>2279528</guid>
-            <pubDate>Sun, 15 Aug 2021 08:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST德新：上半年净利润2317万元 同比增817%】*ST德新(603032)8月15日晚间披露半年度报告，公司2021年半年度实现营业收入7779.86万元，同比增长184.50%；净利润2316.77万元，同比增长816.78%；基本每股收益0.14元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1593031.d.html</link>
-            <guid>2279527</guid>
-            <pubDate>Sun, 15 Aug 2021 08:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞联新材：上半年净利润1.01亿元 同比增23%】瑞联新材(688550)8月15日晚间披露半年度报告，公司2021年半年度实现营业收入6.87亿元，同比增长45.16%；净利润1.01亿元，同比增长23.06%；基本每股收益1.44元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1592940.d.html</link>
-            <guid>2279526</guid>
-            <pubDate>Sun, 15 Aug 2021 08:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【集友股份：副总裁拟增持1000万-2000万元】集友股份公告，副总裁杨江涛先生计划自本公告披露之日起6个月内，通过集中竞价方式增持公司股份，增持金额不低于人民币1000万元，不超过人民币2000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2992043.d.html</link>
-            <guid>2279525</guid>
-            <pubDate>Sun, 15 Aug 2021 07:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本共同社：日本厚生劳动省15日称，全国感染新冠病毒的重症患者14日为1563人，较前一天增加42人，连续三天创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1592683.d.html</link>
-            <guid>2279524</guid>
-            <pubDate>Sun, 15 Aug 2021 07:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三峰环境：半年度净利7.58亿元 同比增长124%】三峰环境发布2021年半年度报告，实现营业收入30.98亿元，同比增长30.32%；归属于上市公司股东的净利润7.58亿元，同比增长124.19%；归属于上市公司股东的扣除非经常性损益的净利润7.51亿元，同比增长126.85%；基本每股收益0.45元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2991625.d.html</link>
-            <guid>2279523</guid>
-            <pubDate>Sun, 15 Aug 2021 07:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  赛福天公告，全资子公司同人设计预中标苏地2020-WG-71号地块EPC工程项目，投标报价6.63亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2991442.d.html</link>
-            <guid>2279522</guid>
-            <pubDate>Sun, 15 Aug 2021 07:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：目前核心美国团队成员正在喀布尔机场工作。目前只有不到50名美国大使馆官员留在喀布尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1592167.d.html</link>
-            <guid>2279521</guid>
-            <pubDate>Sun, 15 Aug 2021 07:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东京报告新增4295例新冠肺炎确诊病例，7日均值为4263例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2991262.d.html</link>
-            <guid>2279520</guid>
-            <pubDate>Sun, 15 Aug 2021 07:51:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【兴发集团：与深圳先进院战略合作】兴发集团公告，公司与中国科学院深圳先进技术研究院（简称“深圳先进院”）签订战略合作框架协议，决定在战略新兴材料开发和兴发集团产品高端化、功能化、定制化开发等领域开展合作。重点合作项目包括黑磷单体制备放大及下游应用技术研究；磷酸铁锂制备技术开发；光伏胶制备及应用技术开发；新型高效催化剂制备技术开发；气凝胶产业化及下游应用技术开发；有机硅体系智能微胶囊制备及下游应用技术开发。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2991238.d.html</link>
-            <guid>2279519</guid>
-            <pubDate>Sun, 15 Aug 2021 07:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【塔利班军队已进入阿富汗首都喀布尔外围】据美联社刚刚消息，阿富汗官员称塔利班军队已进入阿富汗首都喀布尔外围。 (环球时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2991033.d.html</link>
-            <guid>2279518</guid>
-            <pubDate>Sun, 15 Aug 2021 07:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币跌破46000美元/枚，日内跌2.39%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1591598.d.html</link>
-            <guid>2279517</guid>
-            <pubDate>Sun, 15 Aug 2021 07:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：建议在成长板块里从高位赛道转向相对低位赛道转换】中信证券认为，当前A股依然处于风格间和板块内的平衡过程中，并进入了政策观察期，市场重心将逐步从成长向价值偏移，成长内部则从高位赛道向低位赛道转换，在三季度末风格切换之前，配置上坚持成长制造和价值消费两手抓。首先，近期国内宏观数据整体偏弱，但市场反映已比较充分，预计8月末本轮散点疫情扰动会消散，9月末基本面预期开始修复。同时，信用风险对市场的压制缓解，但有序释放还需时间。其次，政策进入重要的观察期，预计“降准+MLF缩量”组合下，货币政策将保持流动性合理充裕，专项债赶进度发行将提速，财政政策将发力布局跨年和跨周期调节。另外，市场已从对个别行业政策全面扩散的极端反应中修复。最后，美联储Taper方案落地渐行渐近，A股市场流动性依然维持紧平衡状态，资金跷跷板效应明显。预计市场重心将逐步从成长向价值偏移，但基本面因素制约下，风格切换要等到三季度末，当前配置上依然建议在成长制造和价值消费间保持均衡，其中，建议在成长板块里从高位赛道转向相对低位赛道转换，同时左侧布局价值板块中高景气的消费和医药。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1591581.d.html</link>
-            <guid>2279516</guid>
-            <pubDate>Sun, 15 Aug 2021 07:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新益昌：上半年净利润9945万元 同比增134%】新益昌8月15日晚间披露半年度报告，公司2021年半年度实现营业收入4.94亿元，同比增长53.44%；净利润9944.83万元，同比增长133.96%；基本每股收益1.17元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1591457.d.html</link>
-            <guid>2279515</guid>
-            <pubDate>Sun, 15 Aug 2021 07:46:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【凯乐科技：8月17日起实施其他风险警示】凯乐科技公告，公司目前已触及“主要银行账号被冻结”、“公司生产经营活动受到严重影响且预计在3个月内不能恢复正常”的情形，公司股票交易将被实施其他风险警示。公司股票8月16日停牌一天，8月17日复牌恢复交易，并实施其他风险警示。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2990386.d.html</link>
-            <guid>2279514</guid>
-            <pubDate>Sun, 15 Aug 2021 07:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【众源新材：半年度净利5989.98万元 同比增长98%】众源新材发布2021年半年度报告，实现营业收入30.97亿元，同比增长100.47%；归属于上市公司股东的净利润5989.98万元，同比增长97.51%；归属于上市公司股东的扣除非经常性损益的净利润5711.02万元，同比增长100.57%；基本每股收益0.25元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1591197.d.html</link>
-            <guid>2279513</guid>
-            <pubDate>Sun, 15 Aug 2021 07:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  闻泰科技：英国公司注册处确认安世半导体持有NWF母公司NEPTUNE 6 LIMITED全部股东权益。本次交易过户手续已全部完成，公司间接持有标的公司100%权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1590456.d.html</link>
-            <guid>2279512</guid>
-            <pubDate>Sun, 15 Aug 2021 07:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海天股份：拟与康恒环境设合资公司 布局固废处置领域】海天股份(603759)8月15日晚间公告，公司与康恒环境有意在固废处置领域合作，秉承“绿水青山就是金山银山”的发展理念，紧紧围绕“垃圾焚烧发电+固废危废处置”主体业务，共同发起设立合资公司，开拓四川地区为主及全国区域内相关业务，公司持股比例80%，康恒环境持股比例20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2989603.d.html</link>
-            <guid>2279511</guid>
-            <pubDate>Sun, 15 Aug 2021 07:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【惠泉啤酒：半年度净利1160.82万元 同比增30.08%】惠泉啤酒发布2021年半年度报告，实现营业收入3.17亿元，同比下降1.15%；归属于上市公司股东的净利润1160.82万元，同比增长30.08%；归属于上市公司股东的扣除非经常性损益的净利润764.97万元，同比增长1.01%；基本每股收益0.046元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2989581.d.html</link>
-            <guid>2279510</guid>
-            <pubDate>Sun, 15 Aug 2021 07:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙版传媒中签号出炉 共40001个】龙版传媒(605577)8月15日晚间披露网上中签结果，中签号码共有40001个，每个中签号码只能认购1000股龙版传媒A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2989535.d.html</link>
-            <guid>2279509</guid>
-            <pubDate>Sun, 15 Aug 2021 07:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖北荆州市新冠肺炎疫情防控指挥部决定自8月15日12时起，将荆州市沙市区塔桥路以东、江津中路以北、工农路以西、太岳东路以南围合区解除封闭管理，并调整为低风险区。调整后，荆州市全域为低风险区。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2989069.d.html</link>
-            <guid>2279508</guid>
-            <pubDate>Sun, 15 Aug 2021 07:33:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《求是》杂志发表习近平总书记重要文章 《总结党的历史经验，加强党的政治建设》】8月16日出版的第16期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《总结党的历史经验，加强党的政治建设》。（央视财经）]]></title>
-            <guid>2279506</guid>
-            <pubDate>Sun, 15 Aug 2021 07:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【盐湖股份：与宁德时代未有相关实质合作】盐湖股份在互动平台表示，目前公司与宁德时代未有相关实质合作。公司目前拥有蓝科锂业公司现有1万吨工业级碳酸锂装置和在建的2万吨电池级碳酸锂装置。公司在锂产业布局方面除蓝科锂业公司外，还与比亚迪公司合作拟建设盐湖比亚迪3万吨电池级碳酸锂项目，该项目目前还未实际建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2987832.d.html</link>
-            <guid>2279505</guid>
-            <pubDate>Sun, 15 Aug 2021 07:22:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【以色列新增新冠肺炎确诊病例1998例 累计确诊93.7万例】当地时间8月15日上午，以色列卫生部发布的新冠肺炎疫情最新数据显示，8月14日21时至15日8时，以色列新增新冠肺炎确诊病例1998例，累计确诊936894例；新增死亡病例10例，累计死亡6632例。目前，以色列现存新冠肺炎确诊病例49608例，其中524人病情严重，113人需要使用呼吸机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1588141.d.html</link>
-            <guid>2279503</guid>
-            <pubDate>Sun, 15 Aug 2021 07:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗塔利班发言人穆贾希德在社交媒体上发布消息称，塔利班攻占了瓦尔达克省省会迈丹沙赫尔、霍斯特省省会霍斯特和帕尔万省省会恰里卡尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1587260.d.html</link>
-            <guid>2279502</guid>
-            <pubDate>Sun, 15 Aug 2021 07:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市房山区阎村镇乐活城南区将于8月15日16时解封】从房山区阎村镇政府了解到，乐活城南区将于8月15日16时起解除隔离封控措施。由于乐活城北区、千禧家园两个区域前期存在确诊病例，疫情风险程度高于乐活城南区，因此乐活城北区、千禧家园小区封控管理措施还将持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2986310.d.html</link>
-            <guid>2279501</guid>
-            <pubDate>Sun, 15 Aug 2021 07:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国务院新闻办公室定于2021年8月16日（星期一）上午10时举行新闻发布会，请国家统计局新闻发言人付凌晖介绍2021年7月份国民经济运行情况，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2986131.d.html</link>
-            <guid>2279500</guid>
-            <pubDate>Sun, 15 Aug 2021 07:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【扬州：支持定点医院疫情期间适当增加慢性病开药量】扬州逐步升级疫情防控措施之下，市民就医买药也受到影响。对此，8月15日上午扬州市举行第17场专题新闻发布会上，扬州市医保局副局长李晓钟做出回应。李晓钟表示，对高血压、糖尿病等要长期服用固定药物的慢性病患者，支持定点医疗机构在疫情防控期间适当增加门诊慢性病开药量，将取药量放宽至三个月，减少这一人群到医院就诊、配药次数。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1586314.d.html</link>
-            <guid>2279499</guid>
-            <pubDate>Sun, 15 Aug 2021 07:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至2021年8月14日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗185383.9万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2984686.d.html</link>
-            <guid>2279498</guid>
-            <pubDate>Sun, 15 Aug 2021 06:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科特迪瓦出现自1994年以来的首例埃博拉病例】当地时间14日，科特迪瓦卫生部门报告称该国出现一例埃博拉病例。这也是科特迪瓦自1994年以来出现的首例埃博拉病例。 (海外网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1585484.d.html</link>
-            <guid>2279497</guid>
-            <pubDate>Sun, 15 Aug 2021 06:54:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【水利部：今年入汛以来极端暴雨突出 灾害影响大】水利部调度显示，今年入汛以来，全国平均降雨量接近常年同期，但极端暴雨突出，受影响区灾情较重。入汛以来，全国共发生27次强降雨过程，主要江河发生6次编号洪水，其中松花江流域嫩江发生3次编号洪水、海河流域滦河和漳卫河各发生1次编号洪水，太湖发生1次编号洪水，黑龙江上游发生特大洪水，海河流域卫河上游发生特大洪水。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1585305.d.html</link>
-            <guid>2279496</guid>
-            <pubDate>Sun, 15 Aug 2021 06:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当日，新疆博州阿拉山口市疫情防控工作指挥部立即启动应急响应，已排查密切接触者74人，全部落实隔离医学观察措施，相关流调排查、核酸检测等工作正在进行中。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2983030.d.html</link>
-            <guid>2279495</guid>
-            <pubDate>Sun, 15 Aug 2021 06:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8月15日，新疆博州阿拉山口市口岸地区在三天1次常规核酸检测中，发现3人核酸检测结果呈阳性，经专家诊断均为新冠肺炎无症状感染者，目前已转运博州定点医院进行隔离医学观察。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2982394.d.html</link>
-            <guid>2279494</guid>
-            <pubDate>Sun, 15 Aug 2021 06:34:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：08月15日13时40分在秘鲁北部（南纬3.65度，西经76.80度）发生5.4级地震，震源深度100千米。]]></title>
-            <guid>2279493</guid>
-            <pubDate>Sun, 15 Aug 2021 06:15:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京发布雷电黄色预警 大部有雷雨、局地小时雨强40~60毫米】据中国天气网消息，北京市气象台2021年8月15日14时发布雷电黄色预警信号，预计，当前至16日08时，北京大部分地区有雷阵雨天气，局地小时雨强40~60毫米，雷雨时伴有7~8级短时大风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1580278.d.html</link>
-            <guid>2279492</guid>
-            <pubDate>Sun, 15 Aug 2021 06:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京江宁区禄口街道由高风险地区调整为中风险地区】 经南京市新型冠状病毒肺炎疫情联防联控工作指挥部同意，自2021年8月15日起，对南京市部分区域疫情风险等级进行调整：江宁区禄口街道由高风险地区调整为中风险地区。其他地区风险等级不变。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1578665.d.html</link>
-            <guid>2279490</guid>
-            <pubDate>Sun, 15 Aug 2021 06:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：秘鲁北部与厄瓜多尔边境处发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1576816.d.html</link>
-            <guid>2279489</guid>
-            <pubDate>Sun, 15 Aug 2021 05:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亿邦科技关于华铁应急“三宗罪”第二次新闻发布会推迟召开】记者获悉，原定于8月15日下午14:00召开的亿邦科技关于华铁应急“三宗罪”第二次新闻发布会，因故推迟至晚上19:30。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1576350.d.html</link>
-            <guid>2279488</guid>
-            <pubDate>Sun, 15 Aug 2021 05:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安信证券：动力煤价进入短暂季节性回调 预计跌幅有限】8月中下旬起，煤炭逐步进入传统消费淡季，需求开始出现下滑迹象，因此电厂采购也随之放缓，造成产地煤价小幅回落。但是供给端增量有限，神府地区部分煤矿因超产、环保问题暂停生产，对冲前期鄂尔多斯复产增量。需求端虽然电厂采购放缓，但9月、10月为下游水泥、化工以及钢铁的生产旺季，尤其前期部分化工、水泥受到限电影响产量受限，在后期开工率有望回升。]]></title>
-            <guid>2279487</guid>
-            <pubDate>Sun, 15 Aug 2021 05:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中泰证券：当美债收益率遇上“财政悬崖”】美国政府债务上限暂停期业已到期，而两党尚未就新的债务上限在国会中达成一致，美国已处于“财政悬崖”的边缘。意在阻止政府无限制发债的“债务上限”沦为两党政治工具，一旦债务违约，利率很可能显著上升。随着美国社会撕裂程度加剧，党派之间共识愈少，国会中关于“债务上限”的争论与扯皮只会更加频繁。而两党若无法及时就提高债务限制达成一致，美国政府便将面临停摆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2973085.d.html</link>
-            <guid>2279486</guid>
-            <pubDate>Sun, 15 Aug 2021 05:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股史上最贵新股明天上市！一签大赚30万？】A股史上最贵新股义翘神州，将于明天在创业板挂牌上市。义翘神州的上市首日表现，将成为明天市场的最大看点之一。作为A股历史上发行价最高的新股，义翘神州的发行价高达292.92元/股，若上市首日涨幅超过200%，中一签的盈利将高达30万元，有望创造新的打新盈利纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1572178.d.html</link>
-            <guid>2279485</guid>
-            <pubDate>Sun, 15 Aug 2021 05:15:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山西文水县发生疑似皮肤炭疽疫情 病例已隔离治疗】从山西省卫健委了解到，山西省文水县发生疑似皮肤炭疽疫情，目前已全面开展防控、救治工作。当地已对5例文水县病例进行隔离治疗，对其活动场所及排泄物等进行消毒，对接触者进行排查管控，对保贤村开展病例主动搜索，并嘱村医加强监测，一旦发现类似病例立即报告。同时，进一步核实流调并采样明确诊断，对牲畜及环境开展调查并采取消杀等防控措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2970984.d.html</link>
-            <guid>2279484</guid>
-            <pubDate>Sun, 15 Aug 2021 05:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【31岁创业者使用辅助驾驶功能车祸致死：蔚来强调“NOP不是自动驾驶”】8月14日晚，一个名为“美一好”的个人公众号发布讣告称：2021年8月12日下午2时，上善若水投资管理公司创始人、意统天下餐饮管理公司创始人、美一好品牌管理公司创始人林文钦先生，驾驶蔚来ES8汽车启用自动驾驶功能（NOP领航状态）后，在沈海高速涵江段发生交通事故，不幸逝世，终年31岁。当晚，记者向蔚来方面求证此事，蔚来有关人士表示，“NOP不是自动驾驶，这是一起交通事故，在等交警部门调查。”（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1569879.d.html</link>
-            <guid>2279483</guid>
-            <pubDate>Sun, 15 Aug 2021 05:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑州还需几轮全员核酸检测？专家解答】郑州启动第四轮全员核酸检测，为什么要进行多轮核酸检测？河南省新冠肺炎医疗救治组组长、郑大一附院呼吸病医院院长张国俊表示，“新冠有潜伏期，只有通过多轮全员核酸检测，我们才能抓住传染源，控制住传染源。至于还要进行几轮全员核酸检测，要看检测的结果，如果群体筛查阳性结果没清零，就可能还要继续进行全员核酸检测。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqcfncc2968172.d.html</link>
-            <guid>2279482</guid>
-            <pubDate>Sun, 15 Aug 2021 04:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦南部发生手榴弹袭击致10死10伤】巴基斯坦警方15日说，巴南部港口城市卡拉奇14日晚发生一起手榴弹袭击事件，导致至少10人死亡、10人受伤。卡拉奇警方反恐部门负责人拉贾·哈塔卜表示，袭击事件发生时，一辆卡车载着同一家庭的20多人在道路上行驶，他们参加完婚礼在返家途中，一辆摩托车上的多名袭击者突然向这辆卡车投掷手榴弹。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-15/detail-ikqciyzm1569012.d.html</link>
-            <guid>2279481</guid>
-            <pubDate>Sun, 15 Aug 2021 04:57:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
