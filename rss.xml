@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 19:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Aug 2021 22:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国累计新冠肺炎确诊病例达37665585例】当地时间8月21日，据美国约翰斯·霍普金斯大学数据，截至美国东部时间8月21日17时21分（北京时间8月22日5时21分），美国累计新冠肺炎确诊病例达例 37665585例 ，累计死亡病例628270例。与24小时前相比，新增确诊病例239429例，新增死亡病例2045例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2855961.d.html</link>
+            <guid>2288120</guid>
+            <pubDate>Sat, 21 Aug 2021 22:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班不打算组建过渡政府】据阿富汗哈马新闻社21日报道，塔利班高级成员艾哈迈杜拉·瓦西克当天表示，塔利班没有组建临时政府或过渡政府的计划，将直接组建一个能被阿各方接受的包容性政府。瓦西克在接受媒体采访时表示，塔利班目前正与各方就组建政府加快协商。据悉，阿富汗目前仍没有国家元首，塔利班只任命了一部分省长和市长。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2854817.d.html</link>
+            <guid>2288119</guid>
+            <pubDate>Sat, 21 Aug 2021 21:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据福克斯新闻：美国国务院据悉在数周前遭到网络攻击，但不影响近期正在执行的阿富汗撤离任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4250571.d.html</link>
+            <guid>2288118</guid>
+            <pubDate>Sat, 21 Aug 2021 21:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国考虑预订商业航班参与阿富汗撤离行动 】拜登政府计划大幅增加喀布尔的空运能力，以帮助从阿富汗撤离数以万计的人员，并增加可容纳阿富汗人的美军基地数量。美国官员表示，白宫计划启用民用后备航空队（Civil Reserve Air Fleet），以获得多达5家航空公司的近20架商业飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2852572.d.html</link>
+            <guid>2288117</guid>
+            <pubDate>Sat, 21 Aug 2021 20:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据华尔街日报：美国考虑预订商业航班参与阿富汗撤离行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4249391.d.html</link>
+            <guid>2288116</guid>
+            <pubDate>Sat, 21 Aug 2021 20:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约市长办公室发布飓风紧急状态宣言。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2851630.d.html</link>
+            <guid>2288115</guid>
+            <pubDate>Sat, 21 Aug 2021 20:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗塔利班官员：塔利班在保障喀布尔机场外国官兵的安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2850857.d.html</link>
+            <guid>2288114</guid>
+            <pubDate>Sat, 21 Aug 2021 19:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年服贸会预约购票开始 分为专业观众日和公众开放日】9月2日至9月7日，2021年服贸会将在北京举办，展览地点位于国家会议中心和首钢园区。观展分为专业观众日和公众开放日，均需实名制预约。即日起，观众可在线上平台预约购买门票。（北京青年报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2849453.d.html</link>
+            <guid>2288097</guid>
+            <pubDate>Sat, 21 Aug 2021 19:26:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[泰国议会批准自10月1日起实施的930亿美元的财政预算。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2847780.d.html</link>
@@ -556,53 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2787875.d.html</link>
             <guid>2287470</guid>
             <pubDate>Sat, 21 Aug 2021 09:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：今天强风和暴雨将席卷墨西哥内陆部分地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185628.d.html</link>
-            <guid>2287469</guid>
-            <pubDate>Sat, 21 Aug 2021 08:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：“格蕾丝”将继续向内陆地区移动，预计今天晚些时候将到达墨西哥中部。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2787842.d.html</link>
-            <guid>2287468</guid>
-            <pubDate>Sat, 21 Aug 2021 08:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：目前飓风“格蕾丝”在墨西哥东部逐步向西移动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2787692.d.html</link>
-            <guid>2287467</guid>
-            <pubDate>Sat, 21 Aug 2021 08:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：亨利预计将在今天向东北方向移动的过程中增强为飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185484.d.html</link>
-            <guid>2287466</guid>
-            <pubDate>Sat, 21 Aug 2021 08:58:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：从今晚晚些时候或周日早些时候开始，美国东北部部分地区将出现危险的风暴潮、飓风和可能导致出现洪水的大降雨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185461.d.html</link>
-            <guid>2287465</guid>
-            <pubDate>Sat, 21 Aug 2021 08:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：没有外国人被塔利班绑架，但是“会在他们离开这个国家之前审问他们中的一些人”。]]></title>
-            <guid>2287464</guid>
-            <pubDate>Sat, 21 Aug 2021 08:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：已邀请了阿富汗前政府的专家负责危机管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4185010.d.html</link>
-            <guid>2287463</guid>
-            <pubDate>Sat, 21 Aug 2021 08:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：塔利班将成立独立小组负责处理内部安全和金融危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4184960.d.html</link>
-            <guid>2287462</guid>
-            <pubDate>Sat, 21 Aug 2021 08:53:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
