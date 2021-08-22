@@ -4,11 +4,323 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 22 Aug 2021 19:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 22:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西报告新增14404例新冠肺炎确诊病例，报告新增318例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4405690.d.html</link>
+            <guid>2288685</guid>
+            <pubDate>Sun, 22 Aug 2021 22:19:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 国药控股(01099.HK)：报告期内，本集团药品分销业务实现销售收入人民币1904.46亿元，同比增长20.92%；器械业态收入达到人民币477.8亿元，同比增长33.19%；药品零售业务收入为人民币137.22亿元，同比增长24.57%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3008566.d.html</link>
+            <guid>2288684</guid>
+            <pubDate>Sun, 22 Aug 2021 22:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国药控股(01099.HK)：向本公司股东派发二零二零年末期股息每股人民币0.69元（含税），总计约人民币2153253千元的建议已于二零二一年六月十日召开的股东週年大会上由本公司股东表决通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4405375.d.html</link>
+            <guid>2288683</guid>
+            <pubDate>Sun, 22 Aug 2021 22:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD短线走高20点，现报1.3628。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4405321.d.html</link>
+            <guid>2288682</guid>
+            <pubDate>Sun, 22 Aug 2021 22:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国药控股(01099.HK)：上半年营业利润87.72亿元，去年同期为71.9亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4405255.d.html</link>
+            <guid>2288681</guid>
+            <pubDate>Sun, 22 Aug 2021 22:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本首相菅义伟寻求在10月初解散众议院。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3008260.d.html</link>
+            <guid>2288680</guid>
+            <pubDate>Sun, 22 Aug 2021 22:13:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国药控股(01099.HK)：上半年每股盈利1.15元，去年同期为0.93元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4405192.d.html</link>
+            <guid>2288679</guid>
+            <pubDate>Sun, 22 Aug 2021 22:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国药控股(01099.HK)2021年上半年净利润（亿元）：前值28.95，公布35.828。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3008209.d.html</link>
+            <guid>2288678</guid>
+            <pubDate>Sun, 22 Aug 2021 22:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 国药控股(01099.HK)2021年上半年营收（亿元）：前值2037.6，公布2491.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4405164.d.html</link>
+            <guid>2288677</guid>
+            <pubDate>Sun, 22 Aug 2021 22:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯航天集团副总经理表示，该集团总经理罗戈津可能于10月在阿联酋与美国国家航空航天局（NASA）局长纳尔逊举行会晤，讨论继续使用国际空间站的相关问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3008073.d.html</link>
+            <guid>2288676</guid>
+            <pubDate>Sun, 22 Aug 2021 22:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[民调显示，日本内阁支持率下降3.8个百分点至25.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4404830.d.html</link>
+            <guid>2288675</guid>
+            <pubDate>Sun, 22 Aug 2021 22:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股股指期货接近平开，道指期货跌0.08%，纳指期货涨0.06%，标普500指数期货跌0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4404750.d.html</link>
+            <guid>2288674</guid>
+            <pubDate>Sun, 22 Aug 2021 22:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%；12月维持利率在0%-0.25%区间的概率为100%，加息25个基点的概率为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3007513.d.html</link>
+            <guid>2288673</guid>
+            <pubDate>Sun, 22 Aug 2021 22:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油开盘分别跌0.79%和0.29%，现分别报61.65美元/桶和64.97美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3007411.d.html</link>
+            <guid>2288672</guid>
+            <pubDate>Sun, 22 Aug 2021 22:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧元兑美元刚刚触及1.1700关口，最新报1.1700，日图涨0.02%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4404394.d.html</link>
+            <guid>2288671</guid>
+            <pubDate>Sun, 22 Aug 2021 22:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：墨西哥石油公司（Pemex）开采平台22日发生爆炸并起火。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4404094.d.html</link>
+            <guid>2288670</guid>
+            <pubDate>Sun, 22 Aug 2021 21:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国地质调查局地震信息网消息，南大西洋南桑威奇群岛地区北京时间23日5时33分发生7.2级地震。 （新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3007005.d.html</link>
+            <guid>2288669</guid>
+            <pubDate>Sun, 22 Aug 2021 21:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【人民日报：智能网联汽车安全是关键】今年7月发布的《中国互联网发展报告（2021）》显示，2020年，我国智能网联汽车销量为303.2万辆，同比增长107%，渗透率保持在15%左右。今年第一季度，L2级半自动驾驶智能网联汽车的市场渗透率达到17.8%，新能源车中的L2级智能网联汽车市场渗透率达30.9%。预计到2025年，我国L2、L3级（在特定环境中实现部分自动驾驶的操作）智能网联汽车销量将占全部汽车销量的50%。工信部装备工业发展中心总工程师刘法旺表示，汽车智能化、网联化发展在带来便利的同时，也会产生诸如未经授权的个人信息和重要数据采集、利用等数据安全问题，网络攻击、网络侵入等网络安全问题，驾驶自动化系统随机故障、功能不足等引发的道路交通安全问题，以及在线升级改变车辆功能、性能可能引入的安全风险。因此，迫切需要加强智能网联汽车生产企业及产品准入管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3006679.d.html</link>
+            <guid>2288668</guid>
+            <pubDate>Sun, 22 Aug 2021 21:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【桂林试点金融纠纷快速审理机制】近日，350件信用卡纠纷案件在广西壮族自治区桂林市七星区人民法院开庭。法院启动金融纠纷快速审理机制，实现案件快速审理、快速判决、快速执行。为优化营商环境，同时保护金融消费者合法权益， 促进金融业持续健康发展，今年上半年，桂林市中级人民法院启动了金融纠纷快速审理机制试点工作。参与试点工作的桂林银行相关负责人表示，金融纠纷快速审理机制能够高效解决纠纷，有效降低催收成本，客户对银行机构的有效投诉也明显下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3006564.d.html</link>
+            <guid>2288667</guid>
+            <pubDate>Sun, 22 Aug 2021 21:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海地西部地震死亡人数升至2207人】海地民防部门22日说，截至当天上午，海地14日发生的7.2级地震已造成2207人死亡、12268人受伤，另有344人失踪。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4403023.d.html</link>
+            <guid>2288666</guid>
+            <pubDate>Sun, 22 Aug 2021 21:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥地利总理：任内不接收阿富汗难民】奥地利媒体22日报道，奥地利总理库尔茨明确表示，他任内不会同意奥地利接收更多阿富汗难民。奥地利并非北大西洋公约组织成员。依据北约网站数据，奥地利向阿富汗派出了16名军人，参与向阿富汗安全部队提供培训和咨询的任务。库尔茨2017年就任奥地利总理以来，一直采取保守移民政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3006011.d.html</link>
+            <guid>2288665</guid>
+            <pubDate>Sun, 22 Aug 2021 21:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国民用航空预备队将协助从喀布尔撤人】美国国防部22日宣布，将动用民用航空预备队，协助军方从阿富汗首都喀布尔撤出美国公民和曾为美方服务的阿富汗人及其亲属。美国国防部发言人约翰·柯比说，这些飞机不会前往喀布尔国际机场，而将在阿富汗以外地区运送撤出的人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4402991.d.html</link>
+            <guid>2288664</guid>
+            <pubDate>Sun, 22 Aug 2021 21:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【变废为宝，家电回收新政加快行业绿色发展】近日，国家发改委、工信部、生态环境部联合印发了《关于鼓励家电生产企业开展回收目标责任制行动的通知》，提出了一系列鼓励家电生产企业实施回收的政策。《通知》明确，到2023年，发展一批家电生产企业实施回收目标责任制的示范标杆，形成一批可复制可推广的回收处理模式和经验做法，重点家电品种规范回收利用率明显提升，废旧家电回收处理市场主体能力和水平显著提高。（人民日报海外版）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3005983.d.html</link>
+            <guid>2288663</guid>
+            <pubDate>Sun, 22 Aug 2021 21:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内筹划融资超千亿元 券商纷纷推出资本补充计划】今年以来，已有12家券商启动再融资“补血”方案，拟募资总额合计不超过1256.24亿元。其中，长城证券、粤开证券等8家券商以定增的方式拟募资合计不超过643.24亿元，中信证券、东方证券等4家券商以配股方式拟募资额合计不超过613亿元。从募集资金的用途看，除了部分资金拟用于偿还债务外，自营业务和信用业务为今年来券商定增募资的主要投向。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3005926.d.html</link>
+            <guid>2288662</guid>
+            <pubDate>Sun, 22 Aug 2021 21:28:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行股迎中报密集发布期，资产质量总体向好】今年以来，银行板块整体下跌2.67%，在28个申万一级行业中排名第16位。不过，日前上市银行半年报正在加速披露中，不少机构看好中报业绩催化下，银行板块的后续表现。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4402686.d.html</link>
+            <guid>2288661</guid>
+            <pubDate>Sun, 22 Aug 2021 21:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内外交困 拜登深陷“八月危机”】进入8月，美国总统拜登正面临上任七个月以来最重大的危机。首当其冲的就是仓促从阿富汗撤军的决定让拜登政府自吞苦果，引发国内外抨击如潮。加之美国疫情因德尔塔毒株持续加剧、8月枪祸频发、南部边境非法移民激增、通货膨胀水平持续走高等多重原因，导致拜登政府在整个8月疲于应对、狼狈不堪。拜登政府的民意支持率也因此降至新低。不仅如此，共和党人还提及动用宪法第25修正案罢免拜登的可能性。上述种种情况均给拜登政府造成前所未有的巨大压力。“八月危机”一词也由此见诸全球多家媒体对拜登政府的报道之中。（法制日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4402658.d.html</link>
+            <guid>2288660</guid>
+            <pubDate>Sun, 22 Aug 2021 21:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港口升级迫在眉睫】作为连接世界生产与消费的重要节点，港口枢纽在全球综合运输体系中占有重要地位。今年以来，全球各大港口纷纷出现了类似于堵车的“死亡拥堵”，拥堵范围在全球蔓延并持续恶化，同时也带来了运价飙升、供应链效率下降等一系列连锁反应，给海上供应链和世界经贸带来极大不确定性。各大港口的升级调整迫在眉睫。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3005576.d.html</link>
+            <guid>2288659</guid>
+            <pubDate>Sun, 22 Aug 2021 21:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞典首相勒文宣布将于11月辞去首相职务】瑞典首相勒文22日宣布，他将于11月辞去社会民主党党魁和首相职务。目前尚不清楚接替勒文的人选。根据瑞典宪法，社民党将在11月举行的党代会上选出新党魁，并由议会确认成为首相。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4401951.d.html</link>
+            <guid>2288658</guid>
+            <pubDate>Sun, 22 Aug 2021 21:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本疫情扩散迅猛，医疗系统严重承压】7月下旬以来，日本新冠肺炎疫情快速蔓延，感染人数和重症病患出现爆发式增长，医疗系统告急。进入8月以来，情况尤甚。8月17日，日本政府决定扩大紧急事态宣言和蔓延防止重点措施实施区域，竭力防止疫情走向失控。由于德尔塔毒株已成为传染主流，加上疫情长期化下民众出现松懈情绪，因此很多医学专家认为系列防疫措施很难取得效果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4401752.d.html</link>
+            <guid>2288657</guid>
+            <pubDate>Sun, 22 Aug 2021 20:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：如果塔利班行为不端，我们将会对他们实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4401741.d.html</link>
+            <guid>2288656</guid>
+            <pubDate>Sun, 22 Aug 2021 20:56:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：我确信从阿富汗撤军是正确的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3004353.d.html</link>
+            <guid>2288655</guid>
+            <pubDate>Sun, 22 Aug 2021 20:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：会支持对塔利班的制裁，这取决于具体情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3004351.d.html</link>
+            <guid>2288654</guid>
+            <pubDate>Sun, 22 Aug 2021 20:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：已经扩大了喀布尔机场周围的安全区通道。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4401205.d.html</link>
+            <guid>2288653</guid>
+            <pubDate>Sun, 22 Aug 2021 20:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：正在讨论延迟8月31日的撤军最后期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4400989.d.html</link>
+            <guid>2288652</guid>
+            <pubDate>Sun, 22 Aug 2021 20:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非社交媒体上出现鼓动大规模骚乱信息】当地时间8月22日，南非国家联合行动和情报机构（Natjoints）称，近两日该国各种社交媒体上再次出现煽动暴力的信息，鼓动居民于8月23日举行全国性“南非停摆”活动。南非警察部发言人利兰祖·特姆巴（Lirandzu Themba）称，警方已关注到大量煽动性信息正在南非境内传播，鼓动人们于8月23日将南非“停摆”。南非警方敦促公众不要回应暴力和犯罪的呼吁。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4400979.d.html</link>
+            <guid>2288651</guid>
+            <pubDate>Sun, 22 Aug 2021 20:37:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登拒绝提供撤离行动的细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3003799.d.html</link>
+            <guid>2288650</guid>
+            <pubDate>Sun, 22 Aug 2021 20:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受暴雨天气影响 陕西镇安多地出现严重积水】8月21日到22日，陕西省商洛市镇安县遭遇强降雨，县城多地出现严重积水，多条街面积水成河。消防、市政、交警等各单位对城区各主干道路、重点路段进行清淤排涝。截至22日16时，清淤工作基本完成，城区交通逐渐恢复。针对雨情、汛情，镇安县迅速启动气象灾害Ⅰ级响应和防汛Ⅲ级响应。截至目前，查灾、核灾、救灾工作正在有序进行当中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4400653.d.html</link>
+            <guid>2288649</guid>
+            <pubDate>Sun, 22 Aug 2021 20:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：在过去30个小时内已从阿富汗撤离了约11000人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3003704.d.html</link>
+            <guid>2288648</guid>
+            <pubDate>Sun, 22 Aug 2021 20:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国也在努力撤离在阿富汗的其他盟国公民。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4400580.d.html</link>
+            <guid>2288647</guid>
+            <pubDate>Sun, 22 Aug 2021 20:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：首要任务是让美国人尽快离开阿富汗，正在努力把在阿富汗的美国人转移到机场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4400575.d.html</link>
+            <guid>2288646</guid>
+            <pubDate>Sun, 22 Aug 2021 20:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国在撤离阿富汗方面持续取得进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3003639.d.html</link>
+            <guid>2288645</guid>
+            <pubDate>Sun, 22 Aug 2021 20:26:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：听取了有关田纳西州洪灾的简报，联邦应急管理局随时准备提供支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3003558.d.html</link>
+            <guid>2288644</guid>
+            <pubDate>Sun, 22 Aug 2021 20:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国总统拜登：热带风暴“亨利”可能造成广泛的影响】美国总统拜登表示，热带风暴“亨利”可能造成广泛的影响，新英格兰数十人万的生活将受影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4400473.d.html</link>
+            <guid>2288643</guid>
+            <pubDate>Sun, 22 Aug 2021 20:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【创业板注册制下首发募资合计已达1401亿元 服务实体经济质效再提升】创业板改革并试点注册制落地一年来，已有182家创业板公司完成挂牌上市，展示了对实体经济的服务和支持能力。截至8月22日，注册制下，创业板新增上市公司182家，首发募资金额合计达1401.47亿元。资金直接投向创新创业领域，进一步推动了新经济发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3003469.d.html</link>
+            <guid>2288642</guid>
+            <pubDate>Sun, 22 Aug 2021 20:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德防长：特朗普应对阿富汗局势突变承担部分责任】据德国媒体当地时间22日报道，德国国防部长克兰普-卡伦鲍尔承认对阿富汗局势严重判断错误。克兰普-卡伦鲍尔指出，美国前总统特朗普应对阿富汗局势的急剧变化负有责任。她认为，当阿富汗政府与塔利班开始就达成协议进行谈判时，人们都认为“通往和平的道路是漫长但可行的”，但特朗普却批准了“美国军队无条件撤出”，“决定性地改变了局势”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4400204.d.html</link>
+            <guid>2288641</guid>
+            <pubDate>Sun, 22 Aug 2021 20:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7月来逾120亿资金流入中概股ETF】在互联网行业反垄断调查、教培行业整治等事件接连冲击下，相关中概股股价遭到重创。跟踪恒生科技指数、恒生互联网科技业指数及中国互联网50指数的中概股交易型开放式指数基金（ETF）场内价格大跌，不过，剧烈的调整被不少投资者视为入场机会，下半年以来约有120亿资金涌入中概股相关ETF。数据显示，截至8月20日，7月以来，中国互联网50指数下跌32.21%，跟踪该指数的中概互联网ETF下跌26.51%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3003196.d.html</link>
+            <guid>2288640</guid>
+            <pubDate>Sun, 22 Aug 2021 20:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【受大户拖累 多家银行房地产业不良贷款骤增】随着房地产行业监管的持续强化和宏观政策调控，部分过去高杠杆经营的房企遇到显著困难，授信银行也难免受到影响。从已披露的银行半年报数据来看，受个别大户新增不良等影响，银行房地产业贷款不良呈现全线上升态势。其中，招商银行、平安银行6月末房地产业不良贷款余额分别为43.3亿元、16.6亿元，相当于年初规模的3.6倍、2.9倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3003099.d.html</link>
+            <guid>2288639</guid>
+            <pubDate>Sun, 22 Aug 2021 20:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特外交部：科威特批准5000名阿富汗人过境，他们将前往美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3002727.d.html</link>
+            <guid>2288638</guid>
+            <pubDate>Sun, 22 Aug 2021 20:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统普京：阿富汗局势或影响俄罗斯国家安全】当地时间22日，俄罗斯总统普京再次就阿富汗局势表示，阿富汗局势与俄罗斯国家安全有直接联系。普京认为，阿富汗局势突变，恐怖分子可能利用难民潮，以寻求庇护为幌子潜入俄罗斯，俄罗斯不希望这样的情况发生。此前，普京在与德国总理默克尔会谈后表示，希望与阿富汗建立睦邻友好关系，同时抨击美国等西方国家“将价值观和民主模式强加于他国”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4399578.d.html</link>
+            <guid>2288637</guid>
+            <pubDate>Sun, 22 Aug 2021 20:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分子疗法新突破 张锋团队开发出全新mRNA递送平台】RNA疗法被认为可以解决一切蛋白质层面的疾病。近日，来自美国麻省理工学院的华人科学家、著名CRISPR技术先驱张锋教授带领的研究团队，开发了一种全新的RNA递送平台，可向细胞提供分子疗法。这个名为SEND(选择性内源性衣壳化的细胞递送)的可编程系统能够封装和递送不同的RNA药物，朝着更安全、有针对性地传递基因编辑系统和其他分子疗法迈出了重要一步，并有望为基因疗法带来新变革。相关研究论文发表在20日的《科学》杂志上。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4399147.d.html</link>
+            <guid>2288636</guid>
+            <pubDate>Sun, 22 Aug 2021 19:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛地区发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3001818.d.html</link>
+            <guid>2288635</guid>
+            <pubDate>Sun, 22 Aug 2021 19:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗：美国对伊朗的制裁没有理由再继续】伊朗总统莱希表示，伊朗已经履行了在伊核协议中的所有义务，而美国违反义务，单方面退出协议，并扩大了对伊制裁，欧洲也没能履行自身义务。美国必须向世界舆论说明为什么他们没有履行伊核协议义务并退出协议。伊朗就伊核协议有关问题继续谈判原则上没有问题，但美国对伊朗人民的制裁没有理由再继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqciyzm3001137.d.html</link>
+            <guid>2288629</guid>
+            <pubDate>Sun, 22 Aug 2021 19:28:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【受台风“奥麦斯”影响 青岛23日阴有暴雨局部大暴雨】根据山东省青岛市气象台天气预报，由于受到地面气旋逐渐东移的影响，23日青岛全市范围都会出现明显的降水，受第12号台风“奥麦斯”的影响，台风通过东南气流逐渐向西北方向移动，中南部地区有暴雨局部大暴雨、北部地区有大雨局部暴雨，并伴有雷电，较强降雨主要集中在23日中午到夜间。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-23/detail-ikqcfncc4397124.d.html</link>
@@ -293,316 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2982819.d.html</link>
             <guid>2288497</guid>
             <pubDate>Sun, 22 Aug 2021 15:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【混沌天成：宏观冲击下的铝价表现坚挺】① 宏观压力偏大，7月固定资产投资、工业增加值、社零数据均不及预期，美国就业在好转，Taper越来越近，美元指数显著走强；② 冶炼端干扰较多，投复产缓慢，减产继续扩大，年初至今减产产能已经达到236万吨，据百川数据，当前电解铝运行产能3806万吨，较年初下降约180万吨。另外，发改委印发《2021年上半年各地区能耗双控目标完成情况晴雨表》，云南、广西、新疆等9省能耗强度同比不降反升，确保完成全年能耗双控目标，云南、广西等地实现投、复产的压力较大；③ 需求方面，国内需求仍有一定韧性，地产竣工表现良好，电网正在发力，6月新增高压线路已超2019年同期水平，出口继续好转，但家电、汽车表现依旧偏弱，铝价高位区域，部分下游需求明显压制，订单减少显著；8月库存低位维持并出现预中的累库。海外方面，需求表现维持良好，LME库存持续下滑，LME0-3升水扩大，欧美现货升水不断走强；④ 宏观上的压力较大，供需支撑依旧偏强，基于宏观的压力资金略为谨慎，预计短期铝价维持高位震荡运行，中长期的基本仍然较好，短期的急跌可能都是较好的补多机会，关注沪铝指数19500的支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2982659.d.html</link>
-            <guid>2288496</guid>
-            <pubDate>Sun, 22 Aug 2021 15:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：南桑威奇群岛地区发生5.5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2982472.d.html</link>
-            <guid>2288495</guid>
-            <pubDate>Sun, 22 Aug 2021 15:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：美国政府没有向塔利班做出任何承诺，以换取塔利班保障美公民进入喀布尔机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2982216.d.html</link>
-            <guid>2288494</guid>
-            <pubDate>Sun, 22 Aug 2021 15:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信建投期货棉花周报】①回顾上周提及的思考，依然适用于本周周报：USDA的权威性使得利好被市场价格所反映，这些利多明牌在牌桌上逐渐被展示出来。对于USDA预估数据，目前的现状很难有再向利多方向进一步作出调整空间，市场对驱动已经形成共识，中短期的基本面驱动告一段落。市场预期太足，带来的一致性动作使得棉花的进一步上涨空间较为有限；1）纱厂、布厂备货来到高位；2）盘面投机多单持仓来到高位，一致性预期增强；3）当下后疫情时代消费复苏依然是主线，但USDA8月报告中对全球消费预估已经接近过去20年来的天花板数值；②正在出尽的基本面利多因素，并非意味着价格顶部的来临，随着价格进一步向上突破，情绪面、资金面极大可能接过基本面的交接棒。同时政策性的驱动需要关注，如大幅采购美棉补充国储库存的消息；3、长期在宏观环境稳定背景下，全球棉花供不足需促进库存消化，棉价整体上移是长期性趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4378810.d.html</link>
-            <guid>2288493</guid>
-            <pubDate>Sun, 22 Aug 2021 15:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【回报率不输明星基金产品 年内ESG基金最高收益超60%，公募基金布局ESG投资提速】倡导绿色发展、可持续发展的ESG投资理念，正被国内主流投资机构愈加重视。数据显示，今年以来收益最高的一只ESG主题投资基金是创金合信气候变化A，该基金今年以来截至8月20日的回报为63.55%。（21世纪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2981195.d.html</link>
-            <guid>2288492</guid>
-            <pubDate>Sun, 22 Aug 2021 15:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗抵抗力量领导人艾哈迈德·马苏德表示拒绝与塔利班和谈，“将继续战斗”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4378163.d.html</link>
-            <guid>2288491</guid>
-            <pubDate>Sun, 22 Aug 2021 15:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新冠疫苗接种超705万剂次】香港特区政府22日表示，截至22日晚8时，在过去24小时内有50200人接种了新冠疫苗。自疫苗接种计划开展以来，香港新冠疫苗接种累计超过705万剂次，约有312万人已接种两剂新冠疫苗。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2980920.d.html</link>
-            <guid>2288490</guid>
-            <pubDate>Sun, 22 Aug 2021 15:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格力电器发布2021年上半年财报 较2019年同期营收和净利润分别下滑6.42%和31.22%】8月22日，格力电器（000651.SZ）公布2021年上半年年报。公司实现营收910.52亿元，同比增长31.01%，净利润为94.57亿元，同比增长48.64%。格力电器上半年业绩录得较大增幅，主要是由于2020年同期基数较低。和没有发生疫情的2019年同期相比，格力电器2021年上半年营收和净利润分别下滑6.42%和31.22%。2020年上半年，格力电器营收、净利润分别同比下滑28.57%和53.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2980525.d.html</link>
-            <guid>2288489</guid>
-            <pubDate>Sun, 22 Aug 2021 15:08:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增32253例新冠肺炎确诊病例，新增49例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4377112.d.html</link>
-            <guid>2288488</guid>
-            <pubDate>Sun, 22 Aug 2021 15:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币短线走低，以太坊跌超2%至3157美元/枚，比特币暂报48117美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4376921.d.html</link>
-            <guid>2288487</guid>
-            <pubDate>Sun, 22 Aug 2021 15:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯与巴林外长就阿富汗问题进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2979883.d.html</link>
-            <guid>2288486</guid>
-            <pubDate>Sun, 22 Aug 2021 15:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊与土耳其总统埃尔多安就阿富汗问题进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4376757.d.html</link>
-            <guid>2288485</guid>
-            <pubDate>Sun, 22 Aug 2021 15:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增5923例新冠肺炎确诊病例，新增23例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2979772.d.html</link>
-            <guid>2288484</guid>
-            <pubDate>Sun, 22 Aug 2021 14:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河南气象发布逐小时滚动雨量实况：21-22时，驻马店局地出现暴雨。1站降水超过50毫米，出现在正阳县付寨57.4毫米。雷达回波实况：22日21：54，我省降水回波主要位于信阳西部、驻马店和郑州东南部、开封东部、许昌南部、周口和商丘北部，强度35～55dBZ。未来12小时预计22日21时-23日08时，商丘、开封、周口、驻马店四地区和南阳地区东部、信阳地区西北部有大雨，部分地区暴雨，局部大暴雨，并伴有短时强降水、短时大风等强对流天气；其它地区小到中雨逐渐停止转阴天。中东部、西部偏东风或东北风4级左右，局地阵风7～9级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2979724.d.html</link>
-            <guid>2288483</guid>
-            <pubDate>Sun, 22 Aug 2021 14:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兰格预测：淡旺季转换 钢市震荡寻底】① 目前，国内钢材市场正在处于淡旺季交替的重要时间节点，供给侧的减产力度较强，但同时也打消了之前市场普遍预期的持续大规模减产的强预期，同时由于最近国内钢市采购需求的恢复并不如意，市场成交时好时坏，但也应该看到由于今年雨季受灾的地方较多，灾后重建的问题已经提上了议程，这将对较弱的市场需求形成有效的补充效应，同时也使得钢市的主导因素发生了改变。短期来看国内钢市将呈现震荡寻底的过程；② 据兰格钢铁云商平台周价格预测模型数据测算，下周（2021.8.23-8.27）国内钢材市场价格将震荡下滑，长材市场价格将小幅上涨，型材市场价格将小幅下跌，板材市场价格稳中下跌，管材市场价格将震荡下滑。兰格钢铁全国绝对价格指数预计在5671元，下跌22元；其中，兰格钢铁长材绝对价格指数为预计维持在5364元，上涨40元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4376337.d.html</link>
-            <guid>2288482</guid>
-            <pubDate>Sun, 22 Aug 2021 14:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际矿业巨头盯上钾矿资源，有机硅价格持续上涨】国金证券指出，在产能扩张受限的背景下，依托多晶硅、有机硅等主要需求端的持续增长，金属硅供需缺口预计长期存在，行业景气度有望长居高位。①国内纸浆需求大增，行业处景气度向上拐点阶段；②有机硅价格持续上涨，行业景气度有望长居高位；③全球第四代核电技术首个商业化示范项目开始装料，核电行业发展空间广阔；④国际矿业巨头盯上钾矿资源，机构：钾肥价格将呈现周期性震荡走势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4376154.d.html</link>
-            <guid>2288469</guid>
-            <pubDate>Sun, 22 Aug 2021 14:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鄂尔多斯煤炭网：此轮煤市反弹幅度有限】上周开始，电厂日耗煤量略有下降，电厂多保持观望，等待市场触底后再增加采购；叠加夏季用煤高峰期接近尾声，后续高温天气减少，民用电负荷将出现下降。但如果说电厂补库压力减小、后续拉运积极性减弱还为时过早；从往年九月份的煤炭市场和运输来看，夏末秋初是用煤淡季，但并不是采购淡季，是电厂展开阶段性补库的良好时节，且煤价重心高于八月底。今年也不例外，夏末秋初，电厂在加快补库的同时，还要考虑工业用电的复苏进程。夏季过后，工业企业进入冲刺阶段，耗电量和耗煤量不可忽视。市场反弹是必然的，而反弹的力度需要看电厂补库情况；预计此轮煤价涨幅有限，涨幅在30-50元/吨，且在九月中下旬，仍存再次下行的可能。真正的煤价反弹应该在四季度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2978926.d.html</link>
-            <guid>2288467</guid>
-            <pubDate>Sun, 22 Aug 2021 14:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊斯兰合作组织将派遣高级别代表团前往喀布尔】总部设在沙特西部城市吉达的伊斯兰合作组织22日下午向外界宣布，将于近期派遣高级别代表团前往阿富汗首都喀布尔，就当前局势传达该组织支持阿富汗和平稳定与民族和解的信息，并协调各方共同努力确保阿富汗人民的基本权利。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2978204.d.html</link>
-            <guid>2288459</guid>
-            <pubDate>Sun, 22 Aug 2021 14:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【扬州关于8月23日开展部分地区核酸检测的通告（第56号）】为坚决打赢新冠肺炎疫情防控阻击战，切实保障人民群众的身体健康和生命安全，经扬州市新冠肺炎疫情防控工作指挥部研究，定于8月23日6:30开展部分地区核酸检测，总计目标人群约55万人。（扬州发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2978036.d.html</link>
-            <guid>2288452</guid>
-            <pubDate>Sun, 22 Aug 2021 14:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[暴雨来袭，河南多地严阵以待、谨防次生灾害。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4373919.d.html</link>
-            <guid>2288437</guid>
-            <pubDate>Sun, 22 Aug 2021 14:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信建投期货：资金驱动减弱，边际利空增多，油脂拐点要来了吗？】① 伴随着P09换月移仓，本周油脂盘面迎来大幅波动。前期盘面大幅上涨令华东棕榈油现货基差收敛至200左右，在马棕8月阶段性出口转差且产量好转的情况，09多头资金开始向P01移仓。09资金大量流出并向01快速涌入，促成了P01的补涨及P91价差大幅回落，但随着移仓完成，资金驱动减弱，此时新增边际利空开始形成压制；② GAPKI数据显示，因产量增长且出口大幅下滑，印尼6月末棕榈油库存由285万吨快速升至415万吨。而从全年产量预估来看，印尼棕榈油产量增幅能有效弥补马棕产量降幅，成为棕榈油继续冲高的隐忧。而主需求国印度也并不安生，突然调降毛豆油及毛葵油进口关税，削弱产地棕榈油的出口优势，对棕榈油走势形成进一步的打压；③ 更可怕的是，一则来自生物燃料的消息直接打压周五晚间美豆油跌停。知情人士称，EPA将向白宫建议将2021年的生物燃料法定义务掺混量降至低于2020年的水平。在原油价格大幅回落，且拜登政府试图平衡炼油厂与农场主的利益，权衡环保与通胀压力的背景下，美豆油的生柴需求预期出现边际转弱，预计价格仍免不了回吐此前升水。预计内盘油脂将由此前强势有所转弱，阶段性高点基本成型。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4373574.d.html</link>
-            <guid>2288434</guid>
-            <pubDate>Sun, 22 Aug 2021 14:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【注册制新股承销规范迎修订 允许发行人进入簿记现场】近日，证券时报·券商中国记者从券商人士处获悉，中国证券业协会就《科创板和创业板首次公开发行股票承销规范》向各家券商征求修订意见，要求券商在8月23日（周一）下班前反馈。根据新修订的内容，此次将一对一预路演主体范围扩大到“具备一定投资实力的潜在投资者”，以增进投资者对发行人的了解。考虑到发行人对自身股票的定价权，允许发行人进入簿记现场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4372955.d.html</link>
-            <guid>2288427</guid>
-            <pubDate>Sun, 22 Aug 2021 14:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南省气象台继续发布暴雨红色预警】河南省气象台8月22日19时55分继续发布暴雨红色预警：预计未来3小时内，驻马店地区和开封、南阳两地区东南部及商丘、周口、信阳三地区西部的部分地区累计降水量将达100毫米以上。请注意防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4372522.d.html</link>
-            <guid>2288420</guid>
-            <pubDate>Sun, 22 Aug 2021 14:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蚂蚁集团发布声明：网传相关人员入股蚂蚁集团是不实谣言】对于网传相关人员入股蚂蚁集团的不实谣言，蚂蚁集团发布声明：在此前IPO的发行过程中，严格遵守两地法律法规，过程公开透明，不存在谣言中提及的相关人员入股的情况，更不存在突击入股及退款相关情况。蚂蚁集团也从未与谣言中所提及的律师事务所及律师开展任何形式的业务合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2974661.d.html</link>
-            <guid>2288411</guid>
-            <pubDate>Sun, 22 Aug 2021 14:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马骏：有效的碳定价需要金融充分介入】北京绿色金融与可持续发展研究院院长、中国金融学会绿色金融专业委员会主任、G20可持续金融工作组共同主席马骏表示，与“双碳”目标的要求相比，中国目前的绿色金融体系还存在多方面的问题和挑战。马骏认为，未来需要在完善绿色金融标准、出台环境信息披露强制要求、强化激励机制、开发更多与碳挂钩的金融产品等方面取得突破。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4371215.d.html</link>
-            <guid>2288408</guid>
-            <pubDate>Sun, 22 Aug 2021 14:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大蒙特利尔银行美国利率策略主管Ian Lyngen：7月会议纪要凸显了市场对鲍威尔讲话的关注。投资者此前一直在寻求明确的缩减购债时间——会议纪要提供了这方面的大部分内容。但现在的重点将是，对新冠疫情的担忧是否促使政策制定者认真考虑在哪个会议上宣布减少资产购买。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4371071.d.html</link>
-            <guid>2288406</guid>
-            <pubDate>Sun, 22 Aug 2021 14:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8月23日24时，国内成品油价将迎来年内第三次下调】今年以来，国内成品油零售限价已经历15个调价窗口，为十涨两跌三搁浅，国内汽、柴油零售限价累计每吨分别上调1375元和1325元。本周期（8月9日以来），新冠变异病毒德尔塔毒株引发的对石油需求的担忧逐步加深，国际油价下行压力明显加大，并在最近六个交易日出现连续下跌。一揽子原油平均价格变化率持续负向运行，预计8月23日24时，国内成品油价将迎来年内第三次下调，预计下调幅度在每吨230元左右，折合92#汽油、0#柴油每升分别下调约0.18元、0.20元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2973583.d.html</link>
-            <guid>2288405</guid>
-            <pubDate>Sun, 22 Aug 2021 13:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hennessy Funds基金经理人Wein：投资者希望看到美联储官员"愿意随消息而动，随疫情发展而动"的迹象。如果美联储官员在下周的杰克逊霍尔年会上发表影响市场的言论，他们更有可能承认德尔塔毒株带来的风险。如果是这样，考虑到有关可能推迟收紧货币政策的暗示，股市可能会上涨。]]></title>
-            <guid>2288404</guid>
-            <pubDate>Sun, 22 Aug 2021 13:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下周A股逾1000亿市值限售股解禁】下周沪深两市共有53家公司限售股陆续解禁，合计解禁量48.79亿股，按8月20日收盘价计算，解禁市值为1037.48亿元；解禁市值居前三位的是：安克创新（147.91亿元）、红塔证券（146.36亿元）、康泰医学（99.99亿元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2972993.d.html</link>
-            <guid>2288403</guid>
-            <pubDate>Sun, 22 Aug 2021 13:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟呼吁各成员国接受阿富汗难民】据法国媒体报道，欧盟呼吁各成员国接受阿富汗难民。目前从阿富汗撤离的阿富汗人陆续抵达欧洲，他们主要是为欧洲各国在阿富汗派驻机构工作的人员，包括为北约组织国际联军合作工作的阿富汗人及其家庭。据报道，欧盟委员会主席冯德莱恩稍早前表示，帮助接待阿富汗难民的国家将获得欧盟的预算资助。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4369305.d.html</link>
-            <guid>2288394</guid>
-            <pubDate>Sun, 22 Aug 2021 13:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BetaShares Capital经济学家David Bassanese：如果关于缩债的最终决定已如此接近（即美联储将在9月宣布缩债），鲍威尔可能会在下周的讲话中暗示这一可能性。对于紧张不安的投资者来说，这可能是一个利空。但我认为美联储将在11月而不是9月缩减购债规模，目的是希望避免2013年的缩减恐慌重演，当时债券遭到疯狂抛售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4368592.d.html</link>
-            <guid>2288384</guid>
-            <pubDate>Sun, 22 Aug 2021 13:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国海事局：俄罗斯Fortuna号船将继续在德国水域为北溪二号项目铺设管道，直至9月12日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2971643.d.html</link>
-            <guid>2288383</guid>
-            <pubDate>Sun, 22 Aug 2021 13:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班高层与阿富汗政要计划在喀布尔市内举行大型会议，讨论组建新政府的问题 。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4368173.d.html</link>
-            <guid>2288376</guid>
-            <pubDate>Sun, 22 Aug 2021 13:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安信策略：A股目前不具备由牛转熊的条件】安信策略团队今日发文称，从流动性环境看，A股目前不具备由牛转熊的条件，至少具备结构性行情的基础。当前A股面临的一些压力点：北上资金在Taper预期下的流出和消费行业中报较差属于前期已有预期且持续时间较短的利空因素。部分行业的政策不确定性有待进一步的澄清和消化，我们认为市场存在过度解读和担心的可能，但无论如何其不影响以“宁组合”为代表的高景气长赛道或者高端制造这一主线。从中长期来看，主线是否切换最重要因素还是在于景气趋势比较，在配置方向上，继续配置新能源等高景气长赛道标的，短期适度关注受益于稳增长与政策宽松的方向，即配置宁组合+交易稳增长，行业关注：军工、新能源、化工、煤炭等，中线继续看好中小盘、军工、新基建三大方向，适度关注基建链、券商、地产等受益于政策宽松预期的方向。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2970970.d.html</link>
-            <guid>2288369</guid>
-            <pubDate>Sun, 22 Aug 2021 13:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗抵抗运动军事领导人之子Ahmad Massoud：如果塔利班拒绝对话，战争将不可避免。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2970347.d.html</link>
-            <guid>2288362</guid>
-            <pubDate>Sun, 22 Aug 2021 13:24:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗抵抗运动军事领导人之子Ahmad Massoud：阿富汗需要一个“综合性政府”。]]></title>
-            <guid>2288361</guid>
-            <pubDate>Sun, 22 Aug 2021 13:24:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗抵抗运动军事领导人之子Ahmad Massoud：希望进行对话，结束战争。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2970200.d.html</link>
-            <guid>2288359</guid>
-            <pubDate>Sun, 22 Aug 2021 13:22:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗抵抗运动军事领导人之子Ahmad Massoud：对塔利班参与的政府没有意见，但不会把我所控制的地区让给塔利班。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4367041.d.html</link>
-            <guid>2288358</guid>
-            <pubDate>Sun, 22 Aug 2021 13:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海地民防管理局发布消息称，海地地震死亡人数升至2207人。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2969731.d.html</link>
-            <guid>2288354</guid>
-            <pubDate>Sun, 22 Aug 2021 13:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：美国和合作伙伴在过去24小时内从喀布尔撤离了7500人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2969711.d.html</link>
-            <guid>2288353</guid>
-            <pubDate>Sun, 22 Aug 2021 13:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：美国现在有“其他方法”让人们进入阿富汗机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4366570.d.html</link>
-            <guid>2288352</guid>
-            <pubDate>Sun, 22 Aug 2021 13:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：美国一直在与“数千名美国人”保持联系，并正在努力帮助他们安全抵达机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2969477.d.html</link>
-            <guid>2288349</guid>
-            <pubDate>Sun, 22 Aug 2021 13:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：喀布尔面临的“伊斯兰国”极端组织威胁是真实的、严重的、持续性的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2969458.d.html</link>
-            <guid>2288348</guid>
-            <pubDate>Sun, 22 Aug 2021 13:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星星科技收问询函】深交所要求公司说明会计差错更正的发生原因，同时逐项说明更正2020年合并财务报表和母公司财务报表相关科目的具体原因，以及更正金额的确定依据和计算过程。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4366234.d.html</link>
-            <guid>2288346</guid>
-            <pubDate>Sun, 22 Aug 2021 13:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：我们已经确保了有能力从阿富汗撤出大量美国人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4366044.d.html</link>
-            <guid>2288344</guid>
-            <pubDate>Sun, 22 Aug 2021 13:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国不打算派遣增援部队来确保喀布尔机场的安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4366038.d.html</link>
-            <guid>2288343</guid>
-            <pubDate>Sun, 22 Aug 2021 13:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全顾问沙利文：仍有数千名美国人留在阿富汗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4365729.d.html</link>
-            <guid>2288340</guid>
-            <pubDate>Sun, 22 Aug 2021 13:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据供应商OptionMetrics首席量化研究主管Garrett DeSimone：从与期权相关的指标来看，没有迹象表明投资者正准备迎接此次杰克逊霍尔央行年会可能导致的股市大波动，这表明投资者对杰克逊霍尔年会“不以为然”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4365712.d.html</link>
-            <guid>2288339</guid>
-            <pubDate>Sun, 22 Aug 2021 13:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登批准康涅狄格州和纽约州（因热带风暴）宣布进入紧急状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4365334.d.html</link>
-            <guid>2288337</guid>
-            <pubDate>Sun, 22 Aug 2021 13:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据郑州发布：郑州市气象台8月22日20时10分解除8月22日16时45分继续发布的暴雨红色预警信号。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4364191.d.html</link>
-            <guid>2288327</guid>
-            <pubDate>Sun, 22 Aug 2021 12:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华西策略：A股整体估值合理 市场有望逐步走出磨底期】华西策略今日发布研报称，在海内外政策走向不确定的担忧下，近期市场风险偏好有所调降，但目前A股整体估值合理，并在短期调整中释放了情绪面及筹码集中的风险，随着不确定因素的落地，市场将有望逐步走出磨底期。后续决定市场风格的核心因素仍在于盈利的相对优势。具体来看，消费板块近期估值持续调降，更确定的信号还需等待基本面拐点后，市场重拾共识；政策“跨周期调节”的框架下，当前政策更多是“托而不举”，对传统基建（顺周期）的提振可能会慢一些。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4363938.d.html</link>
-            <guid>2288326</guid>
-            <pubDate>Sun, 22 Aug 2021 12:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【四川升级启动三级防汛应急响应】经四川省防汛抗旱指挥部研究决定，8月22日20时将四川省四级防汛应急响应升级为三级防汛应急响应，要求省防汛抗旱指挥部各成员单位、相关市（州）防汛抗旱指挥部按照职责分工，做好防汛保安各项工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4363187.d.html</link>
-            <guid>2288324</guid>
-            <pubDate>Sun, 22 Aug 2021 12:47:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
