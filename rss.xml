@@ -4,11 +4,487 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Aug 2021 22:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 07:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美联社消息，英国军方周日表示，在喀布尔机场周围的混乱中，又有7名阿富汗平民丧生。报道称，塔利班成员向空中开火，驱赶那些急于搭乘任何航班离开该国的人，而后人群出现了踩踏和挤压事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2924113.d.html</link>
+            <guid>2288204</guid>
+            <pubDate>Sun, 22 Aug 2021 07:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中金策略：指数下行空间可能有限 市场风格或仍会“偏向成长”】中金策略今日发文表示，要淡化对权益指数的整体预期，但考虑市场整体估值不高，指数下行空间可能也有限。结构层面上，增长预期重设意味着宏观政策可能延续稳中趋松，配置上进一步减配强周期板块，市场风格或仍会“偏向成长”。逐步降低周期配置但关注部分结构有利或具备结构性成长特征的周期：有色金属如锂等，化工以及受益于财富及资管大发展趋势的金融龙头。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2923699.d.html</link>
+            <guid>2288203</guid>
+            <pubDate>Sun, 22 Aug 2021 07:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗哈马新闻社援引美国国务院报道称，喀布尔机场将保持关闭状态48小时，以疏散聚集在机场内的所有人。]]></title>
+            <guid>2288202</guid>
+            <pubDate>Sun, 22 Aug 2021 07:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列战机空袭巴勒斯坦加沙地带哈马斯武器制造和存储基地】当地时间21日深夜，以色列战机空袭了加沙地带巴勒斯坦伊斯兰抵抗运动（哈马斯）用于武器制造和储存的4个基地，以报复当天早些时候，在与巴勒斯坦人冲突时，一名以色列士兵头部受重伤。以色列军方当地时间22日早晨证实了这次空袭。为防止冲突升级，以军已向加沙地带以巴边境地区增派部队。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4319672.d.html</link>
+            <guid>2288201</guid>
+            <pubDate>Sun, 22 Aug 2021 07:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委：截至2021年8月21日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗193586.9万剂次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2921146.d.html</link>
+            <guid>2288200</guid>
+            <pubDate>Sun, 22 Aug 2021 06:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊短线上行，涨幅扩大至1.3%，现报3268.24美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2919212.d.html</link>
+            <guid>2288199</guid>
+            <pubDate>Sun, 22 Aug 2021 06:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【隆基、通威、晶澳、晶科等龙头8个月签署超1236亿元长单】据北极星太阳能光伏网统计，2021年至今，隆基、天合、晶澳、晶科等光伏龙头企业已经抛出了超1236亿元长单合同，锁定未来原料的供应，累计锁定了145.8万吨硅料，超43.6亿片硅片，超11.6亿平方米光伏玻璃。值得关注的是，仅8个月时间里，硅料、硅片、光伏玻璃长单协议签署的总量已经超过了2020年。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2919177.d.html</link>
+            <guid>2288198</guid>
+            <pubDate>Sun, 22 Aug 2021 06:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【星星科技：生产经营正常 重整申请被法院批准可能性较大】星星科技在互动易平台表示，公司目前生产经营一切正常，公司网站也可正常访问。专业人士认为，债权人对公司的重整申请被法院批准的可能性较大。星星科技此前披露上半年计提信用减值损失及资产减值损失合计约5.72亿元，自8月24日起实施退市风险警示。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4313255.d.html</link>
+            <guid>2288197</guid>
+            <pubDate>Sun, 22 Aug 2021 06:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据韩联社：莫德纳将向韩国供应7百万剂新冠肺炎疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2915668.d.html</link>
+            <guid>2288196</guid>
+            <pubDate>Sun, 22 Aug 2021 06:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“亨利”正朝向纽约州长岛方向移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2913271.d.html</link>
+            <guid>2288195</guid>
+            <pubDate>Sun, 22 Aug 2021 06:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[郑州市气象台发布暴雨红色预警：预计未来3小时内，郑州市区、航空港区、新郑、荥阳降水量将达100毫米以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2911425.d.html</link>
+            <guid>2288194</guid>
+            <pubDate>Sun, 22 Aug 2021 05:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巨额赎回或触发突然清盘 部分基金紧急出手】随着机构投资者的壮大，大资金申赎公募基金并导致基金净值异常波动，存量投资者利益受损的现象屡有出现。近日，部分机构占比较大的基金发布公告，提及对巨额赎回损害存量持有人利益的，将可能实施自动清盘。多位业内人士对此表示，设置巨额赎回自动清盘条款是对中小投资者利益的保护，但在流动性管理工具较为丰富的当下，预计清盘条款将会局限于部分机构定制基金，可能不会成为市场主流。 (中国基金报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4307423.d.html</link>
+            <guid>2288193</guid>
+            <pubDate>Sun, 22 Aug 2021 05:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“巴铁”项目启动，中国时速160公里客车技术首次“走出去”】从中车唐山公司获悉，8月20日，中车唐山与巴基斯坦铁路局正式签订230辆铁路客车项目合同。这是中国时速160公里客车制造技术首次“走出去”，进行技术转让。据统计，截至目前唐山公司已累计签约出口各型客车订单近1400辆。产品出口到哈萨克斯坦、土库曼斯坦、尼日利亚、蒙古、古巴、巴基斯坦、孟加拉国、安哥拉、莫桑比克等国，近几年还先后斩获美国、加拿大等发达国家干线铁路订单。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2908034.d.html</link>
+            <guid>2288192</guid>
+            <pubDate>Sun, 22 Aug 2021 05:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰康保险集团向武汉大学捐赠10亿元】8月22日消息，泰康保险集团在25周年司庆之际，宣布向武汉大学捐赠10亿元。公开资料显示，泰康保险集团创始人、董事长兼首席执行官陈东升1983年7月毕业于武汉大学经济系。泰康自1996年成立以来，已先后向武汉大学捐赠了近3亿元，此次将再捐10亿元，重点支持武汉大学医学、生命科学建设。]]></title>
+            <guid>2288191</guid>
+            <pubDate>Sun, 22 Aug 2021 04:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【扬州多地下调疫情风险等级】扬州市今日召开新冠肺炎疫情防控新闻发布会，扬州市卫健委副主任王劲松介绍，8月21日起，全市部分区域疫情风险等级进行了调整。截至目前，全市共有高风险地区4个，中风险地区21个。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2904724.d.html</link>
+            <guid>2288190</guid>
+            <pubDate>Sun, 22 Aug 2021 04:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【钟南山最新发声：中国疫苗加强针实验效果很好】据小央视频，钟南山院士近日表示，国内最新的实验资料证明，经过一针加强之后，其产生的抗体水平明显增高，差不多增加了十几倍，是一个很有希望的增加免疫的办法。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2904416.d.html</link>
+            <guid>2288189</guid>
+            <pubDate>Sun, 22 Aug 2021 04:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国有线电视新闻网（CNN）：美国东部田纳西州洪灾造成至少10人遇难，其中包括2名儿童。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4298923.d.html</link>
+            <guid>2288188</guid>
+            <pubDate>Sun, 22 Aug 2021 04:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：美国或将启用民航帮助执行阿富汗撤离任务】当地时间21日，知情人士称，美国政府计划让美国主要航空公司帮助执行阿富汗撤离任务。《华尔街日报》21日报道援引知情人士的话称，美国政府计划增加从阿富汗首都喀布尔的航班数量，准备让几家主要航空公司帮助执行阿富汗撤离任务。报道称，美政府打算激活民用后备航空队（CRAF），该航空队于1952年成立，包含来自 5 家航空公司提供的近 20 架商用飞机。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2900259.d.html</link>
+            <guid>2288187</guid>
+            <pubDate>Sun, 22 Aug 2021 04:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京残奥会新增31名相关人员新冠病毒检测结果呈阳性】东京奥运会和残奥会组委会22日发布消息称，残奥会相关人员中新增31人新冠病毒检测结果呈阳性，其中包括2名海外选手。残奥会相关人员中单日感染新冠病毒的人数首次超过30人，刷新了最高纪录。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4295594.d.html</link>
+            <guid>2288186</guid>
+            <pubDate>Sun, 22 Aug 2021 04:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[河南省荥阳市、长垣市启动防汛Ⅰ级响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2897707.d.html</link>
+            <guid>2288185</guid>
+            <pubDate>Sun, 22 Aug 2021 04:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国疫情发病率指数五月以来首度突破警戒值】德国疾控机构21日公布的新增确诊感染新冠病毒人数为8092。当天，该国用于监测疫情严峻程度的新冠发病率指数(平均每十万人七日新增确诊数)重回警戒值50上方，达到51.6。这是该指数自今年5月以来首度突破德国官方设立的这一警戒值。为提振当前进度迟滞的全民疫苗接种工作，德国联邦劳动部长海尔当天建议称，从工作场所防疫必要性出发，雇主应考虑允许员工利用上班时间前去接种新冠疫苗。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2897263.d.html</link>
+            <guid>2288184</guid>
+            <pubDate>Sun, 22 Aug 2021 04:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国足主帅李铁续约至2026年，12强赛国足目标力争出线】8月22日，国足备战12强赛会议在上海召开。中国足协确认，与主帅李铁就其进一步执教中国队至2026年签订了工作合同。接下来李铁将带领中国男足征战12强赛，冲击卡塔尔世界杯入场券。中国足协透露12强赛目标：全力拼搏，力争出线。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2896233.d.html</link>
+            <guid>2288183</guid>
+            <pubDate>Sun, 22 Aug 2021 03:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳大利亚反“封城”游行218人被捕 警方开出超557万元罚单】据澳大利亚天空新闻网22日报道，当地时间21日，澳大利亚维多利亚州墨尔本的非法抗议游行中爆发暴力冲突，导致7名警察受伤、6人住院，另有218人因违规被捕，当日开出的罚单金额超120万澳元（约合人民币557万元）。（海外网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4292803.d.html</link>
+            <guid>2288182</guid>
+            <pubDate>Sun, 22 Aug 2021 03:51:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印度新增30948例新冠肺炎确诊病例】据印度卫生部22日公布的最新数据，印度新冠肺炎确诊病例升至32424234例。在过去24小时内，印度新增确诊病例30948例；新增死亡病例403例，累计死亡434367例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2894989.d.html</link>
+            <guid>2288181</guid>
+            <pubDate>Sun, 22 Aug 2021 03:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8月21日，江苏扬州市核酸筛查检出1例阳性病例，来自集中隔离点。 （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4291473.d.html</link>
+            <guid>2288180</guid>
+            <pubDate>Sun, 22 Aug 2021 03:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港特区政府财政司司长：“十四五”规划纲要为香港提供发展蓝本】香港特区政府财政司司长陈茂波发表网志表示，香港本地经济呈现逐步好转的迹象。“十四五”规划纲要明确支持强化香港作为全球离岸人民币业务枢纽、国际资产管理中心及风险管理中心的发展，为香港从总体筹划的角度提供了发展蓝本，也提供了潜力无限的市场和机遇。“十四五”规划纲要对香港未来如何部署创新科技、金融、法律及其他专业服务的发展，提供了清晰路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2893134.d.html</link>
+            <guid>2288179</guid>
+            <pubDate>Sun, 22 Aug 2021 03:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长江委启动水旱灾害防御Ⅳ级应急响应】受强降雨影响，汉江上游干流及部分支流水位已快速上涨。预计汉江上游部分支流可能发生超警洪水，局部强降雨引发山洪地质灾害风险较大；预计丹江口水库将有一次大的涨水过程。鉴于当前长江流域洪水防御形势，按照《长江流域水旱灾害防御预案（试行）》有关规定，长江委决定自8月22日8时启动水旱灾害防御Ⅳ级应急响应。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2892745.d.html</link>
+            <guid>2288178</guid>
+            <pubDate>Sun, 22 Aug 2021 03:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新增7050例新冠肺炎确诊病例，累计确诊3868197例；新增3例死亡病例，累计死亡91976例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4288717.d.html</link>
+            <guid>2288177</guid>
+            <pubDate>Sun, 22 Aug 2021 03:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[无锡：有序开放文化旅游体育等经营场所，容量不超过75%。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4287220.d.html</link>
+            <guid>2288176</guid>
+            <pubDate>Sun, 22 Aug 2021 03:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国新增新冠肺炎确诊病例19014例 累计确诊1049295例】当地时间8月22日，泰国新冠疫情管理中心透露，该国单日新增新冠肺炎确诊病例19014例，其中监狱系统196例，全国累计确诊1049295例，新增死亡病例233例，累计死亡9320例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4286932.d.html</link>
+            <guid>2288175</guid>
+            <pubDate>Sun, 22 Aug 2021 03:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国连续4天日增新冠死亡数超千例 多地爆发抗议反对防疫政策】据美联社21日报道，美国近期连续4天每日新增新冠肺炎死亡病例超1000例，新冠肺炎住院患者人数也呈现激增状态，新冠疫情形势严峻。但与此同时，美国社会却对戴口罩、接种新冠疫苗等防疫措施表现出反感，全美多地的反疫苗、反口罩抗议运动正在朝着暴力冲突的方向发展。（海外网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2889064.d.html</link>
+            <guid>2288174</guid>
+            <pubDate>Sun, 22 Aug 2021 03:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【28城下月起推行电子驾照】自9月1日起，北京、吉林长春、广西南宁等28个城市将推广应用机动车驾驶证电子化。电子驾驶证将通过“交管12123”APP发放，在全国范围内有效，驾驶人可在办理交管业务、接受执法检查时出示使用。此前，天津、成都、苏州已率先试点机动车驾驶证电子化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2888115.d.html</link>
+            <guid>2288173</guid>
+            <pubDate>Sun, 22 Aug 2021 02:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国研究数据：美国死亡病例分布呈明显种族差异】美国疾病控制与预防中心近日发布数据，数据显示美国因为新冠肺炎疫情而死亡的人口分布显示出很大的种族差异。最新研究显示，65岁及以上的成年人中，非洲裔和西班牙裔美国人的死亡率最高。在65岁以下的人群中，，非洲裔美国人、美洲印第安人和阿拉斯加原住民的死亡比率高于其他族裔群体。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2887193.d.html</link>
+            <guid>2288172</guid>
+            <pubDate>Sun, 22 Aug 2021 02:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【防范应对本轮强降雨，河南商丘：全市停工停产停业停课 】“商丘发布”22日消息，为全力做好本次强降雨的防范应对工作，商丘防汛抗旱指挥部特发出紧急通知。自8月22日8时至23日18时，全市所有企业、学校、景区、工地全部关停。受工艺影响不能及时关闭的企业要制定切实可行的措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4283398.d.html</link>
+            <guid>2288171</guid>
+            <pubDate>Sun, 22 Aug 2021 02:46:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“格雷斯”袭击墨西哥 致8人死亡】当地时间21日，飓风“格雷斯”带来的暴雨袭击了墨西哥韦拉克鲁斯州，引发严重的洪水和泥石流灾害。美国国家飓风中心称，该飓风中心位于墨西哥城约105公里处。韦拉克鲁斯州州长奎特拉瓦克·加西亚在新闻发布会上表示，飓风导致的房屋倒塌和自然灾害总共造成8人死亡，其中6人来自一个家庭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2885497.d.html</link>
+            <guid>2288170</guid>
+            <pubDate>Sun, 22 Aug 2021 02:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：日本本州岛东海岸发生5.4级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2884740.d.html</link>
+            <guid>2288169</guid>
+            <pubDate>Sun, 22 Aug 2021 02:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南高校、中高风险地区中小学9月15日之前不返校开学】据8月22日河南省新冠肺炎疫情防控新闻发布会通报，根据教育部“中高风险地区学校暂缓开学、中高风险地区学生暂缓返校”的要求，以及“全面评估、确保安全，一院一校、一院多校，一地一策、一校一案，分类施策、市定省批”的原则，坚持安全底线，综合考虑疫情防控、灾后重建和各地各校办学条件，河南省审慎作出了“高校、中高风险地区中小学暂定9月15日之前不返校开学，其他低风险地区中小学由当地研判确定”的安排。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2883543.d.html</link>
+            <guid>2288168</guid>
+            <pubDate>Sun, 22 Aug 2021 02:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国田纳西州中部洪灾已造成至少10人死亡31人失踪】当地时间8月21日，美国田纳西州汉弗莱斯县警方表示，该州中部发生的严重洪灾已造成至少10人死亡、31人失踪。遇难者中包括两名幼童。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4279749.d.html</link>
+            <guid>2288167</guid>
+            <pubDate>Sun, 22 Aug 2021 02:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民调显示仅39%的人认为拜登在“履行总统职责”，分数比“F-”还低】《纽约邮报》21日报道称，美民调机构当天公布的一项民意调查显示，只有不到40%的美国民众认为拜登在“履行总统职责”。与此同时，拜登还被最亲密盟国的首相约翰逊指责应为阿富汗当前局势负责，不少美国政客和民众也诟病其在阿富汗“变天”后反应之迟钝与表现之差。据福克斯新闻报道，有美国洛杉矶居民为拜登撤军阿富汗和从喀布尔撤离美国公民的表现打了一个分：比F-还要差。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4277752.d.html</link>
+            <guid>2288166</guid>
+            <pubDate>Sun, 22 Aug 2021 02:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币恐惧与贪婪指数8月22日读数为76，较前一日下跌2点，表明市场情绪仍旧处于极度贪婪状态。比特币价格24小时上涨0.41%。最近24小时，全网共有57507人爆仓，2.02亿美元资金蒸发，最大单笔爆仓单发生在Okex-BTC价值551万美元。过去1小时爆仓规模190.75万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4276636.d.html</link>
+            <guid>2288165</guid>
+            <pubDate>Sun, 22 Aug 2021 01:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【林蔚：回归信息自由流通的初衷，构建开放互联的平台经济形态】“开放、中立与创新驱动 ——平台生态治理的理念和路径” 学术研讨会近日在线上举行。达晓律师事务所合伙人、北京律师协会竞争与反垄断法律专业委员会副秘书长林蔚在会上表示，世界经济格局的深刻变化，使得经济格局和反垄断法的适用出现了鸿沟，互联网大型平台实施封禁行为，会导致平台经济领域失去新陈代谢的能力，不利于对创新的保护，传统工业时代的竞争法逻辑与消费者的认知存在偏差。通过政策出台、软性约束，先形成行业的自律和共识，再推进适合的修法，以规制垄断行为可能是更好的选择。应该回归信息自由流通的初衷，构建开放互联的平台经济形态。（国是直通车）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4275932.d.html</link>
+            <guid>2288164</guid>
+            <pubDate>Sun, 22 Aug 2021 01:53:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海“双减”细则即将出炉】中国证券报记者获悉，近期上海市多个区级教育局召集教培机构负责人开会，对下周即将发布的上海市“双减”政策细则进行沟通说明。其中，对于学科类培训上课时间、非学科类培训机构如何鉴定、营利性培训机构转向非营利性培训机构程序、课时费价格制定、资金监管要求、广告投放下架等予以明确。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4275196.d.html</link>
+            <guid>2288163</guid>
+            <pubDate>Sun, 22 Aug 2021 01:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【喀布尔机场构成安全威胁 美国国防部：正在建立新撤离路线】美国国防部官员21日称，由于目前阿富汗喀布尔国际机场及周边地区构成安全威胁，美军正在建立通往机场的替代路线。美国总统拜登当天会见了国家安全团队，就阿富汗安全局势进行讨论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4273989.d.html</link>
+            <guid>2288162</guid>
+            <pubDate>Sun, 22 Aug 2021 01:39:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【涉嫌伪造文件，潮商交易违规开办“山寨交易所”！深圳金融局：从未批复】近日，深圳金融局官网发布风险提示，称接到群众反映，潮商交易涉嫌伪造深圳金融局批复文件，并违规开展有关经营活动。深圳金融局还表示，发现假冒深圳金融局名义实施诈骗活动的，请及时举报，或直接向公安机关报案。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2875626.d.html</link>
+            <guid>2288161</guid>
+            <pubDate>Sun, 22 Aug 2021 01:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川：恢复跨省团队旅游及“机票＋酒店”业务】根据《文化和旅游部办公厅关于积极应对新冠肺炎疫情进一步加强跨省旅游管理工作的通知》精神，经四川省应对新型冠状病毒肺炎疫情应急指挥部同意，从8月22日起，四川省恢复旅行社(含在线旅游企业)组织接待跨省旅游团队及“机票＋酒店”业务。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2875301.d.html</link>
+            <guid>2288160</guid>
+            <pubDate>Sun, 22 Aug 2021 01:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月22日08时45分在南桑威奇群岛（南纬60.25度，西经24.35度）发生6.9级地震，震源深度10千米。]]></title>
+            <guid>2288158</guid>
+            <pubDate>Sun, 22 Aug 2021 01:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水利部部署新一轮暴雨洪水防御工作】从水利部获悉，据预测，西北、华北、黄淮等地21日至23日将出现强降雨过程，其中河南中北部等地可能发生大暴雨，甚至特大暴雨。受其影响，海河、黄河、淮河流域部分河流可能发生超警以上洪水。国家防总副总指挥、水利部部长李国英当天主持召开防汛会商会，分析研判雨情、水情、汛情等，部署新一轮暴雨洪水防御工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4271199.d.html</link>
+            <guid>2288157</guid>
+            <pubDate>Sun, 22 Aug 2021 01:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰新增21例新冠肺炎确诊病例，社区感染病例总数增至71例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4270642.d.html</link>
+            <guid>2288156</guid>
+            <pubDate>Sun, 22 Aug 2021 01:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将在当地时间周日就阿富汗问题与飓风“亨利”问题召开新闻发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2872645.d.html</link>
+            <guid>2288153</guid>
+            <pubDate>Sun, 22 Aug 2021 01:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏昨日新增1例本土确诊病例 为扬州市报告】8月21日0—24时，江苏新增本土确诊病例1例（扬州市报告），为普通型，在定点医院隔离治疗。新增出院病例31例（本土确诊病例30例，境外输入确诊病例1例）。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2872414.d.html</link>
+            <guid>2288152</guid>
+            <pubDate>Sun, 22 Aug 2021 01:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为防止偷盗 南非首都开普敦市白天路灯长明】据南非媒体当地时间8月21日报道，开普敦市政府发布官方声明称，该市很多区域白天路灯长明，是为防止偷盗。开普敦市政府称，在正常情况下，没有理由浪费电力，但为防止偷电、人为破坏路灯及电力基础设施，以及为避免部分区域路灯自动开关控制器可能出现问题 ，该市很多区域在白天路灯长明。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4269212.d.html</link>
+            <guid>2288151</guid>
+            <pubDate>Sun, 22 Aug 2021 01:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委：8月21日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例32例，其中境外输入病例28例（上海9例，云南7例，广东6例，湖北2例，北京1例，天津1例，河南1例，四川1例），本土病例4例（上海3例，江苏1例）；无新增死亡病例；无新增疑似病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4268497.d.html</link>
+            <guid>2288150</guid>
+            <pubDate>Sun, 22 Aug 2021 00:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国新增19014例新冠肺炎确诊病例，新增233例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4267458.d.html</link>
+            <guid>2288149</guid>
+            <pubDate>Sun, 22 Aug 2021 00:47:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【次新ETF业绩首尾相差80% 部分产品“生不逢时”】一季度成立的次新ETF基金成立以来业绩表现差距较大，年内收益率首尾差距超80个百分点。其中多个细分行业首批ETF表现不佳，不少成立以来亏损10%以上，规模也遭遇大幅缩水。多位公募业内人士表示，今年以来结构性行情持续极致演绎，导致一些风格鲜明的股票型ETF表现分化。不少聚焦新兴细分赛道的特色ETF新品成立后即遭遇板块回调，业绩表现较为惨淡。ETF市场竞争愈演愈烈下，公募押注细分赛道热情不减，但基金公司追求差异化发展的同时，也面临“卡位”市场热点精准度、行业投资容量的考验。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4266942.d.html</link>
+            <guid>2288148</guid>
+            <pubDate>Sun, 22 Aug 2021 00:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国一汽与万达集团签署战略合作协议】8月20日，万达集团董事长王健林一行访问一汽，双方进行座谈交流并签署战略合作协议，携手打造汽车服务生态、共创美好生活。中国一汽与万达集团签署战略合作协议，围绕打造汽车服务生态等领域开展深入合作。双方将通过资源共享、优势互补，开创品牌营销、渠道拓展、跨界合作新模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4266694.d.html</link>
+            <guid>2288147</guid>
+            <pubDate>Sun, 22 Aug 2021 00:40:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚总理莫里森：需要将重心转向解决住院率问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4266254.d.html</link>
+            <guid>2288146</guid>
+            <pubDate>Sun, 22 Aug 2021 00:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚总理莫里森：新冠肺炎疫情数字并不能代表一切。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2868968.d.html</link>
+            <guid>2288145</guid>
+            <pubDate>Sun, 22 Aug 2021 00:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首批采购74万个 海口农贸市场试点集中采购全生物降解制品】海口市农贸市场批量采购全生物可降解塑料袋签约仪式举行，文华市场、城东市场等10余家农贸市场分别与生产企业签订采购协议。截至8月20日，首批8家农贸市场集中采购全生物可降解塑料袋数量约74万个，第二批18家市场正逐步铺开中，供货量总量约195万个。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2868462.d.html</link>
+            <guid>2288144</guid>
+            <pubDate>Sun, 22 Aug 2021 00:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国方面表示，目前已有50.4%的人口接种第一剂新冠疫苗，已有22.5%的人口完成完全接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2868424.d.html</link>
+            <guid>2288143</guid>
+            <pubDate>Sun, 22 Aug 2021 00:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国新增1628例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4265683.d.html</link>
+            <guid>2288142</guid>
+            <pubDate>Sun, 22 Aug 2021 00:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[四川省卫健委：8月21日0-24时，四川新增新型冠状病毒肺炎确诊病例1例（境外输入，为 8月13日自德国乘机抵蓉，8月21日确诊），新增治愈出院病例1例，无新增疑似病例，无新增死亡病例。]]></title>
+            <guid>2288141</guid>
+            <pubDate>Sun, 22 Aug 2021 00:32:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：塔利班政治委员会负责人将在两周内就阿未来政府组织结构作出决定】俄罗斯卫星网21日消息，消息人士透露，阿富汗塔利班政治委员会负责人阿卜杜勒·加尼·巴拉达尔将在两周内就阿富汗未来政府组织结构作出决定。报道称，阿富汗前总统哈米德·卡尔扎伊办公室的另一位消息人士表示，塔利班高级成员们讨论了在喀布尔成立包容性政府的问题，谈判在继续中。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4264875.d.html</link>
+            <guid>2288140</guid>
+            <pubDate>Sun, 22 Aug 2021 00:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东省卫健委：8月21日广东省新增境外输入确诊病例6例，新增境外输入无症状感染者7例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4264163.d.html</link>
+            <guid>2288139</guid>
+            <pubDate>Sun, 22 Aug 2021 00:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“亨利”正在快速向东北以北方向移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4263778.d.html</link>
+            <guid>2288138</guid>
+            <pubDate>Sun, 22 Aug 2021 00:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南省拟出台市场准入承诺即入制管理规定】近日，海南省市场监管局起草了《海南自由贸易港市场准入承诺即入制管理规定（征求意见稿）》，向社会公开征求意见。《规定》提出承诺即入制的定义：除涉及国家安全、社会稳定、生态环境安全、重大公共利益等国家实行准入管理的领域外，对具有保障人身健康和生命财产安全以及满足经济社会管理基本需要的技术要求相关领域，实行强制性标准管理，原则上取消许可和审批，建立健全备案制度，商事主体承诺符合相关要求并提交相关材料进行备案，即可开展投资经营活动的行政管理方式。（南海网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2865595.d.html</link>
+            <guid>2288137</guid>
+            <pubDate>Sun, 22 Aug 2021 00:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本产经新闻：东京政府将考虑利用奥运会场馆作为新冠肺炎临时医院。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4262333.d.html</link>
+            <guid>2288136</guid>
+            <pubDate>Sun, 22 Aug 2021 00:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京昨日无本地新增病例】8月21日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；新增1例境外输入确诊病例，无新增疑似病例和无症状感染者。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2864185.d.html</link>
+            <guid>2288135</guid>
+            <pubDate>Sat, 21 Aug 2021 23:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷新增新冠肺炎确诊病例5889例 累计确诊超513万例】当地时间21日，阿根廷卫生部公布，该国24小时内新增新冠肺炎确诊病例5889例，累计确诊5130852例；新增死亡病例147例，累计死亡110217例；累计治愈4804869例；现有确诊病例215766例。根据阿卫生部的数据，该国新冠肺炎新增确诊病例数已经连续3个月下降。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4261480.d.html</link>
+            <guid>2288134</guid>
+            <pubDate>Sat, 21 Aug 2021 23:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南“未雨绸缪”积极应对：部分列车停运 高速路段管制】自河南省防汛抗旱指挥部启动防汛Ⅱ级应急响应后，该省官民“未雨绸缪”积极应对即将来临的强降雨天气。自21日0时起，河南省内部分列车临时停运，部分高速路段采取临时管制措施。河南省气象局预报称，8月21日夜间至23日白天，河南省自西向东将有一次区域性强降雨天气过程，局地累计降水量最高或达400毫米。根据《河南省防汛应急预案》有关规定，河南省防汛抗旱指挥部决定自8月21日12时启动防汛Ⅱ级应急响应。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4260984.d.html</link>
+            <guid>2288133</guid>
+            <pubDate>Sat, 21 Aug 2021 23:49:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海昨日新增本地新冠肺炎确诊病例3例】2021年8月21日0—24时，通过口岸联防联控机制，上海报告9例境外输入新冠肺炎确诊病例。新增治愈出院1例，来自西班牙。新增本地新冠肺炎确诊病例3例（昨天已通报）。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4260425.d.html</link>
+            <guid>2288132</guid>
+            <pubDate>Sat, 21 Aug 2021 23:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陈吉宁调研高级别自动驾驶示范区建设工作 打造智能网联汽车产业创新发展竞争力】北京市委副书记、市长陈吉宁到经开区调研高级别自动驾驶示范区建设工作。他强调，要紧抓机遇、着眼未来，把智能网联汽车发展融入智慧城市建设当中，深化践行车路协同技术路线，拓展用好网络优势，赋能技术突破和产业创新，通过场景应用加速核心技术攻关落地，整合布局要素资源，巩固提升产业集聚态势，打造北京智能网联汽车产业创新发展竞争力，更好发挥示范引领作用。 (北京日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4260148.d.html</link>
+            <guid>2288131</guid>
+            <pubDate>Sat, 21 Aug 2021 23:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁夏启动鼠疫疫情防控四级应急响应】宁夏回族自治区应对输入性鼠疫疫情工作指挥部发布1号公告：宁夏回族自治区人民政府决定自2021年8月22日1时起，启动鼠疫疫情防控四级应急响应，全力救治患者，全面落实综合防控措施，确保疫情不传播、不扩散。8月21日，宁夏确诊一例区外输入性鼠疫（腺鼠疫）病例。根据国家有关法律法规规定和《国家鼠疫控制应急预案》，做出上述决定。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2862013.d.html</link>
+            <guid>2288129</guid>
+            <pubDate>Sat, 21 Aug 2021 23:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“亨利”来袭 美国纽约市发布紧急状态命令】当地时间8月21日下午，美国纽约市长德布拉西奥宣布，由于“亨利”飓风登陆，纽约市发布紧急状态命令。该命令要求，自22日凌晨至23日早6时，户外用餐暂时取消，建筑工地需要确保设施、人员安全并停止工作。预计“亨利”将以一级飓风或接近飓风强度在纽约市以东的长岛一带登陆。目前在纽约、康涅狄格州等地共有600万人收到飓风警报，包括纽约市在内共3600万人收到了热带风暴警告。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4258420.d.html</link>
+            <guid>2288128</guid>
+            <pubDate>Sat, 21 Aug 2021 23:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、国家发改委回应当前热点问题——巩固投资持续恢复增长态势（经济新方位）；2、六部门联合印发指导意见制造业优质企业这样培育（政策解读）；3、启动防汛Ⅲ级应急响应；4、部署新一轮暴雨洪水防御工作；5、“美国政客将科学问题政治化会造成巨大危害”；6、美《细胞》杂志刊发重要文章驳斥“实验室泄漏”阴谋论；7、“扎根中国并不断发展壮大”（见证·中国机遇）；8、中国新冠疫苗企业拓展海外联合生产；9、中国企业积极参与海地地震救援；10、科创新引擎 发展加速度；11、绿色产业蓬勃发展（雪域欢歌70载·西藏启航新时代）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2860167.d.html</link>
+            <guid>2288127</guid>
+            <pubDate>Sat, 21 Aug 2021 23:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今天《人民日报》头版的主要内容有：1、促进农业高质高效、乡村宜居宜业、农民富裕富足 铺展乡村振兴壮美画卷（“十四五”，我们这样开局起步）；2、习近平总书记给云南省沧源佤族自治县边境村的老支书们回信引发热烈反响——建设好美丽家园 维护好民族团结 守护好神圣国土；3、那曲至拉萨高速公路全线通车；4、中央代表团离开西藏返回北京；5、小驿站守护大健康（奋斗百年路 启航新征程·同心奔小康）；6、绿色产业蓬勃发展（雪域欢歌70载·西藏启航新时代）；7、截至7月末 我国5G手机终端连接数达3.92亿户。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4257470.d.html</link>
+            <guid>2288126</guid>
+            <pubDate>Sat, 21 Aug 2021 23:13:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台继续发布暴雨橙色预警 四川盆地、河南中部等地将有强降水】中央气象台今天（22日）6时继续发布暴雨橙色预警。预计，今天8时至明天8时，四川、重庆、陕西、山西、河南、湖北、安徽、江苏、山东及黑龙江等地有大到暴雨，其中，四川盆地东北部、重庆西北部、河南中部等地的部分地区有大暴雨，河南中部局地有特大暴雨。上述部分地区伴有短时强降水，局地有雷暴大风等强对流天气。为应对新一轮强降雨，中国气象局昨天（21日）也启动了Ⅲ级应急响应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2859794.d.html</link>
+            <guid>2288125</guid>
+            <pubDate>Sat, 21 Aug 2021 23:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【突尼斯新增新冠肺炎确诊病例2617例 累计确诊638072例】突尼斯卫生部当地时间8月21日通报，突尼斯新增新冠肺炎确诊病例2617例，新增死亡15例，新增治愈2177例。截至目前，突尼斯累计确诊新冠肺炎病例638072例，累计死亡22457例，累计治愈589957例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4255795.d.html</link>
+            <guid>2288124</guid>
+            <pubDate>Sat, 21 Aug 2021 22:54:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【8月21日0时至24时，云南新增境外输入确诊病例7例、无症状感染者4例】8月21日0时至24时，我省无新增新冠肺炎本土确诊病例和无症状感染者。新增境外输入确诊病例7例、无症状感染者4例。确诊病例治愈出院4例。（云南省卫生健康委员会）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4255528.d.html</link>
+            <guid>2288123</guid>
+            <pubDate>Sat, 21 Aug 2021 22:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁夏银川市确诊一例输入性鼠疫病例，现住内蒙古鄂尔多斯市，常年从事放牧工作】据宁夏卫健委网站22日凌晨3时左右通报，2021年8月21日，宁夏医科大学总医院确诊一例鼠疫（腺鼠疫）病例。目前，相关地区和单位已按照有关法律法规规定，全面启动应急处置工作机制，对涉疫区域和人员采取了严格的分类管控措施，各项处置工作正在有序推进。（每经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2858090.d.html</link>
+            <guid>2288122</guid>
+            <pubDate>Sat, 21 Aug 2021 22:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西潘塔纳尔市大火两天未熄灭 政府宣布进入紧急状态】位于巴西中南部南马托格罗索州的潘塔纳尔市20日发生火灾。该市消防部门两天奋力扑救，火势一度得到控制，但21日大火再次从居民区燃起，已威胁到当地居民生命安全。潘塔纳尔市长称该市将宣布进入紧急状态，并向南马托格罗索州政府和联邦政府请求消防支援。潘塔纳尔市紧连世界最大湿地——潘塔纳尔湿地。由于2020年南美洲经历了70年来最严重的干旱，潘塔纳尔湿地发生了历史上最严重的火灾。火灾造成大量烟雾升空，形成的气溶胶令巴西南部地区在当年9月出现长达十几天“黑云”笼罩现象，巴西南部里约热内卢和圣保罗州部分地区甚至降下黑色雨水。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4254038.d.html</link>
+            <guid>2288121</guid>
+            <pubDate>Sat, 21 Aug 2021 22:27:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国累计新冠肺炎确诊病例达37665585例】当地时间8月21日，据美国约翰斯·霍普金斯大学数据，截至美国东部时间8月21日17时21分（北京时间8月22日5时21分），美国累计新冠肺炎确诊病例达例 37665585例 ，累计死亡病例628270例。与24小时前相比，新增确诊病例239429例，新增死亡病例2045例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2855961.d.html</link>
@@ -128,482 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4233105.d.html</link>
             <guid>2287655</guid>
             <pubDate>Sat, 21 Aug 2021 16:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国实现水稻生育周期减半重要突破】近日，中国农业科学院都市农业研究所植物工厂创新团队与中国水稻研究所钱前团队合作，在植物工厂环境下成功实现水稻种植60天左右收获的重要突破，将传统大田环境下120天以上的水稻生长周期缩短了一半，这为加速作物育种提供了新的技术途径。（新华社）]]></title>
-            <guid>2287653</guid>
-            <pubDate>Sat, 21 Aug 2021 16:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：塔利班政治办公室主任将在两周内就阿富汗未来政府组织结构做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2834496.d.html</link>
-            <guid>2287646</guid>
-            <pubDate>Sat, 21 Aug 2021 15:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美使馆提醒公民远离喀布尔】当地时间周六，美国大使馆发布旅行咨询，建议在阿富汗的美国人避免前往喀布尔机场，因有数千人试图通过该机场离开阿富汗，“喀布尔机场大门外存在潜在安全威胁，应避免前往”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4230737.d.html</link>
-            <guid>2287623</guid>
-            <pubDate>Sat, 21 Aug 2021 15:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿富汗塔利班官员：正在与前政府官员讨论应对金融危机和重新开放银行的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2832102.d.html</link>
-            <guid>2287611</guid>
-            <pubDate>Sat, 21 Aug 2021 15:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部：已在喀布尔撤离约1.7万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2831226.d.html</link>
-            <guid>2287603</guid>
-            <pubDate>Sat, 21 Aug 2021 15:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安与俄罗斯总统普京通电话，两国领导人同意协调与塔利班的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2831207.d.html</link>
-            <guid>2287602</guid>
-            <pubDate>Sat, 21 Aug 2021 15:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏无锡有序开放文化旅游体育等经营场所】江苏省无锡市新型冠状病毒感染的肺炎疫情防控应急指挥部8月21日通告：即日起，除麻将馆、棋牌室、酒吧、歌舞厅、KTV、公共浴室（洗浴中心）、室内游泳馆、诊所、门诊部、校外培训机构外，其他前期暂停营业的文化旅游体育等经营场所，可按不超过75%的核定容量有序恢复开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2831199.d.html</link>
-            <guid>2287601</guid>
-            <pubDate>Sat, 21 Aug 2021 15:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增32058例新冠肺炎确诊病例，新增104例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2830115.d.html</link>
-            <guid>2287598</guid>
-            <pubDate>Sat, 21 Aug 2021 15:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【为应对强降雨 郑州铁路部门8月22日停运客车59列】据河南省气象局预报，8月21日夜间至23日白天，河南省自西向东将有一次区域性强降雨天气过程。为保障旅客生命财产安全，积极应对即将到来的强降雨，中国铁路郑州局集团有限公司自8月22日零时起，对59列担当旅客列车停运一天。其中，直通客车14列，管内客车45列。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2829111.d.html</link>
-            <guid>2287597</guid>
-            <pubDate>Sat, 21 Aug 2021 14:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利8月21日新增7470例新冠肺炎病例，新增45例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2828805.d.html</link>
-            <guid>2287594</guid>
-            <pubDate>Sat, 21 Aug 2021 14:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国天然气管网“全国一张网”基本成型】国家能源局石油天然气司等部门21日发布的《中国天然气发展报告》称，我国天然气多元供应体系持续完善，“全国一张网”基本成型。报告称，我国天然气产供储销体系建设已取得阶段性成效，四大进口战略通道全面建成，国内管网骨架基本形成，干线管道互联互通基本实现。报告指出，天然气产业规模不断扩大，需要管网设施的持续配套建设；加强储气能力建设是天然气安全稳定供应和行业健康发展的重要保障。]]></title>
-            <guid>2287580</guid>
-            <pubDate>Sat, 21 Aug 2021 14:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球第四代核电技术首个商业化示范项目开始装料】 8月21日，国家科技重大专项——全球首座球床模块式高温气冷堆核电示范工程首堆正式开始装料。高温气冷堆核电站示范工程厂址位于山东省荣成市，设计电功率200MW，采用“两堆带一机”模块化方案。中核集团中核能源科技有限公司是该工程实施主体，负责核岛工程EPC总承包，工程于2012年12月9日开工建设，2021年3月29日顺利完成双堆冷试和热试，2021年8月获得国家核安全局颁发运行许可证，计划于2021年年底实现首次并网发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2827766.d.html</link>
-            <guid>2287577</guid>
-            <pubDate>Sat, 21 Aug 2021 14:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【郑州公交明后两天停止运营】据郑州公交消息，根据郑州市防汛抗旱指挥部6号令，为有效应对暴雨天气，22日、23日，郑州公交线路全部停止运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2826970.d.html</link>
-            <guid>2287569</guid>
-            <pubDate>Sat, 21 Aug 2021 14:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：美国制裁违反两国领导人峰会精神】当地时间8月21日，俄罗斯外交部在官方网站发表声明，批评美国对俄新一轮制裁。声明指出，拜登政府的敌对行为证明，美方缺乏同俄罗斯建立伙伴关系的政治意愿，美国制裁行动与两国领导人日内瓦峰会达成的共识和协议背道而驰。声明强调，美国在阿富汗遭遇最大外交政策失败的背景下，以牵强的借口对俄罗斯实施新的制裁，将引发不可预测的后果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4223841.d.html</link>
-            <guid>2287564</guid>
-            <pubDate>Sat, 21 Aug 2021 14:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北半球高温“引爆”天然气价格，全球掀起抢天然气潮，俄罗斯减供天然气致欧洲气荒蔓延】入夏以来，随着北半球热浪来袭，制冷负荷显著增加，天然气需求激增，价格随之上涨。此外随着全球经济复苏，天然气供应缺口越来越大。亚洲、欧洲、美国天然气库存开始下降，价格一涨再涨，活脱脱就是“第二个铁矿石”。据外媒报道，目前欧洲天然气库存比5年平均水平低25%，已降至十多年来最低水平。各国开始掀起的“抢气潮”，已导致荷兰基准天然气期货价格今年飙升了50%以上，目前交易水平接近13年来最高水平。英国天然气价格更是处于16年来最高水平。然而市场最重要的天然气出口国俄罗斯，偏偏在关键时刻减少了供应。近半个月以来，德国马尔诺压缩机站作为接受俄罗斯天然气输向欧洲的重要枢纽，其所接收到来自俄罗斯的天然气流量相较以往减少了近50%，更加导致欧洲气荒蔓延。此外，近年来全球主要经济体都相继宣布加快绿色能源转型，天然气作为与煤炭、石油相比更为清洁的能源，成为转型过渡的首选资源。国际能源署发布最新能源报告显示：未来几年的天然气需求量或将呈现持续增长态势，至2024年全球天然气需求量可能增至43000亿立方米。能源转型已成为天然气需求增加的又一推手。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4223765.d.html</link>
-            <guid>2287563</guid>
-            <pubDate>Sat, 21 Aug 2021 14:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪半导体相关方回应IPO遭天元律所“牵连”中止：会尽快推进复核。（21世纪经济报道）]]></title>
-            <guid>2287558</guid>
-            <pubDate>Sat, 21 Aug 2021 14:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西多措并举满足优势商品出口，前7月外贸进出口快速增长】 广西商务厅厅长杨春庭8月21日表示，广西将做好边境口岸疏堵工作，保障友谊关通关顺畅；加强对驳船运力以及外贸集装箱调配的协调指导，确保香港“天天班”班次运行；稳定运行以广西为始发地的跨境直达中欧班列，满足优势商品出口。1-7月，广西外贸进出口3423.1亿元，同比增长32.3%，高于全国平均水平7.8个百分点，增幅在西部地区排位较1-6月提升1位，今年以来首次超过重庆。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2825963.d.html</link>
-            <guid>2287554</guid>
-            <pubDate>Sat, 21 Aug 2021 14:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球天然气价格暴涨：亚洲涨6倍，欧洲涨10倍】 曾经价格低廉的天然气，近期一跃成为大宗商品涨价王，亚洲过去一年暴涨6倍，欧洲14个月内疯涨10倍。很多国家从消费者到企业，都能感受到天然气价格暴涨带来的压力。就连天然气资源丰富的美国也顶不住了，日前天然气价格已创下近10年来最高水平。天然气不断上涨的价格，也在不断推升着各国对通货膨胀的担忧。可以说，现在天然气行业是卖方市场，俄罗斯、澳大利亚、卡塔尔等主要的天然气出口国则成了“香饽饽”。其中最不好受的当属欧洲买家，此前有消息指出，由于不愿向乌克兰支付高昂的过境费用，7月以来俄罗斯对欧洲出口的天然气总量较6月份减少了10亿立方米。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2825209.d.html</link>
-            <guid>2287547</guid>
-            <pubDate>Sat, 21 Aug 2021 14:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社：克里姆林宫表示，俄罗斯总统普京与土耳其总统埃尔多安就阿富汗局势进行了通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2823556.d.html</link>
-            <guid>2287534</guid>
-            <pubDate>Sat, 21 Aug 2021 13:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家解读港交所推A股指数期货：中性风险管理工具、有利于价格发现和市场稳定】专家表示，股指期货是一种具有双向交易功能的中性的风险管理工具，交易者既可以买多也可以卖空。境外市场的发展历程表明，股指期货有利于股票市场价格发现和风险管理。特别是从功能看，股指期货为投资者提供了对冲现货价格风险的工具，有助于减少资金“大进大出”，避免市场“大起大落”，有利于平抑股市波动，对增强股市稳定性具有积极意义。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4220605.d.html</link>
-            <guid>2287533</guid>
-            <pubDate>Sat, 21 Aug 2021 13:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：莫斯科方面将美国对俄新一轮制裁看作是无意建立伙伴关系。（卫星新闻）]]></title>
-            <guid>2287532</guid>
-            <pubDate>Sat, 21 Aug 2021 13:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蒙古国多省发现德尔塔毒株感染病例 9月或将出现下一波疫情高峰】最近两周以来，随着新冠变异病毒德尔塔毒株在蒙古国的加速传播，该国日增确诊病例数急剧上升，疫情再度呈现明显的反弹趋势。蒙古国国家传染病研究中心主任巴特图尔21日向民众发出提醒，蒙古国下一波疫情高峰可能将于9月中旬出现。截至8月18日，蒙古国多个省份已相继出现德尔塔毒株的感染病例，在各地确诊病例中的占比为10%至80%。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4220163.d.html</link>
-            <guid>2287531</guid>
-            <pubDate>Sat, 21 Aug 2021 13:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[四川8月22日起恢复跨省团队游及“机票＋酒店”业务。（川观新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2821483.d.html</link>
-            <guid>2287529</guid>
-            <pubDate>Sat, 21 Aug 2021 13:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南京出台支持企业稳定发展“十项举措”：减轻困难企业税收负担 降低社保费率】南京出台支持企业稳定发展“十项举措”，包括：减免企业转贷基金费用，对科技型中小企业、新型研发机构、海外人才创业企业和知识产权质押企业四类企业可享受零成本转贷的年度累计额度提高至不超过6000万元。减轻困难企业税收负担，对受疫情影响的住宿餐饮、文体娱乐、交通运输、旅游等行业纳税人以及增值税小规模纳税人，暂免征收第三季度房产税、城镇土地使用税。继续落实阶段性降低失业保险费率政策，对参保单位的工伤保险费率下调20%，对职工基本医疗保险（含生育保险）单位缴费费率从9.8%下调为8.8%，执行期限为2021年8月1日至10月31日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4217337.d.html</link>
-            <guid>2287528</guid>
-            <pubDate>Sat, 21 Aug 2021 13:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟委员会主席：欧盟尚未承认塔利班政权】冯德莱恩表示，她将提议增加欧盟委员会今年分配给阿富汗的5700万欧元人道主义援助。她指出，欧盟的发展援助与尊重人权、善待少数民族以及尊重妇女和女孩的权利相联系，“我们很可能听到塔利班方面的言论，但我们首先将以其行为衡量他们”。 (界面新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4217069.d.html</link>
-            <guid>2287527</guid>
-            <pubDate>Sat, 21 Aug 2021 13:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄媒：俄罗斯海军唯一航母进坞将推迟一年】 “库兹涅佐夫海军上将”号航空母舰是俄罗斯海军唯一的航空母舰，目前正在北莫尔斯克第35海军修船厂接受维修和现代化升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2819654.d.html</link>
-            <guid>2287526</guid>
-            <pubDate>Sat, 21 Aug 2021 13:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国新冠病例七天增幅重新超过100万】美国8月20日新冠肺炎病例七天滚动增幅突破100万例，为2020年冬季开始激增以来的首次——曾在2021年1月份以高于170万的水平出现峰值。其中，佛罗里达州和得州遭受德尔塔变异毒株重创，在新增病例中占比达到25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2818994.d.html</link>
-            <guid>2287525</guid>
-            <pubDate>Sat, 21 Aug 2021 13:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【富士胶片将在三年内投资700亿日元 加码半导体材料业务】据日本经济新闻报道称，富士胶片将在截至2024年3月的三年内对其半导体材料业务投资700亿日元（约41.45亿元），该投资金额将比过去三年增加40%。报道称，随着高速通信标准“5G”的普及，其投资热度不断攀升。除了定位为增长业务的医疗保健之外，富士胶片还将开发在世界范围内变得越来越重要的半导体材料，作为支柱之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2818887.d.html</link>
-            <guid>2287524</guid>
-            <pubDate>Sat, 21 Aug 2021 13:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班：对喀布尔机场混乱情况不负有责任】据阿富汗黎明电视台当地时间21日消息，塔利班方面当天表示，目前数千人正努力撤离阿富汗，塔利班对喀布尔机场的混乱不负有责任。塔利班一发言人表示，西方国家应该采取更好的措施来帮助其人员离开。虽然用于人员撤离的航班已于周五（20日）恢复，但人们仍然聚集在机场附近导致交通瘫痪，那些有资格离开的人正在努力赶上他们的航班，但是面临困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2818733.d.html</link>
-            <guid>2287523</guid>
-            <pubDate>Sat, 21 Aug 2021 13:14:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度紧急批准全球首款DNA新冠疫苗，厂商称对德尔塔毒株有效】印度药品监管机构已批准印度药企Zydus Cadila公司新冠疫苗的紧急使用授权。报道称，这是全球首款针对新冠病毒的DNA疫苗，适用于12岁及以上人群。这款疫苗名为ZyCoV-D，需接种3剂。该公司在7月曾表示，这款疫苗对新冠病毒变异毒株，特别是德尔塔变异毒株有效。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4215010.d.html</link>
-            <guid>2287522</guid>
-            <pubDate>Sat, 21 Aug 2021 13:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据华尔街日报：Citadel Securities将从对冲基金Melvin Capital中赎回约5亿美元，但预计仍能保留Melvin Capital的大股东身份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2817286.d.html</link>
-            <guid>2287521</guid>
-            <pubDate>Sat, 21 Aug 2021 13:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线走高近600美元，现报49320美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2816723.d.html</link>
-            <guid>2287520</guid>
-            <pubDate>Sat, 21 Aug 2021 12:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东方证券副总裁兼财富管理业务总部总经理徐海宁表示，近几年来，整个中国的金融产品投资市场普遍存在基金挣钱基民不挣钱的情况，作为从业人员，要不断引导基民基于自身的风险偏好和资金属性来进行资产配置。（券中社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4213841.d.html</link>
-            <guid>2287519</guid>
-            <pubDate>Sat, 21 Aug 2021 12:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝莱德基金汤晓东：中国财富管理行业迎来系统化、趋势化的发展新时代】贝莱德基金董事长、贝莱德中国区负责人汤晓东表示，预计到今年底中国个人持有的可投资的资产管理总体规模可能会达到268万亿人民币，过去平均三年的复合增长率都超过了10%，同时中国资本市场的体系运行机制，市场生态，特别是投资者保护等方面得到不断的发展和完善。中国境内资产配置也在发生结构性的变化，总体来讲中国财富管理行业迎来了系统化、趋势化的发展的新时代。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2816567.d.html</link>
-            <guid>2287518</guid>
-            <pubDate>Sat, 21 Aug 2021 12:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【部分个股估值已创新低，集中在生物医药行业】剔除去年以来上市的新股，已有75股滚动市盈率达五年内低点，其中51股估值创近十年新低。估值创新低股中，医药生物行业数量最多，共18股。22只估值新低股上半年利润翻倍。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4213457.d.html</link>
-            <guid>2287515</guid>
-            <pubDate>Sat, 21 Aug 2021 12:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本外相访问伊拉克 考虑安全未提前公布】日本外相茂木敏充当地时间21日上午访问了伊拉克巴格达。他与该国总统巴尔哈姆·萨利赫和外长等人举行会谈，并于当日启程前往伊朗。据外务省透露，这是日本外相时隔15年再次访问伊拉克。出于安全上的原因，直至抵达为止未对外公布。（日本共同社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4212355.d.html</link>
-            <guid>2287514</guid>
-            <pubDate>Sat, 21 Aug 2021 12:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长赐号再次通过苏伊士运河】据俄罗斯卫星网报道，航运服务公司GAC公司的消息人士称，“长赐”号集装箱船在被扣数月后于7月终于离开苏伊士运河。当地时间8月20日，该船再次安全通过了苏伊士运河，这也是它上月离开埃及后首次通过苏伊士运河。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2812886.d.html</link>
-            <guid>2287513</guid>
-            <pubDate>Sat, 21 Aug 2021 12:23:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所创业板发行上市审核信息公开网站信息显示，8月18日，深交所中止比亚迪半导体股份有限公司发行上市审核，因发行人律师北京市天元律师事务所被中国证监会立案调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4209714.d.html</link>
-            <guid>2287512</guid>
-            <pubDate>Sat, 21 Aug 2021 12:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东粤电阳江沙扒海上风电项目已进入最后冲刺】记者21日从中铁大桥局了解到，由该局承建的广东粤电阳江沙扒海上风电项目已进入最后冲刺阶段。当日，工人们正在安装WT54号风机机位。项目规划装机容量为300兆瓦，项目施工任务主要包括46台6.45兆瓦风机基础施工、风电机组安装和一台海上升压站。全部风电机组并网时间为2021年10月31日。 (中国新闻网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4208576.d.html</link>
-            <guid>2287511</guid>
-            <pubDate>Sat, 21 Aug 2021 12:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据扬州发布：扬州多个高风险地区降级，多地由中风险地区调整为低风险地区。调整后全市现有4个高风险地区、21个中风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4208066.d.html</link>
-            <guid>2287510</guid>
-            <pubDate>Sat, 21 Aug 2021 12:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：欧盟仅与塔利班就行动方面进行了接洽，例如在喀布尔的后勤工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2810793.d.html</link>
-            <guid>2287509</guid>
-            <pubDate>Sat, 21 Aug 2021 12:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“亨利”预计将在周六晚些时候增强为飓风，并在长岛或新英格兰南部登陆时达到或接近飓风强度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4207685.d.html</link>
-            <guid>2287508</guid>
-            <pubDate>Sat, 21 Aug 2021 12:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：并未与塔利班进行政治谈判，也不承认塔利班组织。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4207072.d.html</link>
-            <guid>2287507</guid>
-            <pubDate>Sat, 21 Aug 2021 11:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部：黄淮海地区部分河流可能发生超警以上洪水】水利部21日发布汛情通报指出，据预测，西北、华北、黄淮等地21日至23日将出现强降雨过程，其中河南中北部等地可能发生大暴雨、甚至特大暴雨。受其影响，海河、黄河、淮河流域部分河流可能发生超警以上洪水。水利部维持水旱灾害防御Ⅲ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2809529.d.html</link>
-            <guid>2287506</guid>
-            <pubDate>Sat, 21 Aug 2021 11:55:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国方面建议公民避免前往喀布尔机场，并避开机场大门。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2809269.d.html</link>
-            <guid>2287505</guid>
-            <pubDate>Sat, 21 Aug 2021 11:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【22日0时起 河南焦作火车站所有列车临时停运一天】8月21日夜间至23日白天，河南省自西向东将有一次区域性强降雨天气过程。为保障旅客生命财产安全，记者从焦作火车站获悉，自8月22日0时起，焦作火车站所有列车临时停运一天。针对列车停运，已购买停运车次的旅客可免手续费退票。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4206329.d.html</link>
-            <guid>2287504</guid>
-            <pubDate>Sat, 21 Aug 2021 11:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗塔利班发言人：已成立委员会回应媒体关心的事务】当地时间21日，阿富汗塔利班发言人扎比乌拉·穆贾希德在社交媒体上表示，已在阿富汗首都喀布尔成立了一个委员会，以回应媒体关心的事务。该委员会将由塔利班文化委员会一名负责人、记者与媒体机构联合会一名成员及喀布尔警察司令部一名成员组成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4205497.d.html</link>
-            <guid>2287503</guid>
-            <pubDate>Sat, 21 Aug 2021 11:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8月21日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、唱响新时代阿佤人民的幸福之歌——习近平总书记给云南省沧源县边境村老支书们的回信引发热烈反响；2、汪洋率中央代表团赴那曲看望慰问各族各界干部群众；3、中央代表团山南分团看望慰问当地各族各界干部群众 中央代表团日喀则分团看望慰问当地各族各界干部群众；4、中央代表团离开西藏返回北京；5、【走进乡村看小康】宜游宜业幸福长；6、我国秋粮面积增加长势好 丰收有基础；7、农业银行：加大力度服务“三农”支持乡村振兴；8、厚植传统文化 山东曲阜让新时代文明实践更有温度；9、火箭军快速反应成功发射两枚新型导弹；10、各地落细落实举措 严抓疫情防控；11、国家卫生健康委通报最新疫情；12、阿富汗政治人士与塔利班会谈将启动；13、全球新冠肺炎确诊病例超2亿987万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4205232.d.html</link>
-            <guid>2287502</guid>
-            <pubDate>Sat, 21 Aug 2021 11:41:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[《印度时报》刚刚引用阿富汗媒体消息称，所有在喀布尔的印度公民都是安全的。此前有印媒报道称，塔利班在阿富汗喀布尔机场附近抓了150多人，其中大部分是印度人。这项指控之后被塔利班发言人否认。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4204842.d.html</link>
-            <guid>2287501</guid>
-            <pubDate>Sat, 21 Aug 2021 11:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  浙江省委常委、杭州市委书记周江勇接受中央纪委国家监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2807029.d.html</link>
-            <guid>2287500</guid>
-            <pubDate>Sat, 21 Aug 2021 11:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南报告新增11321例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4204277.d.html</link>
-            <guid>2287499</guid>
-            <pubDate>Sat, 21 Aug 2021 11:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班发言人：塔利班的法律、宗教和外交政策专家打算在未来几周内提出新的治理框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2806748.d.html</link>
-            <guid>2287498</guid>
-            <pubDate>Sat, 21 Aug 2021 11:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南省防指向7个强降雨地区派出防汛工作指导组】根据防汛救灾工作要求，河南省防指决定8月21日起向郑州、开封、安阳、鹤壁、新乡、焦作及济源等7个强降雨地区分别派出防汛工作指导组，工作组由河南省水利厅、省应急厅、省自然资源厅、省委组织部、省纪委监委等部门人员组成。防汛工作指导组将重点检查河南省委省政府工作部署、省防汛视频会商会议要求和省防指3号指挥长令落实情况；雨前转移群众的具体措施；水库“三个责任人”、尾矿库“三级库长”、防洪工程巡查排查人员落实情况；抢险救援队伍预置情况，在险工险段、险库预备防汛物料情况等。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2806403.d.html</link>
-            <guid>2287497</guid>
-            <pubDate>Sat, 21 Aug 2021 11:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统普京会见哈萨克斯坦总统托卡耶夫】当地时间8月21日，俄罗斯总统普京会见哈萨克斯坦总统托卡耶夫。在当天的会谈中，普京表示，当前阿富汗局势异常严峻，将于8月23日与集体安全条约组织（集安组织）成员国领导人举行视频会议，商议与阿富汗局势相关的安全问题。对此，哈萨克斯坦总统表示，希望了解普京对阿富汗当前局势看法，以便协调政策。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2805385.d.html</link>
-            <guid>2287496</guid>
-            <pubDate>Sat, 21 Aug 2021 11:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西班牙新增新冠肺炎确诊病例6313例 累计确诊超477万例】当地时间20日，西班牙卫生部发布的最新官方数据显示，该国过去24小时新增新冠肺炎确诊病例6313例，累计确诊4770453例；过去7天新增死亡病例398例，累计死亡83136例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2805203.d.html</link>
-            <guid>2287495</guid>
-            <pubDate>Sat, 21 Aug 2021 11:18:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗总统加尼的弟弟宣誓效忠阿富汗塔利】据阿富汗多家媒体8月21日报道，阿富汗塔利班方面表示，该国总统加尼的弟弟赫什马特·加尼·艾哈迈德扎伊在塔利班核心成员哈利勒·拉赫曼·哈卡尼的见证下宣誓效忠阿富汗塔利班。拉赫曼·哈卡尼此前曾会见了阿富汗民族和解高级委员会主席阿卜杜拉·阿卜杜拉、阿富汗前总理、伊斯兰党主席古勒卜丁·希克马蒂亚尔等多位阿富汗政治人物。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4202026.d.html</link>
-            <guid>2287494</guid>
-            <pubDate>Sat, 21 Aug 2021 11:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币持续走低，短线累跌逾1100美元，最低至48346美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4201865.d.html</link>
-            <guid>2287493</guid>
-            <pubDate>Sat, 21 Aug 2021 11:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国国防部长：德国政府已经从喀布尔机场撤离了近2000人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2804295.d.html</link>
-            <guid>2287492</guid>
-            <pubDate>Sat, 21 Aug 2021 11:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8月21日，武汉国家航天产业基地研发生产的“新洲号”火箭出征酒泉卫星发射中心，将于9月份在酒泉卫星发射中心择机发射。（武汉发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2804064.d.html</link>
-            <guid>2287491</guid>
-            <pubDate>Sat, 21 Aug 2021 11:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【香港新增3例输入性新冠肺炎确诊病例 疫苗接种总数将超700万剂】香港特区政府卫生署卫生防护中心21日公布，截至当日零时，香港新增3例新冠肺炎确诊病例，均为输入性病例。目前，香港累计报告新冠肺炎确诊病例12052例，预计21日晚香港的新冠疫苗接种总剂次将超过700万剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2804022.d.html</link>
-            <guid>2287490</guid>
-            <pubDate>Sat, 21 Aug 2021 11:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线走低800美元，现报48500美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2803853.d.html</link>
-            <guid>2287489</guid>
-            <pubDate>Sat, 21 Aug 2021 11:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国实现水稻生育周期减半重要突破】近日，中国农业科学院都市农业研究所植物工厂创新团队与中国水稻研究所钱前团队合作，在植物工厂环境下成功实现水稻种植60天左右收获的重要突破，将传统大田环境下120天以上的水稻生长周期缩短了一半。这为加速作物育种提供了新的技术途径。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4200543.d.html</link>
-            <guid>2287488</guid>
-            <pubDate>Sat, 21 Aug 2021 11:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  格鲁吉亚新增新冠肺炎确诊病例4901例，累计确诊510941例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4199617.d.html</link>
-            <guid>2287487</guid>
-            <pubDate>Sat, 21 Aug 2021 10:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗新增新冠肺炎确诊病例24179例，累计确诊4640695例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2801927.d.html</link>
-            <guid>2287486</guid>
-            <pubDate>Sat, 21 Aug 2021 10:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抖音回应腾讯投诉：已下架被投诉视频超8000个】8月21日下午，抖音官方微博发布声明：近日，腾讯公司对抖音发起侵权诉讼，称其独播电视剧《扫黑风暴》在抖音上存在侵权视频。该剧集实际与抖音存在官方合作，且对用户上传的侵权视频，抖音已及时处理，具体说明如下：1、《扫黑风暴》官方主动与抖音合作宣传传播；2、处理腾讯的投诉视频超8000条。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2800057.d.html</link>
-            <guid>2287485</guid>
-            <pubDate>Sat, 21 Aug 2021 10:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国天然气管网“全国一张网”基本成型】国家能源局石油天然气司等部门21日发布的《中国天然气发展报告（2021）》称，我国天然气多元供应体系持续完善，“全国一张网”基本成型。报告称，我国天然气产供储销体系建设已取得阶段性成效，四大进口战略通道全面建成，国内管网骨架基本形成，干线管道互联互通基本实现。报告指出，天然气产业规模不断扩大，需要管网设施的持续配套建设；加强储气能力建设是天然气安全稳定供应和行业健康发展的重要保障。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2798223.d.html</link>
-            <guid>2287484</guid>
-            <pubDate>Sat, 21 Aug 2021 10:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：考虑到阿富汗当前的局势，安全问题非常重要，希望能于周一在集体安全条约组织（CSTO）的框架下举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2797072.d.html</link>
-            <guid>2287483</guid>
-            <pubDate>Sat, 21 Aug 2021 10:13:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华社：“双减”政策之后，体育培训行业是否迎来新机遇？】7月下旬，《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》正式发布。“双减”政策的落地给很多学科类培训机构带来较大冲击。但是，受访的业内人士和专家普遍认为，对于属于非学科类的体育培训行业而言，文件的出台从长远看是一个利好。“双减”新政或推动体育培训机构“提质升级”，同时专家建议加大对体育培训行业监管和服务力度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2796103.d.html</link>
-            <guid>2287482</guid>
-            <pubDate>Sat, 21 Aug 2021 10:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【佛山市：购买新能源汽车 最高补助2万元】日前，佛山市政府常务会议研究讨论并原则同意《佛山市2021年—2022年支持汽车销售企业扩大销售规模及促进新能源汽车消费工作方案》，明确将对汽车销售企业扩大汽车销售规模进行奖励以及对消费者购买新能源汽车最高补助2万元。 同时，各区各相关部门要统筹加大充电桩等充电设施建设力度，为新能源汽车推广使用创造良好环境；要推动全市物流车、渣土车、公交车、公务用车等率先使用新能源汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4192704.d.html</link>
-            <guid>2287481</guid>
-            <pubDate>Sat, 21 Aug 2021 09:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日媒：全球市场份额居首的中企明显增加】《日本经济新闻》日前报道，日本经济新闻社2020年“主要商品与服务份额调查”显示，在被调查的70个品类中，中国企业在17个品类中占据全球市场份额首位，较2019年有明显增加。调查显示，中国企业分别在移动通信基站、车载电池、个人电脑、锂电池隔膜、光伏面板、大型液晶面板、中小型液晶面板、摄像头、国际信用卡品牌、香烟、造船、大中型卡车、原油运输量、粗钢、洗衣机、冰箱、家用空调领域占据全球市场份额首位。最新公布的调查还显示，美国企业在24个品类中排在全球市场份额首位，包括智能手机操作系统、智能手表、平板电脑、云服务等领域。日本企业则在7个品类中占据首位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4191478.d.html</link>
-            <guid>2287480</guid>
-            <pubDate>Sat, 21 Aug 2021 09:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔：我们误判了阿富汗局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2793352.d.html</link>
-            <guid>2287479</guid>
-            <pubDate>Sat, 21 Aug 2021 09:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理默克尔：基民盟主席Laschet将成为德国的下一任总理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4190759.d.html</link>
-            <guid>2287478</guid>
-            <pubDate>Sat, 21 Aug 2021 09:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[扬州市医保局：9月1日起，职工基本医疗保险保费减征4个月。（交汇点新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4190103.d.html</link>
-            <guid>2287477</guid>
-            <pubDate>Sat, 21 Aug 2021 09:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡新增32例本土新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2792144.d.html</link>
-            <guid>2287476</guid>
-            <pubDate>Sat, 21 Aug 2021 09:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据中央广播电视总台驻喀布尔记者站报道员的消息，阿富汗塔利班运营的英语、阿拉伯语、乌尔都语、普什图语和达里语5个网站20日突然无法登录，目前尚不清楚是技术故障还是其他原因。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4189827.d.html</link>
-            <guid>2287475</guid>
-            <pubDate>Sat, 21 Aug 2021 09:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  截至8月20日，全国20mm三级螺纹钢均价5245元/吨，周环比下跌115元/吨；8.0mmHPB300高线均价5541元/吨，周环比下跌108元/吨。 (我的钢铁网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4188653.d.html</link>
-            <guid>2287474</guid>
-            <pubDate>Sat, 21 Aug 2021 09:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日媒：日本外相或将与伊朗总统莱希面对面会谈】多名日伊外交消息人士20日透露，本月就任伊朗总统的莱希正协调与目前访问中东的日本外相茂木敏充会谈一事。据报道，伊核问题和波斯湾局势等可能成为议题。茂木计划21-22日访问德黑兰。消息人士透露，茂木正在协调22日与总统莱希、外长扎里夫举行会谈，此外还将与预计出任莱希政府外长的前副外长阿卜杜拉希安会谈。据称由于莱希极为忙碌，也不排除取消会谈的可能性。（日本共同社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2790155.d.html</link>
-            <guid>2287473</guid>
-            <pubDate>Sat, 21 Aug 2021 09:17:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：根据预测轨迹，热带风暴“亨利” 预计将于周日在长岛或新英格兰南部地区登陆。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqcfncc4186379.d.html</link>
-            <guid>2287472</guid>
-            <pubDate>Sat, 21 Aug 2021 09:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国新增新冠肺炎确诊病例8092例，累计确诊超386万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2788424.d.html</link>
-            <guid>2287471</guid>
-            <pubDate>Sat, 21 Aug 2021 09:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：“格蕾丝” 当前位于墨西哥韦拉克鲁斯州西北方面约135英里（220公里）处。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2787875.d.html</link>
-            <guid>2287470</guid>
-            <pubDate>Sat, 21 Aug 2021 09:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
