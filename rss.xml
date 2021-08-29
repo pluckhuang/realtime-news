@@ -4,11 +4,419 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 29 Aug 2021 07:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Aug 2021 10:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【共进股份：终止2020年非公开发行股票事项】共进股份(603118)8月29日晚间公告，鉴于证监会关于核准公司本次非公开发行股票的批复12个月有效期即将届满，同时，由于资本市场环境及相关政策发生变化，考虑到公司实际情况、发展规划以及市场价值表现与融资时机的协同等诸多因素，公司决定终止2020年非公开发行股票事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1088616.d.html</link>
+            <guid>2295895</guid>
+            <pubDate>Sun, 29 Aug 2021 10:21:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯原股份：诺安基金9.21亿元受让公司2.61%股份】芯原股份(688521)8月29日晚披露股东询价转让结果报告书，本次询价转让股份的数量占总股本的比例为4.28%，转让价格为72.00元/股，交易金额15.11亿元。其中，诺安基金受让公司2.61%股份，支付金额9.21亿元；景林资产受让公司0.68%股份，支付金额2.39亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1087901.d.html</link>
+            <guid>2295894</guid>
+            <pubDate>Sun, 29 Aug 2021 10:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  盐湖股份：上半年净利润21.14亿元，同比增长52.97%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1087641.d.html</link>
+            <guid>2295893</guid>
+            <pubDate>Sun, 29 Aug 2021 10:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【微芯生物：拟发行可转债募资5亿元】微芯生物披露可转债预案，拟募集资金总额不超5亿元，投资于创新药生产基地（三期）项目、西奥罗尼联合紫杉醇治疗卵巢癌III期临床试验项目、补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2857552.d.html</link>
+            <guid>2295892</guid>
+            <pubDate>Sun, 29 Aug 2021 10:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【神州信息：上半年净利1.76亿元 同比增长12%】神州信息发布半年报，上半年实现营业收入49.3亿元，同比增长12.7%；归属于上市公司股东的净利润1.76亿元，同比增长12.36%。基本每股收益0.1831元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1087146.d.html</link>
+            <guid>2295891</guid>
+            <pubDate>Sun, 29 Aug 2021 10:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中天科技：终止中天海缆分拆至科创板上市】中天科技(600522)8月29日晚间公告，考虑到自身经营情况及未来业务战略定位，统筹安排业务发展和资本运作规划，终止所属子公司中天海缆分拆至上海证券交易所科创板上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2856994.d.html</link>
+            <guid>2295890</guid>
+            <pubDate>Sun, 29 Aug 2021 10:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡新增124例本土新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1086729.d.html</link>
+            <guid>2295889</guid>
+            <pubDate>Sun, 29 Aug 2021 10:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida） 目前位于密西西比河口以南约120公里处，最大持续风速220千米/时。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1086142.d.html</link>
+            <guid>2295888</guid>
+            <pubDate>Sun, 29 Aug 2021 10:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【锐明技术：与地平线在商用车智能化领域战略合作】锐明技术(002970)8月29日晚间公告，公司与地平线签订《战略合作框架协议》，公司将依托其在商用车安全及信息化领域的技术与经验，地平线依托其在人工智能芯片领域的技术与产品，双方将以高级辅助驾驶（ADAS）和自动驾驶等领域为重点进行技术合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2855941.d.html</link>
+            <guid>2295887</guid>
+            <pubDate>Sun, 29 Aug 2021 10:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【锦富技术：终止重组事项】锦富技术(300128)8月29日晚间公告，终止发行股份及支付现金购买资产并募集配套资金暨关联交易事项，并向深交所申请撤回相关申请文件。锦富技术原拟购买久泰精密70%的股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2855365.d.html</link>
+            <guid>2295886</guid>
+            <pubDate>Sun, 29 Aug 2021 09:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国化学：上半年净利19.32亿元 同比增长34%】中国化学披露半年报，上半年实现营业收入559.15亿元，同比增长53.08%；归母净利润19.32亿元，同比增长33.7%；基本每股收益0.37元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1084763.d.html</link>
+            <guid>2295885</guid>
+            <pubDate>Sun, 29 Aug 2021 09:55:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）的风力持续增强，预计在今天晚些时候登陆路易斯安那州东南部。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1084546.d.html</link>
+            <guid>2295884</guid>
+            <pubDate>Sun, 29 Aug 2021 09:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【泛海控股：上半年亏损5.4亿元】泛海控股披露半年报，上半年实现营业收入99.56亿元，同比增长82.24%；亏损5.4亿元，上年同期亏损4.12亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1084367.d.html</link>
+            <guid>2295883</guid>
+            <pubDate>Sun, 29 Aug 2021 09:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方生物：上半年利润同比增547.82% 新冠检测试剂销售业绩再创新高】东方生物(688298)8月29日晚间披露半年度报告，公司2021年半年度实现营业收入为63.82亿元，同比增长670.63%；归母净利润33.94亿元，同比增长547.82%；基本每股收益28.29元。2021年上半年，公司新冠相关检测试剂的销售业绩再创新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2854155.d.html</link>
+            <guid>2295882</guid>
+            <pubDate>Sun, 29 Aug 2021 09:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【申通快递：上半年亏损1.46亿元】申通快递(002468)8月29日晚间披露半年度报告，公司2021年半年度实现营业收入为110.18亿元，同比增长19.00%；亏损1.46亿元，上年同期盈利7067.78万元；基本每股收益-0.10元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2853316.d.html</link>
+            <guid>2295881</guid>
+            <pubDate>Sun, 29 Aug 2021 09:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深物业Ａ：上半年净利6.76亿元 同比增长219%】深物业Ａ发布半年报，实现营业收入25.41亿元，同比增长78.8%；归属于上市公司股东的净利润6.76亿元，同比增长219.09%；归属于上市公司股东的扣除非经常性损益的净利润6.7亿元，同比增长218.04%；基本每股收益1.1349元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2853160.d.html</link>
+            <guid>2295880</guid>
+            <pubDate>Sun, 29 Aug 2021 09:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁德时代连续参投数只私募基金】今年4月份到8月份，宁德时代每个月都参与投资一家私募基金。今年以来，宁德时代已经参投的私募基金不少于6只。这些私募基金遍布上海、北京、广东、福建、浙江、四川等多地。分析人士认为，宁德时代此次密集参与投资私募基金，如果是动力电池产业链相关上下游的布局，主要是为了增加供应链安全和降低成本。如果是对其他相关产业的布局，那么宁德时代是在以战略投资的思维，希望分享新兴产业发展的红利。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2853082.d.html</link>
+            <guid>2295879</guid>
+            <pubDate>Sun, 29 Aug 2021 09:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智飞生物：上半年净利润54.91亿元，同比增长264.94%】智飞生物8月29日晚间披露半年报，2021年上半年，公司实现营业收入131.71亿元，同比增长88.33%；归属于上市公司股东的净利润54.91亿元，同比增长264.94%；基本每股收益3.4317元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1082676.d.html</link>
+            <guid>2295878</guid>
+            <pubDate>Sun, 29 Aug 2021 09:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智光电气：上半年净利润7.2亿元 同比增2961.68%】智光电气(002169)8月29日晚间披露半年度报告，公司2021年半年度实现营业收入为8.82亿元，同比下滑2.23%；归母净利润7.2亿元，同比增长2961.68%；基本每股收益0.94元。报告期内，公司受参股的南方电网综合能源股份有限公司公允价值变动影响，本期公允价值变动收益大幅增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2851928.d.html</link>
+            <guid>2295877</guid>
+            <pubDate>Sun, 29 Aug 2021 09:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新农开发：上半年实现净利 3811万元 效益和主业良性发展】据新农开发(600359)8月29日晚间的半年报，公司上半年聚焦乳制品、棉种及棉花、甘草制品主业，强力推进三项制度改革，在艰难困境中扭转局面，推动公司经营效益和主业良性发展，从而实现全面盈利。上半年，公司实现营收入2.92 亿元，同比增长44.13%；实现归母净利润3811.22万元，同比增长306.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2850684.d.html</link>
+            <guid>2295875</guid>
+            <pubDate>Sun, 29 Aug 2021 09:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华中数控：已进入多家新能源企业供应商体系】华中数控(300161)8月29日晚间披露半年报显示，公司已组建动力电池产线专业队伍，并成功进入奔驰、神龙、福特等汽车及相关厂商，进入宁德时代、孚能科技、国轩高科等新能源汽车动力电池企业的供应商体系，订单按合同实施交付。公司将投资设立华数锦明，注册资本1亿元，开展新能源汽车动力电池装备智能生产线的应用集成、工厂级物流系统、工厂级包装系统和智能软件等领域的智能制造装备业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2850018.d.html</link>
+            <guid>2295874</guid>
+            <pubDate>Sun, 29 Aug 2021 09:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【京基智农：上半年净利润4.89亿元 同比增254%】京基智农披露半年报，上半年实现营业收入25.73亿元，同比增长208.48%；归母净利润4.89亿元，同比增长254.42%；基本每股收益0.94元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2849620.d.html</link>
+            <guid>2295873</guid>
+            <pubDate>Sun, 29 Aug 2021 09:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【天齐锂业：上半年净利润8579.75万元 同比扭亏为盈】天齐锂业披露半年报，报告期内，公司实现营业总收入23.51亿元，同比增加25.13%，主要原因系公司主要锂化合物产品销量较去年同期增长36.44%，销售均价较去年同期提高31.22%；实现净利润8,579.75万元，同比扭亏为盈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1078622.d.html</link>
+            <guid>2295872</guid>
+            <pubDate>Sun, 29 Aug 2021 09:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【强降雨致陕西安康88050人受灾】据陕西安康市官方消息，受强降水影响，该市10县区116个镇办不同程度出现洪涝灾害。截至29日12时40分，此次洪涝灾害造成88050人受灾，紧急避险转移19400人，紧急转移安置15925人，需紧急生活救助1251人。农作物受灾1287公顷，成灾面积778公顷，绝收面积335公顷，因灾死亡大牲畜370头；倒塌房屋22户53间，严重损坏房屋42户120间，一般损坏房屋339户866间。 (中国新闻网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2848606.d.html</link>
+            <guid>2295871</guid>
+            <pubDate>Sun, 29 Aug 2021 09:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：汤加Neiafu以东86公里处发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1077790.d.html</link>
+            <guid>2295870</guid>
+            <pubDate>Sun, 29 Aug 2021 09:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三一重工：2021年半年度净利润618.33亿元 同比增17.16%】三一重工(600031)8月29日晚间披露半年度报告，公司2021年半年度实现营业收入为671.28亿元，同比增长36.47%；归母净利润618.33亿元，同比增长17.16%；基本每股收益1.20元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1077737.d.html</link>
+            <guid>2295869</guid>
+            <pubDate>Sun, 29 Aug 2021 09:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国石化半年报：上半年净利润391.53亿元，上年同期亏损230亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2847545.d.html</link>
+            <guid>2295868</guid>
+            <pubDate>Sun, 29 Aug 2021 09:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  五粮液：上半年净利润132亿元，同比增长21.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1076501.d.html</link>
+            <guid>2295867</guid>
+            <pubDate>Sun, 29 Aug 2021 09:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国务院原副总理姜春云逝世】中国共产党的优秀党员，久经考验的忠诚的共产主义战士，无产阶级革命家，我国经济建设战线和社会主义法制建设的杰出领导人，中国共产党第十四届中央政治局委员、中央书记处书记，第十五届中央政治局委员，国务院原副总理，第九届全国人民代表大会常务委员会副委员长姜春云同志，因病于2021年8月28日20时57分在北京逝世，享年92岁。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1076361.d.html</link>
+            <guid>2295866</guid>
+            <pubDate>Sun, 29 Aug 2021 09:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST西域：上半年实现净利润1753万元 经营形势持续向好】*ST西域(300859)8月29日晚间发布半年报，今年上半年，新疆旅游市场快速升温，整体发展形势持续向好。公司上半年实现营业收入7266.97万元，同比增长280.47%；实现归母净利润1752.81万元，同比增长174.27%；扣费归母净利润为1764.49万元，同比增长169.96%；基本每股收益0.11元，同比增长155.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2846512.d.html</link>
+            <guid>2295865</guid>
+            <pubDate>Sun, 29 Aug 2021 09:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国太保发布半年报，上半年净利润173.04亿元，同比增长21.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1076060.d.html</link>
+            <guid>2295864</guid>
+            <pubDate>Sun, 29 Aug 2021 09:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯新增19286例新冠肺炎确诊病例，新增797例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1075804.d.html</link>
+            <guid>2295863</guid>
+            <pubDate>Sun, 29 Aug 2021 09:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【孚能科技：拟建设年产24GWh新能源电池项目】孚能科技公告，公司计划在芜湖三山经开区建设年产24GWh新能源电池项目。预计本次项目投资的资金较大，资金来源包括但不限于自有资金、银行借款、股权融资等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1075763.d.html</link>
+            <guid>2295862</guid>
+            <pubDate>Sun, 29 Aug 2021 09:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【永和股份股价异动：未生产PVDF、HFPO产品，亦无相关生产线】永和股份(605020)8月29日晚披露股票交易异常波动公告：截至目前，公司未生产PVDF、HFPO产品，亦无相关生产线。邵武永和拟投资建设的“年产10kt聚偏氟乙烯和3kt六氟环氧丙烷扩建项目”尚处于初期规划阶段，且产能规模较小，存在项目审批、建设周期及效益不达预期的风险。公司目前暂未实现原材料VDF的生产，相关项目尚处于建设过程中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2845698.d.html</link>
+            <guid>2295861</guid>
+            <pubDate>Sun, 29 Aug 2021 09:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆钢铁：上半年净利润26.97亿元 同比增2122.44%】重庆钢铁(601005)8月29日晚间披露半年度报告，公司2021年半年度实现营业收入为226.7亿元，同比增长107.46%；归母净利润26.97亿元，同比增长2122.44%。报告期内，商品坯材销售价格4,555元/吨，同比增加36.05%，增利48.54亿元；商品坯材销量475.42万吨，同比增加51.55%，增利6.48亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2845469.d.html</link>
+            <guid>2295860</guid>
+            <pubDate>Sun, 29 Aug 2021 08:58:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【罗欣药业：上半年净利2.97亿元 同比增长38%】罗欣药业公布半年报，上半年实现营业收入约34.43亿元，同比增长28.50%；归属于上市公司股东的净利润约2.97亿元，同比增长38.42%。基本每股收益0.2元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1074424.d.html</link>
+            <guid>2295859</guid>
+            <pubDate>Sun, 29 Aug 2021 08:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“诺拉”（Nora）非常接近墨西哥中西部海岸。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2844737.d.html</link>
+            <guid>2295858</guid>
+            <pubDate>Sun, 29 Aug 2021 08:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银河证券：看好A股市场长期投资价值】银河证券认为，A股市场走向长牛条件日益成熟，资本市场政策红利奠定良好基础。利率长期趋势下行，有利于企业盈利增长和估值抬升。国民资产配置关注度提升，增配权益形成趋势。权益资产的表现主要取决于上市公司的持续成长能力和稳健盈利能力。未来最值得关注的3条主线分别是新消费、高端制造、碳中和。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1072863.d.html</link>
+            <guid>2295857</guid>
+            <pubDate>Sun, 29 Aug 2021 08:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【富春环保：上半年净利2.33亿元 同比增长97%】富春环保公布半年报，上半年实现营业收入约19.17亿元，同比下降1.96%；归属于上市公司股东的净利润约2.33亿元，同比增长96.59%。基本每股收益0.2697元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2843035.d.html</link>
+            <guid>2295856</guid>
+            <pubDate>Sun, 29 Aug 2021 08:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【达威股份：1.5亿元投建智能生活一体板项目】达威股份公告，投资建设智能生活一体板项目，预计投资1.5亿元。建设内容包括：日产4000张涂装中心生产线2条、日产4000张桉木基板（科技木皮）生产线2条、日产4000张颗粒板生产线2条及物流中心建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1072306.d.html</link>
+            <guid>2295855</guid>
+            <pubDate>Sun, 29 Aug 2021 08:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【亿帆医药：将F-627相关的商业化权益许可给天晴南京顺欣】亿帆医药公告，控股子公司上海亿一同意将F-627相关的在中国境内的所有知识产权和商业化权益独家许可给天晴南京顺欣。天晴南京顺欣需向上海亿一支付最高额不超过2.1亿元的许可费，以及分级的净销售额提成费。目前，F-627主要应用于预防及治疗肿瘤患者在化疗过程中引起的嗜中性粒细胞减少症。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2842440.d.html</link>
+            <guid>2295854</guid>
+            <pubDate>Sun, 29 Aug 2021 08:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【梦网科技：上半年净利9186.15万元 同比增长205%】梦网科技发布半年报，实现营业收入13.87亿元，同比增长14.88%；归属于上市公司股东的净利润9186.15万元，同比增长204.56%。基本每股收益0.11元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1071492.d.html</link>
+            <guid>2295853</guid>
+            <pubDate>Sun, 29 Aug 2021 08:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【紫鑫药业：上半年净亏损2.06亿元】紫鑫药业发布半年报，上半年实现营业收入约1.26亿元，同比增长6.80%；归属于上市公司股东的净利润为-2.06亿元；归属于上市公司股东的扣除非经常性损益的净利润为-2.097亿元；基本每股收益为-0.16元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1071036.d.html</link>
+            <guid>2295852</guid>
+            <pubDate>Sun, 29 Aug 2021 08:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宏达电子：上半年净利3.99亿元 同比增长108%】宏达电子发布半年报，上半年归属于母公司所有者的净利润3.99亿元，同比增长108.46%；营业收入9.23亿元，同比增长77.53%；基本每股收益0.9982元，同比增长108.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1070679.d.html</link>
+            <guid>2295851</guid>
+            <pubDate>Sun, 29 Aug 2021 08:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥美医疗：上半年净利润同比降66.59% 防疫物资价量齐跌】奥美医疗(002950)8月29日晚间披露半年度报告，公司2021年半年度实现营业收入为14.97亿元，同比下滑33.65%；归母净利润2.38亿元，同比下滑66.59%；基本每股收益0.38元。公司收入与利润下滑主要系受防疫物资价量齐跌的影响，公司主要业务基本面仍持续向好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2840100.d.html</link>
+            <guid>2295850</guid>
+            <pubDate>Sun, 29 Aug 2021 08:28:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英科医疗：上半年实现净利润58.79亿元，同比增长205.98%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1069596.d.html</link>
+            <guid>2295849</guid>
+            <pubDate>Sun, 29 Aug 2021 08:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【通富微电：上半年净利润4.01亿元 同比增259.67%】通富微电(002156)8月29日晚间披露半年度报告，公司2021年半年度实现营业收入为70.89亿元，同比增长51.82%；归母净利润4.01亿元，同比增长259.67%；基本每股收益0.30元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2839017.d.html</link>
+            <guid>2295848</guid>
+            <pubDate>Sun, 29 Aug 2021 08:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【平治信息：上半年净利润1.66亿元 同比增长47%】平治信息发布半年报，上半年归属于母公司所有者的净利润1.66亿元，同比增长47.4%；营业收入14.72亿元，同比增长55.95%；基本每股收益1.34元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2838970.d.html</link>
+            <guid>2295847</guid>
+            <pubDate>Sun, 29 Aug 2021 08:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【万科2021年半年报：营业收入1671亿 净负债率20.2%】今日，万科A（000002）发布2021年中期业绩报告显示，营收1671.1亿元，归属上市公司股东净利润110.5亿元，实现合同销售金额3544.3亿元。上半年，万科保持财务健康稳健，保持“绿档”，净负债率20.2%，现金短债比1.67，剔除预收账款的资产负债率69.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1068419.d.html</link>
+            <guid>2295846</guid>
+            <pubDate>Sun, 29 Aug 2021 08:21:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华宇软件：上半年净利润同比增长1190%】华宇软件发布半年报，上半年归属于母公司所有者的净利润2.15亿元，同比增长1190.39%；营业收入21.54亿元，同比增长157.04%；基本每股收益0.26元。公司同日公告，未收到董事长邵学关于2021年半年度报告相关议案的意见，邵学将不能在本次董事会履行董事职责。同时，公司董事会获悉邵学目前被北京市监察委员会立案调查并留置。华宇软件表示，经了解，上述情况仅针对邵学个人，与公司无关。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1067861.d.html</link>
+            <guid>2295845</guid>
+            <pubDate>Sun, 29 Aug 2021 08:18:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【康泰生物：上半年净利润3.37亿元 同比增长30%】康泰生物发布半年报，上半年归属于母公司所有者的净利润3.37亿元，同比增长29.54%；营业收入10.52亿元，同比增长20.95%；基本每股收益0.4937元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2837967.d.html</link>
+            <guid>2295844</guid>
+            <pubDate>Sun, 29 Aug 2021 08:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【新华制药：上半年净利2亿元 同比增长16%】新华制药公布半年度报告，公司上半年实现营业收入约35.51亿元，同比增长8.07%；归属于上市公司股东的净利润约2.00亿元，同比增长16.12%。基本每股收益0.32元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1067412.d.html</link>
+            <guid>2295843</guid>
+            <pubDate>Sun, 29 Aug 2021 08:15:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信证券：A股将在9月迎来布局四季度行情的最佳窗口】中信证券8月29日指出，A股将在9月迎来布局四季度行情的最佳窗口，建议坚持成长价值均衡配置，并强化对价值板块的左侧布局。推荐三季度业绩有望持续超预期的机械、军工、化工的中上游高弹性品种。同时，左侧布局价值板块中有景气优势的消费和医药，推荐次高端白酒、服务机器人、疫苗，以及港股的啤酒、服饰龙头。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2837605.d.html</link>
+            <guid>2295842</guid>
+            <pubDate>Sun, 29 Aug 2021 08:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海能达：上半年净亏损1.22亿元 由盈转亏】海能达发布半年报，上半年归属于母公司所有者的净利润亏损1.22亿元，上年同期净利润2.62亿元，由盈转亏；营业收入21.65亿元，同比减少28.94%；基本每股收益-0.07元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1067118.d.html</link>
+            <guid>2295841</guid>
+            <pubDate>Sun, 29 Aug 2021 08:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华联控股：上半年净利润1.37亿元 同比减少69%】华联控股发布半年报，上半年归属于母公司所有者的净利润1.37亿元，同比减少69.1%；营业收入6.64亿元，同比减少68.41%；基本每股收益0.09元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2837182.d.html</link>
+            <guid>2295840</guid>
+            <pubDate>Sun, 29 Aug 2021 08:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【雅化集团：上半年净利3.3亿元 同比增长151%】雅化集团发布半年报，实现营业收入21.24亿元，同比增长64.35%；归属于上市公司股东的净利润3.3亿元，同比增长151.01%。基本每股收益0.2884元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1066752.d.html</link>
+            <guid>2295839</guid>
+            <pubDate>Sun, 29 Aug 2021 08:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）预计在今天晚些时候登陆路易斯安那州东南部。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1065935.d.html</link>
+            <guid>2295838</guid>
+            <pubDate>Sun, 29 Aug 2021 08:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[万科A半年报：上半年净利润110.47亿元，同比下降11.68％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1065872.d.html</link>
+            <guid>2295837</guid>
+            <pubDate>Sun, 29 Aug 2021 08:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：也门拉赫省一军事基地遭胡塞武装袭击，至少2死16伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2836122.d.html</link>
+            <guid>2295836</guid>
+            <pubDate>Sun, 29 Aug 2021 08:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾新增18528例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2835220.d.html</link>
+            <guid>2295834</guid>
+            <pubDate>Sun, 29 Aug 2021 08:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[扬州市新冠肺炎疫情防控工作指挥部：邗江区双桥街道石桥社区姚庄小区由中风险地区调整为低风险地区，其他地区风险等级不变。调整后全市现有6个中风险地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2834412.d.html</link>
+            <guid>2295833</guid>
+            <pubDate>Sun, 29 Aug 2021 07:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本东京新增3081例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2834205.d.html</link>
+            <guid>2295832</guid>
+            <pubDate>Sun, 29 Aug 2021 07:55:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列新增新冠肺炎确诊病例1536例，累计确诊1046748例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1062488.d.html</link>
+            <guid>2295831</guid>
+            <pubDate>Sun, 29 Aug 2021 07:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【安徽216个重大项目集中开工 投资额超千亿元】昨日，扎实推进长三角一体化发展暨2021年安徽省第八批重大项目集中开工动员会在安庆市举行，216个重大项目在该省同步集中开工，总投资1037亿元。据悉，216个重大项目涉及战略性新兴产业、传统产业升级改造等多个行业领域，覆盖全省16市，今年计划投资213.36亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2831227.d.html</link>
+            <guid>2295830</guid>
+            <pubDate>Sun, 29 Aug 2021 07:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国当局将于9月1日起允许航司恢复国内疫情高风险地区航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2829703.d.html</link>
+            <guid>2295829</guid>
+            <pubDate>Sun, 29 Aug 2021 07:28:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚新增20579例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2829286.d.html</link>
+            <guid>2295828</guid>
+            <pubDate>Sun, 29 Aug 2021 07:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【下周30只新基金发行 贝莱德首只基金开卖】截至8月29日，今年以来成立的新基金已经达到了1474只，募资总金额已经将近2.1万亿元。8月成立的基金有229只，募集资金2247.91亿元。下周一共有30只新基金将发行，较本周的36只有所下降。从新发基金的具体构成上来看，主动权益类基金将迎来一波发行小高峰。在这其中，关注度最高的或许是外资巨头贝莱德旗下的第一只基金了。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2829006.d.html</link>
+            <guid>2295827</guid>
+            <pubDate>Sun, 29 Aug 2021 07:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：当地时间周六，美国新增至少57194例新冠肺炎确诊病例，新增至少554例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2828054.d.html</link>
+            <guid>2295826</guid>
+            <pubDate>Sun, 29 Aug 2021 07:18:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[泰国新增新冠肺炎确诊病例16536例，累计确诊1174091例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2827556.d.html</link>
@@ -198,413 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1034190.d.html</link>
             <guid>2295792</guid>
             <pubDate>Sun, 29 Aug 2021 04:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江省市监局发布平台企业竞争合规指引 提醒国际市场反垄断合规风险】浙江省市场监督管理局日前发布关于印发《浙江省平台企业竞争合规指引》的通告：平台企业应积极了解有投资和贸易往来的每一个国家（地区）的反垄断法规定，并随时配合更新企业反垄断合规制度。平台企业应认识到，在特定国家（地区）习惯使用的商业行为模式，在其他国家（地区）并不必然被认定为合法。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1033466.d.html</link>
-            <guid>2295791</guid>
-            <pubDate>Sun, 29 Aug 2021 04:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币持续下行，失守48000美元，较日高跌超1.6万美元，日内跌幅扩大至2.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2801828.d.html</link>
-            <guid>2295790</guid>
-            <pubDate>Sun, 29 Aug 2021 04:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度新增新冠肺炎病例45083例 累计确诊超3269万例】据印度卫生部最新数据，截至当地时间8月29日早8时（北京时间10时30分），印度新冠肺炎累计确诊病例达到32695030例，其中死亡病例达到437830例，治愈出院31888642例，现存确诊病例达到368558例。过去24小时之内，印度共新增病例45083例。过去一天的死亡病例达到460例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1030354.d.html</link>
-            <guid>2295789</guid>
-            <pubDate>Sun, 29 Aug 2021 04:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车官方宣布，将于9月15日举办小鹏P5超级发布会，届时这款新车将正式与大家见面。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1030153.d.html</link>
-            <guid>2295788</guid>
-            <pubDate>Sun, 29 Aug 2021 04:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【安徽：工作日中小学课后服务要求至少2小时】安徽省教育厅官网发布规范中小学生课后服务工作通知要求：中小学生课后服务时间一般从周一至周五下午放学后开始。义务教育学校每周5天都要开展课后服务，每天至少2小时，结束时间原则上不早于当地正常下班时间，具体服务时间由各地根据实际情况确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2800154.d.html</link>
-            <guid>2295787</guid>
-            <pubDate>Sun, 29 Aug 2021 03:58:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长沙地铁：今起将对所有进站乘客增加查验新冠疫苗接种记录】据“长沙地铁”微信公众号8月29日消息，按照《湖南省应对新冠肺炎疫情联防联控机制疫情防控组关于开展居民电子健康码和新冠病毒疫苗接种记录“双码”联查工作的通知》，以及长沙市新型冠状病毒肺炎防控指挥部办公室相关要求，今日起长沙地铁在原有查验电子健康码基础上，将对所有进站乘客增加查验新冠病毒疫苗接种记录。未接种新冠病毒疫苗的乘客，须登记姓名、联系方式、身份证号码、家庭住址、未接种原因等信息后，方可进站乘车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2799835.d.html</link>
-            <guid>2295786</guid>
-            <pubDate>Sun, 29 Aug 2021 03:55:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西南策略：看好军工、新能车、资源和航运】西南证券策略最新报告称，中报即将完毕，各行业表现大相径庭，市场机会仍然处于那些景气向上的赛道中。具体而言，军工作为硬科技，高景气度在不断得到验证，目前估值与业绩匹配合理，使得军工的配置必要性增强。2）新能源汽车行业发展已经进入非线性加速发展时期，渗透率加速提升，下游销量的增长带动了上游以及中游产业链的需求快速爆发。3）上游资源类供需错配的态势有望延续，“双碳”+疫情背景下，供给端扩产仍然受限，经济复苏+能源转型，下游需求旺盛，供需错配下资源板块继续迎来长景气周期。4）全球船舶制造行业迎来新一轮上行周期，量价齐升景气度高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1028846.d.html</link>
-            <guid>2295785</guid>
-            <pubDate>Sun, 29 Aug 2021 03:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江苏扬州28日核酸采样58.48万人，已出检测结果均为阴性。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1028827.d.html</link>
-            <guid>2295784</guid>
-            <pubDate>Sun, 29 Aug 2021 03:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三菱日联：美联储与欧洲央行料出现政策差异 短期利差是欧美走势的关键】美联储将在第四季度缩减购债，而欧洲央行极有可能承诺维持紧急抗疫购债计划（PEPP）购买步伐大幅高于今年早些时候，这将导致美联储和欧洲央行的政策在年底出现相当明显的分歧。虽然市场在回应美联储缩债计划上可能出现“买预期、卖事实”的现象，导致美元维持疲软直至年底，但两大央行间的政策差异料将持续。短期利差仍是欧元兑美元更重要的驱动因素，因此量化宽松政策的变化如何影响利率预期将是重要的。欧洲央行的利率指引表明，美元近期的疲软料将有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1028326.d.html</link>
-            <guid>2295783</guid>
-            <pubDate>Sun, 29 Aug 2021 03:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西圣保罗：大型活动参与者需出示疫苗接种证明】巴西圣保罗市政府28日发布公报说，从9月1日起，大型活动参与者需出示疫苗接种证明。根据这一规定，届时超过500人的音乐会、集市、会议和体育赛事的参与者，都需要出示至少接种一剂新冠疫苗的证明。活动参与者可以通过市卫生局“电子健康”手机应用程序出示电子版证明，也可以出示纸质版证明。不遵守这一规定的活动主办方将受到处罚。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1028271.d.html</link>
-            <guid>2295782</guid>
-            <pubDate>Sun, 29 Aug 2021 03:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韵达、极兔跟进涨派费 9月1日起实施】昨日晚间，韵达方面也宣布自9月1日起全网末端派费将上调0.1元。至此，中通、圆通、申通、百世、韵达等通达系企业已全部确定上调派费。极兔速递于8月28日晚在内网发布公告，宣布自9月1日起，全网快递员派费每票上涨0.1元。 (界面)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1027124.d.html</link>
-            <guid>2295781</guid>
-            <pubDate>Sun, 29 Aug 2021 03:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  当地时间8月28日，墨西哥卫生部宣布，截至当地时间8月28日19时，墨西哥全国累计确诊新冠肺炎病例3328863例，较前一天新增了17546例。该国新增死亡病例较前一天新增756例，总数已经上升到257906例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2797478.d.html</link>
-            <guid>2295780</guid>
-            <pubDate>Sun, 29 Aug 2021 03:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以太坊短线下挫40美元，跌至3200美元/枚下方，日内跌1.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2796437.d.html</link>
-            <guid>2295779</guid>
-            <pubDate>Sun, 29 Aug 2021 03:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南极电商回应高管团队变动：团队人员都在 合作模式换了】南极电商披露的一份投资者关系活动记录表显示，8月28日，针对高管团队有比较大更换的原因，南极电商表示，团队人员都在，合作模式换了。目的是未来让他们离工厂更近，离消费者更近，离客服小二更近，离快递发货的小二更近，离数据更近。新高管做创新的项目、中后台的管理跟服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2796045.d.html</link>
-            <guid>2295778</guid>
-            <pubDate>Sun, 29 Aug 2021 03:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海通策略：牛市大格局未变 将以众乐乐实现收敛】海通策略分析师荀玉根等8月29日表示， 本轮牛市大格局未变，而历史经验显示，随着牛市到了后期，此前强势和弱势的行业均会有所表现，即牛市将以众乐乐实现收敛。宏微观基本面和统计规律看，市场具备机会，兼顾智能制造和传统中下游制造，并注意洼地行业，如券商等。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1025451.d.html</link>
-            <guid>2295777</guid>
-            <pubDate>Sun, 29 Aug 2021 03:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【字节跳动收购Pico 加码VR业务】VR创业公司Pico发出全员信，披露该公司被字节跳动收购。内部信称，用户在享受原有服务的基础上，未来将获得更多内容支持和技术升级服务。据悉，Pico将并入字节跳动的VR相关业务，整合字节的内容资源和技术能力，将在产品研发和开发者生态上加大投入。 (界面)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1024527.d.html</link>
-            <guid>2295776</guid>
-            <pubDate>Sun, 29 Aug 2021 03:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼雅加达610所学校将于8月30日恢复面授课程】根据印度尼西亚雅加达教育办公室8月27日发布的消息，8月30日，印尼雅加达地区的610所学校将恢复面授课程。但是规定教师和12岁以上儿童必须接种新冠疫苗。由于疫情暴发，印尼大部分地区的学校停课已持续一年多，经过近两个月的紧急限制政策，印尼多个地区的病例数有所下降。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2794952.d.html</link>
-            <guid>2295775</guid>
-            <pubDate>Sun, 29 Aug 2021 03:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，原定封锁到本周四的墨尔本29日通报新增92例新冠确诊病例。墨尔本是维多利亚州首府，该州州长安德鲁斯说，当地社区病例仍居高不下，因此暂时无法解封，他没有透露此次封锁将持续多久。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1023332.d.html</link>
-            <guid>2295774</guid>
-            <pubDate>Sun, 29 Aug 2021 03:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场数据显示，截至8月27日晚间，有44艘集装箱船停泊在洛杉矶和加利福尼亚长滩两个港口外，打破了今年2月初创下的40艘的记录。目前，船只平均等待时间正在从8月中旬的6.2天上升至7.6天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2793655.d.html</link>
-            <guid>2295773</guid>
-            <pubDate>Sun, 29 Aug 2021 03:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：塔利班的技术专家团队、高素质工程师已经准备好接手塔利班机场的工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792893.d.html</link>
-            <guid>2295772</guid>
-            <pubDate>Sun, 29 Aug 2021 03:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“诺拉”（Nora）在贾利斯科和纳亚里特海岸造成大量降雨，暴雨和强风将向北蔓延。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792814.d.html</link>
-            <guid>2295771</guid>
-            <pubDate>Sun, 29 Aug 2021 03:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克对英伟达收购英国芯片商Arm的计划表示担忧】据英国《每日电讯报》报道，多个消息来源称，特斯拉CEO马斯克对英伟达收购英国芯片设计商Arm的计划表达了竞争方面的担忧。据报道，亚马逊和三星电子也向美国当局提出反对这笔交易。知情人士表示，英伟达很可能在下月初为540亿美元收购Arm的交易寻求欧盟的反垄断批准，预计监管机构将在初步审查后启动全面调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2792754.d.html</link>
-            <guid>2295770</guid>
-            <pubDate>Sun, 29 Aug 2021 03:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔利班官员：塔利班和美国希望迅速移交喀布尔机场。 正在等待美国方面的最后同意，以确保完全控制喀布尔机场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1021807.d.html</link>
-            <guid>2295769</guid>
-            <pubDate>Sun, 29 Aug 2021 02:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塔利班谴责美国发动无人机袭击：这是对阿富汗领土的明确攻击】美军周六对参与策划喀布尔机场袭击的“伊斯兰国”极端组织激进分子进行空袭，塔利班对此谴责，并表示袭击之前美国并未通知塔利班。塔利班发言人称，此次行动是“对阿富汗领土的明显袭击”。该名发言人补充称，袭击造成两人死亡，两名妇女和一名儿童受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1021704.d.html</link>
-            <guid>2295768</guid>
-            <pubDate>Sun, 29 Aug 2021 02:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，美国官员透露，美国总统拜登计划在下周二之前从喀布尔撤出美国大使和外交官。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2789099.d.html</link>
-            <guid>2295767</guid>
-            <pubDate>Sun, 29 Aug 2021 02:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳重新发布第二批次居住用地集中挂牌出让公告：强化“房地联动” 进一步下调住房销售限价】今日，深圳市重新发布了2021年第二批住宅用地集中出让公告(深土交告〔2021〕38号、39号、40号、41号、42号、43号)，涉及的出让地块不变，共22宗，总用地面积约83.4公顷。此次公告主要作了以下调整优化：一是调整竞买人资质条件和准入要求，健全市场准入机制。二是优化土地竞价方式，合理限定土地溢价。三是强化“房地联动”，进一步下调住房销售限价。本批次用地普通商品住房销售限价在原限价基础上下调3%-9.2%不等，安居型商品房销售限价在原限价基础上下调2.8%-9.1%不等，通过价格引导进一步稳定市场购房预期。四是严格落实购地资金审查机制，确保房地产开发企业使用合规自有资金购地。五是强化企业信用约束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1018269.d.html</link>
-            <guid>2295766</guid>
-            <pubDate>Sun, 29 Aug 2021 02:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新增8416例新冠肺炎确诊病例，累计达3932547例，新增死亡病例12例，累计达92130例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2787618.d.html</link>
-            <guid>2295765</guid>
-            <pubDate>Sun, 29 Aug 2021 02:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，七国集团、土耳其以及卡塔尔将于下周一讨论喀布尔机场的未来运作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2786258.d.html</link>
-            <guid>2295764</guid>
-            <pubDate>Sun, 29 Aug 2021 02:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【服贸会9月在京开幕 建筑专题将首次独立亮相】2021年中国国际服务贸易交易会将于9月2日在北京开幕，本届服贸会将举办“2021年中国电子商务大会”、“服务贸易开放发展新趋势”等五场高峰论坛。 作为本次服贸会八个专题展之一，工程咨询与建筑服务首次作为独立专题将于9月3日至7日在北京首钢园区亮相。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1014713.d.html</link>
-            <guid>2295763</guid>
-            <pubDate>Sun, 29 Aug 2021 02:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新增住房供应3.8亿平米 浙江全力打造“浙里安居”品牌】近日，浙江省城乡住房工作协调委员会办公室印发《关于推进高质量发展建设共同富裕示范区打造“浙里安居”品牌的实施意见》。实施意见》明确，到2025年，政府投资公租房（含租赁补贴）保障家庭达到21万户以上，开工棚改安置住房（含货币化安置）13万套，改造城镇老旧小区3000个以上，城镇住房保障受益覆盖率达到23%。新增住宅用地供应30万亩，新增住房供应3.8亿平方米，住房公积金支持消费11500亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1014689.d.html</link>
-            <guid>2295762</guid>
-            <pubDate>Sun, 29 Aug 2021 02:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今年以来新三板挂牌公司成交金额达930亿元】根据全国中小企业股份转让系统（新三板）数据，截至8月27日收盘时，今年以来新三板挂牌公司累计成交金额930亿元。在交易方式方面，本周（8月23日至27日）新三板挂牌公司成交41.95亿元，其中精选层成交27.09亿元。在指数方面，几大指数本周运行呈下降趋势，截至8月27日收盘，三板成指报991.47点，三板做市指数报1104.23点。截至8月27日，新三板挂牌公司总计7311家。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1014621.d.html</link>
-            <guid>2295761</guid>
-            <pubDate>Sun, 29 Aug 2021 02:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，美军已经进入喀布尔机场撤离任务的最后阶段。仍有超过1000人在喀布尔机场等待撤离。 在最新的安全威胁警告发出后，机场外的人群有所减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2783367.d.html</link>
-            <guid>2295760</guid>
-            <pubDate>Sun, 29 Aug 2021 02:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【秘鲁总统接种第二剂中国国药新冠疫苗】当地时间8月28日，秘鲁总统卡斯蒂略在首都利马接种第二剂中国国药集团研发的新冠疫苗。卡斯蒂略在接种完疫苗后呼吁民众积极参与疫苗接种行动，并称国家正在全力保障民众的健康，且有充足的新冠疫苗提供给当地居民。他还表示，随着越来越多的秘鲁民众完整接种新冠疫苗，政府将进一步开放更多的社会活动，让当地生活逐步恢复正常。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1011572.d.html</link>
-            <guid>2295759</guid>
-            <pubDate>Sun, 29 Aug 2021 01:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国君策略：市场正重回上行通道 宽松预期将进一步支撑结构性的高估值】在调整与反弹的过程中，积极的信号正在逐步形成：尽管经济动能弱化，分子端盈利有所承压，但随着风险偏好的企稳，叠加无风险利率的下行，市场正在重回上行通道。当前市场已充分关注海外流动性状况并且实际演绎沿着预期曲线展开，海外对于结构性高估值的影响趋弱。同时，以我为主的货币政策、稳增长的压力、稳就业的需要共同作用下，宽松预期将进一步支撑当前市场结构性的高估值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2782060.d.html</link>
-            <guid>2295758</guid>
-            <pubDate>Sun, 29 Aug 2021 01:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息称特斯拉正与至少3家印度供应商谈判 寻求采购关键零部件】据印度经济时报消息，知情人士透露，作为进入印度市场计划的一部分，特斯拉正与至少3家印度供应商谈判，寻求采购关键零部件。据悉，Sona Comstar、Sandhar Technologies和Bharat Forge是已向特斯拉供应部件的印度公司之一。报道称，特斯拉在印度代表最近与印度汽车零部件制造商协会（ACMA）举行会议，会上讨论了关键零部件的采购问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1010144.d.html</link>
-            <guid>2295757</guid>
-            <pubDate>Sun, 29 Aug 2021 01:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国撤军接近尾声之际 塔利班发言人：正准备组建新内阁】美国撤军接近尾声之际，阿富汗塔利班发言人扎比乌拉·穆贾希德当地时间28日表示，他们正在准备组建新内阁。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2779146.d.html</link>
-            <guid>2295756</guid>
-            <pubDate>Sun, 29 Aug 2021 01:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国散户持续关注中概股 资金开始抄底】近日，在美国散户聚集地“Reddit”等网站上，关于讨论阿里巴巴的帖子热度升温。有人喊话“加仓”，有人表示“等待买点信号出现”，还有人称“阿里巴巴到了全仓买入的最佳时间”。Cathie Wood所创立的ARK基金旗下的太空科技主题ETF (ARKX)于当地时间8月23日买入了超过16万股的京东ADR，扭转了7月底以来连续抛售的态势。 (中证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2778492.d.html</link>
-            <guid>2295755</guid>
-            <pubDate>Sun, 29 Aug 2021 01:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：支持在包括美国在内的全球多国多地开展溯源研究】国家卫生健康委曾益新副主任就美国情报部门发布新冠病毒溯源调查摘要接受记者专访。曾益新表示，由美国的情报部门、而不是专业医学机构来发布溯源调查报告，这本身就很具讽刺意味，是谁在将溯源问题政治化也就一目了然。新冠病毒溯源是一个科学问题，中国政府从疫情发生以来一直支持科学开展新冠病毒溯源，但反对将溯源工作政治化，反对将溯源工作作为“甩锅”的工具。曾益新强调，新冠病毒溯源是一个复杂的科学问题，应该也只能由全球科学家合作开展研究。希望美方能够意识到病毒才是人类共同的敌人，真正地将新冠病毒溯源作为一个科学问题来对待，鼓励各国科学家通力合作，支持科学家在包括美国在内的全球多国多地深入开展溯源研究。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1006627.d.html</link>
-            <guid>2295754</guid>
-            <pubDate>Sun, 29 Aug 2021 01:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[民调显示，日本首相菅义内阁支持率跌至历史低位的26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1006018.d.html</link>
-            <guid>2295753</guid>
-            <pubDate>Sun, 29 Aug 2021 01:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国驻阿富汗大使馆：喀布尔机场附近存在威胁 建议美国公民立即离开】当地时间8月28日，美国驻阿富汗大使馆发布警告称，喀布尔机场附近存在“特定的、可信的威胁”，其中包括机场南门、新内政部大门以及位于机场西北部的大门，建议所有在机场附近的美国公民立即离开，其他美国公民应避免前往机场。美国驻阿富汗大使馆建议美国公民时刻提高警惕，遵循地方指示并关注美国官方消息，以便在紧急时刻调整计划。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1005086.d.html</link>
-            <guid>2295752</guid>
-            <pubDate>Sun, 29 Aug 2021 01:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡卫生部长：新加坡疫苗接种率达到80％，这是进一步放宽措施的关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1004712.d.html</link>
-            <guid>2295751</guid>
-            <pubDate>Sun, 29 Aug 2021 01:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡卫生部长：新加坡80％的人口已经接种新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1004639.d.html</link>
-            <guid>2295750</guid>
-            <pubDate>Sun, 29 Aug 2021 01:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，美国方面建议美国公民立即离开喀布尔机场地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2774580.d.html</link>
-            <guid>2295749</guid>
-            <pubDate>Sun, 29 Aug 2021 01:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰社区报告新增83例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2774399.d.html</link>
-            <guid>2295748</guid>
-            <pubDate>Sun, 29 Aug 2021 01:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：8月28日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者20例（均为境外输入）；当日转为确诊病例4例（均为境外输入）；当日解除医学观察23例（境外输入22例）；尚在医学观察的无症状感染者446例（境外输入374例）。]]></title>
-            <guid>2295746</guid>
-            <pubDate>Sun, 29 Aug 2021 01:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：昨日新增确诊病例33例，均为境外输入】国家卫健委：8月28日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例33例，均为境外输入病例（云南17例，上海5例，天津4例，广东3例，江苏2例，福建1例，四川1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1003046.d.html</link>
-            <guid>2295745</guid>
-            <pubDate>Sun, 29 Aug 2021 01:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚新南威尔士州新增1218例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1002880.d.html</link>
-            <guid>2295744</guid>
-            <pubDate>Sun, 29 Aug 2021 01:02:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中欧班列“江苏号”今年开行突破1000列】日前，满载笔记本电脑、高档成衣和机电产品，价值1600万美元的100个标准集装箱中欧班列“江苏号”列车X8020次，从苏州西站开出，一路向西，预计18天后抵达德国杜伊斯堡。这是今年江苏省开行的第1000列国际货运班列。今年，省班列公司将中欧班列“江苏号”编组由41车增加至50车，使得每趟列车运量提高22%；另一方面大力推动回程班列开行，把欧洲和中亚地区的奶粉、红酒、棉纱和木材等进口产品通过中欧班列运抵江苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1002748.d.html</link>
-            <guid>2295743</guid>
-            <pubDate>Sun, 29 Aug 2021 01:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币短线拉升逾500美元，现报49535美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2772265.d.html</link>
-            <guid>2295742</guid>
-            <pubDate>Sun, 29 Aug 2021 00:52:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国方面警告喀布尔机场附近存在“明确的、可信的”威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx1001277.d.html</link>
-            <guid>2295741</guid>
-            <pubDate>Sun, 29 Aug 2021 00:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东省新冠疫苗全人群全程接种覆盖率超七成】截至8月27日24时，广东累计接种达19163.25万剂次，共有8925.75万人完成了全程接种。按照全省常住人口1.26亿计算，全人群全程接种覆盖率为70.83%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2771563.d.html</link>
-            <guid>2295740</guid>
-            <pubDate>Sun, 29 Aug 2021 00:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川28日新增1例确诊病例和1例无症状感染者 均为境外输入】8月28日0—24时，四川新增新型冠状病毒肺炎确诊病例1例（境外输入，为8月27日无症状感染者转确诊），新增治愈出院病例2例，无新增疑似病例，无新增死亡病例。8月28日0—24时，四川新增无症状感染者1例（境外输入，为8月14日自埃及乘机抵蓉，8月28日诊断为无症状感染者），当日转为确诊病例1例，当日解除集中隔离医学观察0例，尚在集中隔离医学观察32例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2771212.d.html</link>
-            <guid>2295739</guid>
-            <pubDate>Sun, 29 Aug 2021 00:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【绩优基金进一步控制规模】近期，多只权益基金进一步收紧申购限额，主动限制基金规模的增长，其中不乏业绩领先的的知名产品。数据显示，截至8月27日，年内市场上共3200余只基金暂停大额申购或暂停申购。8月限购潮依旧凶猛，月初至今，已有超过400只基金发布了“限购令”。受访公募人士多表示为基金经理主动控制管理规模使然。绩优基金持续获得巨额申购，基金公司为保证基金的平稳运作进一步降低申购限额。 (中国基金报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0999601.d.html</link>
-            <guid>2295738</guid>
-            <pubDate>Sun, 29 Aug 2021 00:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【下周近2000亿元市值规模面临解禁】下周解禁压力较大，将有40只股解禁，按照最新收盘价计算，合计解禁市值1988.33亿元。4股解禁市值在百亿元以上，分别是东方盛虹、华宝股份、中国重工、圣湘生物。其中，东方盛虹解禁市值最大，为876.42亿元，下周将有27.68亿股上市流通，主要为定向增发机构配售股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2769773.d.html</link>
-            <guid>2295737</guid>
-            <pubDate>Sun, 29 Aug 2021 00:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国称55.7％的人口接种了首剂新冠疫苗，28.4％的人口已经充分接种疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0998742.d.html</link>
-            <guid>2295736</guid>
-            <pubDate>Sun, 29 Aug 2021 00:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国新增1619例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2769307.d.html</link>
-            <guid>2295735</guid>
-            <pubDate>Sun, 29 Aug 2021 00:31:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于飓风“艾达”（Ida）来袭，新奥尔良机场取消周日所有航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0997818.d.html</link>
-            <guid>2295734</guid>
-            <pubDate>Sun, 29 Aug 2021 00:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【期货公司掀起涨薪潮】目前，上市公司和新三板挂牌公司半年报披露临近收官。截至8月27日，在新三板挂牌的14家期货公司中，除天风期货尚未公布半年报以外，永安期货、海通期货等13家公司半年报均已出炉。此外，H股上市公司鲁证期货和弘业期货也公布了半年报。经计算得知，今年上半年，上述15家期货公司员工薪酬总额合计10.23亿元，去年同期为7.54亿元，同比增长35.62%；人均薪酬总额平均值约为20万元，折算成人均月薪平均值为3.33万元，去年同期为2.51万元，同比增长33.04%。 (期货日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0997310.d.html</link>
-            <guid>2295733</guid>
-            <pubDate>Sun, 29 Aug 2021 00:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚维多利亚州新增92例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0996496.d.html</link>
-            <guid>2295732</guid>
-            <pubDate>Sun, 29 Aug 2021 00:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江嘉兴：一套房源一个编码 “真房源”系统将上线】近日，嘉兴市房管中心召开了二手房交易服务平台“真房源”发布使用试点培训会，邀请了君悦、中亚、德佑3家经纪公司作为试点用户参加了培训会议。这也就意味着，“真房源”系统已经完成内部测试阶段，正逐步面向市场使用，离正式推出又近了一步。据了解，待“真房源”系统正式上线后，所有通过中介成交的二手房都必须在二手房交易服务平台申请房源核验，核验通过后，获取房源统一编码及二维码，方可在网站发布委托出售的房源信息，想要购房的消费者可以扫描二维码，实时查看房源真实信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2765731.d.html</link>
-            <guid>2295730</guid>
-            <pubDate>Sun, 29 Aug 2021 00:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“艾达”（Ida）位于路易斯安那州侯马市东南约285英里（460公里）；最大持续风速105英里/小时（165公里/小时）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0995052.d.html</link>
-            <guid>2295729</guid>
-            <pubDate>Sun, 29 Aug 2021 00:03:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：埃克森美孚路易斯安那州巴吞鲁日炼油厂将产能降低至50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2765351.d.html</link>
-            <guid>2295728</guid>
-            <pubDate>Sun, 29 Aug 2021 00:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心：昨天新冠肺炎累计确诊病例升至38709295例，日前为38527411例。昨天新冠肺炎累计死亡病例累计升至634157例，日前为632786例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2764706.d.html</link>
-            <guid>2295727</guid>
-            <pubDate>Sat, 28 Aug 2021 23:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：以色列国防军空袭加沙以北的巴勒斯坦伊斯兰抵抗运动（哈马斯）目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0994027.d.html</link>
-            <guid>2295726</guid>
-            <pubDate>Sat, 28 Aug 2021 23:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京8月28日无新增新冠肺炎确诊病例 治愈出院1例】8月28日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院1例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzscyx0993964.d.html</link>
-            <guid>2295725</guid>
-            <pubDate>Sat, 28 Aug 2021 23:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【扬州调整主城区封闭小区（自然村）管理措施 居民可分时分区有序下楼】扬州市新冠肺炎疫情防控工作指挥部发布通告，根据疫情防控工作实际，对连续封闭满21天的封闭小区（自然村），即日起调整管理措施，小区（自然村）从“足不出户”调整为“足不出小区”。小区（自然村）内的宾馆、餐馆、超市、商店、文体活动室等公共场所继续暂停开放。居民须自觉服从小区（自然村）统一安排，戴好口罩，分时、分区、分楼栋有序下楼，不扎堆、不聚集。倡导非必要不出户。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2764244.d.html</link>
-            <guid>2295724</guid>
-            <pubDate>Sat, 28 Aug 2021 23:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【昨日上海无新增本土新冠肺炎病例 新增5例境外输入病例】上海市卫健委今早通报：2021年8月28日0—24时，通过口岸联防联控机制，报告5例境外输入性新冠肺炎确诊病例。无新增本土新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2764063.d.html</link>
-            <guid>2295723</guid>
-            <pubDate>Sat, 28 Aug 2021 23:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国安全和环境执法局（BSEE）：因飓风“艾达”（Ida）逼近，美国海湾地区关闭了90.84%的原油产量及84.87%的天然气产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-29/detail-iktzqtyt2763556.d.html</link>
-            <guid>2295722</guid>
-            <pubDate>Sat, 28 Aug 2021 23:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
