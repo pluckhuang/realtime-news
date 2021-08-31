@@ -4,11 +4,297 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 31 Aug 2021 19:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Aug 2021 22:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【沪市公司上半年业绩稳中有升 科技创新韧性强】2021年上半年，沪市主板公司合计实现营业收入21.96万亿元，同比增长23.94%；实现归母净利润2.08万亿元、扣非后净利润1.98万亿元，同比分别增长43.15%、44.40%。14家集成电路公司增势尤为强劲，合计净利润同比增长1.24倍。在双碳政策引领下，沪市主板公司在新能源产业的布局持续深化。一批战略性新兴行业投资增速尤为强劲，为畅通国内大循环提供了新依托。其中，医疗器械、光伏设备增速分别为58.6%、34.8%，成为创新驱动发展的拉动性、引领性行业。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3327323.d.html</link>
+            <guid>2298871</guid>
+            <pubDate>Tue, 31 Aug 2021 22:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储9月维持利率在0%-0.25%区间的概率为100%，加息25个基点至0.25%-0.50%区间的概率为0%；11月维持利率在0%-0.25%区间的概率为99.1%，加息25个基点的概率为0.9%；12月维持利率在0%-0.25%区间的概率为99.1%，加息25个基点的概率为0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1558500.d.html</link>
+            <guid>2298870</guid>
+            <pubDate>Tue, 31 Aug 2021 22:13:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上半年毛利率下滑，提升产品力成房企共识】 Wind数据显示，申万房地产行业披露了上半年业绩的143家房企销售毛利率算术平均值为26.9%，较去年同期减少了4个百分点，近4年来首次跌破30%。尽管提升产品力与品质成为众多房企的共识，但对于行业毛利率未来表现仍存在较大分歧。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1558263.d.html</link>
+            <guid>2298869</guid>
+            <pubDate>Tue, 31 Aug 2021 22:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利央行：经济增长更强劲意味着通货膨胀越快。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1558212.d.html</link>
+            <guid>2298868</guid>
+            <pubDate>Tue, 31 Aug 2021 22:09:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本将投资1195亿日元到离岸风力发电。（日经新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1557708.d.html</link>
+            <guid>2298866</guid>
+            <pubDate>Tue, 31 Aug 2021 22:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥卫生部：新增1146例新冠肺炎确诊病例，新增835例死亡病例，累计死亡病例达259326例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3326413.d.html</link>
+            <guid>2298865</guid>
+            <pubDate>Tue, 31 Aug 2021 22:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利央行加息75个基点至1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3326252.d.html</link>
+            <guid>2298864</guid>
+            <pubDate>Tue, 31 Aug 2021 22:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【逐鹿百万亿元财富管理市场，商业银行角力私行业务】 上市银行2021年半年报显示，上半年，商业银行私人银行业务表现不俗，多家银行私行客户数量和资产规模较年初增幅均超过10%。业内人士表示，当前中国财富管理行业资产管理规模已超百万亿元，发力私人银行业务已成为金融机构向财富管理转型、提升品牌价值和竞争力的重要途径，商业银行大有可为。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1557318.d.html</link>
+            <guid>2298863</guid>
+            <pubDate>Tue, 31 Aug 2021 21:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【8月份制造业PMI保持扩张，经济延续恢复态势但基础仍需加固】 由于淡季叠加国内疫情汛情等扰动因素，8月份制造业和非制造业PMI均出现回落，不过制造业PMI仍连续18个月运行在扩张区间，表明经济继续保持恢复态势。分析人士普遍认为，随着疫情影响逐渐消退，加之9月份开工旺季及“双节”消费旺季到来，制造业和服务业PMI或很快迎来回升。未来政策需加大扩内需工作力度，巩固经济复苏基础。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1557163.d.html</link>
+            <guid>2298862</guid>
+            <pubDate>Tue, 31 Aug 2021 21:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫官员：措施旨在促进个人、非营利组织而非大投资者的购房。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3325612.d.html</link>
+            <guid>2298861</guid>
+            <pubDate>Tue, 31 Aug 2021 21:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫官员：美国将利用现有的权威机构来增加可负担住房供应，并专注于中低端市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1556855.d.html</link>
+            <guid>2298860</guid>
+            <pubDate>Tue, 31 Aug 2021 21:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫官员：美国政府将宣布在未来三年内建造、销售10万套可负担住房的措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3325080.d.html</link>
+            <guid>2298859</guid>
+            <pubDate>Tue, 31 Aug 2021 21:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日增加155.58吨，当前持仓量为17134.29吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1556294.d.html</link>
+            <guid>2298858</guid>
+            <pubDate>Tue, 31 Aug 2021 21:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【券商研报密集调整盈利预测 周期板块成主要超预期方向】随着上市公司半年报披露完毕，多家券商近期密集调整了上市公司的全年盈利预测。统计显示，过去1个月，有28家上市公司在半年报落地前后获券商上调全年盈利预测，上调幅度超过100%。其中，化工、钢铁、煤炭、有色等周期板块占绝对权重，显示相关周期行业景气度超预期。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1555962.d.html</link>
+            <guid>2298857</guid>
+            <pubDate>Tue, 31 Aug 2021 21:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大型电商继续做消费市场“稳定器”】近日，京东、阿里巴巴、拼多多都已发布2021年二季报。中南财经政法大学数字经济研究院执行院长盘和林认为，部分互联网电商上市公司二季报说明，电商在消费领域的“稳定器”作用不断增强。首先，受疫情影响，消费活跃度有所降低。电商能够连接商户和顾客，对接信息流和物流，在这个过程中让商品贸易的活跃度得以持续。互联网电商企业持续发力，能够起到稳消费的作用。其次，二季报反映出，部分上市电商企业积极开拓线上线下融合，结合本地化服务推出全新业态生态，通过多元化方式挖掘潜在消费动能。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1555807.d.html</link>
+            <guid>2298856</guid>
+            <pubDate>Tue, 31 Aug 2021 21:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【油轮堵塞在美国路易斯安那州海岸】据消息人士和机构数据统计显示，周二，当美国海岸警卫队和港口运营商评估飓风“艾达”造成的损失时，有20多艘油轮聚集在路易斯安那州海港附近，等待装卸货物，最大的瓶颈在巴吞鲁日和查尔斯湖附近。这些港口的炼油商包括埃克森美孚和雪铁龙石油。据知情人士透露，路易斯安那海上油港（LOOP）仍处于关闭状态，初步评估未发现飓风对海上平台造成重大损害。LOOP是唯一一个容纳超级油轮的深水港口。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1555366.d.html</link>
+            <guid>2298855</guid>
+            <pubDate>Tue, 31 Aug 2021 21:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报4.4542元，较周一纽约尾盘涨112点，盘中整体交投于6.4719-6.4473元区间，100日均线收报6.4578元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1555297.d.html</link>
+            <guid>2298854</guid>
+            <pubDate>Tue, 31 Aug 2021 21:15:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：阿富汗前总理希克马蒂亚尔的政党将支持阿富汗未来的新政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1554979.d.html</link>
+            <guid>2298853</guid>
+            <pubDate>Tue, 31 Aug 2021 21:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西新增24589例新冠肺炎确诊病例，新增839例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3323696.d.html</link>
+            <guid>2298852</guid>
+            <pubDate>Tue, 31 Aug 2021 21:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国路易斯安那州Fourchon港口将需要一周时间才能从4级飓风“艾达”造成的破坏中恢复过来，该海港是墨西哥湾美国离岸石油产业的最大承接基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1554969.d.html</link>
+            <guid>2298851</guid>
+            <pubDate>Tue, 31 Aug 2021 21:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ARK基金申请新的持仓透明ETF。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3323186.d.html</link>
+            <guid>2298850</guid>
+            <pubDate>Tue, 31 Aug 2021 20:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫发言人：美国不会急于承认塔利班政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3322579.d.html</link>
+            <guid>2298849</guid>
+            <pubDate>Tue, 31 Aug 2021 20:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公司债实施注册制运行18个月，892只注册生效拟发行金额5.93万亿元】 公司债公开发行实行注册制已运行18个月，在沪深交易所公开发行的公司债处于“注册生效”状态的有892只，拟发行金额约5.93万亿元。北京国家会计学院教授崔志娟表示，公司债发行实施注册制以来，注册生效的公开发行公司债数量持续增加，债券市场发展质量明显改善。公司债采用注册制发行，放宽了发行条件，但对债券发行人和证券服务机构的责任要求更加明确，债券发行的市场化导向更加明显，有利于促进债券市场发展。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1553584.d.html</link>
+            <guid>2298848</guid>
+            <pubDate>Tue, 31 Aug 2021 20:40:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国8月27日当周API原油库存减少404.5万桶，前值减少162.2万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3322059.d.html</link>
+            <guid>2298847</guid>
+            <pubDate>Tue, 31 Aug 2021 20:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至8月27日当周API原油库存(万桶)公布 -404.5，前值 -162.2，预期 -283.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3322004.d.html</link>
+            <guid>2298846</guid>
+            <pubDate>Tue, 31 Aug 2021 20:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大类资产ETF多数收跌，农产品基金跌超1.3%，美国布伦特原油基金跌0.8%，美国国债20+年ETF跌约0.7%，大豆基金跌约0.5%，恐慌指数做多跌约0.4%，新兴市场ETF涨超1.3%，美国房地产ETF涨约0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1552907.d.html</link>
+            <guid>2298845</guid>
+            <pubDate>Tue, 31 Aug 2021 20:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数的11板块涨跌各异，能源板块收跌逾0.7%，信息技术板块跌超0.5%，原材料和工业板块均跌约0.3%，房地产板块则涨超0.6%。8月份，能源跌约2.9%，表现最差，电信涨超5.1%，领跑标普500指数的11个板块，金融、信息技术、公用事业板块涨幅介于3.2%-3.6%，房地产和医疗保健板块涨超2.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3321468.d.html</link>
+            <guid>2298844</guid>
+            <pubDate>Tue, 31 Aug 2021 20:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF多数收跌，半导体ETF跌超0.7%，能源业ETF跌超0.6%，科技行业ETF跌超0.5%，全球科技股指数ETF、网络股指数ETF跌超0.4%，全球航空业ETF涨约1%，区域银行ETF涨超0.8%，银行业ETF涨约0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3321463.d.html</link>
+            <guid>2298843</guid>
+            <pubDate>Tue, 31 Aug 2021 20:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：截至2020年底，美国持有外国股票总价值约为10.6万亿美元，持有外国长期债务证券总值约3.4万亿美元，持有外国短期债务证券约0.4万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1552639.d.html</link>
+            <guid>2298842</guid>
+            <pubDate>Tue, 31 Aug 2021 20:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：调查显示，截至2020年底，美国持有的外国证券总价值约为14.4万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1552527.d.html</link>
+            <guid>2298841</guid>
+            <pubDate>Tue, 31 Aug 2021 20:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增3789例新冠肺炎确诊病例，新增22例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3321280.d.html</link>
+            <guid>2298840</guid>
+            <pubDate>Tue, 31 Aug 2021 20:11:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：新冠病毒C.1.2变异毒株并未加速传播】当地时间8月31日，世卫组织发言人玛格丽特·哈里斯表示，世卫组织已与南非研究学者取得联系，对其首先发现的新冠病毒C.1.2变异毒株进行监测和评估，目前该变异毒株并未加速传播，未被世卫组织列为“需关注的变异毒株”。此前，南非国家传染病研究所曾表示，正在密切关注被命名为“C.1.2”的新冠病毒新型变异毒株，该变异毒株包含多重突变，研究人员怀疑其可能逃避部分免疫系统的“攻击”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3320883.d.html</link>
+            <guid>2298839</guid>
+            <pubDate>Tue, 31 Aug 2021 20:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指本月累涨1.21%，纳指本月累涨4%；标普500指数本月累涨2.9%，标普500指数连续第七个月录得月度涨幅。]]></title>
+            <guid>2298838</guid>
+            <pubDate>Tue, 31 Aug 2021 20:02:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大股指小幅收跌，道指初步收跌约40点，中概股回暖，钢铁板块跌幅居前。Zoom收跌超16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3320721.d.html</link>
+            <guid>2298837</guid>
+            <pubDate>Tue, 31 Aug 2021 20:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【八成深市公司上半年增收盈利，板块亮点纷呈】 深市2492家公司2021年上半年业绩大幅提升，营业收入和净利润均实现两位数增长，展现出蓬勃活力和强大韧性。整体来看，上半年逾八成公司实现盈利，逾八成营业收入规模扩大，逾六成净利润实现增长。深市主板公司中，金融、医药生物、电子、食品饮料、化工、计算机等消费与科技行业总市值位居前列。创业板公司净利润同比增长33.56%，龙头企业表现亮眼，战略新兴产业增长强劲，注册制下新上市公司业绩稳定，创业板服务成长型创新创业企业能力进一步提升。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1551897.d.html</link>
+            <guid>2298836</guid>
+            <pubDate>Tue, 31 Aug 2021 19:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威工党领袖Store：应发展石油工业，而不是停止。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1551893.d.html</link>
+            <guid>2298835</guid>
+            <pubDate>Tue, 31 Aug 2021 19:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：20年来，美国在阿富汗战争上平均每天花费3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1551719.d.html</link>
+            <guid>2298834</guid>
+            <pubDate>Tue, 31 Aug 2021 19:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[理想汽车尾盘小幅拉涨，现涨超5%。其他新能源汽车股中，小鹏汽车、蔚来汽车涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1551705.d.html</link>
+            <guid>2298833</guid>
+            <pubDate>Tue, 31 Aug 2021 19:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世卫组织：全球累计新冠确诊病例达216867420例。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3320028.d.html</link>
+            <guid>2298832</guid>
+            <pubDate>Tue, 31 Aug 2021 19:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【基金上半年盈利6478亿，绩优基金经理看好结构性行情】 上半年A股市场演绎结构性行情，但偏股基金表现不弱，基金上半年合计盈利达6478.5亿元。受益于公募基金总规模的大幅增长，基金管理费、托管费、交易费、销售服务费合计达到989.97亿元，较去年同期显著增长。今年以来的业绩冠军金鹰民族新兴基金经理韩广哲表示，展望三四季度，A股有望延续结构性行情，新能源、生物疫苗等细分行业仍存在较好的行业景气度与发展趋势，相关领域领先公司的盈利有望保持较好表现，基本面确定性较高，因而可能继续受到较高关注。同时，也需注意公司盈利增速与动态估值水平的匹配程度。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3320003.d.html</link>
+            <guid>2298831</guid>
+            <pubDate>Tue, 31 Aug 2021 19:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：通过空中行动撤出了10万名阿富汗人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1551145.d.html</link>
+            <guid>2298830</guid>
+            <pubDate>Tue, 31 Aug 2021 19:40:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股NFT概念走高，大公文化(TKAT)涨13.2%，东方文化(OCG.O)涨超7%，Funko(FNKO.O)涨6.9%。]]></title>
+            <guid>2298829</guid>
+            <pubDate>Tue, 31 Aug 2021 19:40:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：预计特斯拉Q4业绩强劲】据媒体报道，全球股票研究公司分析师Trip Chowdhry表示，预计特斯拉(TSLA.O)第四季度业绩“强劲”。分析师此前参观了弗里蒙特工厂。他指出，该工厂的生产活动已“恢复正常”。在评估整体进展时，分析师表示，工厂的全面运作让他对特斯拉在第四季度取得强劲业绩“非常有信心”。这位分析师还分享了几张参观期间拍摄的照片，包括准备交付的Model S Plaid。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1551034.d.html</link>
+            <guid>2298828</guid>
+            <pubDate>Tue, 31 Aug 2021 19:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：相信仍有100至200名美国人留在了阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3319700.d.html</link>
+            <guid>2298827</guid>
+            <pubDate>Tue, 31 Aug 2021 19:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆阿拉山口口岸进出境中欧（中亚）班列今年累计突破4000列】 8月31日下午，一列驶往波兰马拉舍维奇的中欧班列由新疆阿拉山口口岸通关出境，至此，阿拉山口口岸今年累计通行进出境中欧（中亚）班列数量突破4000列，货运量超过300万吨，同比分别增长28.4%和47.9%。截至目前，阿拉山口口岸已累计通行中欧班列超2万列，总货运量超过1142.8万吨，经阿拉山口口岸通行的中欧中亚班列线路达50条，可到达德国、波兰、比利时、俄罗斯等20多个国家，搭载货物品类超过200种。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3319505.d.html</link>
+            <guid>2298826</guid>
+            <pubDate>Tue, 31 Aug 2021 19:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北美能源基础设施公司KINDER MORGAN发言人：在努力恢复巴吞鲁日输送管道电力的同时，部分产品的输送管道仍在继续运作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3319172.d.html</link>
+            <guid>2298825</guid>
+            <pubDate>Tue, 31 Aug 2021 19:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国证券交易委员会：正在监测飓风艾达对资本市场的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1550397.d.html</link>
+            <guid>2298824</guid>
+            <pubDate>Tue, 31 Aug 2021 19:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特朗普：加密货币“可能是一场等待发生的灾难”】，美国前总统特朗普周二警告称，投资加密货币“可能是一场等待发生的灾难”，并称自己“不是加密货币的忠实粉丝”。特朗普称：“我喜欢美国的货币，投资加密货币‘损害了美国货币’，我们应该投资于我们的货币”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1550386.d.html</link>
+            <guid>2298823</guid>
+            <pubDate>Tue, 31 Aug 2021 19:24:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国疾控中心：美国已有超过2.05亿人至少接种了一剂新冠疫苗，超过1.74亿人完全接种新冠疫苗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1549901.d.html</link>
@@ -317,290 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1538964.d.html</link>
             <guid>2298771</guid>
             <pubDate>Tue, 31 Aug 2021 16:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行官员苏黎世布鲁格：目前瑞士抵押贷款和房地产市场的脆弱性很高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3307420.d.html</link>
-            <guid>2298770</guid>
-            <pubDate>Tue, 31 Aug 2021 16:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行官员苏黎世布鲁格：发达经济体央行的扩张性政策仍有必要抵消新冠疫情危机的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3306825.d.html</link>
-            <guid>2298769</guid>
-            <pubDate>Tue, 31 Aug 2021 16:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行官员苏黎世布鲁格：一方面看到了抵押贷款不可持续的明显迹象，另一方面也看到了价格调整风险增加的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1538044.d.html</link>
-            <guid>2298768</guid>
-            <pubDate>Tue, 31 Aug 2021 16:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行官员苏黎世布鲁格：预计全球低利率环境将在未来一段时间内保持不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1538031.d.html</link>
-            <guid>2298767</guid>
-            <pubDate>Tue, 31 Aug 2021 16:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率涨穿1.31%，较日低反弹逾4个基点，在8月份交易日即将结束之际，投资者关注欧洲央行管委希望欧元区明年3月份结束PEPP。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1537873.d.html</link>
-            <guid>2298766</guid>
-            <pubDate>Tue, 31 Aug 2021 16:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非新增7086例新冠肺炎确诊病例，累计达2777659例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzscyx1537576.d.html</link>
-            <guid>2298765</guid>
-            <pubDate>Tue, 31 Aug 2021 16:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挪威财政部长：政府提议从2022年起改变石油税制度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3306353.d.html</link>
-            <guid>2298764</guid>
-            <pubDate>Tue, 31 Aug 2021 16:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【丁磊：网易游戏中未成年用户财务贡献占比不到1%】在网易(NTES.O)2021年第二季度财报电话会上，分析师问及最新出台的未成年人网游防沉迷新规对网易的影响，网易CEO丁磊表示，通知出台后，会让未成年人最大程度地远离对游戏的依赖，网易也期待行业内所有公司都能够积极地落实这项决定，让中国的未成年人在一个更加健康的环境下成长，这是一个非常好的措施。丁磊同时表示，根据目前测算，该监管对网易的财务影响不到1%。网易高管表示，这是指18岁以下未成年用户的财务贡献占网易游戏总收入不到1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3306108.d.html</link>
-            <guid>2298763</guid>
-            <pubDate>Tue, 31 Aug 2021 16:10:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国新增32181例新冠肺炎确诊病例，新增50例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3305401.d.html</link>
-            <guid>2298762</guid>
-            <pubDate>Tue, 31 Aug 2021 16:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：北达科他州6月份石油产量比5月份增加了3000桶/日；得州减少22000桶/日；墨西哥湾增加1.8万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3305385.d.html</link>
-            <guid>2298761</guid>
-            <pubDate>Tue, 31 Aug 2021 16:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股钢铁股走弱。纽柯钢铁(NUE.N)跌近3%，克里夫斯天然资源公司(CLF.N)跌2.5%，美国钢铁(X.N)跌1.7%。]]></title>
-            <guid>2298760</guid>
-            <pubDate>Tue, 31 Aug 2021 16:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苹果手表Apple Watch 7的生产被推迟】日经新闻援引多位知情人士的话报道称，新一代苹果手表生产已被推迟，主要因设计复杂。苹果手表Apple Watch7的制造商上周开始小规模生产，但在达到令人满意的生产性能方面遇到关键挑战。三位知情人士表示，当前生产质量令人失望可能是由于设计复杂，新一代苹果手表与前几代的设计存在显著差异。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-01/detail-iktzqtyt3305312.d.html</link>
-            <guid>2298759</guid>
-            <pubDate>Tue, 31 Aug 2021 16:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会专员：欧盟委员会将于9月召开特别高层会议，讨论阿富汗难民的安置问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1536018.d.html</link>
-            <guid>2298758</guid>
-            <pubDate>Tue, 31 Aug 2021 15:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门胡塞武装否认袭击沙特南部】当地时间31日，沙特南部地区以及艾卜哈国际机场遭无人机袭击，沙特方面指责为也门胡塞武装所为，胡塞武装对此进行了否认。胡塞武装“士气鼓动局”（军队宣传机构）副局长阿比德接受了本台电话采访，阿比德表示该袭击事件并非胡塞武装所为，任何成功的袭击事件，他们都会在第一时间对外宣布“战果”的。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1535758.d.html</link>
-            <guid>2298757</guid>
-            <pubDate>Tue, 31 Aug 2021 15:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国平方公里阵列射电望远镜（SKA）正式启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3304275.d.html</link>
-            <guid>2298756</guid>
-            <pubDate>Tue, 31 Aug 2021 15:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[由于美元反弹，欧元兑美元EUR/USD抹去涨幅，现跌至1.1799。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3304202.d.html</link>
-            <guid>2298755</guid>
-            <pubDate>Tue, 31 Aug 2021 15:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据日经新闻：因新款苹果手表设计复杂，苹果将推迟生产苹果手表。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1534756.d.html</link>
-            <guid>2298754</guid>
-            <pubDate>Tue, 31 Aug 2021 15:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银称美联储新政策框架意味着可以对美国国债实施“逢低买入”策略】美国银行的Ralph Axel表示，美联储的灵活平均通胀目标框架将较高概率导致美联储长期按兵不动，或者甚至在没有衰退威胁情况下降息。考虑到全球通缩压力，10年期国债收益率可以合理地保持非常低水平，并且可能在整个经济复苏阶段都处于非常低位置，这意味着10年期国债收益率峰值将低于2015-18年周期的高点3.2％。因此，只要美联储坚持新政策框架并且反通胀力量保持不变，债券市场就可以实施‘逢低买入’策略。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1534695.d.html</link>
-            <guid>2298753</guid>
-            <pubDate>Tue, 31 Aug 2021 15:36:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【意大利新增5498例新冠肺炎确诊病例】意大利新增5498例新冠肺炎确诊病例，前一天新增4257例；新增75例死亡病例，前一天新增53例。]]></title>
-            <guid>2298752</guid>
-            <pubDate>Tue, 31 Aug 2021 15:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌0.58%，报469.93点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1534446.d.html</link>
-            <guid>2298751</guid>
-            <pubDate>Tue, 31 Aug 2021 15:32:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌0.69%，报15778.96点。法国股指初步收跌0.30%，英国股指初步收跌0.53%，意大利股指初步收跌0.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3303323.d.html</link>
-            <guid>2298750</guid>
-            <pubDate>Tue, 31 Aug 2021 15:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【“双减”实施一个多月，体育类培训迅速升温】“双减”政策实施一个多月以来，学科类校外培训全面压减，有了更多时间的孩子们开始参与到体育运动当中，而这也带火了体育培训。随着这几年家长对素质教育的重视程度不断提升，体育培训行业一直呈逐年上升的趋势，此次“双减”政策发布后，不仅学生的空闲时间增多了，不少学科类培训释放出来的家庭资金，也投入到了体育项目上。清华大学体育产业发展研究中心主任王雪莉认为，现在是比最早期更加规范的一个阶段，“双减”政策之后，体育培训就有更多的时间和空间，随着整个社会的发展，对健康的高度重视，体育培训行业还会有一个非常好的发展。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3303032.d.html</link>
-            <guid>2298749</guid>
-            <pubDate>Tue, 31 Aug 2021 15:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北向资金8月净流入269亿：加仓中国资本市场的趋势在继续】 A股市场8月交易正式收官，北向资金尽管月中出现连续两日的大幅净流出，8月仍有269.05亿元的净流入。瑞银证券A股策略分析师孟磊表示，未来4到5个月的时间还会有超过1000亿元人民币的海外资金净流入。“不管是从北向或者QFII资金的净流入来看，还是我们看到的总体交易量上面，投资中国和加仓中国资本市场的趋势仍然在继续。”瑞银全球金融市场部中国主管房东明说。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3303012.d.html</link>
-            <guid>2298748</guid>
-            <pubDate>Tue, 31 Aug 2021 15:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印度中央统计局今日公布的数据显示，印度今年第二季度经济同比增长20.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3302998.d.html</link>
-            <guid>2298747</guid>
-            <pubDate>Tue, 31 Aug 2021 15:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  生物制药公司AC Immune(ACIU.O)涨超35%，现报9.5美元，此前一度涨超70%，公司与罗氏共同研发的单抗Semorinemab在试验中显示对轻中度阿尔茨海默病患者认知能力有改善作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1534106.d.html</link>
-            <guid>2298746</guid>
-            <pubDate>Tue, 31 Aug 2021 15:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增5498例新冠肺炎确诊病例，前一天新增4257例；新增75例死亡病例，前一天新增53例。]]></title>
-            <guid>2298745</guid>
-            <pubDate>Tue, 31 Aug 2021 15:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙：墨西哥湾平台的生产仍处于关闭状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3302612.d.html</link>
-            <guid>2298744</guid>
-            <pubDate>Tue, 31 Aug 2021 15:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国联邦调查局的数据，仇恨犯罪在美国已上升至十多年来的最高水平。数据显示，去年美国发生了7759起仇恨犯罪事件，比2019年报告的总数增加了约470起，增幅6%。大多数报告的仇恨犯罪都是出于种族、民族或血统偏见（63.7%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3302601.d.html</link>
-            <guid>2298743</guid>
-            <pubDate>Tue, 31 Aug 2021 15:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY上破110.00关口。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1533537.d.html</link>
-            <guid>2298742</guid>
-            <pubDate>Tue, 31 Aug 2021 15:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[慈善信息：荷兰皇家壳牌重启在墨西哥湾的“Turritella”号浮式生产储油卸油轮（FPSO）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3302225.d.html</link>
-            <guid>2298741</guid>
-            <pubDate>Tue, 31 Aug 2021 15:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数从11年高点回落】波罗的海干散货运价指数周二跌103点或2.4%，报4132点，从逾11年高点回落，但该指数在三个月来第二次上涨，因全球航运受限和需求强劲。海岬型船运价指数跌243点或3.9%，报6919点，8月份累涨37.5%，日均获利减少2010美元至49089美元。巴拿马型船运价指数跌93点或2.4%，报3781点，8月份累涨14.4%，日均获利减少842美元至34028美元。超灵便型船运价指数涨7点，报3477点，续创历史新高，8月份累涨18.1%，为2月份以来表现最好的一个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1533230.d.html</link>
-            <guid>2298740</guid>
-            <pubDate>Tue, 31 Aug 2021 15:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度报告接种了1040万剂新冠疫苗，累计接种量达6.512亿剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3302118.d.html</link>
-            <guid>2298739</guid>
-            <pubDate>Tue, 31 Aug 2021 15:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国20年期和30年期国债收益率升至7月中旬以来的最高水平，当日上涨6个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3301980.d.html</link>
-            <guid>2298738</guid>
-            <pubDate>Tue, 31 Aug 2021 15:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为53，表明市场处在中性状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1532959.d.html</link>
-            <guid>2298737</guid>
-            <pubDate>Tue, 31 Aug 2021 15:10:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500通讯服务业指数现涨0.2%，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1532781.d.html</link>
-            <guid>2298736</guid>
-            <pubDate>Tue, 31 Aug 2021 15:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三星正式通知涨价 代工价格提高15%-20%】继台积电宣布全线涨价后，韩国晶圆代工厂商Key Foundry和三星都已通知客户，将在今年下半年提高代工价格。知情人士表示，以上两家公司最近已通知客户，计划将代工价格提高15%-20%。据称，此举已经获得了一些客户同意，并已经签订新的合同。具体的价格涨幅取决于客户的订单量、芯片种类和合同期限，新价格将在4至5个月后正式生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1532738.d.html</link>
-            <guid>2298735</guid>
-            <pubDate>Tue, 31 Aug 2021 15:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国债下跌，10年期国债收益率升至1.30％，刷新日高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1532613.d.html</link>
-            <guid>2298734</guid>
-            <pubDate>Tue, 31 Aug 2021 15:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，美国消费者对劳动力市场的评估有所下降，8月份有54.6%的消费者表示工作岗位“很多”，低于上月的55.2%；11.8%的消费者表示工作“很难找”，高于上月的11.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3301439.d.html</link>
-            <guid>2298733</guid>
-            <pubDate>Tue, 31 Aug 2021 15:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院将对加拿大的旅行警告提高到“3级”，即重新考虑旅行。（外媒更正：非提高到“4级”，即禁止旅行）]]></title>
-            <guid>2298732</guid>
-            <pubDate>Tue, 31 Aug 2021 15:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10年期国债收益率上涨6个基点至-0.38％，为7月22日以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3301255.d.html</link>
-            <guid>2298731</guid>
-            <pubDate>Tue, 31 Aug 2021 15:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉盘中走高，现涨1.2%，报740美元，创今年4月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1532239.d.html</link>
-            <guid>2298730</guid>
-            <pubDate>Tue, 31 Aug 2021 15:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国内期货夜盘收盘，黑色系多数收跌，铁矿石跌6.33%，热轧卷板跌1.14%，螺纹钢跌1.07%，焦炭跌0.19%，焦煤涨0.39%，动力煤涨1.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3301100.d.html</link>
-            <guid>2298729</guid>
-            <pubDate>Tue, 31 Aug 2021 15:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500房地产指数涨0.4%，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1531864.d.html</link>
-            <guid>2298728</guid>
-            <pubDate>Tue, 31 Aug 2021 14:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  华融金控联交所公告，申请9月1日恢复联交所买卖。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3300846.d.html</link>
-            <guid>2298727</guid>
-            <pubDate>Tue, 31 Aug 2021 14:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟天然气价格飙升至历史新高】TTF基准荷兰天然气期货涨1.54%，报49.575欧元/兆瓦时。飓风艾达导致美国供应给欧盟的液化天然气引发人们的担忧，另外考虑到冬季供应问题，欧盟天然气价格飙升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1531787.d.html</link>
-            <guid>2298726</guid>
-            <pubDate>Tue, 31 Aug 2021 14:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[网传多家上市电力公司联名呼吁提高电价，北京城管委：情况属实，正在沟通研究。（华夏时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzscyx1531736.d.html</link>
-            <guid>2298725</guid>
-            <pubDate>Tue, 31 Aug 2021 14:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走低25点，现报1.3782。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3300462.d.html</link>
-            <guid>2298724</guid>
-            <pubDate>Tue, 31 Aug 2021 14:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线拉升逾10点，现报92.58。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-31/detail-iktzqtyt3300359.d.html</link>
-            <guid>2298723</guid>
-            <pubDate>Tue, 31 Aug 2021 14:51:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
