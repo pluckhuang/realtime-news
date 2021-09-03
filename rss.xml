@@ -4,11 +4,314 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 03 Sep 2021 19:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 22:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【秘鲁通报67例感染新冠变异病毒缪毒株病例】当地时间3日，秘鲁卫生部传染病流行病学专家莱莉·索拉利通报称，秘鲁全国已有10余个地区报告共67例感染新冠变异病毒缪毒株的确诊病例。缪毒株（B.1.621）首先在哥伦比亚发现，目前在南美和欧洲等地有确诊病例。世界卫生组织将对其开展进一步监测。]]></title>
+            <guid>2302328</guid>
+            <pubDate>Fri, 03 Sep 2021 22:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【碳定价机制建设需统筹推进】现在我国碳定价机制还只是万里长征走了第一步。今后，还要进一步扩大范围，健全体制机制。要合理确定碳排放总量，公平分配碳排放指标。渐进式引入拍卖机制，建立碳储备机制，防止碳交易市场上价格的大起大落。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2185225.d.html</link>
+            <guid>2302327</guid>
+            <pubDate>Fri, 03 Sep 2021 22:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2025年我国可数字化服务贸易总额将超4000亿美元】“十四五”时期，我国将着力推动规则规制、管理标准等制度型开放，预计到2025年可数字化的服务贸易进出口总额将超过4000亿美元，占服务贸易总额的比重达到50%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2185219.d.html</link>
+            <guid>2302326</guid>
+            <pubDate>Fri, 03 Sep 2021 22:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前美联储理事提名人Shelton：不明白美联储如何为其长期的宽松货币政策辩护】前美联储理事提名人Shelton表示，从实体经济方面看，8月的非农就业数据是令人难过的。这也为观察美联储提供了一些乐趣，现在对美联储宣布缩债的关注点不仅只有9月22日的会议，还有11月和12月会议。尽管在服务行业看到很多招聘的信息，但如果我们看到人们没有重返工作岗位，解决方法怎么会是美联储购买更多国债和住房抵押贷款支持证券呢？我不明白美联储如何为其长期的宽松货币政策辩护。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3952982.d.html</link>
+            <guid>2302325</guid>
+            <pubDate>Fri, 03 Sep 2021 22:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国恢复了对阿富汗的一些人道主义援助资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2184742.d.html</link>
+            <guid>2302324</guid>
+            <pubDate>Fri, 03 Sep 2021 22:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济学家Diane Swonk：非农就业人口下滑是整体经济放缓的一部分】咨询服务公司Grant Thornton首席经济学家Diane Swonk表示，不幸的是，我们看到全球经济也在大幅减速。我们最近看到一些数据非常疲软，德尔塔变异毒株正对一些经济体造成冲击，这对已经出现问题的供应链造成了损害，也对需求造成了损害。我们预计美国第三季度的GDP增长率将低于4%。这意味着美国经济势头的大幅放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3952831.d.html</link>
+            <guid>2302323</guid>
+            <pubDate>Fri, 03 Sep 2021 22:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法拉第未来因新冠疫情推迟举办投资者日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3951336.d.html</link>
+            <guid>2302322</guid>
+            <pubDate>Fri, 03 Sep 2021 21:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专项债须提速提效并重】专项债发行的目的在于使用，在提速发行的同时，必须注重提质增效用好筹集资金，坚持“举债必问效、无效必问责”。同时，要加强监督管理、确保项目质量，对专项债券资金预算执行进度和绩效目标实施情况进行“双监控”。除了遏制隐性债务风险，还必须确保法定债券不出任何风险。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2183091.d.html</link>
+            <guid>2302321</guid>
+            <pubDate>Fri, 03 Sep 2021 21:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道明证券前瞻加拿大央行利率决议：预计维持货币政策不变】道明证券分析师表示，预计加拿大央行在下周的利率决议将维持货币政策不变。料加拿大央行将不得不承认，在第二季度GDP公布之后，经济前景有所减弱，但该行不会将产出缺口的恢复时间表推迟。近期CPI走强的状况也将维持，尽管加拿大央行会重申是暂时因素正在推动通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2183019.d.html</link>
+            <guid>2302320</guid>
+            <pubDate>Fri, 03 Sep 2021 21:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报头版评论：财富管理赛道“坡长雪厚” “跑出佳绩”尚需三方合力】财富管理市场发展前景可期，但“坡长雪厚”仍需要相关各方持续努力。监管部门打造好制度合理、竞争有序的康庄大道，资管机构走稳合规经营、归位尽责的长久发展之路，投资者擦亮眼睛、牢记风险、理性投资。如此，“跑出佳绩”就只是时间问题了。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3950980.d.html</link>
+            <guid>2302319</guid>
+            <pubDate>Fri, 03 Sep 2021 21:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：智利Caserones铜矿和工人达成临时工资协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3950793.d.html</link>
+            <guid>2302318</guid>
+            <pubDate>Fri, 03 Sep 2021 21:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国秘书长将于9月13日前往瑞士日内瓦，就阿富汗问题召开高级别部长级会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3950786.d.html</link>
+            <guid>2302317</guid>
+            <pubDate>Fri, 03 Sep 2021 21:14:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国能源部授权因应对飓风艾达释放30万桶战略燃油储备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3950171.d.html</link>
+            <guid>2302316</guid>
+            <pubDate>Fri, 03 Sep 2021 20:58:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国家飓风中心：飓风“拉里”增强至二级飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2181716.d.html</link>
+            <guid>2302315</guid>
+            <pubDate>Fri, 03 Sep 2021 20:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新三板涨声响起，两只精选层股票龙虎榜有机构现身】9月3日是新三板史诗级的一天：精选层集体飙涨，19只股票上涨超过10%，其中五新隧装、拾比佰两只股票迎来了历史性的收盘涨停。值得一提的是，3日总共有6只精选层股票登上龙虎榜。较为罕见的是，五新隧装、智新电子受到机构追捧。此外，华泰证券深圳益田路荣超商务中心证券营业部、国泰君安上海福山路营业部等在A股市场活跃的游资也现身买方榜。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2181100.d.html</link>
+            <guid>2302314</guid>
+            <pubDate>Fri, 03 Sep 2021 20:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【短期大宗商品价格维持高位运行，但中长期缺乏支撑】短期看，支持大宗商品价格因素仍在。一方面，宽松金融环境持续。另一方面，供给瓶颈继续困扰全球。但从中长期看，大宗商品价格面临几方面制约。一是大宗商品价格过高。二是供给端制约逐步缓解。三是欧美货币政策逐步正常化。四是国内商品保供稳价效果逐步释放。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3949207.d.html</link>
+            <guid>2302313</guid>
+            <pubDate>Fri, 03 Sep 2021 20:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内蒙煤矿降价消息利空期市，动力煤或告别疯涨模式】在9月2日再度飙涨达到933.4元/吨的历史高位后，国内动力煤期货主力合约在9月3日出现久违回调。分析人士认为，在国家打击煤价异常上涨和下游电厂日耗下降的背景下，动力煤疯涨模式短期或难再现。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3949194.d.html</link>
+            <guid>2302312</guid>
+            <pubDate>Fri, 03 Sep 2021 20:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：雪佛龙在美国墨西哥湾的6个海上平台重新部署了必要的工作人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2181050.d.html</link>
+            <guid>2302311</guid>
+            <pubDate>Fri, 03 Sep 2021 20:32:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁通报67例感染新冠变异病毒缪毒株病例】当地时间9月3日，秘鲁卫生部传染病流行病学专家莱莉·索拉利通报称，秘鲁全国已有10余个地区报告共67例感染新冠变异病毒缪毒株的确诊病例。索拉利称，该国首例感染缪毒株的确诊病例出现于今年5月，患者为南部莫克瓜地区居民。缪毒株（B.1.621）首先在哥伦比亚发现，目前在南美和欧洲等地有确诊病例。世界卫生组织将对其开展进一步监测。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2180978.d.html</link>
+            <guid>2302310</guid>
+            <pubDate>Fri, 03 Sep 2021 20:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯紧急情况部门透露，俄罗斯国家航空公司一架从莫斯科飞往别尔哥罗德的客机传感器发生故障，在莫斯科谢列梅捷沃国际机场紧急迫降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3948917.d.html</link>
+            <guid>2302309</guid>
+            <pubDate>Fri, 03 Sep 2021 20:24:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CNN恐惧与贪婪指数周五(9月3日)美股收盘后读数54，表明市场处在中性，较上一交易日下降3。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2180790.d.html</link>
+            <guid>2302308</guid>
+            <pubDate>Fri, 03 Sep 2021 20:24:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股行业ETF多数收跌，全球航空业ETF跌超1.1%，公用事业ETF跌超0.8%，能源业ETF跌超0.5%，区域银行业ETF、银行业ETF跌超0.3%，半导体ETF涨超0.8%，网络股指数ETF涨超0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2180765.d.html</link>
+            <guid>2302307</guid>
+            <pubDate>Fri, 03 Sep 2021 20:23:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗塔利班声称，意大利承诺重开驻喀布尔大使馆。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3948837.d.html</link>
+            <guid>2302306</guid>
+            <pubDate>Fri, 03 Sep 2021 20:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数的11个板块多数收跌，公用事业板块跌0.8%，原材料和工业板块跌超0.6%，金融和能源板块跌超0.5%，信息技术则涨超0.3%，通信和医疗保健板块涨超0.1。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3948346.d.html</link>
+            <guid>2302305</guid>
+            <pubDate>Fri, 03 Sep 2021 20:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受德尔塔变异毒株影响，美国8月就业新增人数急剧放缓，增幅为7个月来以来最小，这将令美联储在本月启动缩减购债的可能性大幅下降。美股三大指数今日低开，但预期缩减购债步伐放缓下，纳指由跌转涨。截至发稿，道指收跌74点或0.21%，报35369.09点；纳指收涨0.21%，标普500指数收跌0.03%。盘面上，贵金属、在线教育板块涨幅居前，邮轮概念、充电桩、美国抗疫概念板块多数走低。个股方面，法拉第未来(FFIE.O)收涨超10%，网易有道(DAO.N)收涨9.47%，Moderna(MRNA.O)收涨4.73%，贝壳(BEKE.N)收跌7.68%，维珍银河(SPCE.N)收跌6.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3948302.d.html</link>
+            <guid>2302304</guid>
+            <pubDate>Fri, 03 Sep 2021 20:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷新增4318例新冠肺炎确诊病例，新增161例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3948244.d.html</link>
+            <guid>2302303</guid>
+            <pubDate>Fri, 03 Sep 2021 20:05:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】道琼斯指数9月3日（周五）收盘下跌74.73点，跌幅0.21%，报35369.09点；标普500指数9月3日（周五）收盘下跌1.18点，跌幅0.03%，报4535.77点；纳斯达克综合指数9月3日（周五）收盘上涨32.3点，涨幅0.21%，报15363.5点。]]></title>
+            <guid>2302302</guid>
+            <pubDate>Fri, 03 Sep 2021 20:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至发稿，道指成交量报2.2亿股（上一交易日为2.65亿股），纳指成交量报33.72亿股（上一交易日为37.12亿股），标普500指数成量报14.81亿股（上一交易日为17.82亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3948182.d.html</link>
+            <guid>2302301</guid>
+            <pubDate>Fri, 03 Sep 2021 20:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moderna(MRNA.O)向欧洲药品管理局(EMA)提交新冠疫苗增强剂的数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179924.d.html</link>
+            <guid>2302300</guid>
+            <pubDate>Fri, 03 Sep 2021 20:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指今日收涨0.21%，创收盘新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179914.d.html</link>
+            <guid>2302299</guid>
+            <pubDate>Fri, 03 Sep 2021 20:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大股指走势分化，道指初步收跌约70点，贵金属、在线教育板块涨幅居前，邮轮概念、充电桩、美国抗疫概念板块多数走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3948021.d.html</link>
+            <guid>2302298</guid>
+            <pubDate>Fri, 03 Sep 2021 20:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球累计新冠确诊病例达218946836例】世卫组织网站最新数据显示，截至欧洲中部时间3日18时16分（北京时间4日零时16分），全球确诊病例较前一日增加687832例，达到218946836例；死亡病例增加11438例，达到4539723例。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947985.d.html</link>
+            <guid>2302297</guid>
+            <pubDate>Fri, 03 Sep 2021 19:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  ARK基金创始人Cathie Wood：在基准情形下，特斯拉(TSLA.O)的目标价为3000美元。我们对特斯拉获得成功的可能性预计已经上升，主要原因是他们的市场份额—实际上在全球范围内—已经相当大幅地上升了。]]></title>
+            <guid>2302296</guid>
+            <pubDate>Fri, 03 Sep 2021 19:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[石油天然气管道公司Enbridge：飓风“艾达”过后，墨西哥湾的两条能源管道准备恢复服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947876.d.html</link>
+            <guid>2302295</guid>
+            <pubDate>Fri, 03 Sep 2021 19:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【潘杰希尔省战斗仍在继续 阿富汗塔利班和反塔力量均称对方伤亡较大】据阿富汗黎明电视台当地时间9月3日晚报道，目前潘杰希尔省的战斗仍在继续，阿富汗塔利班和反塔力量“民族抵抗阵线”都称对方有较大程度的伤亡。“民族抵抗阵线”的一位发言人称，他们击退了塔利班的大规模袭击。阿富汗塔利班2日晚上分别从四个方向向潘杰希尔发动袭击，但最终未能进入潘杰希尔。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179597.d.html</link>
+            <guid>2302294</guid>
+            <pubDate>Fri, 03 Sep 2021 19:53:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大和证券：上调网易有道(DAO.N)目标价至13.5美元 评级升至持有】大和证券分析师Candis Chan将有道评级从跑输大市上调至持有，目标价从10美元上调至13.50美元。有道在第二季度实现了“强劲的”108%的同比增长，但分析师仍然预计，在未来12个月里，中国的“双减”规定将“停止”K-12收入增长势头。然而，分析师对有道在创新和研发质量方面的长期增长潜力仍然持乐观态度。分析师表示，在行业抛售和5000万美元的股票回购计划之后，她对有道股票的看法“略为积极”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179569.d.html</link>
+            <guid>2302293</guid>
+            <pubDate>Fri, 03 Sep 2021 19:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金价上涨逾1%，美国就业增长不及预期令美联储缩减购债前景蒙阴】① 金价周五上涨逾1%，触及两个半月来最高，8月美国就业增长低于预期，拖累美元走低，令人对美联储缩减量化宽松的时间表产生怀疑；② 截至目前，现货黄金上涨1.15%，至每盎司1830.57美元，稍早一度触及6月中以来最高的1834.03美元，周线有望连续第四周上涨；美国黄金期货结算价上涨1.2%，报每盎司1833.7美元；③ 新增新冠感染人数飙升之际，美国8月就业增长远低于预期。就业报告公布后不久，美元指数下跌，增强了黄金对持有其他货币投资者的吸引力；④ 盛宝银行分析师Ole Hansen表示，金价从远弱于预期的就业报告中获得了可喜的提振，但金价未能突破每盎司1835美元的阻力位，这可能表明一些人对这是否意味着增长见顶和推迟缩减资产购买持怀疑态度；⑤ 外汇经纪公司OANDA高级市场分析师Ed Moya称，下意识的反应对金价是积极的，因为整体数据大幅低于预期几乎排除了9月缩减量化宽松的可能性；他认为金价有望升向1850美元；⑥ 渣打银行贵金属分析师Suki Cooper指出，市场焦点将转移到9月的联邦公开市场委员会(FOMC)会议上。鉴于我们对美元走软和实际收益率将保持深度负值的预期，黄金有进一步上行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947671.d.html</link>
+            <guid>2302292</guid>
+            <pubDate>Fri, 03 Sep 2021 19:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【油价下跌，因非农就业疲软，但仍连续第二周上涨】① 原油在纽约市场连续第二周上涨，因飓风艾达的影响继续扰乱美国石油生产，不过周五美国非农就业报告疲软导致油价走低；西德克萨斯中质原油期货周五下跌1％，不过本周仍上涨0.8％；② 美国招聘势头在8月份陡然下滑，就业人数创七个月来最小增幅，令美联储年底前开始减码货币支持的前景变得复杂交易员们于美国和加拿大长周末前平仓，也在周五午后给油价带来下行压力；③ 石油价格本周攀升，还因尽管石油输出国组织及其盟友继续推动恢复供应，但市场似乎仍处于供不应求状态；④ WTI 10月交割原油期货跌70美分，结算价报每桶69.29美元；布伦特11月原油期货结算价下跌42美分至每桶72.61美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179449.d.html</link>
+            <guid>2302291</guid>
+            <pubDate>Fri, 03 Sep 2021 19:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒指期货夜盘收涨0.14%，报25880点，低水22点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179421.d.html</link>
+            <guid>2302290</guid>
+            <pubDate>Fri, 03 Sep 2021 19:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Federated Hermes首席股市策略师Phil Orlando：零售股和其他一些与经济相关的价值股近几个月表现逊于成长股。标准普尔价值指数当季涨约2%，而成长指数涨超8%。不过由于假日销售和返校季，这一趋势可能会改变，零售业将重新振作，增长将一直持续到年底或明年年初。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947626.d.html</link>
+            <guid>2302289</guid>
+            <pubDate>Fri, 03 Sep 2021 19:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【白宫与联邦卫生官员再现分歧，美国新冠疫苗加强针要推迟了】知情人士称，FDA和CDC主管本周建议白宫暂时缩减在全美大规模接种加强针的计划，辉瑞加强针仍有可能自9月20日当周起如期推广，但仅限高危人群，而Moderna和强生的加强针能否接种，最早只有10月才能给出审批答案，“目前没有足够多的数据为任何人推荐接种加强针。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179293.d.html</link>
+            <guid>2302288</guid>
+            <pubDate>Fri, 03 Sep 2021 19:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  郑州市气象台2021年09月04日03时40分发布大风蓝色预警信号：预计未来24小时内，郑州市区、巩义、登封、荥阳、新密、新郑、中牟将出现4-5级东北风，阵风7-8级。请注意防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947495.d.html</link>
+            <guid>2302287</guid>
+            <pubDate>Fri, 03 Sep 2021 19:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国已有超过2.064亿人至少接种了一剂新冠疫苗，超过1.755亿人完全接种新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947488.d.html</link>
+            <guid>2302286</guid>
+            <pubDate>Fri, 03 Sep 2021 19:45:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：自8月13日以来，美国有125万人接种了新冠疫苗加强针。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947482.d.html</link>
+            <guid>2302285</guid>
+            <pubDate>Fri, 03 Sep 2021 19:45:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增6010例新冠肺炎确诊病例，新增28例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3947476.d.html</link>
+            <guid>2302284</guid>
+            <pubDate>Fri, 03 Sep 2021 19:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国累计新冠肺炎确诊病例升至39668869例，昨日为39488866例；累计新冠肺炎死亡病例升至643405例，昨日为641725例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2179194.d.html</link>
+            <guid>2302283</guid>
+            <pubDate>Fri, 03 Sep 2021 19:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月31日当周，投机者将COMEX期铜净多头持仓增加18707手至31663手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2178750.d.html</link>
+            <guid>2302282</guid>
+            <pubDate>Fri, 03 Sep 2021 19:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月31日当周，COMEX白银期货投机性净多头头寸增加2248手至12425手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3946938.d.html</link>
+            <guid>2302281</guid>
+            <pubDate>Fri, 03 Sep 2021 19:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至8月31日当周，COMEX黄金期货投机性净多头头寸增加4272手至98865手。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3946884.d.html</link>
+            <guid>2302280</guid>
+            <pubDate>Fri, 03 Sep 2021 19:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：Allvue Systems递交IPO申请，寻求在纽交所上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2178615.d.html</link>
+            <guid>2302279</guid>
+            <pubDate>Fri, 03 Sep 2021 19:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大日增新冠肺炎确诊病例或在10月初达到1.5万例】加拿大联邦首席医疗官谭咏诗当地时间9月3日在新闻发布会上公布了最新的新冠疫情数据模型预测结果。她表示，如果加拿大不尽快采取疫情控制措施，尤其是在年轻人当中提高疫苗接种率，那么到一个月后，也就是10月初，加拿大的每日新增新冠确诊病例有可能达到15000例。变异毒株“德尔塔”是主要的病毒种类。新冠疫情以来，加拿大在疫情最严重的时候，每日新增确诊病例不到9000人。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3946786.d.html</link>
+            <guid>2302278</guid>
+            <pubDate>Fri, 03 Sep 2021 19:28:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国家公路交通安全管理局：已经成立了特别事故调查小组来调查特斯拉的事故。]]></title>
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2178090.d.html</link>
@@ -301,308 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3939135.d.html</link>
             <guid>2302225</guid>
             <pubDate>Fri, 03 Sep 2021 17:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月3日当周石油钻井总数(口)：前值 410，预期 415，公布 394。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3939047.d.html</link>
-            <guid>2302224</guid>
-            <pubDate>Fri, 03 Sep 2021 17:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基本金属周五收盘情况】LME期铜收涨54美元，报9431美元/吨； LME期铝收涨32美元，报2727美元/吨；LME期锌收涨18美元，报2996美元/吨；LME期铅收跌2美元，报2310美元/吨；LME期镍收涨325美元，报19789美元/吨； LME期锡收跌445美元，报33055美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3938882.d.html</link>
-            <guid>2302223</guid>
-            <pubDate>Fri, 03 Sep 2021 16:58:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抗疫概念板块多数下挫。诺瓦瓦克斯医药(NVAX.O)跌4.8%，Ocugen(OCGN.O)跌2.7%，Inovio制药(INO.O)跌2.5%，BioNTech SE(BNTX.O)跌1.3%。]]></title>
-            <guid>2302222</guid>
-            <pubDate>Fri, 03 Sep 2021 16:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：阿富汗潘杰希尔省被塔利班占领。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3938529.d.html</link>
-            <guid>2302221</guid>
-            <pubDate>Fri, 03 Sep 2021 16:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通：上调博通(AVGO.O)目标价至600美元 维持跑赢大市评级】摩根大通分析师Harlan Sur将博通的目标价从585美元上调至600美元，维持跑赢大市评级。分析师指出，博通的“多元化实力”推动了第三财季的强劲业绩。基于订单可视性和产品周期，博通为2022年的业绩提供了“坚实基础”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3938313.d.html</link>
-            <guid>2302220</guid>
-            <pubDate>Fri, 03 Sep 2021 16:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国就业在疫情复燃之下急剧放缓 令美联储减码前景愈加复杂】① 美国招聘势头在8月份陡然下滑，就业人数创七个月来最小增幅，令美联储年底前开始减码货币支持的前景变得复杂。招聘减速可能反映了快速蔓延的德尔塔毒株带来的担忧加剧，以及填补空缺职位的困难。劳工部称，在8月份，有560万人报告因疫情而无法工作，高于前一个月的520万人。疫情复燃已经遏制了消费者活动，打乱了返校返工计划，可能导致企业对招聘变得更加谨慎，并阻止一些人追求高接触性的就业机会；② 一些分析师已经下调他们的第三季度经济增长预测，因最近消费支出已经放缓。BMO Capital Markets高级经济学家Sal Guatieri表示，8月就业报告令人失望，可能会让他下调6%的第三季度增长跟踪预测；③ Pantheon Macroeconomics首席经济学家Ian Shepherdson在一份报告中表示，在德尔塔蔓延之前，我们预计秋季将有超过100万的非农就业增长，但现在将是一场真正的困难，表明在劳动力市场形势如此不确定的情况下，鲍威尔将不急于缩减政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3938257.d.html</link>
-            <guid>2302219</guid>
-            <pubDate>Fri, 03 Sep 2021 16:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：09月04日00时29分在新疆喀什地区叶城县（北纬37.88度，东经77.85度）发生3.3级地震，震源深度7千米。]]></title>
-            <guid>2302218</guid>
-            <pubDate>Fri, 03 Sep 2021 16:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【SpaceX CEO马斯克称Starlink卫星将以97%的光速传输数据】太空探索技术公司（SpaceX）的首席执行官埃隆马斯克透露，Starlink卫星互联网服务很快就能以接近光速的速度传输数据。马斯克在社交媒体平台上发表了这项信息，他在那里分享了Starlink新卫星细节，SpaceX将在未来几个月内发射这些卫星。Starlink通过新卫星进行激光数据传输，可以比光纤当中的光速快大约40%，即SpaceX的互联网服务可以以每小时180832英里的速度传输数据。鉴于真空中的光速是每秒186282英里，Starlink的真空数据传输速度大约相当于光速的97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3937887.d.html</link>
-            <guid>2302217</guid>
-            <pubDate>Fri, 03 Sep 2021 16:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国就业差距缩小关键指标受到美联储青睐】① 根据美国劳工部周五公布的月度指标，美联储官员青睐的一项关键指标显示，美国8月份种族和族裔就业差异缩小。所谓的主要工作年龄就业人口比例，反映了25至54岁的美国人目前有工作的比例，8月份黑人工人的比例从7月的72.3％上升至73％。白人人口的这一比例从78.5％升至78.6％，西班牙裔或拉丁裔人口的这一比例从74.4％升至74.5％，亚洲工人的这一比例从78.1％降至78％；② 随着美联储采取措施缩减债券购买计划并开始考虑加息时机，各种种族和种族的就业率势将在未来一年的美联储政策辩论中发挥越来越重要的作用。2020年8月，美联储决策者公布了一个新的货币政策框架，将寻求最大就业的任务重新定义为“广泛和包容性”的目标，这意味着他们在决策利率时会更关注这些数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3937166.d.html</link>
-            <guid>2302216</guid>
-            <pubDate>Fri, 03 Sep 2021 16:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国预计推迟莫德纳和强生的新冠加强针接种计划，预计推迟到9月20日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3937122.d.html</link>
-            <guid>2302215</guid>
-            <pubDate>Fri, 03 Sep 2021 16:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：摩根大通(JPM.N)的目标是未来10年为气候变化提供2.5万亿美元资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3936320.d.html</link>
-            <guid>2302214</guid>
-            <pubDate>Fri, 03 Sep 2021 16:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京大兴发生交通事故致20伤 大兴交通事故致29伤司机被控制】9月3日23时许，北京市大兴区官方微博发布消息：9月3日晚7点30分，大兴区北臧村镇六合庄村发生一起交通事故。截至目前，造成村内路边治丧人员20人受伤，其中，1人危重，4人重伤，15人轻伤，伤者均已送往医院救治。涉事司机马某已被公安机关控制，事故原因正在进一步调查中。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2168068.d.html</link>
-            <guid>2302213</guid>
-            <pubDate>Fri, 03 Sep 2021 16:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  SEA(SE.N)涨近3%，报348.88美元，逼近历史最高价，市值逼近1900亿美元。该股年内累涨超70%，据悉，Sea的CEO李小冬登顶新加坡首富。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3936133.d.html</link>
-            <guid>2302212</guid>
-            <pubDate>Fri, 03 Sep 2021 16:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Truist证券：将博通(AVGO.O)目标价从554美元上调至564美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3935862.d.html</link>
-            <guid>2302211</guid>
-            <pubDate>Fri, 03 Sep 2021 16:23:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝莱德Rosenberg：市场或认为美国8月就业增速放缓是暂时的】贝莱德系统性固定收益基金高级投资组合经理Jeffrey Rosenberg称，投资者可能会把并不强劲的8月就业数据看作是美国经济持续复苏过程中因德尔塔疫情而产生的一时反常。市场正在研究这份数据，并认为这是暂时的。市场对何时开始减码的预期已经押后了。数据上修“印证了劳动力市场在德尔塔毒株影响下表现强劲，这可能是市场目前的心思，认为这是一次性放缓而不是新趋势的开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2167737.d.html</link>
-            <guid>2302210</guid>
-            <pubDate>Fri, 03 Sep 2021 16:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆喀什地区叶城县发生4.0级地震】中国地震台网正式测定：09月03日23时48分在新疆喀什地区叶城县（北纬37.86度，东经77.88度）发生4.0级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3935785.d.html</link>
-            <guid>2302209</guid>
-            <pubDate>Fri, 03 Sep 2021 16:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国伊朗核谈判特使：美国不能永远等待伊朗核谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3935728.d.html</link>
-            <guid>2302208</guid>
-            <pubDate>Fri, 03 Sep 2021 16:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁7月白银出口量同比增长16.79％至44万盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2167344.d.html</link>
-            <guid>2302207</guid>
-            <pubDate>Fri, 03 Sep 2021 16:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁7月的黄金出口量同比增长36.87％至46.55万盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3935438.d.html</link>
-            <guid>2302206</guid>
-            <pubDate>Fri, 03 Sep 2021 16:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁7月铜出口较去年下降5.58％至18.84万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2167197.d.html</link>
-            <guid>2302205</guid>
-            <pubDate>Fri, 03 Sep 2021 16:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上半年17家公司被强制退市，23家*ST公司预警财务退市风险】2020年是退市新规执行的首个会计年度。根据新规，上市公司连续两年触及财务类指标即终止上市，因此2021年半年报也是观测上市公司退市风险的关键窗口。以半年报数据前瞻，截至2021年末，在41家沪市*ST公司中，有23家可能触及净资产为负、“净利润+营业收入组合”的财务退市指标。业内人士表示，强监管背景下，上市公司只有切实增强主营业务，提升持续经营能力，才能避免被清退。同时，投资者也要注意“炒小炒差”的风险，火中取栗要不得。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2167163.d.html</link>
-            <guid>2302204</guid>
-            <pubDate>Fri, 03 Sep 2021 16:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲债市：德债和意债均下挫，但缩减盘中跌幅】德国国债缩减熊市趋陡走势，因股市走低。德债稍早下跌，因此前公布的美国企业盈利数据优于预期，并且下周将发行长期美国国债，非农就业数据逊于预期。 意大利国债也缩减跌幅，但跑输欧元区其它国债，Danske策略师预测下周发行30年期意大利国债，英债与美债联袂熊市趋陡；英国10年期国债收益率创下2月来最大周升幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2167118.d.html</link>
-            <guid>2302203</guid>
-            <pubDate>Fri, 03 Sep 2021 16:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大华继显：将网易有道(DAO.N)评级从跑输大市上调至持有。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2167043.d.html</link>
-            <guid>2302202</guid>
-            <pubDate>Fri, 03 Sep 2021 16:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长：巴西考虑发行ESG债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2166907.d.html</link>
-            <guid>2302201</guid>
-            <pubDate>Fri, 03 Sep 2021 16:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广州拟规定学校开门时间与上班时间挂钩】近日，《广州市学校安全管理条例》草案修改建议稿提出，将拟定学校开关门时间与市民上下班时间挂钩，开门时间不晚于市民上班前1.5小时，关闭时间不早于下班后半小时。如果以“朝九晚五”的上班族计算，学校上午开门时间应在上午7点半前，下午关闭时间要在5点半之后。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2166892.d.html</link>
-            <guid>2302200</guid>
-            <pubDate>Fri, 03 Sep 2021 16:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  投行Evercore ISI：将DocuSign(DOCU.O)目标价从285美元上调至320美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzqtyt3934609.d.html</link>
-            <guid>2302199</guid>
-            <pubDate>Fri, 03 Sep 2021 16:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：1-7月中非贸易额同比增长40.5%，创历史同期最高位】商务部网站9月3日消息，商务部副部长钱克明表示，1-7月，中非贸易额1391亿美元，同比增长40.5%，达到历史同期最高位。特别是中国市场对非洲产品认可度不断提高，从非洲进口同比增长了46.3%，达到593亿美元，其中橡胶、棉花、咖啡等农产品进口量较去年同期翻了一番。（人民网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2166226.d.html</link>
-            <guid>2302198</guid>
-            <pubDate>Fri, 03 Sep 2021 16:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷军持股减少逾3亿股，小米：并非减持！】9月3日，港交所披露，小米集团创始人、董事长兼CEO雷军个人对小米的持股比例从10.63%降至9.12%，持股数量减少3.08亿股。小米集团公关部总经理王化在微博回应称，雷军不再控制雷军基金会导致可统计份额降低，并非减持。这家基金会是一家具有公共性质的慈善机构，而雷军根据香港当地条例终止对该基金会的控制。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-04/detail-iktzscyx2165570.d.html</link>
-            <guid>2302197</guid>
-            <pubDate>Fri, 03 Sep 2021 16:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理默克尔再次前往洪涝灾区 承诺将继续提供必要支持】当地时间9月3日，德国总理默克尔再次前往莱茵兰-普法尔茨州的阿尔河流域洪涝灾区进行视察。她在走访并了解了灾区清理工作的进展后承诺，联邦政府将继续提供必要的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3933434.d.html</link>
-            <guid>2302196</guid>
-            <pubDate>Fri, 03 Sep 2021 15:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登称经济复苏“持久而强劲” 此前数据显示非农就业增长骤然放缓】在令人失望的非农就业报告公布后，美国总统拜登表示美国经济仍然强劲，将就业减速归咎于德尔塔毒株引起新冠疫情蔓延。 他说道：“我们正看到经济持久而强劲复苏，并将之归功于他所采取的包括今年早些时候1.9万亿美元疫情纾困法案在内的政策。 我们到目前为止采取的措施使美国摆脱了经济自由落体的境地，正在增加而不是失去就业。 美国劳工部稍早公布，美国8月非农就业骤然减速，增长规模为七个月来最低。失业率从5.4%降至5.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2165310.d.html</link>
-            <guid>2302195</guid>
-            <pubDate>Fri, 03 Sep 2021 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Moderna需要向美国美国食品药品监督管理局（FDA）提供关于新冠疫苗加强剂的更有力数据，这一过程可能要比辉瑞公司晚几个星期。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2165228.d.html</link>
-            <guid>2302194</guid>
-            <pubDate>Fri, 03 Sep 2021 15:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：09月03日23时48分在新疆和田地区皮山县附近发生4.3级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2165052.d.html</link>
-            <guid>2302193</guid>
-            <pubDate>Fri, 03 Sep 2021 15:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  C3.ai(AI.N)短线发力，涨近8%，现报51.45美元，昨日公司在公布财报后收跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2164718.d.html</link>
-            <guid>2302192</guid>
-            <pubDate>Fri, 03 Sep 2021 15:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】德国DAX30指数9月3日（周五）收盘下跌61.49点，跌幅0.39%，报15779.10点；英国富时100指数9月3日（周五）收盘下跌23.60点，跌幅0.33%，报7140.30点；法国CAC40指数9月3日（周五）收盘下跌73.09点，跌幅1.08%，报6689.99点；欧洲斯托克50指数9月3日（周五）收盘下跌31.15点，跌幅0.74%，报4200.95点；西班牙IBEX35指数9月3日（周五）收盘下跌115.40点，跌幅1.28%，报8866.00点；意大利富时MIB指数9月3日（周五）收盘下跌163.88点，跌幅0.62%，报26069.50点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2164703.d.html</link>
-            <guid>2302191</guid>
-            <pubDate>Fri, 03 Sep 2021 15:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧股收盘 三大股指全线收跌】欧股收盘全线下跌，德国DAX指数跌0.37%报15781.2点，法国CAC40指数跌1.08%报6689.99点，英国富时100指数跌0.35%报7138.91点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2164673.d.html</link>
-            <guid>2302190</guid>
-            <pubDate>Fri, 03 Sep 2021 15:47:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国民主党人提出法案，将把联邦医疗保险的资格降低到60岁。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3932542.d.html</link>
-            <guid>2302189</guid>
-            <pubDate>Fri, 03 Sep 2021 15:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利报告新增6735例新冠肺炎确诊病例，新增58例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3932523.d.html</link>
-            <guid>2302188</guid>
-            <pubDate>Fri, 03 Sep 2021 15:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  在岸人民币兑美元（CNY）北京时间23:30收报6.4560元，较周四夜盘收盘涨1点。成交量292.38亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3932448.d.html</link>
-            <guid>2302187</guid>
-            <pubDate>Fri, 03 Sep 2021 15:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国防部长奥斯汀将访问包括卡塔尔和科威特在内的中东盟国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2164105.d.html</link>
-            <guid>2302186</guid>
-            <pubDate>Fri, 03 Sep 2021 15:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北约秘书长：欧盟欲创建的快速反应部队不能取代北约】北约秘书长斯托尔滕贝格当地时间9月3日表示，他支持欧盟创建一支快速反应部队的计划，但该军事力量不能占用北约的资源，也不能取代北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2164025.d.html</link>
-            <guid>2302185</guid>
-            <pubDate>Fri, 03 Sep 2021 15:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛集团大宗商品研究全球主管Jeff Currie：预计布伦特原油价格到2021年年底将涨至80美元/桶，如果一系列因素整体表现适当，油价甚至会突破该价位。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2163965.d.html</link>
-            <guid>2302184</guid>
-            <pubDate>Fri, 03 Sep 2021 15:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙前国王胡安·卡洛斯回应涉嫌洗钱：相关指控没有根据】根据西班牙媒体当地时间9月3日的报道，在西班牙最高法院检察官办公室表示将对西班牙前国王胡安·卡洛斯一世涉嫌洗钱等多项罪名展开调查后，胡安·卡洛斯一世通过其辩护律师发布声明称，检察官办公室对于他的罪名指控没有根据。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3931915.d.html</link>
-            <guid>2302183</guid>
-            <pubDate>Fri, 03 Sep 2021 15:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空集团(AAL.O)：延长员工完成疫苗接种要求的最后日期至10月1日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2163296.d.html</link>
-            <guid>2302181</guid>
-            <pubDate>Fri, 03 Sep 2021 15:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长：随着税收改革，政府可能会损失约200亿雷亚尔的收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3931385.d.html</link>
-            <guid>2302180</guid>
-            <pubDate>Fri, 03 Sep 2021 15:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪金主力合约涨逾1%，创8月5日以来新高至381.88元/克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2163273.d.html</link>
-            <guid>2302179</guid>
-            <pubDate>Fri, 03 Sep 2021 15:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长：通货膨胀走高要求调整政府预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3931229.d.html</link>
-            <guid>2302178</guid>
-            <pubDate>Fri, 03 Sep 2021 15:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股半导体板块延续本周涨势，联电(UMC.O)涨近5%，台积电(TSM.N)涨2.4%，日月光(ASX.O)涨2.2%，英伟达(NVDA.O)涨2%。]]></title>
-            <guid>2302177</guid>
-            <pubDate>Fri, 03 Sep 2021 15:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士央行官员称行长可能错过下一次政策会议】瑞士央行官员Andrea Maechler表示，行长Thomas Jordan正从一个医疗程序中恢复过来，但目前尚不清楚他是否会出席本月的货币政策会议。作为瑞士央行利率制定委员会成员的Maechler还表示，虽然消费者价格增速正在回升，但瑞士通胀加速上升的风险并不大。总的来说，一切运作良好，但不确定性仍然很大” 并指出瑞郎继续处于“高位”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzqtyt3930903.d.html</link>
-            <guid>2302176</guid>
-            <pubDate>Fri, 03 Sep 2021 15:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫首席医疗顾问安东尼·福奇：新冠肺炎mu变异毒株还不至于对美国”立即构成威胁“，德尔塔变异毒株仍是美国的主要传播毒株。]]></title>
-            <guid>2302175</guid>
-            <pubDate>Fri, 03 Sep 2021 15:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国法院再次驳回德国铁路公司要求禁止工会罢工的申诉】德国黑森州地方劳动法院当地时间9月3日驳回了德国铁路公司提出的禁止火车司机工会罢工的申诉。这意味着德国火车司机工会的罢工将按原计划持续到9月7日凌晨。德国铁路公司对法院的裁决表示遗憾。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2162715.d.html</link>
-            <guid>2302174</guid>
-            <pubDate>Fri, 03 Sep 2021 15:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WhatsApp爱尔兰分公司周四因未能达到欧盟通用数据保护条例（GDPR）标准而面临2.67亿美元的巨额罚款，但这并不是GDPR历史的最大一笔罚金。数据显示，在最高罚款名单上排名第一的是亚马逊，该公司欧洲分支机构于今年7月份因“不遵守一般数据处理原则”遭罚8.86亿美元，第三名是谷歌，其次是瑞典时装公司H&M和意大利电信提供商TIM。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-09-03/detail-iktzscyx2162507.d.html</link>
-            <guid>2302173</guid>
-            <pubDate>Fri, 03 Sep 2021 15:15:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
