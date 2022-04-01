@@ -4,11 +4,325 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 01 Apr 2022 19:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 22:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【生活成本高企 英国人过紧日子】能源价格高涨背景下，一些英国人，尤其是低收入家庭生活成本飙升，不得不勒紧裤腰带过日子。据报道，英国天然气价格比去年高出一倍多。经济学家警告，新冠疫情、地区局势等多重因素叠加影响下，英国人的生活水平可能面临20世纪50年代中期以来最严重下滑。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9486397.d.html</link>
+            <guid>2610434</guid>
+            <pubDate>Fri, 01 Apr 2022 22:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：已向乌提供超3.5亿美元军事物资】当地时间4月1日，美国白宫新闻秘书普萨基表示，过去几周，美国已经向乌克兰提供了超过3.5亿美元的军事物资，美国国防部声称这是前所未有的速度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1930309.d.html</link>
+            <guid>2610433</guid>
+            <pubDate>Fri, 01 Apr 2022 22:08:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（4月1日）北美尾盘，加拿大10年期基准国债收益率涨2.9个基点，报2.434%，北美盘初一度涨至日高2.495%，本周累跌11.2个基点。两年期加债收益率涨5.5个基点，报2.345%，北美盘初也一度涨至日高2.380%，本周累跌0.6个基点；五年期加债收益率涨5.6个基点，报2.467%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9485263.d.html</link>
+            <guid>2610432</guid>
+            <pubDate>Fri, 01 Apr 2022 22:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4月1日20时35分，浙江省宁波余姚市发现一省外来姚集中隔离人员新冠肺炎确诊病例（轻型）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1929472.d.html</link>
+            <guid>2610431</guid>
+            <pubDate>Fri, 01 Apr 2022 21:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【芝加哥联储行长赞成年内每次会议都加息25个基点】芝加哥联邦储备银行行长Charles Evans表示，在通胀率居高不下和劳动力市场火爆的情况下，他的利率展望与同僚们的预期中值一致，即今年会再进行6次幅度25基点的加息。Evans表示，他预计美国经济将稳健增长，失业率料降至3.5%左右。他说，俄乌局势和持续的新冠疫情构成了通胀上行风险和经济下行风险。 Evans还强调每次会议的决策需视具体情况而论。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1929154.d.html</link>
+            <guid>2610430</guid>
+            <pubDate>Fri, 01 Apr 2022 21:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【显卡价格大跌背后：挖矿潮退、供给回暖】 因比特币等虚拟货币的大热，带动全球各地的挖矿潮，又因挖矿潮导致作为挖矿工具——显卡的奇缺和价格飙涨。虚拟货币大热和挖矿潮下的“显卡荒”曾充斥了2021年，显卡价格翻倍上涨的新闻不断。不过，进入2022年，“一卡难求”的现象已成为过去。据海外硬件媒体Hardware Unboxed统计，英伟达（NVIDIA）RTX 3080系列显卡产品（以下简称“RTX3080”）价格在澳洲市场一天内大跌35%，创史上最大跌幅，其他规格显卡价格近期平均跌幅也达一成。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9483792.d.html</link>
+            <guid>2610429</guid>
+            <pubDate>Fri, 01 Apr 2022 21:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.3678元，较周四纽约尾盘跌131点，盘中整体交投于6.3504-6.3723元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9483149.d.html</link>
+            <guid>2610428</guid>
+            <pubDate>Fri, 01 Apr 2022 21:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（4月1日）纽约尾盘，CME比特币期货BTC主力合约报46365美元，较周四纽约尾盘涨1.38%，盘中交投于44345-46910美元区间。CME以太币期货DCR主力合约报3451.50美元，较周四涨4.64%，盘中交投于3226.50-3501.00美元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1927538.d.html</link>
+            <guid>2610427</guid>
+            <pubDate>Fri, 01 Apr 2022 21:27:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨1.86%，报2023.80点，本周累计下跌0.95%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9483139.d.html</link>
+            <guid>2610426</guid>
+            <pubDate>Fri, 01 Apr 2022 21:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数收涨0.29%，报21952.95点，本周累计下跌0.24%。巴西圣保罗证交所指数收涨1.31%，报12.2万点，本周累跌3.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1927374.d.html</link>
+            <guid>2610425</guid>
+            <pubDate>Fri, 01 Apr 2022 21:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约航空燃油价格飙涨至历史新高，今年夏季旅行面临风险】纽约航空燃油价格突破1988年有数据记录以来的最高位，在周五（4月1日）进一步拉升，单日涨34%，报6.67美元/加仑，市场担心部分美国航空公司恐怕不得不实施机票涨价、或被迫停飞更多的航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9482479.d.html</link>
+            <guid>2610424</guid>
+            <pubDate>Fri, 01 Apr 2022 21:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年全国能源产量达44.1亿吨标准煤左右】国家能源局日前发布的《2022年能源工作指导意见》提出，全国能源生产总量达到44.1亿吨标准煤左右，原油产量2亿吨左右，天然气产量2140亿立方米左右。保障电力充足供应，电力装机达到26亿千瓦左右，发电量达到9.07万亿千瓦时左右，新增顶峰发电能力8000万千瓦以上，“西电东送”输电能力达到2.9亿千瓦左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9482323.d.html</link>
+            <guid>2610423</guid>
+            <pubDate>Fri, 01 Apr 2022 21:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西石油公司宣布在巴西坎波斯盆地的前盐层发现新的石油资源。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9482137.d.html</link>
+            <guid>2610422</guid>
+            <pubDate>Fri, 01 Apr 2022 21:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国最近24小时新增148,629例新冠肺炎病例，新增134例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1926496.d.html</link>
+            <guid>2610421</guid>
+            <pubDate>Fri, 01 Apr 2022 21:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股周五普遍收高 微贷网涨近29% 贝壳涨超13%】纳斯达克中国金龙指数收涨4.70%。微贷网涨近29%，乐居涨超21%，每日优鲜涨近14%，贝壳涨超13%，网易有道、达达集团涨超9%，哔哩哔哩、虎牙涨近8%，满帮涨超7%，拼多多、网易、百度、携程、富途控股涨超6%，爱奇艺、新东方涨超5%，欢聚集团、开心汽车、雾芯科技、BOSS直聘涨超3%，京东、腾讯音乐涨超2%。新能源汽车股中，小鹏汽车涨近6%，理想汽车涨超5%，蔚来汽车涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1925967.d.html</link>
+            <guid>2610420</guid>
+            <pubDate>Fri, 01 Apr 2022 20:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西新冠死亡人数超过60万】 巴西最近24小时新增27,270例新冠肺炎病例，新增245例死亡病例，累计死亡600,002例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1925694.d.html</link>
+            <guid>2610419</guid>
+            <pubDate>Fri, 01 Apr 2022 20:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时罗素：维持印度在新兴市场债券指数纳入的观察名单，将芬兰重新归类为二级新兴证券（市场）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1925554.d.html</link>
+            <guid>2610418</guid>
+            <pubDate>Fri, 01 Apr 2022 20:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时罗素：将把新西兰纳入富时全球政府债券指数。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9481085.d.html</link>
+            <guid>2610417</guid>
+            <pubDate>Fri, 01 Apr 2022 20:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普：下调土耳其长期本币债券发行人评级至B+（之前为BB-），前景展望为负面。]]></title>
+            <guid>2610416</guid>
+            <pubDate>Fri, 01 Apr 2022 20:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：确认南非评级在Ba2，将其前景展望修正为稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1925166.d.html</link>
+            <guid>2610415</guid>
+            <pubDate>Fri, 01 Apr 2022 20:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美食物品类大幅涨价 分析指出通胀状况或继续恶化】美国政府部门3月31日发布的物价报告显示，2月全美整体物价比去年同期上涨6.4%，为1982年1月以来最高同比涨幅，食品、汽油上涨尤其猛烈；在截至2月底的一年内，食品价格涨幅7.9%，为40年来之最。报告预计，今年余下时间，无论餐饮还是零售，美国各类食品价格将再涨4.5%至5.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1924737.d.html</link>
+            <guid>2610414</guid>
+            <pubDate>Fri, 01 Apr 2022 20:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4月1日21时45分，浙江省温州市鹿城区在集中隔离点发现2例新冠肺炎阳性感染者。该两名感染者系夫妻，为外省同车返温人员。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1924421.d.html</link>
+            <guid>2610413</guid>
+            <pubDate>Fri, 01 Apr 2022 20:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大类资产类ETF周五收盘涨跌各异，美国房地产ETF涨超1.9%，新兴市场ETF涨超1.6%，罗素2000指数ETF涨超1.1%，巴克莱美国可转债ETF涨约0.5%，标普500价值ETF、美国国债20+年ETF、道指ETF、美国投资级公司债至少涨超0.3%，美国布伦特原油基金（BNO）和通胀债券指数ETF则跌约0.5%，农产品基金、黄金ETF、美国国债7-10年ETF、日元做多跌超0.6%，大豆基金跌超0.9%，恐慌指数做多跌超2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9479855.d.html</link>
+            <guid>2610412</guid>
+            <pubDate>Fri, 01 Apr 2022 20:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：下调土耳其长期本币债券发行人评级至B+（之前为BB-），前景展望为负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923781.d.html</link>
+            <guid>2610411</guid>
+            <pubDate>Fri, 01 Apr 2022 20:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF周五收盘涨跌各异，生物科技指数ETF涨超2.1%，公用事业ETF涨1.4%，日常消费品ETF涨1.0%，金融业ETF则跌超0.2%，科技行业ETF和全球科技股指数ETF至少跌0.3%，银行业ETF跌0.9%，区域银行ETF跌1.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923740.d.html</link>
+            <guid>2610410</guid>
+            <pubDate>Fri, 01 Apr 2022 20:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数的11个板块周五多数收涨，房地产板块涨超2.0%，公用事业板块涨超1.4%，日用消费品板块涨超1.2%，原材料板块涨超1.1%，信息技术和金融板块则跌约0.2%，工业板块跌0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9479222.d.html</link>
+            <guid>2610409</guid>
+            <pubDate>Fri, 01 Apr 2022 20:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【原油：美国释放石油储备 油价创十余年最大周跌幅】石油价格创10多年来最大单周跌幅，因拜登政府下令释放空前规模的战略石油储备以平抑油价。WTI周五下跌1%，本周跌逾14美元，为2011年以来最大跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923414.d.html</link>
+            <guid>2610408</guid>
+            <pubDate>Fri, 01 Apr 2022 20:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：3月29日当周，投机者所持布伦特原油净多头头寸下降7516手合约，至152921手合约。投机者所持布伦特柴油净多头头寸减少3045手合约，至87587手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9478855.d.html</link>
+            <guid>2610407</guid>
+            <pubDate>Fri, 01 Apr 2022 20:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道指“非农夜”初步收涨逾百点，成分股威瑞森和Visa涨超2%，但英特尔和WBA跌超2%。网易、百度、拼多多涨超3%，领跑纳斯达克100指数的成分股，ODFL则跌超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923352.d.html</link>
+            <guid>2610406</guid>
+            <pubDate>Fri, 01 Apr 2022 20:08:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球累计新冠确诊病例达486761597例】世卫组织网站最新数据显示，截至欧洲中部时间1日16时59分(北京时间22时59分)，全球确诊病例较前一日增加1391813例，达到486761597例；死亡病例增加4367例，达到6142735例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9478667.d.html</link>
+            <guid>2610405</guid>
+            <pubDate>Fri, 01 Apr 2022 20:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：3月29日当周，对冲基金大幅净卖出10年期美国国债和超长期美债。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9478630.d.html</link>
+            <guid>2610404</guid>
+            <pubDate>Fri, 01 Apr 2022 20:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥粮食期货周五跌超2%，投资者评估美国供应前景和乌克兰等主要产区的产量前景】周五（4月1日）纽约尾盘，CBOT玉米期货跌2.07%，报7.33-1/4美元/蒲式耳。CBOT小麦期货跌2.31%，报9.82-1/4美元/蒲式耳。CBOT大豆期货跌2.32%，报15.80-3/4美元/蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923085.d.html</link>
+            <guid>2610403</guid>
+            <pubDate>Fri, 01 Apr 2022 20:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道指本周累跌0.12%，纳指本周累涨0.65%，标普500指数本周累涨0.06%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9478573.d.html</link>
+            <guid>2610402</guid>
+            <pubDate>Fri, 01 Apr 2022 20:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国非农业新增职位逊预期，惟失业率回落，道指早段曾涨逾百点。美股盘中走低，纳指跌幅一度扩大至0.6%，尾段三大股指小幅回涨。盘面上，热门中概股、白银股、黄金股涨幅居前，芯片股、邮轮股多数走低。个股方面，贝壳(BEKE.N)收涨13.18%，每日优鲜(MF.O)收涨12.81%，黑莓(BB.N)收跌9.53%，高斯电子(KOSS.O)收跌8.08%，Rivian(RIVN.O)收跌7.56%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923044.d.html</link>
+            <guid>2610401</guid>
+            <pubDate>Fri, 01 Apr 2022 20:03:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  截至发稿，道指成交量报3.278亿股（上一交易日为4.384亿股），纳指成交量报39.21亿股（上一交易日为49.201亿股），标普500指数成量报17.476亿股（上一交易日为26.466亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923009.d.html</link>
+            <guid>2610400</guid>
+            <pubDate>Fri, 01 Apr 2022 20:03:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汇丰研究：开始追踪小鹏汽车(XPEV.N)，给予买入评级，目标价37美元】汇丰研究分析师Yuqian Ding启动了对小鹏汽车(XPEV.N)的追踪，给予买入评级和37美元的目标价。该分析师在一份研究报告中告诉投资者，小鹏汽车从头到尾都是在公司内部构建其自主驾驶软件，就像特斯拉(TSLA.O)一样，这是其他国内制造商没有实现的壮举。该分析师称，小鹏的最新自动驾驶系统是中国最好的自动驾驶系统之一，能够在高速公路上进行自动驾驶。Ding预计，小鹏“领先、差异化的智能驾驶体验将促进其品牌资产和销售”。分析师表示，该公司“稳健的”产品周期将支持“快速”的销量增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1923005.d.html</link>
+            <guid>2610399</guid>
+            <pubDate>Fri, 01 Apr 2022 20:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金价下挫1%，因强劲的美国就业数据推高美元】① 金价周五回落，周线势将下跌，因强劲的美国就业数据推高美元，并支撑对美联储将大幅升息的押注；② 现货黄金跌0.8%，至每盎司1921.86美元。美国黄金期货结算价报每盎司1923.70美元，跌1.6%；③ 数据显示，美国失业率降至3.6%的两年来新低，薪资增长再度加速，令美联储有望在5月大幅升息50个基点。数据推动指标美国10年期公债收益率和美元指数上涨，使得黄金对海外买家的吸引力下降；④ 道明证券大宗商品策略主管Bart Melek表示，对加息的预期正在压低金价，因为这将导致持有非孽息黄金的机会成本上升。但他补充称，美联储政策到中性水准都还有很长的路要走，黄金将继续保持相当坚挺。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9478338.d.html</link>
+            <guid>2610398</guid>
+            <pubDate>Fri, 01 Apr 2022 20:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大股指尾盘拉升，道指初步收涨约140点，热门中概股、白银股涨幅居前，芯片股、邮轮股多数走低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9478327.d.html</link>
+            <guid>2610397</guid>
+            <pubDate>Fri, 01 Apr 2022 20:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：最近一周美国10年期国债期货净空头头寸达到2019年6月以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9477810.d.html</link>
+            <guid>2610396</guid>
+            <pubDate>Fri, 01 Apr 2022 19:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：04月02日03时35分在西藏昌都市洛隆县（北纬30.80度，东经96.24度）发生3.0级地震，震源深度7千米。]]></title>
+            <guid>2610395</guid>
+            <pubDate>Fri, 01 Apr 2022 19:49:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：上周投机者所持美元净多头头寸上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9477032.d.html</link>
+            <guid>2610394</guid>
+            <pubDate>Fri, 01 Apr 2022 19:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月29日当周，投机者所持天然气净多头头寸增加4338手合约，至108682手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1921375.d.html</link>
+            <guid>2610393</guid>
+            <pubDate>Fri, 01 Apr 2022 19:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织：委员会将于5月底开会审查保障措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9476919.d.html</link>
+            <guid>2610392</guid>
+            <pubDate>Fri, 01 Apr 2022 19:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月29日当周，投机者所持COMEX铜净多头头寸增加4970手合约，至41490手合约。]]></title>
+            <guid>2610391</guid>
+            <pubDate>Fri, 01 Apr 2022 19:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月29日当周，投机者所持COMEX白银净多头头寸减少1813手合约，至42429手合约。]]></title>
+            <guid>2610390</guid>
+            <pubDate>Fri, 01 Apr 2022 19:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月29日当周，投机者所持NYMEX原油净多头头寸减少3641手合约，至269874手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1921138.d.html</link>
+            <guid>2610389</guid>
+            <pubDate>Fri, 01 Apr 2022 19:32:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至3月29日当周，投机者所持COMEX黄金净多头头寸减少3865手合约，至130126手合约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9476733.d.html</link>
+            <guid>2610388</guid>
+            <pubDate>Fri, 01 Apr 2022 19:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通建议继续做空日元，因政策分歧加大】摩根大通外汇分析师Paul Meggyesi和Meera Chandan表示，随着市场对美联储政策重新定价并且日本出现贸易逆差，日元将进一步走低。称由于企业在财年结束前进行对冲，投机性参与程度微弱，日元先前的疲软加剧。预计日本央行的收益率控制政策不会有任何变化，但如果真的出现变化，可能有助于抵御日元疲软。建议持有美元兑日元，年底目标价上调至126日元。该行继续看好大宗商品货币，并继续通过期权做多加元兑日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9476631.d.html</link>
+            <guid>2610387</guid>
+            <pubDate>Fri, 01 Apr 2022 19:29:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：俄罗斯别尔哥罗德市油库大火被扑灭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9476484.d.html</link>
+            <guid>2610386</guid>
+            <pubDate>Fri, 01 Apr 2022 19:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国正在向乌克兰提供物资，以防俄罗斯部署化学武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1920618.d.html</link>
+            <guid>2610385</guid>
+            <pubDate>Fri, 01 Apr 2022 19:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国证券交易委员会文件：空头支票公司Chenghe Acquisition提交IPO申请，拟筹资至多1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9476206.d.html</link>
+            <guid>2610384</guid>
+            <pubDate>Fri, 01 Apr 2022 19:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【D.A. Davidson：将迪尔股份(DE.N)目标价从455美元上调至480美元 维持买入评级】D.A. Davidson分析师Michael Shlisky在一份研究报告中告诉投资者，美国农业部昨天发布的预期种植报告显示，尽管俄乌冲突相关的干扰因素，美国2022年的玉米和大豆种植面积与2月份的初步预测相比减少了400万英亩，而小麦种植面积估计仅有小幅增长。Shlisky补充到，该报告为迪尔设定了一个看涨的前景，称目前的作物价格预示着主要作物的强劲增长“至少要到2023年”。该分析师继续推荐迪尔的股票，并认为这个周期“似乎还没有接近峰值”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1920511.d.html</link>
+            <guid>2610383</guid>
+            <pubDate>Fri, 01 Apr 2022 19:20:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报：稳地产政策显效，3月重点城市新房成交环比增近五成】证券时报头版刊文称，一系列稳地产政策开始显效，3月重点城市住宅成交面积环比增长近五成，特别是3月下旬，重点城市成交面积明显回升。不过，从同比看，3月重点城市住宅成交面积仍下降近五成。业内人士认为，在疫情反复、房企推货节奏安排等各因素综合影响下，一季度房企销售业绩表现不佳，市场整体依旧低迷。预计在更多支持政策影响下，二季度市场成交或筑底企稳，同比跌幅也将有所收窄。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9476125.d.html</link>
+            <guid>2610382</guid>
+            <pubDate>Fri, 01 Apr 2022 19:20:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[宝马汽车北美公司：宝马汽车第一季度销量同比增长3.2%，美国制造的BMW X车型占第一季度销量的57%，MINI车型销量同比增长9.4%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1919837.d.html</link>
@@ -289,321 +603,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1913253.d.html</link>
             <guid>2610335</guid>
             <pubDate>Fri, 01 Apr 2022 17:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前美国财长萨默斯：拜登政府对亿万富豪增税的努力纯属异想天开，呼吁侧重于企业税。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9468970.d.html</link>
-            <guid>2610334</guid>
-            <pubDate>Fri, 01 Apr 2022 17:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿尔及利亚具备“几十亿”立方米的天然气闲置产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1913220.d.html</link>
-            <guid>2610333</guid>
-            <pubDate>Fri, 01 Apr 2022 17:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会：必须遵守约定的天然气供应合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1913206.d.html</link>
-            <guid>2610332</guid>
-            <pubDate>Fri, 01 Apr 2022 17:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会：97%的相关天然气供应合同规定以欧元或美元支付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1913200.d.html</link>
-            <guid>2610331</guid>
-            <pubDate>Fri, 01 Apr 2022 17:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：欧盟将以统一的方式回应俄罗斯企图绕过我们制裁的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1913192.d.html</link>
-            <guid>2610330</guid>
-            <pubDate>Fri, 01 Apr 2022 17:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：签订欧元或美元天然气供应合同的公司不应同意俄罗斯的要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1913188.d.html</link>
-            <guid>2610329</guid>
-            <pubDate>Fri, 01 Apr 2022 17:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构：计划在乌克兰执行第一批核安全任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1913173.d.html</link>
-            <guid>2610328</guid>
-            <pubDate>Fri, 01 Apr 2022 17:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议院投票通过大麻合法化法案】当地时间4月1日，美国众议院以220票赞成、204票反对的投票结果通过立法，将大麻在全美范围内合法化，并取消对拥有或分发大麻者的长期刑事处罚。参议院接下来将进行投票，并需要至少60票赞成票才能通过立法。该立法还将对大麻销售征收联邦税，为受到所谓“毒品战争”政策伤害的社区提供援助，该政策对分发和使用毒品行为规定了严厉的惩罚措施。据悉，销售税将从5%开始，并在五年内逐渐增加到8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9468816.d.html</link>
-            <guid>2610327</guid>
-            <pubDate>Fri, 01 Apr 2022 17:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[    【美国亚马逊公司员工投票计划成立工会 或为美国首例】纽约斯塔滕岛（Staten Island）的亚马逊员工当地时间4月1日投票决定是否成立亚马逊工会。据报道，目前选票仍在计算当中，但是支持成立工会的人数暂时领先。亚马逊向监督这一过程的美国国家劳工关系委员会提供了符合条件的工人名单，有超过8300名符合条件的工人参与投票。据悉，如果工会最终成立，标志着亚马逊将成为历史上第一个成功成立工会的美国公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9468569.d.html</link>
-            <guid>2610326</guid>
-            <pubDate>Fri, 01 Apr 2022 17:39:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  亚马逊：对纽约斯塔滕岛的工会选举结果感到失望，正在评估各种选项，包括提出反对意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9468458.d.html</link>
-            <guid>2610325</guid>
-            <pubDate>Fri, 01 Apr 2022 17:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际原子能机构：所有俄罗斯军队已经撤离切尔诺贝利核电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9468318.d.html</link>
-            <guid>2610324</guid>
-            <pubDate>Fri, 01 Apr 2022 17:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  消息人士：乌克兰为国防努力提供资金的债券发行计划可能会扩大到国际资本市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1912505.d.html</link>
-            <guid>2610323</guid>
-            <pubDate>Fri, 01 Apr 2022 17:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022卡塔尔世界杯小组抽签结果出炉】北京时间4月2日凌晨，2022年卡塔尔世界杯决赛圈分组抽签仪式在卡塔尔首都多哈的多哈会展中心举行。2022世界杯抽签最终抽签结果如下： A组：卡塔尔队、厄瓜多尔队、塞内加尔队、荷兰队 B组：英格兰队、欧洲区附加赛球队、伊朗队、美国队 C组：阿根廷队、沙特阿拉伯队、墨西哥队、波兰队 D组：法国队、洲际附加赛球队1、丹麦队、突尼斯队 E组：西班牙队、洲际附加赛球队2、德国队、日本队 F组：比利时队、加拿大队、摩洛哥队、克罗地亚队 G组：巴西队、塞尔维亚队、瑞士队、喀麦隆队 H组：葡萄牙队、加纳队、乌拉圭队、韩国队 分组揭晓的同时，卡塔尔世界杯的揭幕战对阵也已经确定，将由A1位置的东道主卡塔尔队对阵A2位置的厄瓜多尔队。根据赛程，卡塔尔世界杯将于11月21日至12月18日举行。 注： 洲际附加赛球队1：阿联酋队与澳大利亚队先比赛，胜者再对阵秘鲁队决出最终晋级球队。 洲际附加赛球队2：哥斯达黎加队与新西兰队之间的胜者。 欧洲区附加赛球队：苏格兰队与乌克兰队先比赛，胜者再对阵威尔士队决出最终晋级球队。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1912308.d.html</link>
-            <guid>2610322</guid>
-            <pubDate>Fri, 01 Apr 2022 17:33:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣特拉斯：英国和美国一致认为，必须继续对俄罗斯施加压力，我们将努力消除对俄罗斯能源的依赖。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9468042.d.html</link>
-            <guid>2610321</guid>
-            <pubDate>Fri, 01 Apr 2022 17:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：欢迎也门宣布为期两个月的停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1912047.d.html</link>
-            <guid>2610320</guid>
-            <pubDate>Fri, 01 Apr 2022 17:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  联合国秘书长古特雷斯：联合国副秘书长将于4月3日访问莫斯科，讨论乌克兰局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1911911.d.html</link>
-            <guid>2610319</guid>
-            <pubDate>Fri, 01 Apr 2022 17:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴克莱：将宝洁(PG.N)目标价从178美元下调至167美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9467655.d.html</link>
-            <guid>2610318</guid>
-            <pubDate>Fri, 01 Apr 2022 17:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法巴银行：予亚马逊(AMZN.O)跑输大市评级，目标价2800美元】法巴银行分析师Stefan Slowinski表示，疫情期间，在美国劳动力市场紧张情况下，投资建设物流中心以加快交付速度，并发放员工奖金，以保持仓库人手，这可能会蚕食该公司的利润率。在疫情期间，由于消费者对日常必需品的高度依赖，亚马逊发展迅速，但随着疫情好转，购物者现在又回归商店购物。“虽然利润率扩张是可能的，但显然在高通胀情况下，消费者正面临压力。亚马逊已经在通过提高Prime定价来提高客户的价格。”Slowinski补充称，亚马逊不会提高许多产品的价格来应对通胀，因此公司运营可能会受到打击。公司将需要为其云业务分配资本支出，因其目标是在竞争激烈的情况下扩大30%的市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1911249.d.html</link>
-            <guid>2610317</guid>
-            <pubDate>Fri, 01 Apr 2022 17:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国斯巴鲁汽车3月销量下降34.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9466982.d.html</link>
-            <guid>2610316</guid>
-            <pubDate>Fri, 01 Apr 2022 17:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克石油部：伊拉克3月出口石油324.4万桶/日，其中不包含库尔德斯坦的数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9466765.d.html</link>
-            <guid>2610315</guid>
-            <pubDate>Fri, 01 Apr 2022 17:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储周五（4月1日）逆回购工具使用规模为1.666万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1910911.d.html</link>
-            <guid>2610314</guid>
-            <pubDate>Fri, 01 Apr 2022 17:15:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：燃料供应商停止向南欧的俄罗斯船只提供船用燃料，悬挂俄罗斯国旗的船只无法在直布罗陀、马耳他或西班牙获得海上加油服务。]]></title>
-            <guid>2610313</guid>
-            <pubDate>Fri, 01 Apr 2022 17:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)：预计库存将在2022年维持在相对偏低的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1910348.d.html</link>
-            <guid>2610312</guid>
-            <pubDate>Fri, 01 Apr 2022 17:08:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大皇家银行：预计加拿大央行将在4月的会议上加息50个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1909997.d.html</link>
-            <guid>2610311</guid>
-            <pubDate>Fri, 01 Apr 2022 17:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯卫生部批准注册“卫星-V”鼻喷式新冠疫苗】俄罗斯卫生部当地时间4月1日表示，已批准注册由俄罗斯加马列亚流行病学和微生物学国家研究中心研发的“卫星-V”鼻喷式新冠疫苗。该疫苗为两剂，间隔三周接种，适用于18岁及以上人群。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1909784.d.html</link>
-            <guid>2610310</guid>
-            <pubDate>Fri, 01 Apr 2022 17:02:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月1日当周天然气钻井总数(口)：前值 137，预期 138，公布 138。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9465511.d.html</link>
-            <guid>2610309</guid>
-            <pubDate>Fri, 01 Apr 2022 17:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月1日当周石油钻井总数(口)：前值 531，预期 535，公布 533。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1909644.d.html</link>
-            <guid>2610308</guid>
-            <pubDate>Fri, 01 Apr 2022 17:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌22美元，报10354美元/吨。LME期铝收跌41美元，报3450美元/吨。LME期锌收涨166美元，报4339美元/吨。LME期铅收涨34美元，报2450美元/吨。LME期镍收涨1116美元，报33223美元/吨。LME期锡收涨1857美元，报44767美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9465141.d.html</link>
-            <guid>2610307</guid>
-            <pubDate>Fri, 01 Apr 2022 16:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保加利亚宣布俄罗斯驻保加利亚外交官为不受欢迎人士。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1909345.d.html</link>
-            <guid>2610306</guid>
-            <pubDate>Fri, 01 Apr 2022 16:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2022年4月1日8时至24时，山东省日照市莒县新增本土无症状感染者1例。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1909083.d.html</link>
-            <guid>2610305</guid>
-            <pubDate>Fri, 01 Apr 2022 16:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际能源署成员国同意与美国一起大规模释放石油储备】在美国宣布史无前例的储备油投放计划后，为了缓解能源价格高涨带来的经济损害，美国几个盟友也打算加入拜登政府行列。日本经济产业省官员表示，国际能源署(IEA)成员周五同意释放新一轮紧急燃料储备。每个国家放油的时间和数量将在稍后决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908974.d.html</link>
-            <guid>2610304</guid>
-            <pubDate>Fri, 01 Apr 2022 16:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务院：美国国务卿布林肯和英国外交部长特拉斯讨论了即将举行的北约外长会议，并制定了更多可能的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9464708.d.html</link>
-            <guid>2610303</guid>
-            <pubDate>Fri, 01 Apr 2022 16:50:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲央行拒绝了能源交易商的金融支持请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908854.d.html</link>
-            <guid>2610302</guid>
-            <pubDate>Fri, 01 Apr 2022 16:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因担忧消费者支出下降，小摩将苹果和高通踢出关注名单】摩根大通分析师将苹果(AAPL.O)和高通(QCOM.O)从关注名单中除名，该行表示，由于消费者支出可能下降，投资者似乎正在关注与消费电子产品相关的问题。分析师Nicholas Rosato指出，价值型股票向成长型股票转变是经济衰退的迹象，这一迹象“推动投资者青睐高质量和成长型股票，即使这类股票的市盈率很高”。Rosato表明，围绕科技支出的“争议很大”，但随着市场对全球经济的担忧开始转移到该行业，这可能会影响一些终端市场，然后影响到商业和商业支出。该分析师称：“在这方面，我们认为，随着消费者支出缩减幅度进一步明确，我们对苹果和高通股票的短期看涨情绪可能会有所缓和。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908559.d.html</link>
-            <guid>2610301</guid>
-            <pubDate>Fri, 01 Apr 2022 16:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国副国家安全顾问Neuberger：面向公众的行业最容易面临网络攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908337.d.html</link>
-            <guid>2610300</guid>
-            <pubDate>Fri, 01 Apr 2022 16:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门冲突各方同意并开始停火】当地时间4月1日晚间，联合国秘书长也门问题特使汉斯·格伦德贝格宣布，也门冲突各方同意并将进入为期两个月的停火期。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9464003.d.html</link>
-            <guid>2610299</guid>
-            <pubDate>Fri, 01 Apr 2022 16:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国副国家安全顾问Neuberger：白宫正在紧急处理网络威胁，公司需要“锁好数字大门”。]]></title>
-            <guid>2610298</guid>
-            <pubDate>Fri, 01 Apr 2022 16:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部高级官员：允许俄罗斯偿还债务的许可证旨在防止持有俄罗斯债务的西方金融机构受到损害。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908127.d.html</link>
-            <guid>2610297</guid>
-            <pubDate>Fri, 01 Apr 2022 16:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Evercore ISI：重申Spotify(SPOT.N)跑赢大市评级 目标价300美元】Evercore ISI分析师Mark Mahaney发表研报，自Spotify IPO以来，该公司股价面临的“最大威胁之一”是对其商业模式的担忧，以及是否有能力实现实质性的毛利率扩张。Mahaney表示，根据他对Spotify的双边市场(2SM，这是Spotify为艺术家和唱片公司提供的付费促销工具)进行的分析，以及对一家主要的全球唱片公司和一家欧洲领先的独立唱片公司的调查，他相信该公司的2SM可以成为毛利率扩张的重要来源。该分析师预计到2024年Spotify毛利率将达到30%以上，这将比目前市场预期提前一年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9463851.d.html</link>
-            <guid>2610296</guid>
-            <pubDate>Fri, 01 Apr 2022 16:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部高级官员：黑市的汇率表明卢布作为金融工具是疲弱的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908076.d.html</link>
-            <guid>2610295</guid>
-            <pubDate>Fri, 01 Apr 2022 16:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部高级官员：到目前为止，俄罗斯还没有出现有组织的卢布交易黑市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908074.d.html</link>
-            <guid>2610294</guid>
-            <pubDate>Fri, 01 Apr 2022 16:37:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰高级安全官员：俄罗斯指控乌克兰是别尔哥罗德袭击的幕后黑手是不正确的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9463799.d.html</link>
-            <guid>2610293</guid>
-            <pubDate>Fri, 01 Apr 2022 16:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部高级官员：俄罗斯将很难从原材料生产国转变为消费品生产国。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908054.d.html</link>
-            <guid>2610292</guid>
-            <pubDate>Fri, 01 Apr 2022 16:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部高级官员：作为一个封闭的经济体，俄罗斯是“装备最差”的国家之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1908043.d.html</link>
-            <guid>2610291</guid>
-            <pubDate>Fri, 01 Apr 2022 16:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部高级官员：我们正在推动俄罗斯成为一个封闭的经济体。]]></title>
-            <guid>2610290</guid>
-            <pubDate>Fri, 01 Apr 2022 16:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五（4月1日）欧市尾盘，德国10年期国债收益率涨0.3个基点，刷新日低至0.551%，欧市早盘曾涨至0.619%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9463754.d.html</link>
-            <guid>2610289</guid>
-            <pubDate>Fri, 01 Apr 2022 16:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰农业部：预计2022年春季农作物播种面积同比将下滑21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9463742.d.html</link>
-            <guid>2610288</guid>
-            <pubDate>Fri, 01 Apr 2022 16:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部高级官员：我们正在推动俄罗斯成为一个封闭的经济体。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9463109.d.html</link>
-            <guid>2610287</guid>
-            <pubDate>Fri, 01 Apr 2022 16:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据俄国防部消息，4月1日，乌克兰的两架米-24直升机低空飞行进入俄罗斯领空，对位于别尔哥罗德郊区的民用石油产品储存设施进行了导弹攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1907317.d.html</link>
-            <guid>2610286</guid>
-            <pubDate>Fri, 01 Apr 2022 16:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Ocugen短线跳水，现跌2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1907311.d.html</link>
-            <guid>2610285</guid>
-            <pubDate>Fri, 01 Apr 2022 16:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  拜登政府取消了新冠疫情移民限制政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwiwss9462861.d.html</link>
-            <guid>2610284</guid>
-            <pubDate>Fri, 01 Apr 2022 16:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部发布消息称，别尔哥罗德附近的油库与俄军没有任何关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1907027.d.html</link>
-            <guid>2610283</guid>
-            <pubDate>Fri, 01 Apr 2022 16:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外长：俄印已实施本国货币贸易支付机制】正在印度访问的俄罗斯外长拉夫罗夫4月1日表示，俄印两国已经实施卢布-卢比贸易支付机制，并将进一步加强这一支付系统。拉夫罗夫在与印度外长苏杰生会谈后举行的新闻发布会上说，俄罗斯已经建立与印度等国使用本国货币进行贸易的系统，并将加大力度摆脱以美元为基础的支付系统。美国的压力不会影响俄印之间的伙伴关系，俄印将使用本国货币进行石油、军事装备和其他商品的贸易。据印度外交部当天发表的声明，两国外长在会谈中讨论了乌克兰局势。拉夫罗夫从俄罗斯的角度向印方介绍了俄乌谈判等情况，苏杰生则强调了结束敌对行动的重要性。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-02/detail-imcwipii1906713.d.html</link>
-            <guid>2610282</guid>
-            <pubDate>Fri, 01 Apr 2022 16:17:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
