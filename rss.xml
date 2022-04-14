@@ -4,11 +4,430 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 14 Apr 2022 19:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 22:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西预计2023年初始财政赤字为650亿巴西雷亚尔，预计2023年总赤字达到GDP的79.64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4358220.d.html</link>
+            <guid>2631735</guid>
+            <pubDate>Thu, 14 Apr 2022 22:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国新增确诊51356例 累计超8056万例】当地时间14日，根据美国约翰斯·霍普金斯大学（JHU）数据，截至美东时间当天17时21分（北京时间4月15日凌晨5时21分），美国累计新冠肺炎确诊病例80565128例，累计死亡病例987997例。两项数据与24小时前相比，新增确诊51356例，新增死亡747例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1912973.d.html</link>
+            <guid>2631734</guid>
+            <pubDate>Thu, 14 Apr 2022 22:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两大钢企上调汽车用钢基价，钢铁行业供需矛盾料缓解】钢企近期相继公布5月产品价格，大多数产品价格维持不变，但鞍钢和本钢上调了汽车用钢产品基价。业内人士表示，当前市场仍呈现板材偏强运行、长材相对较弱的局面，但随着各地适度超前开展基础设施投资，基建领域将成为今年钢材需求增长的主要发力点。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1912751.d.html</link>
+            <guid>2631733</guid>
+            <pubDate>Thu, 14 Apr 2022 22:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储5月加息50个基点的概率为91%】据CME“美联储观察”：美联储到5月份加息25个基点的概率为9.0%，加息50个基点的概率为91.0%，加息75个基点的概率为0%；到6月份加息25个基点或加息50个基点的概率为0%，加息75个基点的概率为6.6%，加息100个基点的概率为68.7%，加息125个基点的概率为24.7%。另外，与美联储议息日期挂钩的掉期交易几乎完全定价美联储5月加息50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4357015.d.html</link>
+            <guid>2631732</guid>
+            <pubDate>Thu, 14 Apr 2022 22:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储哈克：预计美联储很快就会减持美国国债和住房抵押贷款支持证券。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1911750.d.html</link>
+            <guid>2631731</guid>
+            <pubDate>Thu, 14 Apr 2022 22:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储哈克：担忧通胀预期可能会失控。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1911732.d.html</link>
+            <guid>2631730</guid>
+            <pubDate>Thu, 14 Apr 2022 22:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储哈克：预计美国在2022年通胀率将在4%左右，两年内恢复至目标2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4356695.d.html</link>
+            <guid>2631729</guid>
+            <pubDate>Thu, 14 Apr 2022 22:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储哈克：预计2022年美国经济增速将放缓至3%-3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4356407.d.html</link>
+            <guid>2631728</guid>
+            <pubDate>Thu, 14 Apr 2022 22:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储哈克：预计今年将进行一系列有计划、有条理的加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1911450.d.html</link>
+            <guid>2631727</guid>
+            <pubDate>Thu, 14 Apr 2022 22:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【量化交易需求激发系统升级，券商加码“毫秒争夺战”】量化交易系统的升级，对券商业务转型而言是一场应变图存的压力测试。作为券商越来越重要的客户群体，量化客户对股基交易量、两融、收益互换等业务线都有着重要价值，而量化交易系统正是其基础性保障。随着量化私募规模的扩容，券商不断强化量化交易服务，对交易系统迭代升级，展开“毫秒级”的争夺，力求在转型中占得先机。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4356047.d.html</link>
+            <guid>2631726</guid>
+            <pubDate>Thu, 14 Apr 2022 21:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重大项目密集亮相，万亿级基建投资超前发力】 截至4月14日，今年先后已有25个省份披露了2022年地方重大项目投资相关规划，加总计算的年度计划投资总额达12.27万亿元。按可比口径计算，同比增速为14.7%，创出2019年以来新高。另一边，资金保障也不断跟进，3.65万亿元专项债早发早用。机构预计，一季度基建投资增速或超过10%，今年广义基建投资有望增长5%至8%，助力经济运行在合理区间。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1910930.d.html</link>
+            <guid>2631725</guid>
+            <pubDate>Thu, 14 Apr 2022 21:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国参议员：拜登应该任命乌克兰安全援助协调专员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4354701.d.html</link>
+            <guid>2631724</guid>
+            <pubDate>Thu, 14 Apr 2022 21:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：必须让通胀进入下行轨道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4354686.d.html</link>
+            <guid>2631723</guid>
+            <pubDate>Thu, 14 Apr 2022 21:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：在当前的经济形势下，美联储的通胀目标和就业目标之间不存在权衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1909531.d.html</link>
+            <guid>2631722</guid>
+            <pubDate>Thu, 14 Apr 2022 21:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：生活必需品的通货膨胀率较高，因此低收入人群受到的伤害大于高收入人群。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1909521.d.html</link>
+            <guid>2631721</guid>
+            <pubDate>Thu, 14 Apr 2022 21:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：如果目前的推特董事会采取了违背股东利益的行动，他们就会违背自己的受托责任，将承担巨大的后果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4354540.d.html</link>
+            <guid>2631720</guid>
+            <pubDate>Thu, 14 Apr 2022 21:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【近200家公司一季报大幅预增 三大行业景气高歌猛进】截至4月14日，已有498家公司发布2022年一季度业绩预告。其中，387家公司预计一季度归母净利润同比增长，占比为77.7%，当中更有190家公司预计净利润最大增幅超过100%。在预增阵营中，与新冠检测相关的生物医药行业、锂电及光伏产业链表现最为抢眼。另外，煤炭化工等周期股业绩增长也令人振奋。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1909480.d.html</link>
+            <guid>2631719</guid>
+            <pubDate>Thu, 14 Apr 2022 21:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深圳境内外上市公司突破500家】创业板近日迎来又一家深圳本土企业——铭利达，至此，深圳市境内外上市公司数量已经突破500家。梳理发现，深圳境内外上市公司数量从0到100家，用了16年；从100家到突破300家，用了10年；从300家到突破500家，仅用了5年时间。数据显示，2021年深圳市新增境内外上市企业47家，创年新增数量历史新高。2021年末，深圳市境内外上市公司为495家。截至目前，深圳500余家境内外上市公司总市值超过12万亿元，是深圳去年GDP的4倍左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1909384.d.html</link>
+            <guid>2631718</guid>
+            <pubDate>Thu, 14 Apr 2022 21:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：美联储的目标是降低政策宽松程度，这是在维持经济活动的同时控制通胀所必需的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4354348.d.html</link>
+            <guid>2631717</guid>
+            <pubDate>Thu, 14 Apr 2022 21:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：美国劳动力市场非常紧张，通货膨胀非常高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1909268.d.html</link>
+            <guid>2631716</guid>
+            <pubDate>Thu, 14 Apr 2022 21:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特美股盘后涨4.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1909078.d.html</link>
+            <guid>2631715</guid>
+            <pubDate>Thu, 14 Apr 2022 21:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特CEO在公司内部会议上表示：董事会正在评估马斯克收购推特的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1908282.d.html</link>
+            <guid>2631714</guid>
+            <pubDate>Thu, 14 Apr 2022 21:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行就通胀预期脱锚的风险发出警告，未完全排除7月加息可能性】① 欧洲央行周四确认了将在第三季结束其标志性刺激措施的计划，担心高通胀可能变得根深蒂固，但乌克兰战争让前景变得异常不确定。欧洲央行一直在以缓慢的速度撤回支持措施，远远慢于其他主要央行。欧洲央行担心，随着战争、极高的能源价格以及无法获得俄罗斯天然气的风险重创本已脆弱的经济，增长可能会迅速崩溃；② 欧洲央行周四仍保持含糊其辞的基调，避免就债券购买结束后做出任何坚定承诺，强调政策是灵活的，可以迅速调整；③ 欧洲央行行长拉加德表示，受乌克兰战争影响，增长前景面临的下行风险大幅增加。我们将在货币政策的执行上保持选择空间、循序渐进和灵活性。不过她指出，较长期通胀预期正显示出高于欧洲央行2%目标的初步迹象；④ 这种被央行称为脱锚的转变，是一个令人担忧的迹象，表明市场对央行维持价格稳定的能力失去了信心。拉加德称，我们最不希望看到的是通胀预期有脱锚的风险，将需要对此密切监控；⑤ 尽管拉加德在很大程度上回避讨论加息，但她称可能会在债券购买结束后的“一周”或几个月内加息。这暗示政策制定者可能会在7月下旬的会议上讨论这一问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1908139.d.html</link>
+            <guid>2631713</guid>
+            <pubDate>Thu, 14 Apr 2022 21:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（4月14日）纽约尾盘，CME比特币期货BTC主力合约报39885美元，较周三纽约尾盘跌3.00%，盘中交投于41540-39565美元区间。CME以太币期货DCR主力合约报3012.50美元，较周三跌2.48%，盘中交投于3145.50-2974.50美元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1907808.d.html</link>
+            <guid>2631712</guid>
+            <pubDate>Thu, 14 Apr 2022 21:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日增加129.25吨，当前持仓量为17718.92吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4352829.d.html</link>
+            <guid>2631711</guid>
+            <pubDate>Thu, 14 Apr 2022 21:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  惠誉确认巴菲特旗下的伯克希尔哈撒韦长期发行人违约评级（IDR）为AA-，展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4352822.d.html</link>
+            <guid>2631710</guid>
+            <pubDate>Thu, 14 Apr 2022 21:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法拉第未来：已任命Matthias Aydt为CEO，为期六个月，立即生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4352485.d.html</link>
+            <guid>2631709</guid>
+            <pubDate>Thu, 14 Apr 2022 21:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.3898元，较周三纽约尾盘跌120点，盘中整体交投于6.3723-6.3958元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4352239.d.html</link>
+            <guid>2631708</guid>
+            <pubDate>Thu, 14 Apr 2022 21:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法拉第未来：贾跃亭将继续担任首席产品及用户生态系统官（CPUO），并将继续向执行主席汇报。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1907065.d.html</link>
+            <guid>2631707</guid>
+            <pubDate>Thu, 14 Apr 2022 21:08:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【拜登：美国通胀持续上升 需采取行动降低生活成本】美国总统拜登当地时间14日在北卡罗来纳州发表讲话时表示，美国通货膨胀持续上升，政府迫切需要采取行动降低美国人的生活成本。拜登援引美国劳工部报告称，受俄乌冲突影响，美国上个月的油价和其他商品价格继续上涨。拜登呼吁国会尽快通过创新法案，为国内半导体和其他材料制造提供资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1907041.d.html</link>
+            <guid>2631706</guid>
+            <pubDate>Thu, 14 Apr 2022 21:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法拉第未来：4月12日，董事会批准了与此前宣布的一项独立调查有关的额外补救措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4352001.d.html</link>
+            <guid>2631705</guid>
+            <pubDate>Thu, 14 Apr 2022 21:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【教育股流利说收涨44%，领跑一众中概股，拼多多则跌超8%】流利说周四收涨44.0%，领跑一众中概股，人人公司涨超16.7%，瑞思涨超14.5%，安博教育涨13.3%，云集涨6.6%，尚德机构涨4.4%，一起教育涨超3.5%，精锐教育涨超3.4%，洪恩教育涨超3.0%，九紫新能涨超2.3%，携程涨1.4%，叮咚买菜涨超1.3%，瑞幸咖啡涨超1.1%，达达集团和晶科能源涨超0.8%，网易则跌超0.6%，理想汽车跌超1.2%，新东方跌约1.8%，腾讯音乐、悦刻电子烟、唯品会、开心汽车、贝壳、腾讯粉单市场、老虎证券、讯鸟软件、360数科、趣头条、小鹏汽车、京东至少跌2.2%，掌门教育、欢聚时代、高途教育、蔚来汽车、百度、好未来、第一高中教育集团至少跌超3.1%，虎牙、阿里巴巴、爱奇艺、B站至少跌超4.2%，金山云、网易有道、斗鱼、荔枝网、看准网至少跌5.0%，知乎跌约8.4%，拼多多跌超8.8%，领跌纳斯达克100指数的成分股。]]></title>
+            <guid>2631704</guid>
+            <pubDate>Thu, 14 Apr 2022 21:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【高盛连续第三个季度卖股票了 也是连续第三季股票投资亏损】高盛财报显示，资产管理的净收入比一年前缩水了88%，只有5.46亿美元，低于一年前的46亿美元。公开市场股票投资本季度亏损6.2亿美元，已经是其连续第三季度的亏损；截至去年末，高盛过去两年净抛售120亿美元股票，本季度又额外抛售了10亿美元的股票，连续三个季度抛售。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1906317.d.html</link>
+            <guid>2631703</guid>
+            <pubDate>Thu, 14 Apr 2022 20:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股半导体指数周四收跌将近3.0%，芯片类股普跌，格罗方德半导体（格芯）收跌将近5.0%，AMD跌约4.8%，科磊跌约4.5%，英伟达跌超4.2%，SLAB、SWKS、迈威尔科技、拉姆研究、LSCC、Teradyne、MKSI、希捷科技、ENTG博通、美光科技、台积电、应用材料至少跌3.0%，英特尔、MPWR、高通、ASML、QRVO、微芯科技至少跌超2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4350783.d.html</link>
+            <guid>2631702</guid>
+            <pubDate>Thu, 14 Apr 2022 20:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【FDA批准使用呼吸样本进行新冠检测 3分钟内可出结果】美国食品药品监督管理局（FDA）发布首份使用呼出气体来检测被采样者是否感染新冠病毒的紧急使用授权（EUA），该测试主要检测与新冠病病毒感染有关的呼吸样本中的化合物。采集和分析可在同一个环境进行，如医院和其它移动检测场所，仪器仅有行李箱大小，并在三分钟内获得结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4350675.d.html</link>
+            <guid>2631701</guid>
+            <pubDate>Thu, 14 Apr 2022 20:49:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【现金流压力下拿地谨慎 35家房企去年新增货值缩减2.8万亿元】以研究机构克而瑞发布的2021年跨入“千亿元俱乐部”（按操盘金额口径计）的35家上市房企为样本，根据衡量房企投资能力的重要指标——新增货值测算，35家“千亿元房企”2021年合计新增货值超5.1万亿元，同比缩减了2.8万亿元，同比下降35%。上述35家“千亿元房企”中，截至2021年底，新增货值最低者是世茂集团，为155亿元；最高者为碧桂园，为4840亿元。此外，碧桂园、保利发展以及万科三家房企均超过4000亿元，中海地产等4家房企新增货值均在2000亿元至4000亿元之间，总计有19家房企新增货值均超过1000亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1905440.d.html</link>
+            <guid>2631700</guid>
+            <pubDate>Thu, 14 Apr 2022 20:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【稳链固本提质 增强制造业核心竞争力】制造业是大国经济的“压舱石”，我国制造业还承担着由大转强过坎破局的重任。当前，受国内外多重因素影响，工业经济运行面临物流循环不畅、供应链堵点卡点增多、大宗商品价格高位运行等困难。增强制造业核心竞争力，特别是在稳链、固本、提质上下功夫已是当务之急。（经参）]]></title>
+            <guid>2631699</guid>
+            <pubDate>Thu, 14 Apr 2022 20:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[媒体消息：以色列对叙利亚大马士革省实施了空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1905178.d.html</link>
+            <guid>2631698</guid>
+            <pubDate>Thu, 14 Apr 2022 20:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北交所开市5个月表现符合预期 合格投资者新增超90万户】自2021年11月15日北京证券交易所开市至今已有5个月，市场表现基本符合预期。数据显示，当前北交所上市公司数量为89家，总股本127.61亿股，总市值1865.48亿元。截至3月底，合格投资者数量496.72万户。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1905129.d.html</link>
+            <guid>2631697</guid>
+            <pubDate>Thu, 14 Apr 2022 20:41:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【市场情绪现回暖迹象 资金借道ETF加速布局】今年以来，尽管A股市场整体走势偏弱，但资金对于ETF申购热情依然不减。4月以来，包括上证50ETF、沪深300ETF、中证500ETF等在内的多只宽基ETF，房地产、信息技术和基建等部分行业ETF，以及跨境型ETF等均迎来大额净流入资金，资金布局进一步加速。业内人士认为，尽管当前市场或仍将处于阶段性磨底阶段，但资金大量借道ETF布局，体现出当前市场情绪已出现回暖迹象，投资者信心开始回升。长期视角来看，优质龙头企业仍具备配置价值。]]></title>
+            <guid>2631696</guid>
+            <pubDate>Thu, 14 Apr 2022 20:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌0.24%，报2039.58点，本周（四个交易日）累计上涨3.17%。]]></title>
+            <guid>2631695</guid>
+            <pubDate>Thu, 14 Apr 2022 20:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西新增23171例新冠肺炎确诊病例，新增140例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1904459.d.html</link>
+            <guid>2631694</guid>
+            <pubDate>Thu, 14 Apr 2022 20:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大类资产类ETF周四普遍收跌，纳指100 ETF跌约2.3%表现最差，美国国债20+年ETF跌2.0%，新兴市场ETF跌约1.3%，标普500 ETF跌超1.2%，美国投资级公司债ETF跌超1.1%，罗素2000指数ETF跌约1.0%，美国国债7-10年ETF跌0.9%，做多美元指数则涨超0.4%，恐慌指数做多涨超1.6%，美国布伦特原油基金（BNO）涨超2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4349203.d.html</link>
+            <guid>2631693</guid>
+            <pubDate>Thu, 14 Apr 2022 20:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至4月9日当周外国央行持有美国国债(亿美元)：前值 18.55，公布 -208.71。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1904180.d.html</link>
+            <guid>2631692</guid>
+            <pubDate>Thu, 14 Apr 2022 20:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间14日，乌克兰总统泽连斯基在社交媒体平台上表示，他与法国总统马克龙通了电话，双方讨论了俄乌谈判进程等问题。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1903866.d.html</link>
+            <guid>2631691</guid>
+            <pubDate>Thu, 14 Apr 2022 20:30:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF周四普遍收跌，网络股指数ETF收跌将近2.7%，全球科技股指数ETF和科技行业ETF跌超2.4%，可选消费ETF跌1.4%，区域银行ETF跌约1.3%，生物科技指数ETF跌超1.2%，金融业ETF跌超1.1%，银行业ETF跌超0.9%，能源业ETF则涨超0.3%，全球航空业ETF涨超0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1903392.d.html</link>
+            <guid>2631690</guid>
+            <pubDate>Thu, 14 Apr 2022 20:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据叙利亚国家电视台：叙利亚首都大马士革西部乡村上空传来爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1903067.d.html</link>
+            <guid>2631689</guid>
+            <pubDate>Thu, 14 Apr 2022 20:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克发起一项名为“以54.20美元/股的价格将推特私有化应该取决于股东而非董事会”的投票。]]></title>
+            <guid>2631688</guid>
+            <pubDate>Thu, 14 Apr 2022 20:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  截至发稿，道指成交量报3.45亿股（上一交易日为3.136亿股），纳指成交量报37.25亿股（上一交易日为44.133亿股），标普500指数成量报21.02亿股（上一交易日为21.712亿股）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1901518.d.html</link>
+            <guid>2631687</guid>
+            <pubDate>Thu, 14 Apr 2022 20:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】道琼斯指数4月14日（周四）收盘下跌113.75点，跌幅0.33%，报34450.84点；标普500指数4月14日（周四）收盘下跌54.29点，跌幅1.22%，报4392.30点；纳斯达克综合指数4月14日（周四）收盘下跌292.51点，跌幅2.14%，报13351.08点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1901502.d.html</link>
+            <guid>2631686</guid>
+            <pubDate>Thu, 14 Apr 2022 20:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  本周，标普500指数累跌2.1%，道指下跌0.8%，纳斯达克指数下跌2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1901494.d.html</link>
+            <guid>2631685</guid>
+            <pubDate>Thu, 14 Apr 2022 20:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数收跌逾2%，成分股拼多多跌约9%，特斯拉跌超3%，万豪国际则涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4346323.d.html</link>
+            <guid>2631684</guid>
+            <pubDate>Thu, 14 Apr 2022 20:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【MKM Partners：将Alphabet目标价下调至3300美元，维持买入评级】MKM Partners分析师Rohit Kulkarni将谷歌母公司Alphabet目标价从3375美元下调至3300美元，但维持其买入评级。Kulkarni表示，考虑到俄乌冲突的直接影响，以及由此蔓延到欧洲的间接影响，且通货膨胀影响消费者支出减少。该分析师对其第一季度宏观网络广告行业变得更加谨慎。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1901197.d.html</link>
+            <guid>2631683</guid>
+            <pubDate>Thu, 14 Apr 2022 20:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股高开低收，道指初步收跌约110点，纳指初步收跌2.14%。社交媒体概念股、半导体股普跌，推特(TWTR.N)收跌1.46%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1901132.d.html</link>
+            <guid>2631682</guid>
+            <pubDate>Thu, 14 Apr 2022 20:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄新社：俄罗斯国防部称“莫斯科号”导弹巡洋舰已经沉没。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4345760.d.html</link>
+            <guid>2631681</guid>
+            <pubDate>Thu, 14 Apr 2022 19:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国有大行拨备覆盖率存下调空间，所释放资金可精准滴灌实体经济】随着去年国有大行盈利的较快增长，为了“丰年存粮”，国有大行拨备覆盖率在2021年出现普涨，截至去年年末，国有六大行拨备覆盖率全部超过150%，其中邮储银行、农业银行、建设银行、工商银行等4家大型银行的拨备覆盖率均在200%以上，邮储银行的拨备覆盖率更是高达418.61%。这也为日后大型银行主动下调拨备覆盖率提供了操作空间，并为加强信贷投放能力创造了可能，能够加大对受疫情影响比较严重的小微企业和个体工商户的支持力度。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4345579.d.html</link>
+            <guid>2631680</guid>
+            <pubDate>Thu, 14 Apr 2022 19:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国两家最大的投行就马斯克收购推特展开对峙】埃隆·马斯克以430亿美元的推特收购要约，将使华尔街两家最大的投行之间展开对峙。如果这份多年以来最大的收购要约被接受，这两家投行都将获得丰厚的回报。据知情人士透露，周四提交的一份文件显示，摩根士丹利正在为马斯克提供咨询服务，而高盛则向推特就如何应对马斯克的收购提供咨询。然而，目前该交易能否顺利进行目前还没有定论。马斯克周四表示，他“不确定”自己“是否真的能够收购”推特，如果推特董事会拒绝他的出价，他还有B计划，但没有提供细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1900394.d.html</link>
+            <guid>2631679</guid>
+            <pubDate>Thu, 14 Apr 2022 19:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：本周美国贷款基金的资金流入为10.49亿美元；投资级基金的资金流出45亿美元；市政债券基金的资金流出为41亿美元；高收益基金的资金流出40亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1900056.d.html</link>
+            <guid>2631678</guid>
+            <pubDate>Thu, 14 Apr 2022 19:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北斗服务环节产值近2000亿元 社会终端保有量超10亿台】截至2021年底，具有北斗定位功能的终端产品社会总保有量超过10亿台/套，医疗健康、防疫消杀、远程监控、线上服务等下游运营服务环节产值近2000亿元。而在大众应用方面，2021年国内智能手机出货量中支持北斗的已达3.24亿部，占国内智能手机总出货量94.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4344441.d.html</link>
+            <guid>2631677</guid>
+            <pubDate>Thu, 14 Apr 2022 19:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科技股继续走低，纳指跌2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1899313.d.html</link>
+            <guid>2631676</guid>
+            <pubDate>Thu, 14 Apr 2022 19:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯布良斯克州克里莫夫斯基区已进入紧急状态】当地时间14日，俄罗斯布良斯克州的克里莫夫斯基区已进入紧急状态。当日，该地区遭到乌军武装直升机袭击，造成8人受伤，100多所房屋受损。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4344347.d.html</link>
+            <guid>2631675</guid>
+            <pubDate>Thu, 14 Apr 2022 19:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【私人银行业务发展提速，2021年六家私人银行管理资产规模超万亿元】从目前已披露的银行年报数据看，截至2021年底，招商银行的私人银行管理资产规模遥遥领先，也是唯一私人银行管理资产规模超3万亿元的A股上市银行。此外，工商银行、中国银行、建设银行、农业银行和平安银行等5家私人银行资产管理规模页大于1万亿元。这意味着，随着国内居民财富的增长和财富管理服务需求的上升，私人银行于银行业得地位愈发重要。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1899165.d.html</link>
+            <guid>2631674</guid>
+            <pubDate>Thu, 14 Apr 2022 19:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：全球累计新冠肺炎确诊病例超5亿例】根据世卫组织最新实时统计数据，截至欧洲中部夏令时间4月14日20时36分，全球累计新冠肺炎确诊病例超5亿例，达500186525例，累计死亡病例6190349例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4344068.d.html</link>
+            <guid>2631673</guid>
+            <pubDate>Thu, 14 Apr 2022 19:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马斯克回应网友关于“如果推特董事会拒绝了马斯克提出的报价，该行为将直接违背了股东的经济利益”的观点时表示，如果不让股东投票表决，那将是完全站不住脚的，是股东而不是董事会拥有公司。]]></title>
+            <guid>2631672</guid>
+            <pubDate>Thu, 14 Apr 2022 19:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【逾10家上市银行对公房地产贷款不良率抬升 专家称风险总体可控】截至4月14日收盘，披露年报的上市银行中，超过10家去年末对公房地产贷款不良率较2020年末出现小幅上升。从房地产贷款不良率来看，六大行中，除邮储银行的不良率同比持平、交通银行同比下滑之外，其他4家均小幅上升。多位专家表示，考虑到房地产企业的集中信用违约主要从去年开始，而不良指标滞后于逾期指标，因此，2022年上市银行房地产贷款不良率或将持续上升。不过，上市银行对公房地产贷款占银行表内贷款总额的比例并不高，风险总体可控。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4343922.d.html</link>
+            <guid>2631671</guid>
+            <pubDate>Thu, 14 Apr 2022 19:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国纽约州报告新增7219例新冠肺炎确诊病例和5例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1898571.d.html</link>
+            <guid>2631670</guid>
+            <pubDate>Thu, 14 Apr 2022 19:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国国务院：关于美国公民在乌克兰被捕的报道不实。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1898110.d.html</link>
+            <guid>2631669</guid>
+            <pubDate>Thu, 14 Apr 2022 19:24:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：在保证供需平衡的情况下控制收紧政策的步伐。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4343141.d.html</link>
+            <guid>2631668</guid>
+            <pubDate>Thu, 14 Apr 2022 19:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储梅斯特：美国劳动力市场“非常紧张”，通货膨胀非常高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1897921.d.html</link>
+            <guid>2631667</guid>
+            <pubDate>Thu, 14 Apr 2022 19:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴克莱：将达美航空(DAL.N)目标价上调至60美元，评级上调至跑赢大市】在昨日达美航空(DAL.N)公布第一季度业绩后，巴克莱银行分析师Brandon Oglenski发布研报，将该股目标价从42美元上调至60美元，评级从与大市持平上调至跑赢大市。Oglenski表示，达美航空提供的第二季度业绩指引“意外强劲”，这表明美国旅游需求正在快速复苏。该分析师预计，随着跨大西洋市场引领的长途旅行需求回升，今年商务旅行复苏将加速，这将有利于达美航空。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4342681.d.html</link>
+            <guid>2631666</guid>
+            <pubDate>Thu, 14 Apr 2022 19:19:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：04月15日03时06分在台湾花莲县（北纬23.77度，东经121.50度）发生4.4级地震，震源深度8千米。]]></title>
+            <guid>2631665</guid>
+            <pubDate>Thu, 14 Apr 2022 19:18:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【韦德布什分析师：马斯克可能成功收购推特】4月14日，马斯克提出以54.20美元/股现金收购推特(TWTR.N)。韦德布什分析师Dan Ives表示，“很难再出现其他竞购者/财团，推特董事会可能会被迫接受这一出价，并启动一个积极的流程出售推特。”Ives还指出，可能会有一些关于这笔交易的融资问题、监管方面的担忧，以及马斯克如何在特斯拉、SpaceX和推特之间取得平衡，但推特接受这笔交易的时机是“机不可失”。Ives补充说，下一步是推特董事会对收购要约进行评估，预计未来几周将会出现许多波折。]]></title>
             <guid>2631664</guid>
@@ -181,427 +600,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1890207.d.html</link>
             <guid>2631636</guid>
             <pubDate>Thu, 14 Apr 2022 18:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克不确定是否会收购推特 希望尽可能多地持股推特】马斯克表示，不确定自己实际上是否真的会收购推特(TWTR.N)；从技术角度讲，能够承担收购推特；拥有有效的资产，在可能的情况下，可以买下推特公司。他表示，自己根本就不关心（收购推特的）经济性，目标是尽可能多地持股推特。马斯克还表示，如果推特董事会/股东不接受收购建议，还有备用方案。在推特平台发布个人信息方面，他承认此前被迫向美国证券交易委员会（SEC）让步。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1890088.d.html</link>
-            <guid>2631635</guid>
-            <pubDate>Thu, 14 Apr 2022 17:59:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部发言人伊戈尔·科纳申科夫少将表示，4月14日，俄罗斯火箭兵及炮兵部队摧毁了乌克兰军事设施132处，其中包括110个兵营。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1889800.d.html</link>
-            <guid>2631634</guid>
-            <pubDate>Thu, 14 Apr 2022 17:55:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX 6月黄金期货收跌0.5%，报1974.90美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1889399.d.html</link>
-            <guid>2631633</guid>
-            <pubDate>Thu, 14 Apr 2022 17:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据法新社：法国驻乌克兰西部利沃夫的使馆人员将返回基辅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1889373.d.html</link>
-            <guid>2631632</guid>
-            <pubDate>Thu, 14 Apr 2022 17:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特公司董事会认为，马斯克收购推特的提议并不受人欢迎。（The Information）]]></title>
-            <guid>2631631</guid>
-            <pubDate>Thu, 14 Apr 2022 17:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：摩根士丹利将为马斯克竞标收购推特提供一些债务融资服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4334465.d.html</link>
-            <guid>2631630</guid>
-            <pubDate>Thu, 14 Apr 2022 17:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：价格上涨过快主要是由于全球能源和外汇市场的不稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4334445.d.html</link>
-            <guid>2631629</guid>
-            <pubDate>Thu, 14 Apr 2022 17:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马斯克：如果推特不接受收购要约，还有B计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1888922.d.html</link>
-            <guid>2631628</guid>
-            <pubDate>Thu, 14 Apr 2022 17:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：推特正酝酿毒丸计划，以期限制“钢铁侠”马斯克对推特的持股比例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1888685.d.html</link>
-            <guid>2631627</guid>
-            <pubDate>Thu, 14 Apr 2022 17:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马斯克：我有足够的资产，如果可能的话，我可以做到收购推特。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1888407.d.html</link>
-            <guid>2631626</guid>
-            <pubDate>Thu, 14 Apr 2022 17:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登表示正考虑派遣高级官员访问乌克兰】当地时间14日，美国总统拜登表示，他正在与他的团队研究，决定是否派遣一名高级政府官员对乌克兰进行访问。如若成行，将展示美国对乌克兰的巨大支持。据知情人士透露，美国政府已就向乌克兰派遣一名高级官员的可能性进行了初步讨论，可能人选包括国防部长奥斯汀和国务卿布林肯。不过，拜登和副总统哈里斯均没有在短时间内访问乌克兰的计划。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1888366.d.html</link>
-            <guid>2631625</guid>
-            <pubDate>Thu, 14 Apr 2022 17:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特再度转跌，此前一度反弹涨近2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4333738.d.html</link>
-            <guid>2631624</guid>
-            <pubDate>Thu, 14 Apr 2022 17:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马斯克：需要对推特上的垃圾邮件和诈骗机器人作出限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1887984.d.html</link>
-            <guid>2631623</guid>
-            <pubDate>Thu, 14 Apr 2022 17:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马斯克：推特应该遵守国家法律，并且对永久禁言应该 “非常谨慎”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4333361.d.html</link>
-            <guid>2631622</guid>
-            <pubDate>Thu, 14 Apr 2022 17:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  马斯克：收购推特的目的是允许尽可能多的股东加入私营公司；拥有一个可信赖的公共平台“对文明的未来极为重要”。]]></title>
-            <guid>2631621</guid>
-            <pubDate>Thu, 14 Apr 2022 17:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO马斯克谈及在收购推特的提议表示，提供一个言论自由的、包容的平台十分重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1887264.d.html</link>
-            <guid>2631620</guid>
-            <pubDate>Thu, 14 Apr 2022 17:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯联邦航天局负责人：与普京讨论了战斗导弹系统和洲际弹道导弹的创建问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4332677.d.html</link>
-            <guid>2631619</guid>
-            <pubDate>Thu, 14 Apr 2022 17:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO马斯克：不确定我实际上是否真的会收购推特。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1887235.d.html</link>
-            <guid>2631618</guid>
-            <pubDate>Thu, 14 Apr 2022 17:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄总统普京组建政府间委员会，保障俄在IT基础设施领域技术独立性】当地时间14日，俄罗斯总统普京在联邦安全会议的框架下组建了政府间委员会，以保障国家在IT基础设施发展领域的技术独立性。该委员会由联邦安全会议副主席梅德韦杰夫领导。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4332622.d.html</link>
-            <guid>2631617</guid>
-            <pubDate>Thu, 14 Apr 2022 17:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国飙涨不停的住房成本：抵押贷款利率触及5％，为2011年初以来首次】房地美公布的数据显示，30年期抵押贷款利率平均水平从4.72％进一步跃升触及至5%，而上一次达到5%是在2011年2月。自今年年初以来，利率上升对买方负担能力的打击相当于房价额外20%的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1887126.d.html</link>
-            <guid>2631616</guid>
-            <pubDate>Thu, 14 Apr 2022 17:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：将奈飞(NFLX.O)目标价下调至425美元，维持与大盘持平评级】摩根士丹利分析师Benjamin Swinburne将奈飞(NFLX.O)目标价从450美元下调至425美元，维持与大盘持平评级。Swinburne表示，相信奈飞将在长期内实现“引人注目的收入和利润率增长”，但“订阅用户净增长预期不足”增加了奈飞短期内的风险。他强调了奈飞增长将“更温和”的三大驱动因素，即EMEA/APAC的采用曲线比UCAN/LATAM/西欧地区的采用曲线平缓；流媒体竞争中的“最多亏损”，考虑到该公司退出体育直播的“合理决定”，其潜在市场总量也将小幅下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1886971.d.html</link>
-            <guid>2631615</guid>
-            <pubDate>Thu, 14 Apr 2022 17:25:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克在TED演讲上表示，有信心特斯拉今年能够解决自动驾驶问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4332393.d.html</link>
-            <guid>2631614</guid>
-            <pubDate>Thu, 14 Apr 2022 17:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储4月14日周四在固定利率逆回购中接纳了1.707万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1886296.d.html</link>
-            <guid>2631613</guid>
-            <pubDate>Thu, 14 Apr 2022 17:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯：美国钻井企业连续第四周增加石油和天然气钻井平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4331600.d.html</link>
-            <guid>2631612</guid>
-            <pubDate>Thu, 14 Apr 2022 17:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯别尔哥罗德州遭来自乌克兰方向的攻击】俄罗斯别尔哥罗德州州长14日表示，该州边境地区的一村庄遭到来自乌克兰方向的攻击，但没有造成平民伤亡，也没有建筑和公共设施被破坏。目前，临近乌克兰边境的两个村庄的居民被疏散。别尔哥罗德州位于俄罗斯南部，与乌克兰接壤。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1885873.d.html</link>
-            <guid>2631611</guid>
-            <pubDate>Thu, 14 Apr 2022 17:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货向上刺穿110美元/桶，为三月底以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1885304.d.html</link>
-            <guid>2631610</guid>
-            <pubDate>Thu, 14 Apr 2022 17:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥对美国的半拖车出口最近数日锐减80%，因为得克萨斯州州长Greg Abbott加大车辆检查力度的做法迫使墨西哥司机拥堵美墨边境以示抗议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4330532.d.html</link>
-            <guid>2631609</guid>
-            <pubDate>Thu, 14 Apr 2022 17:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：将IBM(IBM.N)评级上调至增持，目标价上调至150美元】摩根士丹利分析师Erik Woodring将IBM(IBM.N)评级从持有上调至增持，并将目标价从147美元上调至150美元。Woodring指出，在科技股风险较大的情况下，该公司是一个稳健的“防御型投资”，IBM可能会在IT硬件预算削减的情况下表现更好。该公司一半以上的销售额来自经常性收入来源，只有20%的收入直接与硬件和操作系统有关。Woodring还提到了IBM首席执行官Arvind Krishna的“新领导”，他采取了一系列刺激IBM的措施，包括加速并购、扩大合作伙伴关系，以及在去年剥离Kyndryl管理服务业务。Woodring表示:“结果是长期增长前景更加强劲。该公司也出现了消费者信心和支出计划改善的迹象。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4330228.d.html</link>
-            <guid>2631608</guid>
-            <pubDate>Thu, 14 Apr 2022 17:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【“后贝佐斯时代”亚马逊CEO的首封股东信：疫情时经历“爆炸式增长”，但有物流和成本挑战】接棒贝佐斯的前AWS主管Andy Jassy在信中称，消费者业务在过去15个月里实现了三年的增长量，AWS云业务收入重回37%的高增速，将投资数十亿美元开发Prime用户的“一日速达”。但疫情时快速增长带来物流和成本挑战，反对仓库员工设立工会，不排除未来接受数字货币支付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4330122.d.html</link>
-            <guid>2631607</guid>
-            <pubDate>Thu, 14 Apr 2022 17:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：高盛和摩根士丹利将主导英特尔旗下自动驾驶部门MobilEye的IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4330086.d.html</link>
-            <guid>2631606</guid>
-            <pubDate>Thu, 14 Apr 2022 17:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月15日当周石油钻井总数(口)：前值 546，预期 550，公布 548。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1884625.d.html</link>
-            <guid>2631605</guid>
-            <pubDate>Thu, 14 Apr 2022 17:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收涨0.44%，沪铜收涨0.35%，沪铝收涨1.73%，沪锌收跌0.39%，沪铅收涨0.29%，沪镍收涨3.49%，沪锡收跌0.55%。不锈钢夜盘收涨0.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1884523.d.html</link>
-            <guid>2631604</guid>
-            <pubDate>Thu, 14 Apr 2022 17:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫方面拒绝就马斯克收购推特(TWTR.N)的提议发表评论，并称美国证券交易委员会是独立运作的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4329366.d.html</link>
-            <guid>2631603</guid>
-            <pubDate>Thu, 14 Apr 2022 16:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收涨16美元，报10315美元/吨。LME期铝收涨50美元，报3286美元/吨。LME期锌收跌50美元，报4412美元/吨。LME期铅收涨2美元，报2435美元/吨。LME期镍收涨194美元，报33175美元/吨。LME期锡收跌281美元，报43043美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1883911.d.html</link>
-            <guid>2631602</guid>
-            <pubDate>Thu, 14 Apr 2022 16:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油日内均涨1%，现分别报105.26美元/桶和109.44美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1883891.d.html</link>
-            <guid>2631601</guid>
-            <pubDate>Thu, 14 Apr 2022 16:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：纽约地铁枪击案嫌疑人被拘押，没有保释权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4329132.d.html</link>
-            <guid>2631600</guid>
-            <pubDate>Thu, 14 Apr 2022 16:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国三大股指悉数下跌，纳指跌超1.7%，科技股苹果跌2.1%，特斯拉跌幅扩大至3.8%，银行指数跌1.5%，芯片指数跌超2.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1883451.d.html</link>
-            <guid>2631599</guid>
-            <pubDate>Thu, 14 Apr 2022 16:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：欧洲没有别的能源可以替代俄罗斯的天然气供应】俄罗斯总统普京表示，欧洲目前没有别的能源可以替代俄罗斯的天然气供应，任何试图摆脱俄罗斯天然气供应的做法都将对欧洲经济产生巨大负面影响。“对欧洲来说，根本不存在合理替代品，”普京在就俄罗斯能源企业当前挑战召开的会议上发表电视讲话称。 “全球市场没有多余的供应，其他国家（主要是美国）的能源可能会运到欧洲，但消费者付出的成本会是以前的好几倍。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4328852.d.html</link>
-            <guid>2631598</guid>
-            <pubDate>Thu, 14 Apr 2022 16:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货逾一周以来首次站上105美元/桶，日内涨0.72%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4328693.d.html</link>
-            <guid>2631597</guid>
-            <pubDate>Thu, 14 Apr 2022 16:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务院：国务卿布林肯与乌克兰外长库勒巴进行了谈话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1883167.d.html</link>
-            <guid>2631596</guid>
-            <pubDate>Thu, 14 Apr 2022 16:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国大幅提高日本牛肉关税，和牛出口或受阻】据日本共同社报道，美国已大幅提高日本牛肉的进口关税，原因是日本、巴西等多个国家2022年的低关税进口配额已超标。日媒称，日本和牛出口或遭沉重打击。据了解，美国决定对低关税配额内的重量征收每公斤4.4美分（约0.28元）的关税，但对超额部分的价格要征收26.4%的高关税。（海外网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1883141.d.html</link>
-            <guid>2631595</guid>
-            <pubDate>Thu, 14 Apr 2022 16:46:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油涨至109美元/桶，为逾一周以来首次，日内涨0.72%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4328542.d.html</link>
-            <guid>2631594</guid>
-            <pubDate>Thu, 14 Apr 2022 16:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债收益率升至2.91%，续创2019年5月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4328017.d.html</link>
-            <guid>2631593</guid>
-            <pubDate>Thu, 14 Apr 2022 16:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰央行：外币卖出价与官方价格的差距不得超过10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4327387.d.html</link>
-            <guid>2631592</guid>
-            <pubDate>Thu, 14 Apr 2022 16:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大股指悉数转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1881769.d.html</link>
-            <guid>2631591</guid>
-            <pubDate>Thu, 14 Apr 2022 16:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国起诉文件表显示，被告包括俄罗斯国家杜马副主席亚历山大·巴巴科夫，及其幕僚长Vorobev和幕僚Plisyuk，这些被告意图削弱美国与欧洲盟友的伙伴关系，破坏西方制裁，并推动俄罗斯在乌克兰的行动；自2012年以来，这些被告在没有按照法律要求通知美国司法部的情况下私自招募人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4327181.d.html</link>
-            <guid>2631590</guid>
-            <pubDate>Thu, 14 Apr 2022 16:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Stellantis CEO：对公司在美国市场的发展持乐观态度】全球汽车制造巨头Stellantis(STLA.N)首席执行官Carlos Tavares周三受访时表示对于公司在美国市场的发展持乐观态度。Stellantis还表示，公司正注意到薪酬报告咨询投票产生的反馈，并将在2022年的薪酬报告中解释如何考虑到这一投票。Tavares称，预计到2022年，Stellantis在所有主要市场的销售额将上升或稳定，并重申了今年年底现金流为正值的预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4327137.d.html</link>
-            <guid>2631589</guid>
-            <pubDate>Thu, 14 Apr 2022 16:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【多国人士批美国北约挑动战争】多国专家学者表示，俄乌冲突持续至今，美国和北约难辞其咎。土耳其左翼党人士指出，美国和北约既是冲突的根源，也是“获益者”。巴西圣保罗州立大学教授马科斯认为，美国和它的军工复合体为一己私利在世界各地挑动战争、制造冲突、遗祸世界。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1881557.d.html</link>
-            <guid>2631588</guid>
-            <pubDate>Thu, 14 Apr 2022 16:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【青海省西宁市主城区实施静态管理】青海省西宁市新冠肺炎疫情防控处置工作指挥部新闻发布会上介绍，4月14日21时30分至4月17日24时，西宁市城中区、城西区、城北区实行静态管理，城东区已于14日上午实施静态管理，至此，西宁主城区已全部实施静态管理。其间严格控制各类车辆、行人驶入和驶出本区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1880870.d.html</link>
-            <guid>2631587</guid>
-            <pubDate>Thu, 14 Apr 2022 16:25:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体：路劲和CVC针对10亿美元收费公路业务探索诸多潜在选项，可能包括IPO】路劲（Road King Infrastructure Ltd.）和CVC Capital Partners据称正在考虑针对收费公路业务的选项，该业务估值可达约10亿美元。两家公司正在与一家财务顾问进行战略评估，可能会涉及路劲高速公路国际控股有限公司的潜在首次公开募股（IPO）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4326211.d.html</link>
-            <guid>2631586</guid>
-            <pubDate>Thu, 14 Apr 2022 16:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰央行解除了向个人出售外汇现金的禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1880541.d.html</link>
-            <guid>2631585</guid>
-            <pubDate>Thu, 14 Apr 2022 16:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国公布的起诉文件显示，美国方面指控三名俄罗斯官员为了维护俄罗斯的利益，对国际影响和虚假信息网络进行了操纵。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1880358.d.html</link>
-            <guid>2631584</guid>
-            <pubDate>Thu, 14 Apr 2022 16:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国务院将大幅缩减建议“请勿旅行”国际目的地名单】美国国务院当地时间14日表示，在美国公共卫生官员宣布改变其评估新冠疫情风险的方式后，美国国务院将大幅缩减建议“请勿旅行”的国际目的地名单。美国国务院目前将大约120个国家和地区列为“第四级：请勿旅行”。国务院表示，将缩减旅行建议处于第四级的国家和地区数量至总量的10%。建议评级的标准包括所有风险因素，而不仅仅是新冠疫情。美国国务院在一份声明中表示，相信更新后的建议将帮助美国公民就国际旅行做出更明智的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4325654.d.html</link>
-            <guid>2631583</guid>
-            <pubDate>Thu, 14 Apr 2022 16:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募降仓超10%，平均仓位不足60%，材料、生物制药、半导体加仓最大】华润信托统计，截至3月末，阳光私募股票多头指数(CREFI)成份基金平均股票仓位为58.93%，较上月末下降10.18%。从行业配置来看，2022年3月末，私募前三大重仓行业板块分别为“材料II”、“食品、饮料与烟草”和“资本货物”，持有仓位分别达到12.54%、12.01%和10.39%。从持仓增幅来看，3月末，增幅最大的三个行业为“材料II”、“制药、生物科技与生命科学”和“半导体与半导体生产设备”，分别增持0.56%、0.47%和0.42%至12.54%、7.75%和5.93%，减幅最大的三个行业为“软件与服务”、“资本货物”和“技术硬件与设备”，分别减持2.33%、2.32%、1.55%至2.28%、10.39%和5.95%。展望二季度，清和泉资本投资总监吴俊峰认为，从ERP的角度来看，当前市场是处于历史底部区域，这个时候说市场存在巨大的风险我是不认可的。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4325635.d.html</link>
-            <guid>2631582</guid>
-            <pubDate>Thu, 14 Apr 2022 16:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【截至14日18时 山西清徐韵达快递疫情已检出59例阳性人员】清徐县报告韵达快递物流园工作人员4月13日凌晨核酸筛查阳性。截至4月14日18:00，本起疫情报告确诊病例7例、无症状感染者29例，待诊断阳性检出者23例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1880050.d.html</link>
-            <guid>2631581</guid>
-            <pubDate>Thu, 14 Apr 2022 16:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国众议院议员对面部扫描承包商ID.me公司展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4325188.d.html</link>
-            <guid>2631580</guid>
-            <pubDate>Thu, 14 Apr 2022 16:16:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【扎哈罗娃：俄罗斯准备协助亚美尼亚和阿塞拜疆签订和平条约】当地时间14日，俄罗斯外交部发言人扎哈罗娃表示，俄罗斯准备好协助亚美尼亚和阿塞拜疆签订和平条约，目前南高加索地区的现实局势不允许谈判中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1879684.d.html</link>
-            <guid>2631579</guid>
-            <pubDate>Thu, 14 Apr 2022 16:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯明确警告：若芬兰、瑞典加入北约 将在波罗的海部署核武器】随着俄乌冲突所引发的紧张局势升级，俄罗斯威胁称，如果芬兰和瑞典加入北大西洋公约组织，那么俄罗斯将在波罗的海地区及周围部署核武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1879652.d.html</link>
-            <guid>2631578</guid>
-            <pubDate>Thu, 14 Apr 2022 16:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯别尔哥罗德州州长：该地区的茹拉夫廖夫卡村遭到乌克兰方面的攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4324771.d.html</link>
-            <guid>2631577</guid>
-            <pubDate>Thu, 14 Apr 2022 16:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国中情局局长伯恩斯：美国对避免第三次世界大战和避免触及核冲突发生的“门槛”深感担忧。]]></title>
-            <guid>2631576</guid>
-            <pubDate>Thu, 14 Apr 2022 16:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统拜登：正在决定是否派遣官员前往乌克兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4324383.d.html</link>
-            <guid>2631575</guid>
-            <pubDate>Thu, 14 Apr 2022 16:08:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国中情局局长伯恩斯：美国中央情报局还没有看到任何“实际证据”表明俄罗斯已经将其核力量提升到更高的警戒级别。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1878818.d.html</link>
-            <guid>2631574</guid>
-            <pubDate>Thu, 14 Apr 2022 16:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗集团(C.N)CEO考伯特：信用卡余额支付显示出恢复正常水平的“初步迹象”  。]]></title>
-            <guid>2631573</guid>
-            <pubDate>Thu, 14 Apr 2022 16:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯央行称自3月23日以来未干预俄罗斯联邦政府债券(OFZ)市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4323712.d.html</link>
-            <guid>2631572</guid>
-            <pubDate>Thu, 14 Apr 2022 16:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：欧盟打算分阶段对俄罗斯石油实施禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4323512.d.html</link>
-            <guid>2631571</guid>
-            <pubDate>Thu, 14 Apr 2022 16:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗集团(C.N)CFO：没有提高2022年收入指引。利率上升有抵消作用，比如银行业务收入减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4323494.d.html</link>
-            <guid>2631570</guid>
-            <pubDate>Thu, 14 Apr 2022 16:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  知乎(ZH.N)跌5%，知乎港股IPO发售价定为每股32.06港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1878026.d.html</link>
-            <guid>2631569</guid>
-            <pubDate>Thu, 14 Apr 2022 16:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件】2022年4月15日 周五（因耶稣受难日假期，欧美多国股市、CME及ICE休市）① 01:00 美国至4月15日当周石油钻井总数② 02:30 美联储梅斯特参与讨论③ 06:00 美联储哈克发表讲话④ 09:30 中国70个大中城市住宅售价月报⑤ 14:45 法国3月CPI月率⑥ 20:30 美国4月纽约联储制造业指数⑦ 21:15 美国3月工业产出月率。]]></title>
-            <guid>2631568</guid>
-            <pubDate>Thu, 14 Apr 2022 16:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其央行继续维持基准利率不变】4月14日，土耳其中央银行宣布，维持14%的银行基准利率不变。这是今年以来，土耳其央行第四次做出维持基准利率不变的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1877705.d.html</link>
-            <guid>2631567</guid>
-            <pubDate>Thu, 14 Apr 2022 16:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四（4月14日），ICE英国天然气期货收报177.25便士/千卡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-14/detail-imcwipii4322843.d.html</link>
-            <guid>2631566</guid>
-            <pubDate>Thu, 14 Apr 2022 15:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：推特(TWTR.N)股东沙特王子Alwaleed拒绝马斯克的收购提案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-14/detail-imcwiwst1877262.d.html</link>
-            <guid>2631565</guid>
-            <pubDate>Thu, 14 Apr 2022 15:52:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
