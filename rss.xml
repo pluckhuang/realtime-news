@@ -4,603 +4,606 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 13:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：俄罗斯国防部表示可能会加大对基辅的打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4452493.d.html</link>
-            <guid>2632162</guid>
-            <pubDate>Fri, 15 Apr 2022 07:16:36 GMT</pubDate>
+            <title><![CDATA[【拜登提名迈克尔·巴尔担任美联储副主席】美国总统拜登当地时间4月15日宣布，他将提名迈克尔·巴尔（Michael Barr）担任美联储负责监管业务的副主席。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2070680.d.html</link>
+            <guid>2632520</guid>
+            <pubDate>Fri, 15 Apr 2022 13:25:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部：多达30名来自波兰私人军事单位的雇佣军已经在哈尔科夫地区被“清剿”。]]></title>
-            <guid>2632161</guid>
-            <pubDate>Fri, 15 Apr 2022 07:16:03 GMT</pubDate>
+            <title><![CDATA[【中化国际：2021年净利润同比增长608.9% 拟10派0.8元】中化国际公告，公司2021年实现营业收入为806.48亿元，同比增长48.9%；归母净利润21.75亿元，同比增长608.9%；基本每股收益0.78元；拟每10股派发现金股利0.8元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4514706.d.html</link>
+            <guid>2632519</guid>
+            <pubDate>Fri, 15 Apr 2022 13:21:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部：对基辅设施进行导弹袭击的数量和规模将增加，以应对基辅军队对俄罗斯领土的破坏活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4452231.d.html</link>
-            <guid>2632160</guid>
-            <pubDate>Fri, 15 Apr 2022 07:14:32 GMT</pubDate>
+            <title><![CDATA[俄罗斯方面表示，他们挫败了一起针对卡卢加地区一处军事设施的恐怖袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4514196.d.html</link>
+            <guid>2632518</guid>
+            <pubDate>Fri, 15 Apr 2022 13:18:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部：乌克兰马里乌波尔的Ilyich钢铁工厂已从乌克兰军队“解放”出来。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4452182.d.html</link>
-            <guid>2632159</guid>
-            <pubDate>Fri, 15 Apr 2022 07:13:59 GMT</pubDate>
+            <title><![CDATA[【美国3月份工业产值环比升0.9%】美国3月份工业产值环比升0.9%，预估为0.4%，前值为0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2069419.d.html</link>
+            <guid>2632517</guid>
+            <pubDate>Fri, 15 Apr 2022 13:15:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国务院关税税则委员会发布关于对美加征关税商品第七次排除延期清单的公告】经国务院批准，国务院关税税则委员会公布对美加征关税商品第七次排除延期清单，对《国务院关税税则委员会关于对美加征关税商品第五次排除延期清单的公告》（税委会公告〔2021〕7号）中的相关商品，延长排除期限，自2022年4月17日至2022年11月30日，继续不加征我为反制美301措施所加征的关税。]]></title>
-            <guid>2632158</guid>
-            <pubDate>Fri, 15 Apr 2022 07:13:23 GMT</pubDate>
+            <title><![CDATA[  中国地震台网自动测定：04月15日21时11分在四川宜宾市珙县附近（北纬28.14度，东经104.77度）发生3.9级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2632516</guid>
+            <pubDate>Fri, 15 Apr 2022 13:13:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【机构：2021年全球芯片销售总额增长26% 三星重返第一】据高德纳咨询公司15日发布的报告显示，2021年全球半导体市场销售总额同比大增26.3%，为5950亿美元。三星电子半导体销售额（732亿美元）时隔三年再度力压英特尔夺回市场份额冠军。两家公司的半导体市占率（以销售额为准）分别为12.3%和12.2%。SK海力士以6.1%（销售额364亿美元）排在第三，美光科技（4.8%）、高通（4.6%）、博通（3.2%）、联发科（3%）、德州仪器和英伟达（各2.8%）、AMD（2.7%）跻身前十。晶圆龙头厂商台积电因只负责代工业务而未被列入榜单，其2021年的销售额仅次于英特尔，为568亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4452062.d.html</link>
-            <guid>2632157</guid>
-            <pubDate>Fri, 15 Apr 2022 07:13:02 GMT</pubDate>
+            <title><![CDATA[【俄天然气工业股份公司：天然气开采量比去年同期减少1.3%】俄罗斯天然气工业股份公司（俄气）4月15日表示，根据初步统计，自2022年1月1日至4月15日，俄气共开采1559亿立方米的天然气，比去年同期减少1.3%。受今年2月份温暖天气的影响，对俄罗斯国内市场供应量减少39亿立方米，同比减少3.6%。对非独联体国家的天然气出口量为446亿立方米，同比减少26.4%，减幅为160亿立方米。截至目前，4月份的日均出口量比3月份同期下降17.6%，为4.067亿立方米。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2069177.d.html</link>
+            <guid>2632515</guid>
+            <pubDate>Fri, 15 Apr 2022 13:13:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士披露，美国私募公司Thoma Bravo正在研究与马斯克竞购推特的可行性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2007295.d.html</link>
-            <guid>2632156</guid>
-            <pubDate>Fri, 15 Apr 2022 07:12:39 GMT</pubDate>
+            <title><![CDATA[印度商务部长：印度准备开始向埃及出口小麦，在全球供应中断的情况下成为可靠的全球食品供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2069085.d.html</link>
+            <guid>2632514</guid>
+            <pubDate>Fri, 15 Apr 2022 13:12:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国地质勘探局：巴布亚新几内亚金贝巴东南方172公里发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4451843.d.html</link>
-            <guid>2632155</guid>
-            <pubDate>Fri, 15 Apr 2022 07:11:18 GMT</pubDate>
+            <title><![CDATA[【博晖创新：取得3项医疗器械产品CE证书】博晖创新(300318)4月15日晚间公告，公司近日取得了3项医疗器械产品CE证书，产品名称分别为：呼吸道病原体六重核酸检测试剂盒(PCR-荧光探针法)、腹泻病毒五项核酸检测试剂盒(PCR-荧光探针法)、全自动实时荧光核酸芯片检测仪。上述产品取得CE证书，表明了产品已经具备欧盟市场的准入条件，对公司未来的经营将产生积极影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4513407.d.html</link>
+            <guid>2632513</guid>
+            <pubDate>Fri, 15 Apr 2022 13:10:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万联证券：我国公募REITs发展正当时 潜在发展空间广阔】万联证券指出，我国公募REITs发展正当时，潜在发展空间广阔。我国经过十多年的探索，2021年正式推出基础设施公募REITs，迈出了跨越性的一步，我国基础设施公募REITs采用“封闭式公募基金-ABS专项计划-项目公司-项目”的结构，当前已上市11只公募REITs总市值达到480亿元。政策推进下，保障性租赁住房REITs有望加速落地，后续能源基础设施、停车场项目市政基础设施等均有望有序推出，REITs扩容将迎来较快发展。参考海外成熟REITs市场市值占GDP的比重估计，我国REITs潜在市场规模或将达到5万亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2006989.d.html</link>
-            <guid>2632154</guid>
-            <pubDate>Fri, 15 Apr 2022 07:10:43 GMT</pubDate>
+            <title><![CDATA[【迪安诊断：一季度净利预增110%-140%】迪安诊断(300244)4月15日晚间公告，预计一季度净利润7.11亿元–8.13亿元，同比增110%-140%。一季度公司积极开展核酸检测业务，新冠检测业务对业绩贡献明显。]]></title>
+            <guid>2632512</guid>
+            <pubDate>Fri, 15 Apr 2022 13:10:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【《求是》杂志发表习近平总书记重要文章《促进我国社会保障事业高质量发展、可持续发展》】 文章指出，我国社会保障制度改革已进入系统集成、协同高效的阶段。要准确把握社会保障各个方面之间、社会保障领域和其他相关领域之间改革的联系，提高统筹谋划和协调推进能力，确保各项改革形成整体合力。要加快实现基本养老保险全国统筹，这符合社会保险“大数法则”，也是构建新发展格局的要求。要坚持不懈、协同推进“三医联动”。]]></title>
-            <guid>2632153</guid>
-            <pubDate>Fri, 15 Apr 2022 07:10:30 GMT</pubDate>
+            <title><![CDATA[【网信办：从严治理偷逃税问题】网信办发布关于开展“清朗·整治网络直播、短视频领域乱象”专项行动的通知。通知指出，从严整治直播、短视频平台未依法区分、界定网络主播或账号运营者收入来源、性质，未依法履行税收代扣代缴义务，未按要求报送网络主播或账号运营者营利行为收入信息等问题；从严整治网络主播或账号运营者借助他人、MCN机构、第三方企业偷逃个人所得税等行为；从严整治涉税中介等违规提供税收策划服务、涉税服务虚假宣传、歪曲解读税收政策等信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4513283.d.html</link>
+            <guid>2632511</guid>
+            <pubDate>Fri, 15 Apr 2022 13:10:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山东淄博计划总投资338.8亿元40个项目集中签约 涉新材料等领域】淄博市（临淄区）招商引资项目集中签约活动暨电科北方集成电路材料产业基地项目开工仪式举行。40个项目集中签约，计划总投资338.8亿元。据了解，本次签约的项目涵盖智能制造、新材料、新能源、新医药、大数据、现代农业等重点领域。其中，电科北方集成电路材料产业基地项目，计划总投资90亿元，一期项目计划投资50亿元，依托中电科十二所引进了半导体陶瓷材料、磁功能材料、协作机器人等项目，打造国内先进的集成电路新材料产业基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4450865.d.html</link>
-            <guid>2632152</guid>
-            <pubDate>Fri, 15 Apr 2022 07:06:17 GMT</pubDate>
+            <title><![CDATA[【今日财经TOP10】➊「央行：全面降准0.25个百分点，释放5300亿长期资金！火线解读来了！」➋「国务院税则委公布对美加征关税商品第7次排除延期清单」➌「就在今晚，成品油价大降！加满一箱油将少花21.5元」➍「又现经营贷挪用做房贷首付？监管和银行已打响阻击战」➎「俄罗斯警告美国，武装乌克兰“后果不可预测”」➏「解直锟后“中植系”新掌舵者 原最高法审监庭庭长颜茂昆就任中植企业集团总裁」➐「近百只猫咪疑食用猫粮后死亡 信元发育宝：符合国家标准」➑「上热搜！以岭药业被王思聪手撕冤不冤，是否信披违规？」➒「华润置地乌龙3月报上演一日游」➓「任泽平发博：不用问了，统一回复，已转型情感博主、鸡汤作家」 https://finance.sina.com.cn/china/caijingtop10/2022-04-15/doc-imcwipii4511790.shtml]]></title>
+            <guid>2632510</guid>
+            <pubDate>Fri, 15 Apr 2022 13:08:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩国3月汽车生产内销出口均同比减少】韩国产业通商资源部15日发布的《3月汽车产业动向》显示，今年3月汽车产量同比减少9.5%，为30.2161万辆。本土销量同比减少19.1%，为13.8647万辆。各厂商本土销量方面，只有双龙汽车增加18.5%，进口车销量减少10.5%，连续7个月减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2006028.d.html</link>
-            <guid>2632151</guid>
-            <pubDate>Fri, 15 Apr 2022 07:05:28 GMT</pubDate>
+            <title><![CDATA[【大商所棕榈期货主力合约涨2%】大商所棕榈期货主力合约上涨2.05%，报11264.0元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2068453.d.html</link>
+            <guid>2632509</guid>
+            <pubDate>Fri, 15 Apr 2022 13:07:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  盘龙药业在互动平台表示，“冠状病毒3CL蛋白酶抑制剂开发”项目目前正在紧张有序的进行临床前的各项研发工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4450682.d.html</link>
-            <guid>2632150</guid>
-            <pubDate>Fri, 15 Apr 2022 07:05:11 GMT</pubDate>
+            <title><![CDATA[网信办发布开展“清朗·整治网络直播、短视频领域乱象”专项行动的通知：中央网信办、国家税务总局、国家市场监督管理总局自即日起，开展为期两个月的“清朗·整治网络直播、短视频领域乱象”专项行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2068227.d.html</link>
+            <guid>2632508</guid>
+            <pubDate>Fri, 15 Apr 2022 13:06:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【中证转债收跌0.1%】中证转债收跌0.1%，华锋转债涨逾25%，盘龙转债涨逾13%，长久转债跌超6%，苏试转债跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2005772.d.html</link>
-            <guid>2632149</guid>
-            <pubDate>Fri, 15 Apr 2022 07:04:10 GMT</pubDate>
+            <title><![CDATA[【孙春兰：上海疫情的传播指数由当初的2.27下降到现在的1.23】中共中央政治局委员、国务院副总理孙春兰：我们按照总书记的要求，从全国调集了近5万名医务工作者和核酸检测的力量。在上海市委的领导下共同抗疫，已经取得了阶段性的成果，疫情的传播指数由当初的2.27下降到现在的1.23。我们早日实现社会面清零的目标指日可待。奥密克戎传播速度快，被感染以后，脆弱群体还是风险很大的，所以我们还是要加快防控的速度，早日打赢这场歼灭战。 (新闻联播)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2068171.d.html</link>
+            <guid>2632507</guid>
+            <pubDate>Fri, 15 Apr 2022 13:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【《求是》杂志发表习近平总书记重要文章《促进我国社会保障事业高质量发展、可持续发展》】4月16日出版的第8期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《促进我国社会保障事业高质量发展、可持续发展》。文章强调，社会保障是保障和改善民生、维护社会公平、增进人民福祉的基本制度保障，是促进经济社会发展、实现广大人民群众共享改革发展成果的重要制度安排，发挥着民生保障安全网、收入分配调节器、经济运行减震器的作用，是治国安邦的大问题。要加大再分配力度，强化互助共济功能，把更多人纳入社会保障体系，为广大人民群众提供更可靠更充分的保障，不断满足人民群众多层次多样化需求，完善覆盖全民、统筹城乡、公平统一、可持续的多层次社会保障体系，进一步织密社会保障安全网，促进我国社会保障事业高质量发展、可持续发展。(新华社)]]></title>
-            <guid>2632148</guid>
-            <pubDate>Fri, 15 Apr 2022 07:03:41 GMT</pubDate>
+            <title><![CDATA[乌克兰国防部发言人：马里乌波尔港口地区伊利奇钢铁厂附近正在发生激烈战斗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4512555.d.html</link>
+            <guid>2632506</guid>
+            <pubDate>Fri, 15 Apr 2022 13:05:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  俄罗斯股市低开，俄罗斯RTS指数开盘跌0.95%，俄罗斯MOEX指数跌0.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2005534.d.html</link>
-            <guid>2632147</guid>
-            <pubDate>Fri, 15 Apr 2022 07:02:45 GMT</pubDate>
+            <title><![CDATA[【把事关市民安康的民生保障工作做实做细做到位 李强检查就医配药服务保障】上海市委书记李强今天在连锁药店、医疗机构检查市民群众就医配药服务保障情况时指出，要坚决贯彻习近平总书记重要指示精神，坚持“动态清零”总方针不犹豫不动摇，进一步把就医配药、物资保供等事关市民安康的民生保障工作做实做细做到位，持续用力强化调度、疏通堵点、打通断点，切实凝聚全市上下齐心抗疫的强大合力，坚决打赢疫情防控阻击战。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2067382.d.html</link>
+            <guid>2632505</guid>
+            <pubDate>Fri, 15 Apr 2022 13:00:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【湖南出台中医药“质量保障”行动实施方案】 近日，湖南省卫生健康委、省药品监管局、省中医药管理局联合下发《湖南省中医药“质量保障”行动实施方案（2022-2025年）》，旨在规范中医药服务行为和市场秩序，遏制非法行医等违法现象，净化中医医疗和养生保健服务信息市场。《方案》提出主要目标，到2025年，湖南省中医药监督执法体系进一步健全，中医药行业监管机制进一步完善，监督能力水平进一步提升，非法行医等违法违规现象得到全面遏制，中医养生保健服务行业有序发展，中药监管队伍特别是基层队伍建设明显加强，中药生产、流通、使用等环节监管持续强化，中药监管现代化水平显著提升，取得一批可复制可推广的经验。（湖南日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4450231.d.html</link>
-            <guid>2632146</guid>
-            <pubDate>Fri, 15 Apr 2022 07:02:25 GMT</pubDate>
+            <title><![CDATA[夜盘开盘，国内期货主力合约多数上涨。SC原油涨超2%，棕榈油、燃料油、低硫燃料油（LU）涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4511855.d.html</link>
+            <guid>2632504</guid>
+            <pubDate>Fri, 15 Apr 2022 13:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京签署法律 允许白俄罗斯公民及公司参与建设东方航天发射场】当地时间4月15日，俄罗斯官方法律信息门户网站公布了俄罗斯总统普京于4月13日签署的一项法律，允许俄罗斯国家航天集团吸纳白俄罗斯的公民和公司参与东方航天发射场的建设工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4450188.d.html</link>
-            <guid>2632145</guid>
-            <pubDate>Fri, 15 Apr 2022 07:02:06 GMT</pubDate>
+            <title><![CDATA[【迪安诊断：一季度净利预增110%-140%】迪安诊断公告，预计一季度净利润7.11亿元–8.13亿元，同比增110%-140%。一季度积极开展核酸检测业务，新冠检测业务对业绩贡献明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2067182.d.html</link>
+            <guid>2632503</guid>
+            <pubDate>Fri, 15 Apr 2022 12:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国内整车厂或面临停产？乘联会秘书长崔东树：应不至于，但产销压力确实很大。（21财经）]]></title>
-            <guid>2632144</guid>
-            <pubDate>Fri, 15 Apr 2022 07:01:35 GMT</pubDate>
+            <title><![CDATA[加拿大多伦多抵押贷款经纪人罗恩·巴特勒：目前加拿大购房者面临的五年期贷款利率高于4%，此前2018年一段短时间内曾出现这种情况，引发了销售的适度放缓。如果抵押贷款利率长期保持在4%以上，温哥华周围和安大略省的高价房地产将会受到抑制。坊间证据显示，多伦多一些郊区的房价涨势已经停滞。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4511667.d.html</link>
+            <guid>2632502</guid>
+            <pubDate>Fri, 15 Apr 2022 12:58:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【收评：两市午后冲高回落沪指险守3200点 物流板块跌幅居前】4月15日消息，三大指数大幅低开，早间走势分化，沪指低开后绿盘震荡，盘中一度拉升翻红，创指一度跌超2%，煤炭板块冲高回落，钢铁、食品饮料、电力股拉升走强。午后两市冲高回落，盘中一度集体翻红，军工、CRO、银行等板块轮番冲高，医药医疗、汽车零部件等纷纷走强。总体而言，市场情绪较前期略有回暖，两市上涨个股有所增多，但个股依旧跌多涨少，赚钱效应较差。从盘面上看，中船系、CRO概念、银行板块涨幅居前，物流、旅游、统一大市场概念板块跌幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2005365.d.html</link>
-            <guid>2632143</guid>
-            <pubDate>Fri, 15 Apr 2022 07:01:27 GMT</pubDate>
+            <title><![CDATA[【万年青：2021年净利同比增7.61% 拟10派8元】万年青公告，2021年实现营业收入142.05亿元，同比增长13.37%；净利润15.93亿元，同比增长7.61%；基本每股收益1.998元。公司拟每10股派发现金红利8元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4511583.d.html</link>
+            <guid>2632501</guid>
+            <pubDate>Fri, 15 Apr 2022 12:57:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  国内商品期货多数收涨，低硫燃料油、硅铁涨超4%，沪镍、燃油、棕榈油、原油、尿素涨超3%，铁矿石、液化气、沪铝涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2005274.d.html</link>
-            <guid>2632142</guid>
-            <pubDate>Fri, 15 Apr 2022 07:01:00 GMT</pubDate>
+            <title><![CDATA[【首航高科：一季度预亏5000万元-7000万元 同比转亏】首航高科公告，预计2022年第一季度实现归属于上市公司股东的净利润为亏损5000.00万元-7000.00万元，上年同期为盈利321.31万元；扣除非经常性损益后的净利润为亏损5950.00万元-7950.00万元，上年同期为盈利276.48万元。报告期公司回款减少，公司空冷项目外购成本加大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4511270.d.html</link>
+            <guid>2632500</guid>
+            <pubDate>Fri, 15 Apr 2022 12:55:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[卢布兑欧元开盘价跌1.2%，报88.00。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2005172.d.html</link>
-            <guid>2632141</guid>
-            <pubDate>Fri, 15 Apr 2022 07:00:40 GMT</pubDate>
+            <title><![CDATA[【俄将设跨部门委员会以保障关键信息基础设施领域技术主权】俄总统普京当天签署命令，成立跨部门委员会以保障国家在关键信息基础设施发展领域的技术主权，该委员会隶属俄联邦安全会议。根据这份总统令，该委员会主席由俄联邦安全会议副主席梅德韦杰夫担任，3名副主席分别由俄联邦安全会议副秘书和两名政府副总理担任。该委员会的职能包括制定措施保障俄关键信息基础设施的安全，在关键信息基础设施内推广装备俄国产无线电电子产品、技术设备和软硬件系统，评估关键信息基础设备的技术自主水平，对这一领域研发进口替代产品提出建议，预测、识别和评估信息技术和电信网络发展等领域面临的威胁，在涉及技术主权方面支持俄工业和军工综合体发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2066666.d.html</link>
+            <guid>2632499</guid>
+            <pubDate>Fri, 15 Apr 2022 12:54:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[大连商品交易所：《大连商品交易所液化石油气期货业务细则》的修改已由大连商品交易所第四届理事会第二十次会议审议通过，现予公布，自2023年4月第1个交易日起施行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4449743.d.html</link>
-            <guid>2632140</guid>
-            <pubDate>Fri, 15 Apr 2022 06:59:48 GMT</pubDate>
+            <title><![CDATA[【资产管理公司Vanguard已超越马斯克成为推特最大股东】据报道，特斯拉CEO埃隆·马斯克（Elon Musk）已经不再是Twitter的最大股东，这正值马斯克拟以400多亿美元收购Twitter。Vanguard Group在最近提交给SEC的文件中称，截至4月8日，已持有Twitter 10.3%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2066593.d.html</link>
+            <guid>2632498</guid>
+            <pubDate>Fri, 15 Apr 2022 12:53:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【双良节能回应：包头单晶硅项目正处爬坡期 生产经营正常】4月15日，针对网传因硅料涨价单晶炉停产一事，双良节能董秘回应记者：造谣，子虚乌有。据称，公司单晶一厂生产很旺盛，基本上是满负荷；二厂有一部分炉子已经投入生产。公司包头的单晶硅项目生产也不受影响，现在正处在爬坡期，还原炉设备生产也非常旺盛。公司生产经营不受影响。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2004925.d.html</link>
-            <guid>2632139</guid>
-            <pubDate>Fri, 15 Apr 2022 06:58:50 GMT</pubDate>
+            <title><![CDATA[【胡春华：做好种子、化肥等供应保障，确保春播粮食面积只增不减】中共中央政治局委员、国务院副总理胡春华13日至15日在湖南省永州市和邵阳市实地督导春季农业生产工作。胡春华强调，农时不等人，全国春季农业生产已进入高峰期，要坚持立足国内生产确保国家粮食安全。要组织动员农民抢抓农时开展春播，做好种子、化肥等供应保障，确保春播粮食面积只增不减。要切实抓好春季田管工作，继续巩固苗情，着力防范病虫害和灾害性天气影响，努力夺取夏粮丰收。要按照党中央、国务院部署，统筹好农村疫情防控和农业生产，在切实筑牢农村防控防线的同时，着力保障农民返乡务农、下田作业正常进行，保障农资流通顺畅有序，供应充足及时，确保不误农时地把作物种下去、管理好。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2066406.d.html</link>
+            <guid>2632497</guid>
+            <pubDate>Fri, 15 Apr 2022 12:52:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工信部发文开展OTA在线升级备案 申请主体为整车生产企业】4月15日，工业和信息化部装备工业发展中心官网发布《关于开展汽车软件在线升级备案的通知》。《通知》明确，进一步规范汽车软件在线升级（又称OTA升级），对获得道路机动车辆生产准入许可的汽车整车生产企业及其生产的具备OTA升级功能的汽车整车产品和实施的OTA升级活动，应进行备案。申请主体应是汽车整车生产企业。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2004885.d.html</link>
-            <guid>2632138</guid>
-            <pubDate>Fri, 15 Apr 2022 06:58:35 GMT</pubDate>
+            <title><![CDATA[【艾为电子：2021年净利增183.56%至2.88亿元 拟10派8元】艾为电子公告，2021年公司营业收入23.27亿元，同比增长61.86%；归属于上市公司股东的净利润2.88亿元，同比增长183.56%；归属于上市公司股东的扣除非经常性损益的净利润2.47亿元，同比增长175.04%；基本每股收益2.09元；拟向全体股东每10股派发现金股利人民币8.00元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2066380.d.html</link>
+            <guid>2632496</guid>
+            <pubDate>Fri, 15 Apr 2022 12:52:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，日本央行预计在4月的会议上将2022财年的通胀预测从目前的1.1%上调至1.5%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2004612.d.html</link>
-            <guid>2632137</guid>
-            <pubDate>Fri, 15 Apr 2022 06:56:05 GMT</pubDate>
+            <title><![CDATA[【字节跳动开始年内期权回购，价格为每股142美元，或只涉及在职员工】4月15日，银柿财经从多位字节跳动在职员工处获悉，公司开启了今年期权回购，价格为每股142美元。离职员工则反馈，并未收到邮件。据悉，上次字节跳动回购时间是2021年10月，价格为每股132美元，只涉及在职员工。（银柿财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4510922.d.html</link>
+            <guid>2632495</guid>
+            <pubDate>Fri, 15 Apr 2022 12:52:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行据悉可能会大幅上调通胀预期，可能下调2022财年经济增长预期，日本央行据悉需要继续实施刺激计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2004482.d.html</link>
-            <guid>2632136</guid>
-            <pubDate>Fri, 15 Apr 2022 06:55:15 GMT</pubDate>
+            <title><![CDATA[  寒武纪披露年报，2021年净亏损8.25亿元，上年同期亏损4.35亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4510910.d.html</link>
+            <guid>2632494</guid>
+            <pubDate>Fri, 15 Apr 2022 12:52:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  国家卫健委数据显示，截至2022年4月14日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗330861.6万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4448857.d.html</link>
-            <guid>2632135</guid>
-            <pubDate>Fri, 15 Apr 2022 06:52:51 GMT</pubDate>
+            <title><![CDATA[【俄副总理：如果继续限制俄能源出口 能源价格可能会达到历史新高】当地时间4月15日，俄罗斯副总理诺瓦克发表文章表示，如果继续限制俄罗斯能源出口，能源价格可能会达到历史新高。由于物流成本和市场需求较高，替代俄罗斯的煤炭供应商很难向欧洲提供可接受的价格。而对俄罗斯实施的制裁政策反倒可能导致欧盟和美国的生活成本增加以及大规模失业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2065751.d.html</link>
+            <guid>2632493</guid>
+            <pubDate>Fri, 15 Apr 2022 12:48:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【全国农产品批发市场猪肉平均价格为18.30元/公斤，比昨天上升1.6%】据农业农村部监测，4月15日“农产品批发价格200指数”为132.56，比昨天下降0.20个点，“菜篮子”产品批发价格指数为135.25，比昨天下降0.23个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为18.30元/公斤，比昨天上升1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4447951.d.html</link>
-            <guid>2632134</guid>
-            <pubDate>Fri, 15 Apr 2022 06:48:10 GMT</pubDate>
+            <title><![CDATA[【香农芯创：2021年净利同比增247.70% 拟10派1.07元】香农芯创(300475)4月15日晚间披露年报，2021年实现营业收入92.06亿元，同比增长3376.71%；净利润2.24亿元，同比增长247.70%；基本每股收益0.53元。公司拟每10股派发现金红利1.07元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4510245.d.html</link>
+            <guid>2632492</guid>
+            <pubDate>Fri, 15 Apr 2022 12:47:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【上海警方：严厉打击疫情期间哄抬价格违法犯罪行为】本轮疫情以来，上海公安机关紧密会同市场监管部门，广泛收集线索、强化行刑衔接，针对利用疫情捏造、散布涨价信息、恶意囤积、哄抬价格等违法犯罪行为开展联合打击整治，全力维护社会经济秩序安全稳定，保障市民群众合法权益。根据相关法律、法规规定，经营者捏造、散布涨价信息，大幅度提高价格的；生产成本或进货成本没有发生明显变化，以牟取暴利为目的，大幅度提高价格的；在一些地区或行业率先大幅度提高价格的；囤积居奇，导致商品供不应求而出现价格大幅度上涨的；利用其他手段哄抬价格，推动商品价格过快、过高上涨的，将承担相应法律责任，构成犯罪的，公安机关将依法追究刑事责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4447801.d.html</link>
-            <guid>2632133</guid>
-            <pubDate>Fri, 15 Apr 2022 06:47:22 GMT</pubDate>
+            <title><![CDATA[寒武纪：2021年净亏损8.2亿元，上年同期亏损4.3亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4510152.d.html</link>
+            <guid>2632491</guid>
+            <pubDate>Fri, 15 Apr 2022 12:47:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【机构：预计今年IC出货量增长9.2% 再创历史新高】研调机构IC Insights发布最新报告，2021年全球IC产品出货量高达3.918亿套，相较2020年明显增长21.6%，增长幅度写下2010年以来高峰，预期2022年全球IC产品出货将可望达到4.277亿套、年增长9.2%，不仅持续改写历史新高，且总出货量将会是1980年的44倍，并预测2021~2026年IC出货量年复合增长率(CAGR)将上看7%，显示后续半导体市场可望持续增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4447637.d.html</link>
-            <guid>2632132</guid>
-            <pubDate>Fri, 15 Apr 2022 06:46:31 GMT</pubDate>
+            <title><![CDATA[【东吴证券：预计4月LPR报价将出现下行】东吴证券认为，鉴于国常会已推动央行降准，同时MLF资金对降低银行资金成本的作用有限，因此本月MLF保持不变。预计4月LPR报价将出现下行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4509896.d.html</link>
+            <guid>2632490</guid>
+            <pubDate>Fri, 15 Apr 2022 12:45:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中交地产再度触及涨停，走出16天12板。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4447618.d.html</link>
-            <guid>2632131</guid>
-            <pubDate>Fri, 15 Apr 2022 06:46:21 GMT</pubDate>
+            <title><![CDATA[乌克兰国防部发言人：俄罗斯正在集中力量夺取鲁比什内、波帕斯纳和马里乌波尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4509791.d.html</link>
+            <guid>2632489</guid>
+            <pubDate>Fri, 15 Apr 2022 12:44:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【交通运输部贯彻国务院专题会议精神落实保通保畅工作】交通运输部贯彻落实国务院专题会议精神，要求坚决把思想和行动统一到党中央、国务院决策部署上来，统筹疫情防控和经济社会发展、统筹疫情防控和保通保畅、统筹发展和安全，确保抓防控、保畅通、促产业的有机统一。会议强调要统筹部署，全力以赴做好物流保障保畅各项工作；针对当前部分地方存在的防疫通行管控层层加码和“一刀切”、货车通行受阻、高速公路出ロ拥堵等物流运行不通不畅问题，列出清单，挂图作战，加强部门协作和部省联动，调动各地、各部门、各企业和从业人员积极性，及时总结宣传各地、各部门、各单位好的做法和经验；加强物流行业运行监测分析，及时研判形势，及早部署，及早处置，全力保障物流有序运转，为经济社会发展和人民群众生产生活提供坚实保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4447574.d.html</link>
-            <guid>2632130</guid>
-            <pubDate>Fri, 15 Apr 2022 06:46:02 GMT</pubDate>
+            <title><![CDATA[【日本外务大臣林芳正与中亚五国外长举行线上会谈 商讨俄乌局势】当地时间15日，日本外务大臣林芳正与乌兹别克斯坦、哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦、土库曼斯坦五国外长举行了线上会谈，就俄乌局势进行了讨论。日本与乌兹别克斯坦、哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦、土库曼斯坦在2004年建立了对话框架，并多次举行外长会。另外，林芳正计划从本月末开始访问乌兹别克斯坦和哈萨克斯坦两国。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2064979.d.html</link>
+            <guid>2632488</guid>
+            <pubDate>Fri, 15 Apr 2022 12:42:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰副总理：周五同意开放9条人道主义走廊。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2002728.d.html</link>
-            <guid>2632129</guid>
-            <pubDate>Fri, 15 Apr 2022 06:45:20 GMT</pubDate>
+            <title><![CDATA[乌克兰国防部发言人：自冲突开始以来，俄罗斯首次使用远程轰炸机袭击马里乌波尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4509540.d.html</link>
+            <guid>2632487</guid>
+            <pubDate>Fri, 15 Apr 2022 12:42:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沃森生物否认新冠mRNA疫苗特批特采传言】沃森生物盘中涨超17%。对于股吧内新冠mRNA疫苗特批特采的传言，沃森生物方面回应称“没有这回事”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4447332.d.html</link>
-            <guid>2632128</guid>
-            <pubDate>Fri, 15 Apr 2022 06:44:03 GMT</pubDate>
+            <title><![CDATA[机构评美国4月纽约联储制造业指数：劳动力市场指标显示，就业和平均每周工作时间略有增加。物价支付指数创历史新高，而物价获得指数也持续上升。资本和技术支出计划稳定。展望未来，企业对6个月前景的乐观程度明显低于前几个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2064655.d.html</link>
+            <guid>2632486</guid>
+            <pubDate>Fri, 15 Apr 2022 12:40:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海关总署提醒消费者暂停食用费列罗集团比利时阿尔隆工厂生产的4类巧克力产品】海关总署15日发布消费提示，提醒消费者暂停食用费列罗集团比利时阿尔隆工厂生产的4类巧克力产品。根据世界卫生组织国际食品安全网络通报并经比利时驻华使馆确认，由于可能受到沙门氏菌污染，意大利巧克力糖果制造商费列罗集团宣布在全球范围内召回其在比利时阿尔隆工厂生产的任何批次、保质期和包装方式的品类为Kinder Surprise、Kinder Mini Eggs、Kinder Surprise Maxi和Kinder Schokbons的巧克力产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2002521.d.html</link>
-            <guid>2632127</guid>
-            <pubDate>Fri, 15 Apr 2022 06:43:31 GMT</pubDate>
+            <title><![CDATA[【汇川技术：预计一季度净利润同比增长5% –15%】汇川技术公告，预计一季度净利润6.79亿元–7.43亿元，同比增长5% –15%。公司产品收入结构变化，特别是新能源汽车业务销售占比提升，以及大宗商品&芯片等原材料成本上涨，使得公司产品综合毛利率同比降低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4509135.d.html</link>
+            <guid>2632485</guid>
+            <pubDate>Fri, 15 Apr 2022 12:39:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【哈尔滨银行股份有限公司原行长吕天君接受纪律审查和监察调查】据黑龙江省纪委监委消息：哈尔滨银行股份有限公司原党委委员、行长吕天君涉嫌严重违纪违法，目前正接受纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2002333.d.html</link>
-            <guid>2632126</guid>
-            <pubDate>Fri, 15 Apr 2022 06:41:58 GMT</pubDate>
+            <title><![CDATA[机构评美国4月纽约联储制造业指数：4月份纽约州制造业活动显著回升。整体制造业指数飙升36点至24.6。新订单和出货量强劲增长，未完成订单增加。交货时间延长了，尽管速度比最近几个月要慢，库存也有所增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2064498.d.html</link>
+            <guid>2632484</guid>
+            <pubDate>Fri, 15 Apr 2022 12:38:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【方正电机：公司给蔚然动力提供的扁线电机定转子部件应用的车型3月底刚上市】方正电机在互动平台表示，公司给蔚然动力提供的扁线电机定转子部件应用的车型3月底刚上市，其全年出货量取决于客户终端车型销量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4446597.d.html</link>
-            <guid>2632125</guid>
-            <pubDate>Fri, 15 Apr 2022 06:39:37 GMT</pubDate>
+            <title><![CDATA[【苏博特：2021年净利同比增20.88% 拟10派3.6元】苏博特(603916)4月15日晚间披露年报，2021年实现营业收入45.22亿元，同比增长23.81%；净利润5.33亿元，同比增长20.88%；基本每股收益1.27元；拟每10股派发现金股利3.6元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4508795.d.html</link>
+            <guid>2632483</guid>
+            <pubDate>Fri, 15 Apr 2022 12:37:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【杭州出台15条举措为企业降本减负】近日，杭州市市场监管局出台《关于优化监管服务举措激发市场主体创业创新活力的若干意见》，共15条主要举措，将进一步降低市场主体办事成本、减轻经营负担。今年以来，不少市场主体生产经营活动面临困难。“3月4日开始，受影响的企业和个体工商户可以申请在一定时期内歇业，最长不超过3年。”杭州市市场监管局综合规划处处长阮柏江告诉记者，此前，如果市场主体未申请注销也未正常经营，监管发现后就会被列入异常名录，严重者还会被列入失信名单。“如今，经营困难的市场主体在经营和注销之间多了一个选择，有了更多恢复时间。”阮柏江说。（浙江日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4446499.d.html</link>
-            <guid>2632124</guid>
-            <pubDate>Fri, 15 Apr 2022 06:38:51 GMT</pubDate>
+            <title><![CDATA[【云南能投：签署曲靖市马龙区通泉北风电场合作协议】云南能投(002053)4月15日晚间公告，公司与曲靖市马龙区人民政府签署了《曲靖市马龙区通泉北风电场合作协议》，曲靖市通泉北风电场项目建设总装机容量20万千瓦风电场，预计总投资12.45亿元。项目建成投产后，预计年产值1.2亿元、税收0.11亿元以上(不包括税收优惠期或税收减征免征金额)，带动就业40余人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2064222.d.html</link>
+            <guid>2632482</guid>
+            <pubDate>Fri, 15 Apr 2022 12:37:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全球确诊病例超5亿 新冠仍属突发公共卫生事件 】世界卫生组织最新数据显示，截至14日全球新冠确诊病例数累计超过5亿，死亡病例数逾619万。虽然全球新增确诊和死亡病例数近期持续下降，但世卫组织强调，新冠大流行仍是国际关注的突发公共卫生事件，并建议各国随时做好应对准备。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2001710.d.html</link>
-            <guid>2632123</guid>
-            <pubDate>Fri, 15 Apr 2022 06:38:31 GMT</pubDate>
+            <title><![CDATA[【新五丰：筹划重大资产重组事项 股票停牌】新五丰公告，公司正在筹划重大资产重组事项，预计以发行股份及支付现金的方式购买天心种业100%股权和200万元国有独享资本公积、沅江天心48.2%等多家公司股权并募集配套资金。本次交易不会导致公司实际控制人发生变更。公司股票自4月18日起停牌，停牌时间不超过10个交易日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4508265.d.html</link>
+            <guid>2632481</guid>
+            <pubDate>Fri, 15 Apr 2022 12:34:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[九安医疗尾盘“天地板”触及跌停，成交额超130亿元刷新历史天量，日内高居A股榜首。该股此前连续3日涨停，早盘股价再创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2001352.d.html</link>
-            <guid>2632122</guid>
-            <pubDate>Fri, 15 Apr 2022 06:36:16 GMT</pubDate>
+            <title><![CDATA[【我国成功发射中星6D卫星】北京时间2022年4月15日20时，我国在西昌卫星发射中心使用长征三号乙运载火箭，成功将中星6D卫星发射升空。卫星顺利进入预定轨道，发射任务获得圆满成功。该卫星主要为我国领土、领海范围内用户及亚太地区用户提供可靠、稳定、安全的广电传输及通信服务。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4508003.d.html</link>
+            <guid>2632480</guid>
+            <pubDate>Fri, 15 Apr 2022 12:32:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俄农业部：俄葵花籽油出口关税五月将上涨至每吨372.2美元】俄农业部网站消息称，自5月1日起，俄罗斯葵花籽油出口关税从4月的每吨313美元上调至372.2美元。四月关税在每吨313美元的水平，三月为每吨260.1美元，二月为每吨251.4美元。此外，俄农业部已开始计算葵花籽粕的关税，自5月1日起，将达到每吨96.3美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4445921.d.html</link>
-            <guid>2632121</guid>
-            <pubDate>Fri, 15 Apr 2022 06:35:13 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气公司Gazprom：在冬季前重新满足欧盟的天然气储备要求是有挑战性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4507860.d.html</link>
+            <guid>2632479</guid>
+            <pubDate>Fri, 15 Apr 2022 12:31:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰卢甘斯克地区州长表示，该地区6个城镇的疏散路线将通过火车和公共汽车开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4445593.d.html</link>
-            <guid>2632120</guid>
-            <pubDate>Fri, 15 Apr 2022 06:33:15 GMT</pubDate>
+            <title><![CDATA[阿塞拜疆第一季度天然气产量同比增长13.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2063282.d.html</link>
+            <guid>2632478</guid>
+            <pubDate>Fri, 15 Apr 2022 12:31:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国KOSPI指数4月15日（周五）收盘下跌20.24点，跌幅0.75%，报2696.47点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4445429.d.html</link>
-            <guid>2632119</guid>
-            <pubDate>Fri, 15 Apr 2022 06:32:07 GMT</pubDate>
+            <title><![CDATA[【美国4月份纽约州制造业调查指数录得24.6】美国4月份纽约州制造业调查指数录得24.6，预估为1.0，前值为负11.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4507815.d.html</link>
+            <guid>2632477</guid>
+            <pubDate>Fri, 15 Apr 2022 12:31:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工信部传达国务院专题会议精神 落实保障物流畅通和产业链供应链稳定工作】4月15日，工业和信息化部召开专题会议，传达国务院副总理刘鹤主持召开的保障物流畅通和产业链供应链稳定专题会议精神，研究落实工作举措。会议强调，要把思想和行动统一到党中央、国务院决策部署上来，坚持稳中求进工作总基调，统筹推进疫情防控和经济社会发展，全力以赴抓好疫情精准防控、保障物流畅通和稳定产业链供应链各项工作。多措并举保障重点企业稳定生产和重点产业链运转顺畅。调动各方积极性，合力抓好货运物流保通保畅政策落实。继续保障医疗物资生产供应。坚持“两个毫不动摇”方针，抓好各项助企纾困政策落实，进一步研究加力帮扶中小企业纾困解难的政策措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4445397.d.html</link>
-            <guid>2632118</guid>
-            <pubDate>Fri, 15 Apr 2022 06:31:55 GMT</pubDate>
+            <title><![CDATA[【天合光能宿迁和盐城基地入选江苏省智能制造示范工厂】从天合光能了解到，近日，江苏省工业和信息化厅公示2022年江苏省智能制造示范工厂拟入围名单，共有86家企业入围，天合光能（宿迁）光电有限公司和盐城天合国能光伏科技有限公司成为“2022年江苏省智能制造示范工厂”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4507733.d.html</link>
+            <guid>2632476</guid>
+            <pubDate>Fri, 15 Apr 2022 12:30:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【甘李药业：胰岛素注射笔进入泰国市场】据甘李药业官微消息，全球生物制药企业甘李药业正式宣布，甘李药业与泰国本土客户合作注册的笔式胰岛素注射笔在泰国成功上市。据悉，甘李胰岛素笔可配合甘李药业3mL卡式瓶胰岛素注射液使用，患者通过调节剂量旋钮，设置1～60单位（U）的给药量进行注射，笔的最小刻度精确到1单位（U），能够满足糖尿病患者日常注射胰岛素的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4445101.d.html</link>
-            <guid>2632117</guid>
-            <pubDate>Fri, 15 Apr 2022 06:30:22 GMT</pubDate>
+            <title><![CDATA[【道氏技术：拟发行可转债募资不超22亿元】道氏技术(300409)4月15日晚间公告，公司拟发行可转债募集资金总额不超过22亿元，扣除发行费用后的募资净额全部用于印度尼西亚红土镍矿年产2万吨镍金属量高冰镍项目等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2063137.d.html</link>
+            <guid>2632475</guid>
+            <pubDate>Fri, 15 Apr 2022 12:30:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【五月份中国所有整车厂面临停产？专家：没有这么绝对】4月14日晚，小鹏汽车董事长何小鹏通过微博官方认证账号发文称“如果上海和周边的供应链企业还无法找到动态复工复产的方式，五月份可能中国所有的整车厂都要停工停产了”。中国汽车工业协会副秘书长、中国汽车工业经济技术信息研究所所长陈士华在接受采访时表示，“没有这么绝对，只能说可能会出现大面积停产的现像”。虽然一般车企在配件补充中断情况下依靠库存维持正常生产的时间有限，但是各生产企业供应链的具体情况不同，也有通过寻找替代渠道补充配件等生产资源来实现正常生产的可能性。不过，如果上海、吉林等地长期不能复工复产的话，肯定会对中国汽车行业带来负面影响。(国是直通车)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4444986.d.html</link>
-            <guid>2632116</guid>
-            <pubDate>Fri, 15 Apr 2022 06:29:28 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气工业公司今年迄今为止，对非独联体国家地区外的出口同比下降26%，至446亿立方米 。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4507465.d.html</link>
+            <guid>2632474</guid>
+            <pubDate>Fri, 15 Apr 2022 12:29:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【禽流感及俄乌冲突等因素推高多国鸡蛋价格 】受美国、法国和意大利等国家近期暴发高致病性禽流感疫情，以及俄乌冲突持续致使欧洲和中东地区物流不畅等因素影响，部分地区鸡蛋价格近期飞涨，一些供应商预计鸡蛋涨价或将持续多个月。一些行业分析师说，目前全球层面总体鸡蛋供应面临紧张的局面。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2000125.d.html</link>
-            <guid>2632115</guid>
-            <pubDate>Fri, 15 Apr 2022 06:28:39 GMT</pubDate>
+            <title><![CDATA[  【普利制药：目前海口、杭州、安庆三地生产基地研发、生产一切正常】 普利制药发布异动公告，公司目前海口、杭州、安庆三地生产基地研发、生产一切正常，公司国内外销售一切正常，经营情况及内外部经营环境未发生重大变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2062724.d.html</link>
+            <guid>2632473</guid>
+            <pubDate>Fri, 15 Apr 2022 12:27:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【旅游板块震荡走低】雪松发展跌停，众信旅游、九华旅游、岭南控股、凯撒旅业、张家界、云南旅游、峨眉山A、桂林旅游跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2000092.d.html</link>
-            <guid>2632114</guid>
-            <pubDate>Fri, 15 Apr 2022 06:28:21 GMT</pubDate>
+            <title><![CDATA[【比音勒芬：一季度净利2.13亿元 同比增41.29%】比音勒芬(002832)4月15日晚间披露一季报，一季度实现营业收入8.1亿元，同比增长30.16%；净利润2.13亿元，同比增长41.29%；基本每股收益0.38元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2062665.d.html</link>
+            <guid>2632472</guid>
+            <pubDate>Fri, 15 Apr 2022 12:26:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【浙江省一季度综合交通建设完成投资910亿元，同比增长32.5%】浙江省一季度全省综合交通建设完成投资910亿元，同比增长32.5%，完成年度投资任务3400亿元的26.8%，其中公路水运完成投资534亿元，同比增长48.8%，完成年度投资任务的25.2%，圆满完成一季度“开门红”目标。（浙江日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1999981.d.html</link>
-            <guid>2632113</guid>
-            <pubDate>Fri, 15 Apr 2022 06:27:28 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气工业公司今年迄今为止的天然气产量同比下降1.3%至1559亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4507150.d.html</link>
+            <guid>2632471</guid>
+            <pubDate>Fri, 15 Apr 2022 12:26:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[九安医疗午后震荡走低，一度跌超8%，全天振幅超18%，该股今日以涨停开盘，早盘股价曾创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4444534.d.html</link>
-            <guid>2632112</guid>
-            <pubDate>Fri, 15 Apr 2022 06:25:43 GMT</pubDate>
+            <title><![CDATA[【中国天楹：控股子公司与能投委等签署战略合作协议】中国天楹公告，公司控股子公司阿特拉斯与能投委、三峡建工、新能公司签署了《战略合作协议》。四方合作范围聚焦新能源领域，包括但不限于水电、风电、光伏、储能技术（重力储能）等新能源项目，尾矿治理，建筑垃圾及综合资源回收，同时涉及上述领域的新型材料研发、装备制造、科研产业化和技术服务等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4506917.d.html</link>
+            <guid>2632469</guid>
+            <pubDate>Fri, 15 Apr 2022 12:24:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及燃料定价委员会将该国国内燃油价格上调0.25埃及镑，维持柴油价格不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1999286.d.html</link>
-            <guid>2632111</guid>
-            <pubDate>Fri, 15 Apr 2022 06:22:21 GMT</pubDate>
+            <title><![CDATA[国家粮食交易中心：经国家有关部门研究决定，于2022年4月22日13:30竞价交易50万吨进口大豆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2062330.d.html</link>
+            <guid>2632468</guid>
+            <pubDate>Fri, 15 Apr 2022 12:24:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【牵手世界500强企业，大湾区预制菜“第一园”战略合作签约】 广东肇庆市高要区近日举办2022年第一季度产业项目“云签约”仪式。世界500强企业厦门建发集团与与高要区人民政府签订了粤港澳大湾区（高要）预制菜产业园建设战略合作协议，并与肇庆市高要建投投资开发集团有限公司签订了建发（广东）预制菜运营管理有限公司项目合资合同。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1999217.d.html</link>
-            <guid>2632110</guid>
-            <pubDate>Fri, 15 Apr 2022 06:21:57 GMT</pubDate>
+            <title><![CDATA[  道氏技术公告，拟发行不超22亿元可转债，用于年产五万吨钴镍、十万吨前驱体绿色智造项目一期等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2062115.d.html</link>
+            <guid>2632467</guid>
+            <pubDate>Fri, 15 Apr 2022 12:23:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【吉林市：自4月15日开始腾空石化学校方舱医院 为休舱做准备】吉林市召开疫情防控工作第36场新闻发布会，通报疫情防控工作最新情况，自4月15日开始，利用2天时间，腾空石化学校方舱医院，为休舱做准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4443879.d.html</link>
-            <guid>2632109</guid>
-            <pubDate>Fri, 15 Apr 2022 06:21:28 GMT</pubDate>
+            <title><![CDATA[【因耶稣受难日假期 美股及金银油今日暂停交易】受4月15日（周五）耶稣受难日假期影响，美股今日休市一日，芝商所（CME）旗下贵金属、美国原油合约和外汇合约及洲际交易所（ICE）旗下布伦特原油期货合约全天暂停交易，敬请留意。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4505959.d.html</link>
+            <guid>2632466</guid>
+            <pubDate>Fri, 15 Apr 2022 12:18:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【预告：国新办举行一季度国民经济运行情况新闻发布会】据国务院新闻办公室4月15日消息，国务院新闻办公室定于2022年4月18日（星期一）上午10时举行新闻发布会，请国家统计局新闻发言人、国民经济综合统计司司长付凌晖介绍2022年一季度国民经济运行情况，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4443437.d.html</link>
-            <guid>2632108</guid>
-            <pubDate>Fri, 15 Apr 2022 06:19:07 GMT</pubDate>
+            <title><![CDATA[  比音勒芬公布2022年第一季度报告，公司实现营业收入8.1亿元，同比增长30.16%；归母净利润2.13亿元，同比增长41.29%；基本每股收益0.38元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2061175.d.html</link>
+            <guid>2632465</guid>
+            <pubDate>Fri, 15 Apr 2022 12:17:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【知情人士：上汽推动复工复产，4月18日启动测试】4月15日下午消息，一份文件显示，上汽集团正推动复工复产，计划在4月17日反馈复工摸排情况，4月18日启动复工复产压力测试。对于返岗员工，要求每48小时测一次核酸。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1998606.d.html</link>
-            <guid>2632107</guid>
-            <pubDate>Fri, 15 Apr 2022 06:18:46 GMT</pubDate>
+            <title><![CDATA[【温氏股份：2021年净亏损134亿元 拟不超70亿元进行委托理财】温氏股份披露年报，2021年公司营业收入为649.54亿元，同比下降13.31%；净亏损134.04亿元。同日公告，公司在不影响正常经营和确保资金安全性、流动性的前提下，2022年使用不超过70亿元的自有资金进行委托理财。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4505593.d.html</link>
+            <guid>2632464</guid>
+            <pubDate>Fri, 15 Apr 2022 12:15:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【瑞达期货：未来布局证券业务主要考虑通过参股或收购的方式】瑞达期货在互动平台称，券商牌照极为稀缺，并不是自己注册成立公司就能取得，公司未来布局证券业务主要还是考虑通过参股或收购证券公司的方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4442858.d.html</link>
-            <guid>2632105</guid>
-            <pubDate>Fri, 15 Apr 2022 06:14:59 GMT</pubDate>
+            <title><![CDATA[  截至当地时间15日18时30分，日本单日新增新冠肺炎确诊病例49761例，累计确诊7295916例；新增死亡病例62例，累计死亡28954例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2060818.d.html</link>
+            <guid>2632463</guid>
+            <pubDate>Fri, 15 Apr 2022 12:14:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【部分锂电材料报价今日再度走低 电池级碳酸锂跌2500元/吨】据上海钢联发布数据显示，部分锂电材料报价今日再度走低，电池级碳酸锂均价跌2500元/吨，报49万元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1998006.d.html</link>
-            <guid>2632104</guid>
-            <pubDate>Fri, 15 Apr 2022 06:14:23 GMT</pubDate>
+            <title><![CDATA[【工信部、发改委调研汽车行业经营困难 有车企建议重启“汽车下乡”】近日工信部、发改委展开了一项汽车行业生产经营状况的调研。接近中汽协的人士透露，有车企代表建议再开展一轮“汽车下乡”以刺激汽车消费。 (一财)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4505438.d.html</link>
+            <guid>2632462</guid>
+            <pubDate>Fri, 15 Apr 2022 12:13:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【吉林市：所有吉林省内支援吉林市转运车辆已全部返程】截至4月14日下午，所有吉林省内支援吉林市转运车辆已全部返程。自3月10日起，吉林省调集延边、辽源、通化、白山、白城、四平等地的客运车辆595台，支援吉林市进行转运任务，累计出车2654余台次，转运人员5.45万人次。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1997871.d.html</link>
-            <guid>2632103</guid>
-            <pubDate>Fri, 15 Apr 2022 06:13:19 GMT</pubDate>
+            <title><![CDATA[【国家邮政局：一季度快递业务收入累计完成2392.8亿元 同比增长6.9%】国家邮政局公布2022年一季度邮政行业运行情况。一季度，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成3268.8亿元，同比增长10.0%；业务总量累计完成3354.3亿元，同比增长10.7%。3月份，全行业业务收入完成1100.8亿元，同比增长0.3%；业务总量完成1138.7亿元，同比下降0.3%。一季度，全国快递服务企业业务量累计完成242.3亿件，同比增长10.5%；业务收入累计完成2392.8亿元，同比增长6.9%。其中，同城业务量累计完成29.2亿件，同比增长5.6%；异地业务量累计完成208.8亿件，同比增长12.0%；国际/港澳台业务量累计完成4.3亿件，同比下降19.1%。3月份，全国快递服务企业业务量完成85.4亿件，同比下降3.1%；业务收入完成818.5亿元，同比下降4.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4505128.d.html</link>
+            <guid>2632461</guid>
+            <pubDate>Fri, 15 Apr 2022 12:11:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【磷化工板块大幅走低】六国化工、川金诺跌近10%，清水源、安纳达、宏达股份、云天化、川恒股份、湖北宜化等跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1997810.d.html</link>
-            <guid>2632102</guid>
-            <pubDate>Fri, 15 Apr 2022 06:12:56 GMT</pubDate>
+            <title><![CDATA[【雷电微力：一季度净利预增26.18%-51.41%】雷电微力公告，预计一季度净利润1亿元至1.2亿元，同比增26.18%-51.41%，主要系报告期内公司新量产项目毛利率提升且应收账款周转率较同期提高所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4505080.d.html</link>
+            <guid>2632460</guid>
+            <pubDate>Fri, 15 Apr 2022 12:11:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【人民银行传达国务院专题会议精神 落实保障物流畅通和产业链供应链稳定工作】4月15日，人民银行召开会议，传达国务院专题会议精神，研究部署统筹疫情防控和经济发展，加大对物流通畅和产业链供应链稳定的金融支持。人民银行将运用再贷款、再贴现等多种货币政策工具，支持和引导金融机构加大金融支持力度，对运输物流企业和货运司机开辟“绿色通道”，合理给予贷款展期和续贷安排，增加民航运输信贷投放，建立信贷、债券融资对接机制，发挥应收账款服务平台作用，支持产业链供应链稳定循环。]]></title>
-            <guid>2632101</guid>
-            <pubDate>Fri, 15 Apr 2022 06:11:39 GMT</pubDate>
+            <title><![CDATA[【温氏股份：2021年净亏损134.04亿元 同比转亏】温氏股份公告，2021年净亏损134.04亿元，上年同期盈利74.26亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4504579.d.html</link>
+            <guid>2632459</guid>
+            <pubDate>Fri, 15 Apr 2022 12:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宇环数控上演“地天板”】宇环数控直线拉升封板，此前一度封死跌停，目前4连板。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1997587.d.html</link>
-            <guid>2632100</guid>
-            <pubDate>Fri, 15 Apr 2022 06:11:15 GMT</pubDate>
+            <title><![CDATA[土耳其财长：汇率受到控制。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2059779.d.html</link>
+            <guid>2632457</guid>
+            <pubDate>Fri, 15 Apr 2022 12:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中国台湾地区周五报告新增1209例本土新冠确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1997214.d.html</link>
-            <guid>2632098</guid>
-            <pubDate>Fri, 15 Apr 2022 06:09:36 GMT</pubDate>
+            <title><![CDATA[  劲嘉股份披露年报，2021年实现营业收入50.67亿元，同比增长20.89%；净利润10.2亿元，同比增长23.82%；基本每股收益0.70元。公司拟每10股派发现金红利3.5元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4504429.d.html</link>
+            <guid>2632456</guid>
+            <pubDate>Fri, 15 Apr 2022 12:07:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东方邦信创业投资有限公司原投资本部投资总监田辉接受监察调查】“清风北京”微信公众号消息，东方邦信创业投资有限公司原投资本部投资总监田辉涉嫌严重职务犯罪，由中央纪委国家监委驻中国银保监会纪检监察组移送，经北京市监委指定管辖，东城区监委对其监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4441899.d.html</link>
-            <guid>2632096</guid>
-            <pubDate>Fri, 15 Apr 2022 06:08:46 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委霍尔茨曼呼吁在秋季加息50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4503536.d.html</link>
+            <guid>2632455</guid>
+            <pubDate>Fri, 15 Apr 2022 12:01:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宏诚创新完成1亿元B轮融资 中科海创基金领投】据北京宏诚创新科技有限公司消息，基于AIoT（人工智能物联网）的数字化解决方案提供商宏诚创新近日宣布完成1亿元人民币B轮融资，本轮融资由中科海创基金领投。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1997031.d.html</link>
-            <guid>2632095</guid>
-            <pubDate>Fri, 15 Apr 2022 06:08:26 GMT</pubDate>
+            <title><![CDATA[长虹美菱：控股子公司中科美菱低温科技股份有限公司进入创新层。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4503494.d.html</link>
+            <guid>2632454</guid>
+            <pubDate>Fri, 15 Apr 2022 12:01:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美团开启新一轮裁员：“快买优”成重灾区】近日，光子星球通过多位美团内部人士证实，美团自上周起开启了新一轮大规模裁员，本次裁员几乎涉及所有业务部门。美团本轮裁员或涉及公司整体人员15%-20%的规模。一位知情人士向光子星透露，三大业务板块裁撤比例不尽相同，到家事业群大约5%，到店事业群大约10%，而新业务板块裁员比例相对最高，其中“快买优”（快驴、美团优选、美团买菜）裁员幅度约为20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1996901.d.html</link>
-            <guid>2632094</guid>
-            <pubDate>Fri, 15 Apr 2022 06:07:48 GMT</pubDate>
+            <title><![CDATA[  【国家烟草专卖局发布电子烟产品追溯管理细则】国家烟草专卖局发布电子烟产品追溯管理细则，其中提到，国务院烟草专卖行政主管部门负责编制全国电子烟产品追溯体系建设规划，组织制定追溯管理制度和技术标准，建立全国统一的电子烟产品追溯平台（以下简称电子烟追溯平台），统一追溯标识。地市级以上烟草专卖行政主管部门应当组织电子烟生产经营主体使用电子烟追溯平台，开展责任主体和产品流向的追溯管理，保障电子烟产品追溯信息的共享和公开。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4503452.d.html</link>
+            <guid>2632453</guid>
+            <pubDate>Fri, 15 Apr 2022 12:01:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【海南：支持农垦企业通过境内外上市等方式筹集资金】海南省政府办公厅印发《关于进一步推进垦地融合发展的若干措施》，措施提出，积极挖掘垦区资源，支持农垦企业通过境内外上市、发债、发行资产证券化产品等方式筹集资金。支持符合条件的农垦企业首发上市及企业并购重组，支持农垦企业进入海南省上市(挂牌)后备资源库。支持海垦集团参与省内国有企业横向联合、纵向整合和专业化重组，推动国有资本做优做强做大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4441317.d.html</link>
-            <guid>2632093</guid>
-            <pubDate>Fri, 15 Apr 2022 06:05:14 GMT</pubDate>
+            <title><![CDATA[乌克兰最大钢铁制造商METINVEST：公司在被围困城市马里乌波尔的钢铁厂已停止运营，这意味着乌克兰目前失去了30%至40%的冶金产能。公司永远不会在俄罗斯占领下运作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4503407.d.html</link>
+            <guid>2632452</guid>
+            <pubDate>Fri, 15 Apr 2022 12:01:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[东数西算概念股继续拉升，美利云、直真科技涨停，立昂技术涨超11%，科创信息、中富通等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1996203.d.html</link>
-            <guid>2632092</guid>
-            <pubDate>Fri, 15 Apr 2022 06:03:44 GMT</pubDate>
+            <title><![CDATA[乌克兰最大钢铁制造商METINVEST：由于俄乌冲突，乌克兰的铁矿石产量减少了一半以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4503138.d.html</link>
+            <guid>2632451</guid>
+            <pubDate>Fri, 15 Apr 2022 11:59:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俄潜艇在日本海用导弹击中“敌舰” 日防卫大臣：正收集数据】据塔斯社报道，日本防卫大臣岸信夫15日在新闻发布会上表示，日本正收集俄罗斯潜艇在日本海发射“口径”巡航导弹的相关数据。岸信夫称，俄罗斯武装部队在日本周边地区的活动，包括部署最新武器和举行演习，有增加的趋势。日本正在收集俄军最新导弹发射活动的数据，并加强预防措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4441013.d.html</link>
-            <guid>2632091</guid>
-            <pubDate>Fri, 15 Apr 2022 06:03:23 GMT</pubDate>
+            <title><![CDATA[  力盛赛车公告，拟将公司全称变更为“力盛云动（上海）体育科技股份有限公司”、证券简称变更为“力盛体育”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4503125.d.html</link>
+            <guid>2632450</guid>
+            <pubDate>Fri, 15 Apr 2022 11:59:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【抖音、今日头条拟在个人主页等位置展示帐号IP属地 】4月15日，抖音发布公告：为维护真实有序的讨论氛围，减少冒充热点事件当事人、恶意造谣、蹭流量等不良行为，抖音拟在个人主页等位置展示帐号IP属地，相关功能在4月底进行测试，将根据测试情况逐步在其他场景全量上线。今日稍早时候，头条安全中心亦发布公告称，为维护真实有序的讨论氛围，减少冒充热点事件当事人、恶意造谣、蹭流量等不良行为，今日头条拟在个人主页等位置展示帐号IP属地，相关功能即日起在网页版进行测试，将根据测试情况逐步在其他场景全量上线。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1996103.d.html</link>
-            <guid>2632090</guid>
-            <pubDate>Fri, 15 Apr 2022 06:03:06 GMT</pubDate>
+            <title><![CDATA[【太阳纸业：2021年净利同比增51.39% 拟10派2元】太阳纸业公告，2021年净利润29.57亿元，同比增51.39%，拟10派2元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4503053.d.html</link>
+            <guid>2632449</guid>
+            <pubDate>Fri, 15 Apr 2022 11:58:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  日经225指数收盘下跌0.29%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4440720.d.html</link>
-            <guid>2632089</guid>
-            <pubDate>Fri, 15 Apr 2022 06:01:17 GMT</pubDate>
+            <title><![CDATA[博晖创新：近日取得了3项医疗器械产品CE证书。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2058262.d.html</link>
+            <guid>2632448</guid>
+            <pubDate>Fri, 15 Apr 2022 11:57:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【汽车芯片IDM厂商扩大封测外包规模 日月光今年产能利用率有望维持高档】据业内消息人士透露，得益于汽车芯片IDM外包订单扩大、芯片制造客户长约，半导体封测龙头日月光2022年产能利用率有望保持高水平。预计今年公司汽车芯片业务营收同比增幅可达40%，超过10亿美元；汽车MCU引线键合产能供不应求情况则将延续至2023年。 (台湾电子时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4440441.d.html</link>
-            <guid>2632088</guid>
-            <pubDate>Fri, 15 Apr 2022 06:00:09 GMT</pubDate>
+            <title><![CDATA[【穆勒：有可能在7月结束资产购买计划】欧洲央行管委穆勒表示，周四，欧洲央行管理委员会比之前更明确地表示，资产购买计划将在第三季度结束。根据最新的物价上涨消息，如果“第三季度”的意思是7月，我不会感到惊讶。这提供了一种可能，即在物价快速上涨的情况下，采取下一个合乎逻辑的步骤，即提高利率。但欧洲央行行长拉加德昨天表示，还没有决定在第三季度结束资产购买计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4502924.d.html</link>
+            <guid>2632447</guid>
+            <pubDate>Fri, 15 Apr 2022 11:57:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本人口同比下降64.4万，为有记录以来最大的下降幅度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4440342.d.html</link>
-            <guid>2632087</guid>
-            <pubDate>Fri, 15 Apr 2022 05:59:15 GMT</pubDate>
+            <title><![CDATA[【济川药业：2021年度净利同比增长34.6% 拟10派6.8元】济川药业公布2021年年度报告，公司实现营业收入76.31亿元，同比增长23.77%；归母净利润17.19亿元，同比增长34.6%；基本每股收益1.94元。公司向全体股东每10股派发现金股利6.8元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4502789.d.html</link>
+            <guid>2632446</guid>
+            <pubDate>Fri, 15 Apr 2022 11:56:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚美尼亚经济部长克罗比扬向《俄罗斯商业咨询日报》（RBC）表示，该国开始使用卢布支付俄罗斯天然气。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1995166.d.html</link>
-            <guid>2632086</guid>
-            <pubDate>Fri, 15 Apr 2022 05:55:56 GMT</pubDate>
+            <title><![CDATA[  【东方环宇：2021年度净利同比增长49.06% 拟10派8元】东方环宇公布2021年年度报告，公司实现营业收入9.88亿元，同比增长22.83%；归母净利润1.56亿元，同比增长49.06%；基本每股收益0.82元。公司拟每10股派发现金红利人民币8元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4502630.d.html</link>
+            <guid>2632445</guid>
+            <pubDate>Fri, 15 Apr 2022 11:54:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【上汽通用五菱：通过基地、生产线和产品品种柔性调整应对疫情】就近日疫情对汽车生产造成的影响，上汽通用五菱方面称：“公司目前通过各基地、各生产线和产品品种的柔性调整，灵活生产，以最大程度上减轻疫情带来的负面影响。” (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4439742.d.html</link>
-            <guid>2632085</guid>
-            <pubDate>Fri, 15 Apr 2022 05:54:08 GMT</pubDate>
+            <title><![CDATA[【人福医药：宜昌人福对乙酰氨基酚注射液申报生产获得受理】人福医药公告，控股子公司宜昌人福药业有限责任公司近日收到国家药品监督管理局核准签发的对乙酰氨基酚注射液申报生产的受理通知书。本次获得受理的对乙酰氨基酚注射液可静脉给药，适用于治疗轻度至中度疼痛，或与阿片类药物联用治疗中度至重度疼痛，以及解热。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2057956.d.html</link>
+            <guid>2632444</guid>
+            <pubDate>Fri, 15 Apr 2022 11:54:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【降息预期再落空！4月MLF按兵不动，二季度“双降”仍有可能】在降准大概率将于近期落地的背景下，4月MLF操作按兵不动。“结合近两月金融数据看，本以为央行可能会适度调低利率提振需求，但今天开展的MLF利率并未变化，央行操作定力十足。”一位宏观分析师说道。业内人士表示，考虑到日前国常会已经部署降准，降准很有可能在近期落地，但这并不代表降息的可能性关闭，货币政策宽松空间仍存。中信证券首席经济学家明明表示，在降准确定之后，二季度仍存降息的可能，预计未来货币政策工具操作排序是降准、存款利率改革和调整、降息。（第一财经）]]></title>
-            <guid>2632084</guid>
-            <pubDate>Fri, 15 Apr 2022 05:52:32 GMT</pubDate>
+            <title><![CDATA[  国家烟草专卖局发布关于电子烟零售点布局和许可管理工作的指导意见：从事电子烟（包括烟弹、烟具、烟弹与烟具组合销售的产品）零售业务需申领烟草专卖零售许可证，许可范围为电子烟本店零售。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4502437.d.html</link>
+            <guid>2632443</guid>
+            <pubDate>Fri, 15 Apr 2022 11:53:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沪深两市成交额突破7000亿元，其中沪市成交额3157亿元，深市成交额3848亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1994239.d.html</link>
-            <guid>2632083</guid>
-            <pubDate>Fri, 15 Apr 2022 05:49:09 GMT</pubDate>
+            <title><![CDATA[【劲嘉股份：2021年净利同比增23.82% 拟10派3.5元】劲嘉股份公告，2021年净利润10.2亿元，同比增23.82%，拟10派3.5元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2057744.d.html</link>
+            <guid>2632442</guid>
+            <pubDate>Fri, 15 Apr 2022 11:53:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴以再度在耶路撒冷爆发冲突 已造成59名巴勒斯坦人受伤】当地时间15日清晨，在位于耶路撒冷老城的圣殿山，以色列警察同巴勒斯坦民众发生冲突。根据巴勒斯坦红新月会消息，目前已造成59名巴勒斯坦人受伤。根据巴勒斯坦官方通讯社瓦法社消息，15日清晨，部分以色列军警进入圣殿山阿克萨清真寺附近区域，并向现场的巴勒斯坦人发射催泪瓦斯进行驱散。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4438941.d.html</link>
-            <guid>2632082</guid>
-            <pubDate>Fri, 15 Apr 2022 05:48:52 GMT</pubDate>
+            <title><![CDATA[【国家邮政局：一季度邮政行业业务收入3268.8亿元 同比增10%】国家邮政局公布2022年一季度邮政行业运行情况。一季度，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成3268.8亿元，同比增长10%；业务总量累计完成3354.3亿元，同比增长10.7%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2057513.d.html</link>
+            <guid>2632441</guid>
+            <pubDate>Fri, 15 Apr 2022 11:51:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  长安汽车宣布，受近期原材料价格持续大幅上涨影响，长安汽车将对新能源车型UNI-K iDD的官方指导价进行调整，上调幅度6000元，此次价格调整将于5月1日起生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1993896.d.html</link>
-            <guid>2632081</guid>
-            <pubDate>Fri, 15 Apr 2022 05:46:47 GMT</pubDate>
+            <title><![CDATA[  国家烟草专卖局发布关于电子烟批发企业布局的指导意见，意见指出，遵循属地经营的基本原则，严格按照《电子烟管理办法》中“应当在当地电子烟批发企业购进电子烟产品”的规定，结合电子烟产品特点，整合资源、规模经营，布局电子烟批发企业。根据《电子烟管理办法》，取得烟草专卖批发企业许可证的企业，应当经烟草专卖行政主管部门批准，变更许可范围后方可从事电子烟产品批发业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2057293.d.html</link>
+            <guid>2632440</guid>
+            <pubDate>Fri, 15 Apr 2022 11:50:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  俄紧急情况部萨拉托夫州总局通报称，萨拉托夫附近的直升机训练基地一架米-8在起飞时侧翻，导致1人受伤。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4438570.d.html</link>
-            <guid>2632080</guid>
-            <pubDate>Fri, 15 Apr 2022 05:46:32 GMT</pubDate>
+            <title><![CDATA[【4月15日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、习近平同沙特王储通电话；2、习近平同毛里求斯总统就中毛建交50周年互致贺电；3、牢记统帅嘱托 矢志强国强军——习近平主席视察文昌航天发射场在全军引起热烈反响；4、【央视快评】努力建设世界一流航天发射场；5、栗战书同俄罗斯联邦委员会主席举行会谈；6、全国政协召开双周协商座谈会 围绕“加快发展普惠托育服务体系”协商议政；7、上海：同心抗疫 坚持“动态清零”总方针不动摇；8、中共中央宣传部 中央国家安全委员会办公室关于认真组织学习《总体国家安全观学习纲要》的通知；9、《总体国家安全观学习纲要》出版发行；10、第七个全民国家安全教育日 各地多种形式普及国家安全知识；11、助力稳增长 一季度金融政策持续发力；12、中国人权研究会发布《反亚裔种族歧视甚嚣尘上坐实美国种族主义社会本质》研究报告；13、国家卫生健康委通报最新疫情；14、乌基辅等多地发生爆炸 俄称“莫斯科”号沉没；15、全球累计新冠确诊病例超5亿例；16、委内瑞拉政府纪念挫败政变20周年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4501956.d.html</link>
+            <guid>2632439</guid>
+            <pubDate>Fri, 15 Apr 2022 11:49:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【双良节能：公司硅料供应稳定 单晶一厂目前生产旺盛】双良节能4月15日在互动平台表示，公司硅料供应稳定，单晶一厂目前生产旺盛，单晶二厂亦有部分炉子投入生产。“因硅料涨价单晶炉停产”纯属谣言，公司将保留追究造谣者责任的法律权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1993713.d.html</link>
-            <guid>2632079</guid>
-            <pubDate>Fri, 15 Apr 2022 05:45:32 GMT</pubDate>
+            <title><![CDATA[【芯导科技：2021年净利同比增长54.42% 拟10派6元】芯导科技公布2021年年度报告，2021年公司营业收入4.76亿元，同比增长29.13%；归母净利润1.15亿元，同比增长54.42%；基本每股收益2.48元；拟向全体股东每10股派发现金红利6元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4501731.d.html</link>
+            <guid>2632438</guid>
+            <pubDate>Fri, 15 Apr 2022 11:48:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【神舟十三号即将返回 东风着陆场地面搜救力量集结】据中国载人航天工程办公室消息，神舟十三号载人飞船已完成全部既定任务，将于近日择机撤离空间站核心舱组合体，返回东风着陆场。目前，神舟十三号乘组已做好飞船撤离前的各项准备，东风着陆场及工程相关系统正在开展迎接航天员返回的各项准备。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1993572.d.html</link>
-            <guid>2632078</guid>
-            <pubDate>Fri, 15 Apr 2022 05:44:22 GMT</pubDate>
+            <title><![CDATA[春秋航空：3月可用座公里数19.9亿人公里，环比下降48.79%，同比下降48.09%；旅客周转量13.44亿人公里，环比下降54.6%，同比下降59.65%；客座率67.53%，环比下降8.65%，同比下降19.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2056878.d.html</link>
+            <guid>2632437</guid>
+            <pubDate>Fri, 15 Apr 2022 11:47:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[汽车零部件板块持续拉升，上声电子、常熟汽饰、新泉股份、福耀玻璃涨停，隆盛科技涨超9%，星宇股份、保隆科技、川环科技、文灿股份、拓普集团等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4438028.d.html</link>
-            <guid>2632076</guid>
-            <pubDate>Fri, 15 Apr 2022 05:41:52 GMT</pubDate>
+            <title><![CDATA[【片仔癀：2021年净利同比增45.46% 拟10派12.1元】片仔癀公告，2021年净利润24.31亿元，同比增45.46%，拟10派12.1元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2056769.d.html</link>
+            <guid>2632436</guid>
+            <pubDate>Fri, 15 Apr 2022 11:46:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[指数午后回暖，三大指数全线翻红，银行、钢铁、食品等涨幅居前，两市上涨个股1100余只。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4437392.d.html</link>
-            <guid>2632075</guid>
-            <pubDate>Fri, 15 Apr 2022 05:37:50 GMT</pubDate>
+            <title><![CDATA[【*ST海航：3月客运量环降53.01%、同降69.67% 货运量环降11.67%、同降47.6%】*ST海航公告，3月集团实现载客人数132.377万人，环比下降53.01%，同比下降69.67%；货运及邮运量为1.443万吨，环比下降11.67%，同比下降47.6%；客座率为63.72%，环比下降9.4%，同比下降16.96%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4501148.d.html</link>
+            <guid>2632435</guid>
+            <pubDate>Fri, 15 Apr 2022 11:43:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【日本和美国或于下周举行财长会议】据共同社报道，日本和美国可能在下周于华盛顿举行的20国集团会议期间举行双边财长会议。据悉，两国政府目前正就会议具体日期谈判，会议可能在4月21日左右举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1992623.d.html</link>
-            <guid>2632073</guid>
-            <pubDate>Fri, 15 Apr 2022 05:37:02 GMT</pubDate>
+            <title><![CDATA[【阳煤化工：2021年净利润4.32亿元 同比增234.82%】阳煤化工公告，2021年净利润4.32亿元，同比增234.82%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4500970.d.html</link>
+            <guid>2632434</guid>
+            <pubDate>Fri, 15 Apr 2022 11:41:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国成功研制105亿年偏差不到1秒的光频标 】近日，中国科学院精密测量科学与技术创新研究院高克林研究团队成功研制105亿年偏差不到1秒的钙离子光频标，成为国际上第五种不确定度指标达到10-18量级的光频标。相关研究成果已发表于国际学术期刊《应用物理评论》。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1992521.d.html</link>
-            <guid>2632072</guid>
-            <pubDate>Fri, 15 Apr 2022 05:36:04 GMT</pubDate>
+            <title><![CDATA[【天山股份：拟收购关联方宁夏建材水泥板块资产】天山股份公告，公司拟以现金方式收购关联方宁夏建材所持水泥等相关业务子公司的控股权等资产，最终收购范围将进一步协商确定，以期解决公司与宁夏建材在水泥板块相关业务的同业竞争问题，进一步促进公司高质量发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2055924.d.html</link>
+            <guid>2632433</guid>
+            <pubDate>Fri, 15 Apr 2022 11:40:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[指数午后回暖，创业板指率先翻红，早盘一度跌超2%。银行、医药、军工等板块午后拉升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4437071.d.html</link>
-            <guid>2632071</guid>
-            <pubDate>Fri, 15 Apr 2022 05:35:25 GMT</pubDate>
+            <title><![CDATA[  【杭州银行：2021年度净利同比增长29.77% 拟10派3.5元】杭州银行披露2021年年度报告，报告期内，公司实现营业收入293.61亿元，同比增长18.36%；归母净利润92.61亿元，同比增长29.77%；基本每股收益1.43元，年报推每10股派送现金股利人民币3.5元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2055865.d.html</link>
+            <guid>2632432</guid>
+            <pubDate>Fri, 15 Apr 2022 11:39:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据BVA民调显示，法国总统马克龙以54%的支持率领先勒庞（46%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1992303.d.html</link>
-            <guid>2632070</guid>
-            <pubDate>Fri, 15 Apr 2022 05:34:39 GMT</pubDate>
+            <title><![CDATA[  【南京银行：2021年净利同比增长21.04% 拟10派4.754元】南京银行公布2021年年度报告，2021年公司营业收入409.25亿元，同比增长18.74%；归母净利润158.57亿元，同比增长21.04%；基本每股收益1.54元；拟向全体股东每10股派送现金股利4.754元人民币(含税)。]]></title>
+            <link>https://finance.sina.cn/money/bank/gsdt/2022-04-15/detail-imcwipii4500893.d.html</link>
+            <guid>2632431</guid>
+            <pubDate>Fri, 15 Apr 2022 11:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国防部：解放军将坚决挫败任何形式的“台独”分裂图谋 】近期，美国国会议员不顾中方强烈反对，蓄意挑衅，窜访台湾。美方这一行径严重违反一个中国原则和中美三个联合公报规定，严重损害中美关系的政治基础，导致台海局势进一步紧张升级。美一方面作出不支持“台独”的承诺，一方面向“台独”分裂势力发出严重错误信号，这是极其虚伪的，毫无信义。中方对此坚决反对，并向美方提出严正交涉。台湾是中国领土神圣不可分割的一部分。台湾问题不容任何外来干涉。中国人民解放军东部战区近日在台岛周边海空域组织多军兵种联合战备警巡，并开展多科目针对性演练。这是根据当前台海安全形势和维护国家主权需要采取的必要行动。中国人民解放军厉兵秣马，将采取一切必要措施坚决挫败外部势力干涉和“台独”分裂图谋，坚决捍卫国家主权和领土完整。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1992255.d.html</link>
-            <guid>2632069</guid>
-            <pubDate>Fri, 15 Apr 2022 05:34:05 GMT</pubDate>
+            <title><![CDATA[【中国烟草发布关于对电子烟相关生产企业核发烟草专卖生产企业许可证工作的指导意见】中国烟草：问题导向，分类施策。充分考虑电子烟相关生产企业现状，因地制宜、分类施策，有针对性地对相关生产经营主体进行业务指导和政务服务，分步推进，保障许可证核发工作平稳有序开展。电子烟相关生产企业申领生产企业许可证，应当具备下列条件：有与生产相适应的资金；有生产所需技术和设备条件；符合国家电子烟产业政策要求；国务院烟草专卖行政主管部门规定的其他条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4500519.d.html</link>
+            <guid>2632430</guid>
+            <pubDate>Fri, 15 Apr 2022 11:39:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国当选总统尹锡悦的团队将于当地时间下午4点（北京时间下午3点）与韩国央行举行会议，讨论外汇、金融市场、通胀等问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1992075.d.html</link>
-            <guid>2632068</guid>
-            <pubDate>Fri, 15 Apr 2022 05:32:31 GMT</pubDate>
+            <title><![CDATA[【奥克股份：一季度净利同比预增85.84%-105.4%】奥克股份公告，预计一季度净利润9500万元-1.05亿元，同比增长85.84%-105.4%。报告期内公司锂电池电解液溶剂毛利约6500万元，同比增长约475%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4500124.d.html</link>
+            <guid>2632429</guid>
+            <pubDate>Fri, 15 Apr 2022 11:36:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国国会议员蓄意挑衅窜访台湾 国防部回应】“国防部发布”微信公众号消息，国防部新闻发言人吴谦就美国国会议员窜访台湾发表谈话。近期，美国国会议员不顾中方强烈反对，蓄意挑衅，窜访台湾。美方这一行径严重违反一个中国原则和中美三个联合公报规定，严重损害中美关系的政治基础，导致台海局势进一步紧张升级。美一方面作出不支持“台独”的承诺，一方面向“台独”分裂势力发出严重错误信号，这是极其虚伪的，毫无信义。中方对此坚决反对，并向美方提出严正交涉。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1991530.d.html</link>
-            <guid>2632067</guid>
-            <pubDate>Fri, 15 Apr 2022 05:29:11 GMT</pubDate>
+            <title><![CDATA[【博瑞医药：2021年净利润同比增长43.6% 拟10派1.2元】博瑞医药公告，公司2021年实现营业收入为10.52亿元，同比增长34%；归母净利润2.44亿元，同比增长43.6%；基本每股收益0.6元；拟每10股派发现金红利1.2元（含税）。]]></title>
+            <guid>2632428</guid>
+            <pubDate>Fri, 15 Apr 2022 11:36:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【郎酒核心产品青花郎出厂价上调100元 已超飞天茅台出厂价】四川古蔺郎酒销售有限公司发布价格调整通知，即日起53度500ml青花郎计划内出厂价提高100元/瓶。青花郎此前出厂价为909元/瓶，上调后青花郎出厂价达1009元/瓶，已经超出飞天茅台出厂价969元/瓶。目前青花郎建议零售价维持不变，仍为1499元/瓶，与飞天茅台保持一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1990973.d.html</link>
-            <guid>2632064</guid>
-            <pubDate>Fri, 15 Apr 2022 05:24:57 GMT</pubDate>
+            <title><![CDATA[【天宜上佳：一季度归母净利润同比预增233.75%】天宜上佳公告，预计2022年第一季度实现营业收入为1.73亿元，同比增加130.38%；实现归母净利润为3426.88万元，同比增加233.75%。报告期内，公司碳基复合材料业务板块持续发力，带动公司营业收入及净利润较大幅度增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2055367.d.html</link>
+            <guid>2632427</guid>
+            <pubDate>Fri, 15 Apr 2022 11:36:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国产航母板块拉升，国瑞科技涨超6%，中船应急、航发控制、中国海防、航发控制等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1990839.d.html</link>
-            <guid>2632063</guid>
-            <pubDate>Fri, 15 Apr 2022 05:23:49 GMT</pubDate>
+            <title><![CDATA[当地时间15日，乌克兰总统泽连斯基与内阁成员和总统办公室代表就当前战争条件下的国家经济发展和需要执行的紧急任务举行了会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2055327.d.html</link>
+            <guid>2632426</guid>
+            <pubDate>Fri, 15 Apr 2022 11:35:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本海上自卫队和美国海军在日本海进行联合训练】日本海上自卫队当地时间15日发表消息说，日本宙斯盾级驱逐舰“金刚”号和美国海军舰艇于13日、14日两天在日本海进行了弹道导弹信息共享联合训练。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1990804.d.html</link>
-            <guid>2632062</guid>
-            <pubDate>Fri, 15 Apr 2022 05:23:28 GMT</pubDate>
+            <title><![CDATA[【宁波航运交易所：一季度出口集装箱运价虽有明显回落但仍处在历史高位 外贸企业物流成本仍居高不下】宁波航运交易所数据显示，2022年一季度，宁波出口集装箱运价指数（NCFI）持续呈下跌走势。截至一季度末，综合指数报收于3552.9点，较2021年12月底下跌16.7%，但同比上涨74.1%。监测的21条分航线中，多数航线运价较2021年12月底有明显回落，但除西非航线外，各航线运价较去年同期均有不同程度的上涨。其中，欧洲航线运价40尺标箱市场运价较2021年12月底下跌2639USD/FEU，但同比上涨65.7%；美东、美西航线加价后的40尺标箱市场运价较2021年12月底分别下跌34.7%、48.5%，多数货物出运至美西航线无需加价订舱，但运价仍是去年同期的2倍有余；泰越、新马航线40尺标箱市场运价接近2021年12月底运价的二分之一，但同比分别上涨40.1%、44.1%。综合来看，出口集装箱运价虽有明显回落但仍处在历史高位，外贸企业物流成本仍居高不下。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4500028.d.html</link>
+            <guid>2632425</guid>
+            <pubDate>Fri, 15 Apr 2022 11:35:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  军工股异动，长城军工直线拉升封板，晨曦航空、中天火箭、中船应急、航天动力等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1990750.d.html</link>
-            <guid>2632061</guid>
-            <pubDate>Fri, 15 Apr 2022 05:23:00 GMT</pubDate>
+            <title><![CDATA[【崇达技术：2021年度净利同比增长25.7% 拟10派3.1元】崇达技术发布2021年年度报告，实现营业收入59.96亿元，同比增长37.27%；归母净利润5.54亿元，同比增长25.70%；基本每股收益0.63元，拟每10股派发现金红利3.1元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2055294.d.html</link>
+            <guid>2632424</guid>
+            <pubDate>Fri, 15 Apr 2022 11:35:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经救援抢修大秦铁路恢复通车】据中国铁路消息，经过各方努力，奋力抢修，因货车车列溜逸脱线一度中断行车的大秦铁路翠屏山至蓟县西间，于4月15日12时55分恢复通车。铁路部门将尽快查明事故原因，认真吸取事故教训，举一反三，加强管理，深入开展安全隐患排查整治，杜绝类似事故发生，全力确保铁路安全畅通。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1990596.d.html</link>
-            <guid>2632060</guid>
-            <pubDate>Fri, 15 Apr 2022 05:21:58 GMT</pubDate>
+            <title><![CDATA[【浪潮软件：2021年净利润4213.04万元 同比扭亏】浪潮软件公告，公司2021年实现营业收入为18.3亿元，同比增长37.72%；归母净利润4213.04万元，同比扭亏；基本每股收益0.13元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2054958.d.html</link>
+            <guid>2632423</guid>
+            <pubDate>Fri, 15 Apr 2022 11:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中船系板块异动拉升，中船应急涨超3%，中国海防、中国船舶、中国动力、中船科技等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4435177.d.html</link>
-            <guid>2632059</guid>
-            <pubDate>Fri, 15 Apr 2022 05:21:10 GMT</pubDate>
+            <title><![CDATA[【博瑞医药：2021年净利润同比增长43.6% 拟10派1.2元】博瑞医药公告，公司2021年实现营业收入为10.52亿元，同比增长34%；归母净利润2.44亿元，同比增长43.6%；基本每股收益0.6元；拟每10股派发现金红利1.2元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2054932.d.html</link>
+            <guid>2632422</guid>
+            <pubDate>Fri, 15 Apr 2022 11:33:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴西政府支持建设比SWIFT更灵活的新支付系统】据新华社消息，巴西经济部国际经济事务司司长戈梅斯14日表示，巴西政府支持建设一个比环球银行间金融通信协会（SWIFT）系统更灵活的新支付系统。戈梅斯批评SWIFT系统存在交易时间长等缺陷，认为其“昂贵、官僚、耗时”，不符合当今世界经济需求；建议对开发新支付系统的讨论，应该在全球范围内进行，而未来的新支付系统可由总部位于瑞士的国际清算银行管理。（证券时报网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1990320.d.html</link>
-            <guid>2632058</guid>
-            <pubDate>Fri, 15 Apr 2022 05:20:36 GMT</pubDate>
+            <title><![CDATA[【温彬：降准或将促使LPR报价行压降点差，本月20日LPR利率有望下调 】针对此次降准，中国民生银行首席研究员温彬表示，央行适时降准体现了货币政策前瞻性，有利于稳定市场预期，增强市场主体信心，改善和扩大总需求，为稳定宏观经济大盘、保持经济运行在合理区间创造了积极条件。尽管本月MLF政策利率保持不变，但降准或将促使LPR报价行压降点差，本月20日LPR利率有望下调。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2054921.d.html</link>
+            <guid>2632421</guid>
+            <pubDate>Fri, 15 Apr 2022 11:33:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CRO概念午后走高，康龙化成涨超6%，泰格医药、博腾股份涨超5%，九洲药业、昭衍新药、药明康德等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1989905.d.html</link>
-            <guid>2632057</guid>
-            <pubDate>Fri, 15 Apr 2022 05:17:29 GMT</pubDate>
+            <title><![CDATA[【俄州长：乌军对俄边境炮击造成民宅和学校受损 另有1人受伤】俄罗斯别尔哥罗德州副州长弗拉基米尔·巴扎洛夫在社交平台上发文指出，乌克兰昨日（14日）向俄乌边境发起炮击，当地一处村庄的20余栋房屋和1所学校遭到破坏。巴扎洛夫14日前往遭到袭击的朱拉夫列夫卡村庄视察，该村庄当日2次遭到乌克兰方面的炮击。巴扎洛夫表示，视察中发现20多栋房屋和1所学校受到损坏。别尔哥罗德州州长格拉德科夫补充说，在乌克兰当日发起的另一次炮击中，有1人受轻伤。 (海外网)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwipii4499604.d.html</link>
+            <guid>2632420</guid>
+            <pubDate>Fri, 15 Apr 2022 11:32:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一季度东风公司新能源汽车销量突破7万辆，达70745辆，同比增长2.6倍。（湖北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst1989859.d.html</link>
-            <guid>2632056</guid>
-            <pubDate>Fri, 15 Apr 2022 05:17:06 GMT</pubDate>
+            <title><![CDATA[【贝特瑞：一季度净利预增64.09%～79.35%】贝特瑞公告，预计一季度净利润4.3亿元至4.7亿元，同比增64.09%～79.35%。报告期内下游电池市场持续景气，电池材料市场需求提升，公司正负极材料业务保持快速增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-15/detail-imcwiwst2054698.d.html</link>
+            <guid>2632419</guid>
+            <pubDate>Fri, 15 Apr 2022 11:31:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
