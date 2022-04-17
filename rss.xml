@@ -4,11 +4,448 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 17 Apr 2022 07:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【沈阳：4月18日起，地铁、公交、有轨电车全面恢复运营】沈阳市新冠肺炎疫情防控指挥部通告，4月18日起，一、地铁、公交、有轨电车全面恢复运营（具体方案另行通告）。二、其他管控措施按照《沈阳市新冠肺炎疫情防控指挥部通告（第48号）》继续执行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2379269.d.html</link>
+            <guid>2633818</guid>
+            <pubDate>Sun, 17 Apr 2022 10:20:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部：对北约在北极地区日益增长的军事活动表示担忧】当地时间17日，俄罗斯外交部表示，俄罗斯对北约在北极地区日益增长的军事活动表示担忧，可以见到北极地区发生意外冲突的风险。此外，瑞典和芬兰加入北约无益于促进北极地区的安全和信任。没有俄罗斯，西方无法保障北极地区的稳定发展。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4823725.d.html</link>
+            <guid>2633817</guid>
+            <pubDate>Sun, 17 Apr 2022 10:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东聊城新增1例本土无症状感染者】山东聊城2022年4月17日14时新增1例新冠肺炎本土无症状感染者，在临清市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4823375.d.html</link>
+            <guid>2633816</guid>
+            <pubDate>Sun, 17 Apr 2022 10:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  截至当地时间17日18时15分，日本全国新增新冠肺炎确诊病例39291例，新增死亡病例26例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4823067.d.html</link>
+            <guid>2633815</guid>
+            <pubDate>Sun, 17 Apr 2022 10:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交通运输部：除西藏（无高速公路收费站和服务区）外的30个省（区、市）中，北京、天津、山西、内蒙古、福建、山东、河南、湖南、海南、重庆、四川、贵州、甘肃、宁夏等14个省份已无关闭关停的高速公路收费站和服务区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4821652.d.html</link>
+            <guid>2633814</guid>
+            <pubDate>Sun, 17 Apr 2022 10:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交通运输部：根据各省（区、市）上报数据汇总统计，受疫情影响，截至2022年4月16日24时，各省（区、市）高速公路共关闭收费站219个，占收费站总数的2.03%，比4月10日减少459个，下降了67.70%；共关停服务区76个，占服务区总数的1.15%，比4月10日减少288个，下降了79.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2376837.d.html</link>
+            <guid>2633813</guid>
+            <pubDate>Sun, 17 Apr 2022 10:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海南省高职（专科）升本科和高职分类招生考试再次推迟】海南省考试局发布公告称，鉴于近期国内新冠疫情形势，为保障广大考生和涉考工作人员的身体健康和生命安全，决定再次推迟原计划于4月23—24日举行的2022年海南省高职（专科）升本科和高职分类招生考试，具体考试时间将根据疫情防控形势另行安排。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2376343.d.html</link>
+            <guid>2633812</guid>
+            <pubDate>Sun, 17 Apr 2022 09:59:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[利比亚国家石油公司：由于大象（El Feel）油田停产，利比亚石油产量下降7万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4820817.d.html</link>
+            <guid>2633811</guid>
+            <pubDate>Sun, 17 Apr 2022 09:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊拉克计划本月出口石油345万桶/日（不含库尔德斯坦地区）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4820691.d.html</link>
+            <guid>2633810</guid>
+            <pubDate>Sun, 17 Apr 2022 09:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【电广传媒：预计一季度净利同比增58.54%】电广传媒发布业绩预告，预计2022年一季度净利3000万元，同比增长58.54%。报告期内业绩同比增长主要原因为：联营企业中国广电湖南网络股份有限公司同比扭亏为盈；同时，公司公允价值变动损失减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4820107.d.html</link>
+            <guid>2633809</guid>
+            <pubDate>Sun, 17 Apr 2022 09:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【吉林省长在长春市调研时强调：推动有序复工复产取得更大进展】吉林省委副书记、省长韩俊16日在长春市就有序复工复产工作调研，现场办公解决问题。他强调，要全力支持一汽集团及配套企业复工复产再提速，加大排产力度，尽最大努力实现稳产满产，全面带动关联配套企业复工复产。坚持分区分级分类分策，探索企业返岗员工“点对点”移动闭环通勤。要瞄准未复工重点企业，逐户研究问题症结，列出需求清单，指导企业加快有序复工复产。要推动医药健康企业、科技型企业和“专精特新”中小企业尽快复工复产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4819881.d.html</link>
+            <guid>2633808</guid>
+            <pubDate>Sun, 17 Apr 2022 09:48:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【利比亚国家石油公司宣布大象油田遭遇不可抗力】利比亚国家石油公司在声明中表示，其大象油田（El Feel）的生产遭遇不可抗力，前一天有一群人进入油田设施阻止员工工作。但该公司没有说明这群人的身份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2374955.d.html</link>
+            <guid>2633807</guid>
+            <pubDate>Sun, 17 Apr 2022 09:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雅化集团：出资500万加元认购加拿大超锂公司股权】雅化集团公告，公司全资子公司雅化国际出资500万加元认购加拿大超锂公司2127.66万单位股份，约占超锂公司截至本公告日总股本的13.23%；同时，雅化国际以现金出资收购超锂公司全资子公司60%的股权，并控股旗下福根湖硬岩石锂辉石型锂矿项目和佐治亚湖硬岩石锂辉石型锂矿项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2374755.d.html</link>
+            <guid>2633806</guid>
+            <pubDate>Sun, 17 Apr 2022 09:47:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【锡业股份：控股子公司受疫情影响暂时停产】锡业股份公告，控股子公司华联锌铟已按要求暂时停止生产，全力配合政府防疫工作，遏制疫情扩散和蔓延。华联锌铟暂时停产预计将对公司短期经营业绩产生不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4818779.d.html</link>
+            <guid>2633805</guid>
+            <pubDate>Sun, 17 Apr 2022 09:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【安徽建工：发起设立两只基金 保障公司重点基础设施项目建设】安徽建工公告，为保障公司重点基础设施项目建设，公司拟与安建资本、中铁信托发起设立“肥西安建贰号私募股权投资基金合伙企业（有限合伙）”，其中公司作为有限合伙人认缴59950万元，占比49.96%；公司拟与安建资本、光大兴陇发起设立“肥西安建叁号私募股权投资基金合伙企业（有限合伙）”，其中公司作为有限合伙人认缴99950万元，占比49.975%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2372557.d.html</link>
+            <guid>2633804</guid>
+            <pubDate>Sun, 17 Apr 2022 09:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据“莞香花开”微信公众号17日援引东莞市新型冠状病毒肺炎疫情防控指挥部办公室消息，取消“持48小时核酸阴性证明离莞”管控措施，市民群众凭健康码“绿码”出行，非必要不前往中、高风险地区所在市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4816393.d.html</link>
+            <guid>2633803</guid>
+            <pubDate>Sun, 17 Apr 2022 09:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【机构：到2024年国内新型显示行业检测设备市场规模超92亿元】市场调研机构CINNO Research报告显示，2020年中国大陆TFT-LCD产能全球占比达到55%，首次超过一半产能，而AMOLED产能预计2024年达到全球的52%。该机构预测，伴随2022年TFT-LCD新的建厂和扩产，将带动该部分设备市场规模的小幅增长；伴随着2022年起TFT-LCD及AMOLED多座工厂进入建设期，新的建厂和扩产将带动中国大陆新型显示行业检测设备市场规模在2024年将有望达92亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2371512.d.html</link>
+            <guid>2633802</guid>
+            <pubDate>Sun, 17 Apr 2022 09:21:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【药易购：一季度净利同比预增641.22%-826.53%】药易购公告，预计2022年第一季度归属于上市公司股东的净利润800万元-1000万元，同比增长641.22%-826.53%；扣除非经常性损益后的净利润600万元-800万元，上年同期为亏损276.03万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815737.d.html</link>
+            <guid>2633801</guid>
+            <pubDate>Sun, 17 Apr 2022 09:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【4月8日至今广州本次疫情累计报告新冠病毒感染者214例】4月8日至今，广州市本次疫情累计报告新冠病毒感染者214例。4月16日15时至17日15时，广州全市新增密接2752人、次密接1021人、重点人员2186人；共开设1262个核酸采样点、7649个采样单元，投入10855名医护人员实施社区人群核酸筛查，完成核酸检测277万人次。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2370792.d.html</link>
+            <guid>2633800</guid>
+            <pubDate>Sun, 17 Apr 2022 09:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[   普利制药公告，公司于近日收到国家药品监督管理局签发的硝普钠注射液的药品注册批件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815534.d.html</link>
+            <guid>2633799</guid>
+            <pubDate>Sun, 17 Apr 2022 09:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州市疫情防控新闻发布会：对于有就医需求的红码、黄码，或从风险区域来的人员，各医疗机构由专人专岗跟进，排查后予以医疗处置，不推诿、不拒诊。（广州日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815489.d.html</link>
+            <guid>2633798</guid>
+            <pubDate>Sun, 17 Apr 2022 09:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[利比亚国家石油公司宣布LEPHANT和ELFEEL油田遭遇不可抗力导致该油田停产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815433.d.html</link>
+            <guid>2633797</guid>
+            <pubDate>Sun, 17 Apr 2022 09:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【太钢不锈：拟向鑫海实业增资3.93亿元】太钢不锈公告，公司拟向鑫海实业增资3.93亿元。本次增资完成后，公司持有鑫海实业51%股权，鑫海新材料持有鑫海实业49%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815424.d.html</link>
+            <guid>2633796</guid>
+            <pubDate>Sun, 17 Apr 2022 09:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州市疫情防控新闻发布会：4月8日以来，曾经在白云区现行的封控、管控区内活动，但目前已离开该区域的市民朋友，请第一时间采取自我隔离措施。（广州日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2370542.d.html</link>
+            <guid>2633795</guid>
+            <pubDate>Sun, 17 Apr 2022 09:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统经济顾问：今年的通胀率预计将在10%到20%之间，但如果战争很快结束，通胀率将接近10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2370407.d.html</link>
+            <guid>2633794</guid>
+            <pubDate>Sun, 17 Apr 2022 09:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统经济顾问：个人不认为存在货币大幅波动的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815232.d.html</link>
+            <guid>2633793</guid>
+            <pubDate>Sun, 17 Apr 2022 09:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统经济顾问：乌克兰需要1万亿美元来弥补战争损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815222.d.html</link>
+            <guid>2633792</guid>
+            <pubDate>Sun, 17 Apr 2022 09:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统经济顾问：盟友的支持对资助乌克兰军队和社会支出至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4815209.d.html</link>
+            <guid>2633791</guid>
+            <pubDate>Sun, 17 Apr 2022 09:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州市疫情防控新闻发布会：4月16日15时至17日15时，广州新增26例阳性感染者，其中确诊病例20例，无症状感染者6例。（南方都市报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4814628.d.html</link>
+            <guid>2633790</guid>
+            <pubDate>Sun, 17 Apr 2022 09:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利总理：欧洲降低对俄能源依赖的速度比预想的更快】意大利总理德拉基在接受采访时表示，欧洲降低对俄能源依赖的速度要比预想的更快，（供应）多样化是可能且可行的，而且比一个月前预想的时间还要短。我们有储存的天然气，并且与其他供应商签署了新的天然气（供应协议），其他国家也将效仿。此外“遏制措施”的影响将是温和的，我们正在讨论将供暖温度降低1-2度，空调也将由类似变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2369388.d.html</link>
+            <guid>2633789</guid>
+            <pubDate>Sun, 17 Apr 2022 09:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统经济顾问：乌克兰也在考虑在国际市场上举债，通过零息债券来弥补预算赤字。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4814121.d.html</link>
+            <guid>2633788</guid>
+            <pubDate>Sun, 17 Apr 2022 09:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国新一代载人飞船可搭载7名航天员】 在今天国新办举行的新闻发布会上，中国载人航天工程办公室主任郝淳表示，为进一步提升工程的综合能力和技术水平，还将研制新一代载人运载火箭和新一代载人飞船，其中，新一代载人运载火箭和新一代载人飞船的返回舱都可以实现可重复使用。新一代载人飞船综合能力也得到了大幅提升，可以搭载7名航天员，另外它的上行和下行载荷能力也得到大幅度提高。还将积极探索载人航天商业化发展模式，吸收社会力量参与空间站建设和运营维护，不断提升空间站综合效益，推动载人航天事业高质量发展。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2368808.d.html</link>
+            <guid>2633787</guid>
+            <pubDate>Sun, 17 Apr 2022 09:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统经济顾问：总统已要求七国集团国家提供500亿美元，以帮助弥补未来六个月的预算赤字。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2368556.d.html</link>
+            <guid>2633786</guid>
+            <pubDate>Sun, 17 Apr 2022 09:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【浙江宁波：酒店、饭店、餐馆恢复包厢和堂食服务】浙江宁波发布疫情防控最新通知：由于疫情防控形势总体平稳向好，全市酒店、饭店、餐馆恢复包厢和堂食服务。住宅小区继续加强外来人员管理，入口处严格落实规范佩戴口罩、测温、扫场所码和行程码核验等措施。上门入户服务人员（不住家保姆、家政保洁维修人员、装修工等）需核查48小时内核酸阴性证明。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2368245.d.html</link>
+            <guid>2633785</guid>
+            <pubDate>Sun, 17 Apr 2022 08:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国载人航天办公室：明年计划发射我国首个大型空间巡天望远镜】4月17日下午3时，国务院新闻办公室举行新闻发布会介绍中国空间站建造进展情况。据介绍，明年我们计划发射我国首个大型空间巡天望远镜，开展广域巡天观测，将在宇宙结构形成和演化、暗物质和暗能量、系外行星与太阳系天体等方面开展前沿科学研究，有望取得一批重大创新成果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2368116.d.html</link>
+            <guid>2633784</guid>
+            <pubDate>Sun, 17 Apr 2022 08:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯报告新增10263例新冠肺炎确诊病例，新增233例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4812708.d.html</link>
+            <guid>2633783</guid>
+            <pubDate>Sun, 17 Apr 2022 08:55:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神十四神十五航天员乘组已选定】中国载人航天工程航天员系统总设计师、中国航天员科研训练中心研究员黄伟芬介绍，目前神舟十四号和神舟十五号航天员乘组已选定，他们的身心状态非常好，正在积极开展相关训练和准备。两个乘组都将在轨6个月，首次实行在轨乘组轮换，两个乘组6名航天员将共同在轨驻留5到10天。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4811998.d.html</link>
+            <guid>2633782</guid>
+            <pubDate>Sun, 17 Apr 2022 08:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉基：欧盟可以比预想更快降低对俄罗斯能源的依赖。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2366522.d.html</link>
+            <guid>2633781</guid>
+            <pubDate>Sun, 17 Apr 2022 08:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉基：意大利削减对俄罗斯能源依赖的速度超过了此前的预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4811440.d.html</link>
+            <guid>2633780</guid>
+            <pubDate>Sun, 17 Apr 2022 08:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯国防部：来自63个国家的6824名外国雇佣兵进入乌克兰】俄罗斯国防部当地时间17日表示，自特别军事行动以来，有来自63个国家的共6824名外国雇佣兵进入乌克兰。其中来自波兰的人数最多，有1717人。约有1500名雇佣兵来自美国、加拿大和罗马尼亚，来自英国和格鲁吉亚的分别有300多人，约有193人来自土耳其控制的叙利亚地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2366003.d.html</link>
+            <guid>2633779</guid>
+            <pubDate>Sun, 17 Apr 2022 08:42:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4月16日，北京市丰台区新增1例确诊病例，为集中隔离管理的密接人员，已转至定点医院。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2365846.d.html</link>
+            <guid>2633778</guid>
+            <pubDate>Sun, 17 Apr 2022 08:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【迈为股份：信实工业拟向新加坡迈为采购太阳能异质结电池生产设备整线8条】迈为股份公告，信实工业拟向新加坡迈为采购太阳能异质结电池生产设备整线8条，产能为600MW/条，共4.8GW，其采购总额超过公司2021年度经审计营业收入的50%，未达到100%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2365393.d.html</link>
+            <guid>2633777</guid>
+            <pubDate>Sun, 17 Apr 2022 08:38:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：中国香港报告新增747例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4810035.d.html</link>
+            <guid>2633776</guid>
+            <pubDate>Sun, 17 Apr 2022 08:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国载人航天工程办公室：疫情不会影响空间站建造计划】中国载人航天工程办公室主任郝淳介绍，目前看，工程研制进度总体受控，不会影响空间站建造计划。中国空间站计划实施的投资规模总体适中，一直保持着与国家经济社会发展总体水平相适应的节奏。总体看，载人航天工程走出了一条符合中国国情、投入较少、发展较快、成果较多、可持续的、富有中国特色的发展道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4810026.d.html</link>
+            <guid>2633775</guid>
+            <pubDate>Sun, 17 Apr 2022 08:36:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【九安医疗：美国ACC再向公司美国子公司支付货款共计4.11亿美元】九安医疗披露美国子公司日常经营重大合同进展：美国ACC再向公司美国子公司支付货款共计4.11亿美元，约合人民币26.23亿元。美国ACC已经累计向公司美国子公司支付货款15.21亿美元，约合人民币97.15亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4809071.d.html</link>
+            <guid>2633774</guid>
+            <pubDate>Sun, 17 Apr 2022 08:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利港口从4月17日起禁止俄船只进港】意大利港口管理局指挥部发布通告称，“从当地时间4月17日开始，意大利所有港口禁止俄罗斯船只进港。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4808643.d.html</link>
+            <guid>2633773</guid>
+            <pubDate>Sun, 17 Apr 2022 08:25:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【龙腾光电：2021年净利润同比增长247.47%】龙腾光电发布2021年年报称，实现营业收入57.33亿元，同比增长30.81%；归属于上市公司股东的净利润9.11亿元，同比增长247.47%；归属于上市公司股东的扣除非经常性损益的净利润8.72亿元，同比增长284.23%；基本每股收益0.273元，拟每10股派发现金红利人民币0.278元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2363458.d.html</link>
+            <guid>2633772</guid>
+            <pubDate>Sun, 17 Apr 2022 08:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中信建投：静待U型底部构筑 短期仍有挑战】中信建投策略发文表示，我们认为市场处于中期U型底构筑期，短期依然面临一些挑战和压力。基调和配置上以观望和防御为主，具体行业关注：银行、农业、公用事业、地产链、CXO、军工等。疫情是当前重要问题，我们认为强力的经济刺激政策的出台必须建立在疫情好转，供应链恢复的基础之上。在一些主要城市、道路处于封控状态，供应链断裂的背景下，经济刺激政策很难真正发挥效果。因此，在疫情好转之前，其对经济政策重点和节奏也会有所影响。而此次降准无论幅度大小可能都不会成为新一轮行情的“发令枪”，市场磨底期大概率仍将持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4808361.d.html</link>
+            <guid>2633771</guid>
+            <pubDate>Sun, 17 Apr 2022 08:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【瑞联新材：2021年度净利润同比增长36.7% 拟10派17元】瑞联新材发布2021年年度报告，实现营业收入15.26亿元，同比增长45.35%；归属于上市公司股东的净利润2.40亿元，同比增长36.70%；归属于上市公司股东的扣除非经常性损益的净利润2.14亿元，同比增长32.98%；基本每股收益3.42元，拟每10股派发现金红利17元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4808103.d.html</link>
+            <guid>2633770</guid>
+            <pubDate>Sun, 17 Apr 2022 08:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卡塔尔旅游业复苏 今年一季度游客量同比增长700%】卡塔尔旅游局公布的数据显示，该国2022年第一季度入境游客数量达31.6万人次，比去年同期增长700%。在新冠肺炎疫情暴发之前，卡塔尔全年的入境游客数量曾达到210万人次，2021年骤降到61万人次。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4807708.d.html</link>
+            <guid>2633769</guid>
+            <pubDate>Sun, 17 Apr 2022 08:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部称，随着特别军事行动的开始，基辅吸引了63个国家的6824名外国雇佣军到乌克兰，其中大部分来自波兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4807431.d.html</link>
+            <guid>2633768</guid>
+            <pubDate>Sun, 17 Apr 2022 08:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄方截听到“基辅不让投降”】据俄罗斯卫星网报道，俄罗斯国家防御指挥中心负责人米哈伊尔·米津采夫上将表示，在马里乌波尔亚速钢铁厂被包围的民族主义团体武装分子和外国雇佣兵陷入绝境，几乎没有食物和水，他们要求基辅方面允许其放下武器并投降，但遭到拒绝。米津采夫补充称，“他们坚持要求基辅当局允许其放下武器并且投降。同时，乌克兰当局代表禁止这样做，并威胁根据‘战时’条款随后枪毙处决。”]]></title>
+            <guid>2633767</guid>
+            <pubDate>Sun, 17 Apr 2022 08:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部称，在解救被纳粹扣押在马里乌波尔一座清真寺中的人质行动中，29名武装分子被消灭，包括外国武装分子。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2361975.d.html</link>
+            <guid>2633766</guid>
+            <pubDate>Sun, 17 Apr 2022 08:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【陈时中预测台湾新冠感染者或超百万 柯文哲：应该会有700万人确诊】台湾地区流行疫情指挥中心指挥官陈时中日前预测，岛内新冠肺炎感染者累计可能会超过百万例。台北市长柯文哲17日则称，实际感染者应该会有700万人之多。台湾地区流行疫情指挥中心17日公布的数据显示，台湾地区新增1210例本土病例，再现疫情以来新高，系连续第3天新增本土确诊病例超1000例。 (海外网)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4806949.d.html</link>
+            <guid>2633765</guid>
+            <pubDate>Sun, 17 Apr 2022 08:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【乌克兰副总理：乌方未能与俄方就停止在撤离路线上开火达成协议】乌克兰副总理韦列修克在社交媒体表示，乌方未能与俄方就停止在撤离路线上开火达成协议。17日，乌克兰方面没有开放人道主义走廊。她表示将尽一切努力使人道主义走廊尽快恢复运作。韦列修克还表示，乌方正在要求俄方通过适当的国际机构为从马里乌波尔疏散受伤的士兵开放一条特别通道。俄罗斯方面对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4806563.d.html</link>
+            <guid>2633764</guid>
+            <pubDate>Sun, 17 Apr 2022 08:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【鲁西化工：筹划发行股份购买鲁西集团100%股权】鲁西化工公告，公司正在筹划发行股份购买鲁西集团有限公司（简称“鲁西集团”）100%股权暨关联交易事项，公司股票4月18日起开始停牌，公司债券“18鲁西01”不停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4806037.d.html</link>
+            <guid>2633763</guid>
+            <pubDate>Sun, 17 Apr 2022 08:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈萨克斯坦将限制小麦和面粉出口】 当地时间4月17日，哈萨克斯坦农业部发布消息表示，该部制定了至6月15日前限制该国小麦和面粉出口的命令，相关文件已开始进行国家注册程序并有待执行。根据该命令的规定，在6月15日前，该国小麦和面粉的出口将严格实施出口配额制。其中小麦和混合麦（小麦与黑麦混合物）出口配额为100万吨，小麦粉或小麦黑麦混合粉出口配额为30万吨。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4805239.d.html</link>
+            <guid>2633761</guid>
+            <pubDate>Sun, 17 Apr 2022 08:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【神思电子：筹划控制权变更事项 18日起停牌】神思电子公告，公司控股股东山东神思科技投资有限公司正在筹划股份转让事宜，拟向济南能源环保科技有限公司（简称“能源环保”）转让公司16.6%-17.1%的股份，若该事项达成将导致公司控股股东、实控人变更。能源环保所属行业为新能源技术推广服务。此次交易尚需济南市国资委等部门事前审批。公司股票4月18日起停牌，预计停牌不超2个交易日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4804909.d.html</link>
+            <guid>2633760</guid>
+            <pubDate>Sun, 17 Apr 2022 07:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【沃格光电：与中麒光电共同签订《战略合作协议》】沃格光电公告，与中麒光电共同签订《战略合作协议》。中麒光电在未来五年内向公司采购质量合格且符合中麒光电要求的玻璃基板的金额不少于人民币8亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2359590.d.html</link>
+            <guid>2633759</guid>
+            <pubDate>Sun, 17 Apr 2022 07:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【时代中国回应退出多个广州旧改项目：正沟通新的推进解决方案】一份广州时代控股集团有限公司《关于恳请支持旧改项目退出的报告》的文件截图在业界流传。报告中指出，时代中国在广州市公开招商的旧村改造项目中，已获取9个旧村项目的合作身份，“近期，因受多方位政策叠加调控，房地产企业融资渠道受限，项目销售回款显著下滑，严重影响我司现金流稳定性，而旧改项目沉淀我司大量资金，为顺利度过当前阶段性困难，恳请市政府支持企业纾困解难。”时代中国对此表示，当城市更新政策和市场环境发生变化和调整时，公司会因应变化定期对存量城市更新项目进行审视及调整。针对近期广州市及下属各区城市更新政策及计划的修正及变动，公司积极与政府相关部门就个别项目事宜沟通新的推进解决方案，是正常的企业经营行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4804441.d.html</link>
+            <guid>2633758</guid>
+            <pubDate>Sun, 17 Apr 2022 07:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印尼巴布亚省亚彭群岛发生5.8级地震】据印尼气象、气候及地球物理局报告，当地时间4月17日12时49分，印尼巴布亚省的亚彭群岛（南纬1.24度，东经137.04度）发生5.8级地震，震源深度11公里。据悉，此次地震没有引发海啸的可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4804214.d.html</link>
+            <guid>2633757</guid>
+            <pubDate>Sun, 17 Apr 2022 07:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯方面表示，俄方用高精度导弹摧毁了基辅地区的弹药厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2359173.d.html</link>
+            <guid>2633756</guid>
+            <pubDate>Sun, 17 Apr 2022 07:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据央视新闻：问天实验舱和梦天实验舱在地面的研制进展顺利。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4803677.d.html</link>
+            <guid>2633755</guid>
+            <pubDate>Sun, 17 Apr 2022 07:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金浦钛业：子公司徐州钛白恢复生产】金浦钛业公告，根据徐州市新冠肺炎疫情防控指挥部疫情防控通告，并经上级政府部门批准，公司子公司徐州钛白自4月15日起有序逐步实现复工、复产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2358770.d.html</link>
+            <guid>2633754</guid>
+            <pubDate>Sun, 17 Apr 2022 07:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基辅方面表示，暂停从乌克兰东部撤离平民。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4803120.d.html</link>
+            <guid>2633753</guid>
+            <pubDate>Sun, 17 Apr 2022 07:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟发表声明称，将增加5000万欧元为乌克兰提供人道主义援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2357895.d.html</link>
+            <guid>2633752</guid>
+            <pubDate>Sun, 17 Apr 2022 07:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【士兰微：一季度净利同比预增50%到70%】士兰微公告，预计一季度净利润与上年同期相比，将增加8685.50万元到1.22亿元，同比增加50%到70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4802241.d.html</link>
+            <guid>2633751</guid>
+            <pubDate>Sun, 17 Apr 2022 07:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南非望远镜探测到50亿光年外强烈微波】南非射电望远镜捕捉到宇宙深空一道强烈的微波，距离地球50亿光年。天文学称它为巨脉泽。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2357214.d.html</link>
+            <guid>2633750</guid>
+            <pubDate>Sun, 17 Apr 2022 07:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本共同社：日本内阁支持率下跌1.4个百分点至58.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2356826.d.html</link>
+            <guid>2633749</guid>
+            <pubDate>Sun, 17 Apr 2022 07:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本共同社：大约69%的日本人表示他们的生活受到物价上涨的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4801527.d.html</link>
+            <guid>2633748</guid>
+            <pubDate>Sun, 17 Apr 2022 07:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【郑秉文：现在是大力发展养老金的有利窗口期】中国社科院世界社保研究中心主任郑秉文在2022清华五道口全球金融论坛上表示，应对人口老龄化，要大力发展养老金，养老金对金融、经济的影响是很正向的。现在是大力发展养老金的有利窗口期。郑秉文表示，第二支柱是企业补充养老保险，由企业主主导，没有受雇于企业主的人群就无法享受到这个福利待遇。而广大的灵活就业人员和自由职业者就无法加入第二支柱。所以，第三支柱的覆盖面要大于第二支柱，这就是我国努力建设第三支柱养老金的一个重要原因。郑秉文认为，经济增长需要土地、资本、劳动三要素，现在劳动力稀缺、土地稀缺，资金、资本稀缺，长期资本更稀缺。养老金是长期资本，发展养老金也有助于经济发展。“养老金还能助力资本市场繁荣。一是可以增加手握长期资金的机构投资者；二是能提供长期股权资本。”郑秉文表示。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2356007.d.html</link>
+            <guid>2633747</guid>
+            <pubDate>Sun, 17 Apr 2022 07:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑秉文：中国的老龄化是非常快的，预计到2035年65岁人口超过20%】2022清华五道口全球金融论坛15日至17日召开，全国政协委员，中国社科院世界社保研究中心主任郑秉文指出，中国的老龄化是非常快的，预计到2035年我国65岁人口将超过20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4800269.d.html</link>
+            <guid>2633746</guid>
+            <pubDate>Sun, 17 Apr 2022 07:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国军方周日报告新增新冠肺炎确诊病例1224例，现役军人确诊病例总数达到117425例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4799586.d.html</link>
+            <guid>2633745</guid>
+            <pubDate>Sun, 17 Apr 2022 07:20:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【央视新闻联播画面摆拍？是金山区超市4月15日真实画面】今日上午，不少网友给上海辟谣平台留言，询问4月16日央视新闻联播中关于“上海坚持动态清零，做好生活物资供应”报道中的画面是否真实。有网友质疑，画面是否是“群演”“摆拍”？针对以上疑问，经上海辟谣平台了解，该画面由金山区融媒体中心提供，反映的是4月15日金山区超市的真实情况。金山社会面已接近清零，目前正按照“三区”管理要求保障市民生活供应。 (上海辟谣平台)]]></title>
             <guid>2633744</guid>
@@ -168,440 +605,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2345947.d.html</link>
             <guid>2633718</guid>
             <pubDate>Sun, 17 Apr 2022 06:07:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：印尼Biak地区发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4790109.d.html</link>
-            <guid>2633717</guid>
-            <pubDate>Sun, 17 Apr 2022 06:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[综合CTV新闻、阿纳多卢通讯社消息，当地时间16日，加拿大多伦多地区一清真寺发生枪击事件，造成5人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4789397.d.html</link>
-            <guid>2633716</guid>
-            <pubDate>Sun, 17 Apr 2022 05:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏高邮发现一例核酸检测初筛阳性人员】高邮市2022年4月17日凌晨在“应检尽检”重点人群定期筛查中发现一例核酸检测初筛阳性人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4789180.d.html</link>
-            <guid>2633715</guid>
-            <pubDate>Sun, 17 Apr 2022 05:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国军事情报机构：俄罗斯正致力于迫使乌克兰放弃依靠欧洲和西方国家，并维护自己的地区主导地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2344332.d.html</link>
-            <guid>2633714</guid>
-            <pubDate>Sun, 17 Apr 2022 05:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国军事情报机构：俄罗斯炮兵继续袭击乌克兰东部的各个据点，俄罗斯计划在那里重新展开进攻活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4788914.d.html</link>
-            <guid>2633713</guid>
-            <pubDate>Sun, 17 Apr 2022 05:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国军事情报机构：俄罗斯部队继续从白俄罗斯向乌克兰东部部署战斗支持设备，部署地点包括哈尔科夫。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4788896.d.html</link>
-            <guid>2633712</guid>
-            <pubDate>Sun, 17 Apr 2022 05:51:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法官称马斯克“私有化特斯拉”推文明知故犯】据报道，4月17日，因马斯克在2018年发布对特斯拉私有化的推文，特斯拉股东对其提起了集体诉讼，并赢得了关键裁决，这可能会导致特斯拉和马斯克面临数十亿美元的赔偿金。起诉者认为，由于马斯克发布“虚假推文”，特斯拉股价大幅波动，导致投资者受损。特斯拉股东公布的法庭文件显示，本案的主审法官爱德华・M・陈表示，“任何理性的陪审团都不会认为马斯克2018年8月7日的推文准确或不具有误导性”。爱德华・M・陈裁定，马斯克明知故犯。媒体报道称，如果马斯克对于这项裁决不上诉，将使他在5月底的陪审团审判中处于不利地位。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4788805.d.html</link>
-            <guid>2633711</guid>
-            <pubDate>Sun, 17 Apr 2022 05:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下周将有52只股票面临解禁 合计解禁市值为615.71亿元】Wind数据显示，除将上市的新股外，下周将有52只股票面临解禁，合计解禁量为33.25亿股，按最新收盘价计算，合计解禁市值为615.71亿元，环比增长26.22%。其中，天味食品、立昂微、东兴证券、华恒生物将解禁金额超40亿元，商络电子、天味食品、兴瑞科技、博亚精工、华恒生物、霍莱沃、信安世纪、百龙创园流通盘将增加超100%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2343456.d.html</link>
-            <guid>2633710</guid>
-            <pubDate>Sun, 17 Apr 2022 05:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国家杜马主席：泽连斯基关于俄乌谈判的言论是缓兵之计】当地时间4月17日，俄罗斯国家杜马（议会下院）主席沃洛金表示，乌克兰总统泽连斯基关于俄乌谈判的言论是缓兵之计，其意图是为向北约寻求军事援助争取时间。沃洛金说，泽连斯基要做的是快速从顿巴斯地区撤军以及不加入结盟组织等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2343095.d.html</link>
-            <guid>2633709</guid>
-            <pubDate>Sun, 17 Apr 2022 05:39:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东青岛新增1例本土确诊病例及18例本土无症状感染者】据山东青岛市卫生健康委员会通报，4月17日0时至12时，青岛市报告新增本土确诊病例1例，系城阳区报告。新增本土无症状感染者18例，均为城阳区报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4787670.d.html</link>
-            <guid>2633708</guid>
-            <pubDate>Sun, 17 Apr 2022 05:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列警方再次袭击阿克萨清真寺】综合美联社、《中东之眼》消息，当地时间17日，以色列警方再次袭击了位于耶路撒冷老城的圣殿山（穆斯林称“尊贵禁地”）的阿克萨清真寺，系48小时内第二次袭击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4787392.d.html</link>
-            <guid>2633707</guid>
-            <pubDate>Sun, 17 Apr 2022 05:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五部门发文要求增强社会职业健康意识】国家卫生健康委、 民政部等五部门近日联合印发《关于开展2022年<职业病防治法>宣传周活动的通知》。通知要求有效落实“防、治、管、教、建”五字策略，强化党委政府、部门、用人单位和劳动者个人四方责任，进一步增强全社会职业健康意识，有效提高劳动者健康水平。 据悉，2022年4月25日至5月1日是第20个《职业病防治法》宣传周，今年的活动主题是“一切为了劳动者健康”。 通知指出，鉴于近期新冠肺炎疫情防控形势复杂，今年宣传周活动采用线上活动为主，线上线下相结合的方式，原则上不举办大规模的线下活动，有条件的地方和企业可结合防疫要求，适当开展线下宣传活动。各地要紧密结合实际，围绕《职业病防治法》颁布实施20周年、贯彻实施《国家职业病防治规划（2021-2025年）》、推进职业健康保护行动等内容开展宣传活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2342538.d.html</link>
-            <guid>2633706</guid>
-            <pubDate>Sun, 17 Apr 2022 05:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上港集团：目前上海港的危险货物集装箱可正常接卸】上港集团发布公告，4月14日起，上港集团已自主选择执行最新版国家标准（GB16994.3-2021)，释放了8类、9类固态危险货物集装箱在码头内的堆存能力。目前上海港的危险货物集装箱可正常接卸。在此，上港集团鼓励广大客户加快进口提箱的速度，帮助港区提高堆场周转率；同时也可采取船边直提作业方式，更快提离危险货物集装箱。]]></title>
-            <guid>2633705</guid>
-            <pubDate>Sun, 17 Apr 2022 05:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原中国保监会副主席周延礼：金融监管部门正研究养老储蓄产品试点方案】全国政协委员、原中国保监会副主席周延礼17日在参加2022清华五道口全球金融论坛时称，特定养老储蓄产品要适合低风险偏好的人群，充分体现养老属性，鼓励居民长期持有。存取方式灵活，可满足存款人个性化、差异化需求。“现在做储蓄受到一定局限性，比如一年期，就要求一年期内不能动，但在这一段时间如果养老需求方面出现问题，养老储蓄服务可以采取存取灵活的方式，来解决养老人群的养老需求问题。金融监管部门也正在研究养老储蓄产品试点方案，将实时稳步启动一些试点工作。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4785901.d.html</link>
-            <guid>2633704</guid>
-            <pubDate>Sun, 17 Apr 2022 05:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上港集团：目前上海港的危险货物集装箱可正常接卸】上港集团官方微信公众号4月17日发布公告，4月14日起，上港集团已自主选择执行最新版国家标准（GB16994.3-2021)，释放了8类、9类固态危险货物集装箱在码头内的堆存能力。目前上海港的危险货物集装箱可正常接卸。在此，上港集团鼓励广大客户加快进口提箱的速度，帮助港区提高堆场周转率；同时也可采取船边直提作业方式，更快提离危险货物集装箱。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2340461.d.html</link>
-            <guid>2633703</guid>
-            <pubDate>Sun, 17 Apr 2022 05:12:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外汇局宣昌能：应持续推动多边机制发挥作用】国家外汇管理局副局长宣昌能4月17日在2022清华五道口全球金融论坛上表示，世界正经历百年未有之大变局，全球经济治理与金融合作面临许多挑战，应持续推动多边机制发挥作用。宣昌能强调，在当前纷繁复杂的国际环境下，面对去全球化和单边主义，我国将坚定不移深化改革，扩大高水平对外开放，积极推进市场化、法治化、国际化发展，加快形成国际国内双循环相互促进的新发展格局，并将继续致力于维护和践行真正的多边主义，积极倡导国际合作，推动构建开放型世界经济，为全球经济复苏、维护稳定贡献建设性力量。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2340000.d.html</link>
-            <guid>2633702</guid>
-            <pubDate>Sun, 17 Apr 2022 05:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行副总裁：德国通胀存在飙升至10%的风险】德意志银行副总裁Karl von Rohr接受《法兰克福汇报》采访时预计，今年德国通胀年率将达到7-8%，若能源进口受限，通胀甚至可能达到10%或以上。他警告说，德国需要为通胀升至上世纪70年代以来的最高水平做好准备。今年3月，德国通胀年率达到创纪录的7.3%。《法兰克福汇报》民调显示，超过半数的德国人不支持立即禁止进口俄罗斯石油和天然气。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2339890.d.html</link>
-            <guid>2633701</guid>
-            <pubDate>Sun, 17 Apr 2022 05:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海呼吁符合条件的老年人尽快接种疫苗】4月17日举行的上海市新冠肺炎疫情防控新闻发布会上，上海市卫生健康委主任邬惊雷说，截至4月15日，上海60岁及以上人群新冠疫苗全程接种率62%，完成加强针的为38%。根据研究和监测显示，奥密克戎变异株对于老年人、尤其是没有接种疫苗和有慢性基础性疾病的老年人有非常大的危害，接种疫苗虽然不能完全阻断病毒传播，但是对防止重症和死亡的效果仍然非常显著。如果常规服药的慢性病人群，不是在急性发作期，或者病情控制良好、处于稳定期，可以接种疫苗，建议符合条件的老年人在小区解封、附近的接种点开放后尽快接种疫苗，全程接种满6个月后尽快加强接种，以产生更好的效果。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4784421.d.html</link>
-            <guid>2633700</guid>
-            <pubDate>Sun, 17 Apr 2022 05:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家外汇管理局副局长：有关国家出台的制裁措施对全球经济金融体系带来新冲击】国家外汇管理局副局长宣昌能17日参加2022清华五道口全球金融论坛时表示，近期全球地缘政治形势紧张，有关国家出台的制裁措施对全球经济金融体系带来了新的冲击，加剧了全球高通胀、供应链紧张、粮食短缺等不利局面，第三世界国家人民面临的困难尤其严重，全球经济金融治理面临新挑战。他认为，短期看，制裁发起国或有所获益，但全球经济金融治理体系受到这种冲击之后，各国会开始反思潜在的风险并考虑替代方案，长期来说对制裁发起国也会带来不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2339735.d.html</link>
-            <guid>2633699</guid>
-            <pubDate>Sun, 17 Apr 2022 05:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印媒：印度决定取消48架俄直升机购买计划，网友猜受到“美国压力”】《今日印度》16日消息称，印度空军决定取消从俄罗斯购买48架Mi-17V5直升机的计划。该媒体给出的理由是，为了支持总理莫迪国防计划中的“印度制造”倡议，并援引印度政府高层人士的话强调“与全球局势无关”。但在这则报道下，仍有不少网友猜测，这是因为印度受到了“美国压力”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2339338.d.html</link>
-            <guid>2633698</guid>
-            <pubDate>Sun, 17 Apr 2022 05:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周延礼：调动多元市场主体参与养老金融服务，提供长期养老保险业务】2022清华五道口全球金融论坛15日至17日召开，全国政协经济委员会委员，原中国保监会党委副书记、副主席周延礼指出，在推进发展第三支柱养老保障的相关工作中，要积极试点，不断总结推广经验，力争通过示范引领，为养老金融发展探索出一条新路。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4783639.d.html</link>
-            <guid>2633697</guid>
-            <pubDate>Sun, 17 Apr 2022 04:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄敦促亚速钢铁厂内人员投降，公布行动方案和时间线】俄罗斯媒体报道称，在俄罗斯国防部敦促亚速钢铁厂内的乌方武装人员和外籍雇佣兵投降后，俄方在当地时间4月17日凌晨，公布了具体行动方案和时间安排。此前，顿涅茨克武装领导人曾表示，亚速钢铁厂建于苏联时期，结构复杂，地下交通网络庞大且十分发达，部分区域还可抵御核打击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4783121.d.html</link>
-            <guid>2633696</guid>
-            <pubDate>Sun, 17 Apr 2022 04:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因给袭击“莫斯科”号提供指引 俄要摧毁“星链”卫星？梅德韦杰夫回应】因为可能参与袭击“莫斯科”号导弹巡洋舰，俄计划摧毁马斯克SpaceX公司的“星链”卫星？16日，一则这样的消息出现在印度媒体上。报道称，这是俄执政党“统一俄罗斯党”主席梅德韦杰夫透露的。当天，梅德韦杰夫就此做出回应，证实这是一条假消息，但表示“这是个新颖主意”，会研究一下。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4781823.d.html</link>
-            <guid>2633695</guid>
-            <pubDate>Sun, 17 Apr 2022 04:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【被传缺货断供进口奶粉市场价格上涨 乳企回应称进口正常】近期国内部分地区的进口奶粉价格出现上涨，也引发了宝妈们的担忧，市场也有传言称，由于上海和广东等地也是奶粉的主要通关口岸，受疫情影响，进口奶粉将出现大面积断货。从多家乳企了解到，疫情对于通关和物流运力时效稍有延误，但奶粉进口和仓库供应一切正常。 (第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4781471.d.html</link>
-            <guid>2633694</guid>
-            <pubDate>Sun, 17 Apr 2022 04:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国检察总长请辞反对剥夺检方侦查权】韩联社4月17日报道，韩国检察总长金浯洙17日发表谈话，反对执政党共同民主党推进完全剥夺检方侦查权的法案，并提出辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2336812.d.html</link>
-            <guid>2633693</guid>
-            <pubDate>Sun, 17 Apr 2022 04:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【4月18日0时起山东烟台全面恢复社会生产生活秩序】山东烟台市委统筹疫情防控和经济运行工作领导小组（指挥部）4月17日发布《关于全面恢复社会生产生活秩序的通告》。通告指出，截至4月17日，烟台市已连续28天实现“社会面清零”，疫情防控形势总体平稳可控。经综合研判，烟台市委统筹疫情防控和经济运行工作领导小组（指挥部）决定，在从严落实各项常态化疫情防控措施的基础上，自2022年4月18日0时起，烟台市全面恢复社会生产生活秩序。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2336071.d.html</link>
-            <guid>2633692</guid>
-            <pubDate>Sun, 17 Apr 2022 04:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周小川回应数字货币“五问”：科技公司想参与，就不能耍小聪明】“2022清华五道口全球金融论坛”于15日至17日举行，中国金融学会会长、中国央行原行长周小川在出席论坛时回应了外界对数字货币的五大热点问题，并特别强调，科技公司若想参与数字货币或支付系统，就要向高标准靠拢，不能耍小聪明。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4780423.d.html</link>
-            <guid>2633691</guid>
-            <pubDate>Sun, 17 Apr 2022 04:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国副总理重申不会立即对俄实施天然气禁运：否则将威胁到德国社会和平】当地时间16日，德国联邦副总理兼经济部长罗伯特·哈贝克（Robert Habeck）重申，不会立即对俄罗斯实施天然气禁运。据俄罗斯塔斯社报道，哈贝克16日在接受德国冯克媒体集团采访时表示，立即封锁俄罗斯天然气将威胁到德国社会和平。他认为，德国需要谨慎行事，在采取行动之前要做好充分准备。哈贝克同时强调，德国政府在减少对俄天然气和煤炭供应依赖方面已经取得了很大进展。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4780250.d.html</link>
-            <guid>2633690</guid>
-            <pubDate>Sun, 17 Apr 2022 04:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古赤峰新增1例新冠肺炎确诊病例】内蒙古自治区赤峰市松山区2022年4月16日在对集中隔离人员核酸检测中，发现1名新冠病毒核酸检测初筛阳性人员。经赤峰市疾控中心复核、专家组会诊研判，4月17日确定为新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4780061.d.html</link>
-            <guid>2633689</guid>
-            <pubDate>Sun, 17 Apr 2022 04:22:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海2人伪造防疫车辆通行证送货牟利，被警方抓获】疫情防控期间，两男子竟借疫情防控封控之机打起了如意算盘，为了一己私欲，伪造防疫车辆通行证获取通行便利在外送货赚取不义之财。近日，上海青浦警方细致梳理、精准研判，成功抓获2名伪造防疫车辆通行证的犯罪嫌疑人，并依法对其采取刑事强制措施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2335263.d.html</link>
-            <guid>2633688</guid>
-            <pubDate>Sun, 17 Apr 2022 04:21:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据当地媒体报道，乌克兰首都基辅传出爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4779360.d.html</link>
-            <guid>2633687</guid>
-            <pubDate>Sun, 17 Apr 2022 04:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：在对赫尔松港警察局长住所的搜查中，发现了一个装有秘密文件、榴弹和无线电台的密室。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4779346.d.html</link>
-            <guid>2633686</guid>
-            <pubDate>Sun, 17 Apr 2022 04:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一图看懂丨为何高频次反复核酸筛查？如何防止配送小哥带疫送单？上海发布会回应。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4779327.d.html</link>
-            <guid>2633685</guid>
-            <pubDate>Sun, 17 Apr 2022 04:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄卫星通讯社掌握的文件显示，乌克兰国家安全局通过赫尔松港警察局长招募国土防御部队成员，以便在俄军后方进行破坏活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2333855.d.html</link>
-            <guid>2633684</guid>
-            <pubDate>Sun, 17 Apr 2022 04:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄海军总司令会见莫斯科号船员】俄罗斯海军总司令叶夫梅诺夫上将和黑海舰队司令部官员在塞瓦斯托波尔会见“莫斯科”号导弹巡洋舰船员。叶夫梅诺夫表示，海军军官、海军准尉及合同兵将继续在海军服役，义务兵正常退役。“莫斯科”号导弹巡洋舰的传统将被珍藏和延续。（央视军事）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4778004.d.html</link>
-            <guid>2633683</guid>
-            <pubDate>Sun, 17 Apr 2022 04:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家外汇管理局副局长宣昌能：中国将坚持开放和践行多边主义】2022清华五道口全球金融论坛15日至17日召开，国家外汇管理局副局长、党组成员宣昌能指出，当前全球经济金融治理体系面临挑战，中国将坚持开放和践行多边主义。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2332427.d.html</link>
-            <guid>2633682</guid>
-            <pubDate>Sun, 17 Apr 2022 03:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东：预计下周在上海的履约订单量总体达到疫情前的80%】4月17日，记者从京东获悉，京东4月15日在上海完成配送的订单数量较上一日提升67%，已达到疫情前日均量的43%。随着京东调集的增援力量陆续到位，以及在上海市政府的大力帮助下，京东运力将进一步得到补充，预计17日将恢复到疫情前的60%、下周将总体达到80%左右；但鉴于上海各街道社区状态不一，具体地区的履约订单量可能存在一定的不均衡现象，但总体履约量将明显提升。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4776454.d.html</link>
-            <guid>2633681</guid>
-            <pubDate>Sun, 17 Apr 2022 03:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【佳木斯两高风险区调整为中风险区，黑龙江高风险区清零】根据国务院联防联控机制有关规定，经专家组综合评估研判，佳木斯市汤原县应对新冠肺炎疫情工作领导小组指挥部研究决定，自4月17日12时起，佳木斯市汤原县阳光河畔小区、东湖城小区由高风险区调整为中风险区，其它地区风险等级不变。截至4月17日12时，全县无高风险区。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2331267.d.html</link>
-            <guid>2633680</guid>
-            <pubDate>Sun, 17 Apr 2022 03:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海发放2900多张蔬菜保供通行证，蔬菜企业复工率75%。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2330575.d.html</link>
-            <guid>2633679</guid>
-            <pubDate>Sun, 17 Apr 2022 03:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至4月17日，印度累计新冠肺炎确诊病例为4304万例。印度新冠肺炎死亡病例上升至521751例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2330017.d.html</link>
-            <guid>2633678</guid>
-            <pubDate>Sun, 17 Apr 2022 03:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【推动基础设施公募REITs发展 肖钢提三方面建议】“2022清华五道口全球金融论坛”于此间在京举行，全国政协委员、证监会原主席肖钢在出席论坛时称，自基础设施公募REITs正式上市交易以来，市场运行整体平稳，取得了显著成效，受到市场广泛认可，试点项目的示范效应良好。他表示，应看到，由于中国公募REITs处于扩大试点阶段，需要深入总结实践经验，并提出三方面建议以推动其健康发展。第一，研究修订相关法律或制订单独的法规。第二，优化运行机制。第三，加强投资者教育。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4774404.d.html</link>
-            <guid>2633677</guid>
-            <pubDate>Sun, 17 Apr 2022 03:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉林省有序关闭定点医院及方舱医院】吉林省政府4月17日上午召开本轮疫情防控工作第38场新闻发布会。会上介绍，吉林省指导长春、吉林两市做好方舱医院撤舱合并工作，关心关爱医护人员，加强心理疏导，合理安排调休。继续加强方舱医院巡查工作，现场对存在的问题及隐患提出整改意见。下一步，吉林省巩固社会面清零工作成果。指导各地完善区域核酸检测组织管理，统筹协调核酸检测力量，保障长春、吉林两市企业复工复产。有序关闭定点医院及方舱医院，释放更多医疗资源，保障正常诊疗服务。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4774166.d.html</link>
-            <guid>2633676</guid>
-            <pubDate>Sun, 17 Apr 2022 03:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【网传上海外卖配送小哥出现多例抗原阳性，如何防止带疫送单？】 上海市政府新闻发言人尹欣回应，上海市防控办已经下发工作方案，明确对相关城市保供人员的检测要求，实行2+2核酸检测及抗原检测，即两日内第一日开展2次抗原检测，第二日开展一次抗原检测和一次核酸检测，这样循环下去。如果检测阳性，不如实上报，还带疫送单，破坏疫情防控管理，引发传播风险的，将被依法追究法律责任。（上观新闻）]]></title>
-            <guid>2633675</guid>
-            <pubDate>Sun, 17 Apr 2022 03:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肖钢：要构建一整套适应REITs特点的制度规范】在16日举办的2022清华五道口全球金融论坛上，肖钢提到，由于我国公募REITs处于扩大试点阶段，需要深入总结实践经验，进一步研究完善相关法规，优化运行机制，加强投资者教育，推动公募REITs行稳致远。肖钢建议，研究修订公募REITs相关法律或制订单独的法规；优化运行机制；加强投资者教育。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4773152.d.html</link>
-            <guid>2633674</guid>
-            <pubDate>Sun, 17 Apr 2022 03:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市卫健委回应：封控期间 儿童接种疫苗的时间到了怎么办？】上海举行本市疫情防控工作新闻发布会，会上，上海市卫生健康委主任邬惊雷表示，在疫苗接种的问题上，如果没有特殊情况，应该按时接种，这是最佳状况。有些疫苗是不能延迟接种的，例如犬咬伤患者，应立即前往本市犬伤处置门诊规范处置，不建议延迟。新生儿首剂乙肝疫苗和卡介苗接种服务也由各医院产科确保按时接种。有些市民看到接种门诊医生提供的小孩疫苗的预约日期要到了，比较担心。这个预约日期一般是基于接种程序、接种间隔要求以及门诊的开诊时间，由免疫接种门诊预约的最早接种日期。即便晚于这个日期，通常属于推荐接种年龄的范围，不会影响疫苗效果，不必过于担心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4772555.d.html</link>
-            <guid>2633673</guid>
-            <pubDate>Sun, 17 Apr 2022 03:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国央行：韩国的高通胀可能会持续下去。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4772275.d.html</link>
-            <guid>2633672</guid>
-            <pubDate>Sun, 17 Apr 2022 03:22:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据杭州市新冠肺炎疫情防控指挥部通报：4月17日0—11时，杭州新增1例新冠病毒无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2326810.d.html</link>
-            <guid>2633671</guid>
-            <pubDate>Sun, 17 Apr 2022 03:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：快递员实行“2+2”核酸及抗原检测】上海市政府新闻发言人尹欣表示，昨天上海网络辟谣平台对这个传闻进行了澄清。快递员、配送员是我们城市保供的重要力量，很辛苦。同时，因为流动性大，也是高风险岗位人群。市防控办已经下发工作方案，明确对相关城市保供人员的检测要求，实行2+2核酸检测及抗原检测，即两日内第一日开展2次抗原检测，第二日开展一次抗原检测和一次核酸检测，这样循环下去。如果检测阳性，不如实上报，还带疫送单，破坏疫情防控管理，引发传播风险的，将被依法追究法律责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2326313.d.html</link>
-            <guid>2633669</guid>
-            <pubDate>Sun, 17 Apr 2022 03:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：抢种蔬菜面积达8万多亩 绿叶菜占5.8万亩】上海举行本市疫情防控工作新闻发布会，会上，上海市农业农村委副主任陆峥嵘表示，根据统计，最近一个月来，全市已经抢种蔬菜面积8万多亩，其中绿叶菜面积5.8万亩。到目前为止，全市在田蔬菜量达到26.4万亩，其中绿叶菜在田面积量已达15万亩，这个量基本与往年持平。目前全市849家有规模的蔬菜生产企业当中已经有667家开始复工复产，复产率达到78.6%，复工率达到75%。4月15日以来，地产绿叶菜的日均上市量已恢复到2000吨以上，比较稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2326025.d.html</link>
-            <guid>2633668</guid>
-            <pubDate>Sun, 17 Apr 2022 03:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海60岁及以上人群完成新冠疫苗加强免疫接种达218万人 接种率38%】上海举行本市疫情防控工作新闻发布会，上海市卫生健康委主任邬惊雷表示，截至4月15日，上海市60岁及以上人群的新冠疫苗完成全程接种的近360万人，接种率62%；完成加强免疫接种的218万人，接种率38%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4770581.d.html</link>
-            <guid>2633667</guid>
-            <pubDate>Sun, 17 Apr 2022 03:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福彩客服回应上海网点停销却冒出百万大奖】自4月1日起上海福彩全市代销网点就已暂停销售和兑奖，4月13日却有一注七乐彩头奖花落上海，此事引发网友关注。后续，有媒体援引福彩客服的话称，上海地区这位中奖者系通过短信投注。中新财经联系了福彩官网客服，得到回应，“各地对电话、短信投注政策并不一致，目前只有两个地方可以通过电话或短信投注，分别为辽宁省和上海市。”（中新财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2325382.d.html</link>
-            <guid>2633666</guid>
-            <pubDate>Sun, 17 Apr 2022 03:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉林：严格按照标准科学有序放开管控 坚决做到解封不解防】吉林省政府4月17日上午召开本轮疫情防控工作第38场新闻发布会，介绍疫情防控工作最新进展。会上介绍，持续抓好流调排查，加强集中隔离点闭环管理，严防交叉感染、疫情外溢。坚持分区分级分类分策，细化落实社会面和社区防控措施，严格按照标准科学有序放开管控，坚决做到解封不解防。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4770095.d.html</link>
-            <guid>2633665</guid>
-            <pubDate>Sun, 17 Apr 2022 03:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东物流：在全国调集3246人增援上海 正全力解决住宿问题】京东物流在全国范围内招募并调集共计3246名快递小哥、分拣员等一线抗疫保供人员在一周内前往上海增援，目前绝大多数已抵达上海。京东物流华东分公司上海HR负责人表示，公司正在全力解决住宿问题，部分抵沪小哥已入住酒店、宿舍、公寓等，同时准备了行军床、帐篷、睡袋等，但目前酒店等可入住资源仍然紧缺。京东物流会充分保障好所有小哥及货物的防疫安全，配备充足的防护服、N95口罩、面罩、手套、消毒液等防疫物资。并且会严格执行防护消杀措施，所有工作人员每日进行核酸检测及抗原检测，持核酸阴性证明上岗，并做好全流程、多频次消杀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4769952.d.html</link>
-            <guid>2633664</guid>
-            <pubDate>Sun, 17 Apr 2022 03:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青海西宁新增6名核酸检测阳性人员】青海西宁市新冠肺炎疫情防控处置工作指挥部发布通告：4月17日9时，西宁市新增6名新冠肺炎病毒核酸检测阳性人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2324076.d.html</link>
-            <guid>2633663</guid>
-            <pubDate>Sun, 17 Apr 2022 03:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克新增1084例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4768766.d.html</link>
-            <guid>2633662</guid>
-            <pubDate>Sun, 17 Apr 2022 03:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新纶新材：有机硅领域自主研发申请专利技术21项】新纶新材在互动平台表示，公司从事有机硅材料研究超15年，自主研发申请专利技术21项。公司的有机硅光学材料主要应用于现有LCD显示屏行业的全贴合有机硅OCR、光学结构粘接胶；柔性显示行业的柔性折叠全贴合OCR、UTG补强高硬度有机硅光学材料、铰链填充透明光学材料；LED透明柔性屏行业的有机硅柔性光学材料；面向MiniLED显示行业的有机硅光学保护材料、分区围坝胶、透镜成型光学材料等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4768707.d.html</link>
-            <guid>2633661</guid>
-            <pubDate>Sun, 17 Apr 2022 03:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中原信托有限公司党委书记、董事长赵卫华接受纪律审查和监察调查】据河南省纪委监委消息：中原信托有限公司党委书记、董事长赵卫华涉嫌严重违纪违法，目前正接受河南省纪委监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2323012.d.html</link>
-            <guid>2633660</guid>
-            <pubDate>Sun, 17 Apr 2022 02:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海专家：为什么高频次的重复的检测？主要有三个原因】上海举行本市疫情防控工作新闻发布会上，上海中医药大学附属岳阳医院检验实验中心主任高春芳表示，高频次的重复多次的检测非常有必要。为什么高频次的重复的检测？主要有以下三个原因：第一，从临床疾病发生、发展规律来说，任何病原体感染都具有一定的潜伏期，新冠也不例外，且潜伏期长短存在一定个体差异。第二，从检测技术来说，有检测窗口期的概念。病毒感染后在体内有一个增长复制过程，感染初期病毒载量太低，低于检测下限，阳性是无法发现的，这个时间段就是检测窗口期。以上感染潜伏期+检测窗口期，使得在感染初期不一定能够检测到阳性结果，反复多次检测，可以增加阳性发现几率，及时发现阳性。第三，由于呼吸道病原体的采样主要采用咽拭子、鼻拭子、鼻+咽拭子几种形式， 取样过程不可避免地存在一定取样差异。这种差异包括采样部位、深浅、采集的分泌物量的多少等。因此重复多次采样检测可弥补采样误差可能带来的假阴性影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2322274.d.html</link>
-            <guid>2633659</guid>
-            <pubDate>Sun, 17 Apr 2022 02:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏盐城：进口冷链食品集中监管仓正式建成并投入运行】江苏盐城今日（4月17日）发布关于进一步加强进口冷链食品疫情防控工作的通告。从即日起，盐城市进口冷链食品集中监管仓（以下简称市监管仓）正式建成并投入运行，仓址位于亭湖区宝瓶湖街道庆丰村9组。市监管仓启用后，滨海县监管仓转为备用仓。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4766362.d.html</link>
-            <guid>2633658</guid>
-            <pubDate>Sun, 17 Apr 2022 02:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国南卡罗来纳州一蜡像馆发生枪击事件 致1人受伤】当地时间4月16日，美国南卡罗来纳州默特尔比奇（Myrtle Beach）好莱坞蜡像馆发生一起枪击事件，造成一人受伤。当地警方表示，当天20时有人在好莱坞蜡像馆遭枪击受伤，伤者目前已在接受治疗。警方正在现场调查，枪手身份和下落尚不清楚。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4765946.d.html</link>
-            <guid>2633657</guid>
-            <pubDate>Sun, 17 Apr 2022 02:41:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海：目前有重症病例16例，只有1例全程接种疫苗，其余均未打过新冠疫苗。（北京日报）]]></title>
-            <guid>2633656</guid>
-            <pubDate>Sun, 17 Apr 2022 02:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚周六新增9705例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4764162.d.html</link>
-            <guid>2633655</guid>
-            <pubDate>Sun, 17 Apr 2022 02:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：对重症患者实行“一人一方案”诊疗】今天（17日）上午，上海市举行疫情防控工作新闻发布会，上海市卫生健康委主任邬惊雷就重症病例的救治情况做了通报。目前上海有重型病例16例，最小1例33岁，其他都是70岁以上的老年人，这16例当中，只有1例是全程接种疫苗的，其他都没有接种过新冠肺炎病毒疫苗。对于这些患者，按照“一人一方案”的原则，增配救治力量，特别要开展多学科的会诊，多学科的联合治疗，特别是针对这些患者伴有严重基础性疾病的特点，所以在积极治疗新冠肺炎的同时，比如说一些小分子药物、中医特色的药物、汤剂等，同时可能还要比如加强氧供，甚至要用呼吸机，还有体外膜肺共同形成一个优势互补，来共同治疗，加速病毒转阴。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2319100.d.html</link>
-            <guid>2633654</guid>
-            <pubDate>Sun, 17 Apr 2022 02:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海以核酸筛查为主、辅以抗原筛查，继续实施全员检测筛查】4月17日上午10:00，上海举行新冠肺炎疫情防控新闻发布会，市卫生健康委主任邬惊雷、市农业农村委副主任陆峥嵘、岳阳医院检验实验中心主任高春芳介绍本市疫情防控最新情况。市卫生健康委主任邬惊雷介绍，昨天，全市本土确诊病例出院373例，无症状感染者解除集中隔离医学观察10337例，他们将返回居住地接受健康监测。我们要坚定不移执行“动态清零”总方针，全力推进疫情社会面清零攻坚。我们聚焦重点、分区分级，实施核酸筛查为主、辅以抗原筛查的方式，对封控区、管控区、防范区的人员实施全员检测筛查，并将依据阶段性筛查结果，动态调整“三区”划定，努力用最短时间实现社会面清零目标。（上观新闻）]]></title>
-            <guid>2633653</guid>
-            <pubDate>Sun, 17 Apr 2022 02:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：在风险人群中发现的阳性感染者比例在下降】上海举行本市疫情防控工作新闻发布会，会上，上海市卫生健康委主任邬惊雷介绍道，4月16日，我市新增3238例新冠肺炎本土确诊病例和21582例本土无症状感染者。3238例本土确诊病例中，1754例在闭环隔离管控中发现，307例在相关风险人群核酸筛查中发现，1177例为无症状感染者转归确诊病例，所以今天实际新增确诊病例为2061例，实际确诊感染者是2061例，前面117原来是在总人数。21582例本土无症状感染者中，21167例在闭环隔离管控中发现，415例在相关风险人群核酸筛查中发现。“大家可以发现，在风险人群中发现的阳性感染者比例在下降。这两天发现的阳性感染者人数依然处于高位，但相对维持稳定。”邬惊雷表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2317978.d.html</link>
-            <guid>2633652</guid>
-            <pubDate>Sun, 17 Apr 2022 02:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【邬惊雷：坚定不移执行“动态清零”总方针 全力推进疫情社会面清零攻坚】上海举行疫情防控发布会，会上，上海市卫生健康委主任邬惊雷介绍，我们要坚定不移执行“动态清零”总方针，全力推进疫情社会面清零攻坚。我们聚焦重点、分区分级，实施核酸筛查为主、辅以抗原筛查的方式，对封控区、管控区、防范区的人员实施全员检测筛查，并将依据阶段性筛查结果，动态调整“三区”划定，努力用最短时间实现社会面清零目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2317515.d.html</link>
-            <guid>2633651</guid>
-            <pubDate>Sun, 17 Apr 2022 02:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海累计排查在沪密接者340106人 均已落实管控】今天举行的上海市疫情防控新闻发布会上介绍，截至4月17日9时，这次疫情全市已累计排查到在沪密切接触者340106人，均已落实管控，其中286683人核酸检测结果为阴性，其余正在检测中。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2317330.d.html</link>
-            <guid>2633650</guid>
-            <pubDate>Sun, 17 Apr 2022 02:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：昨日373例本土病例出院 10337例解除隔离】今天（17日）举行的上海市疫情防控新闻发布会上介绍，昨天上海全市有373例本土病例出院，10337例解除集中隔离医学观察，他们都将返回到居住地接受健康监测。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4761611.d.html</link>
-            <guid>2633649</guid>
-            <pubDate>Sun, 17 Apr 2022 02:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：风险人群中发现的感染者比例在下降，整体维持高位稳定】4月17日上午10:00，上海举行第156场疫情防控工作新闻发布会，市卫生健康委主任邬惊雷介绍，4月16日，上海新增3238例新冠肺炎本土确诊病例和21582例本土无症状感染者。3238例本土确诊病例中，1754例在闭环隔离管控中发现,307例在相关风险人群核酸筛查中发现,1177例为无症状感染者转归确诊病例，所以今天实际新增确诊病例为2061例。21582例本土无症状感染者中，21167例在闭环隔离管控中发现，415例在相关风险人群核酸筛查中发现。大家可以发现，在风险人群中发现的阳性感染者比例在下降。这两天发现的阳性感染者人数依然处于高位，但相对维持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2316900.d.html</link>
-            <guid>2633648</guid>
-            <pubDate>Sun, 17 Apr 2022 02:15:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相将于下周访问印度】英国政府消息称，英国首相约翰逊将于4月21日抵达艾哈迈达巴德，对印度进行为期两天的访问，并与印度总理莫迪进行深入会谈，这是其担任英国首相以来首次访问印度。英国政府强调，英国正利用脱欧后与印度的贸易机会，来压低关键大宗商品的价格，双方将公布对关键行业进行重大投资的公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2316333.d.html</link>
-            <guid>2633647</guid>
-            <pubDate>Sun, 17 Apr 2022 02:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上汽集团：18日开始进行复工复产压力测试】受到疫情的影响，上汽集团在3月中下旬在上海的工厂进行了闭环生产，4月份部分工厂陆续停工。从上汽集团了解到，明天开始，也就是4月18日将启动复工复产压力测试。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2315664.d.html</link>
-            <guid>2633646</guid>
-            <pubDate>Sun, 17 Apr 2022 02:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西藏自治区日喀则市原市长刘虎山被查】据中央纪委国家监委网站消息，西藏自治区日喀则市原市委副书记、市长刘虎山涉嫌严重违纪违法，主动投案，目前正在接受西藏自治区纪委监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwiwst2315189.d.html</link>
-            <guid>2633645</guid>
-            <pubDate>Sun, 17 Apr 2022 02:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基：乌方准备就乌拒绝加入北约和克里米亚地位问题同俄罗斯谈判】当地时间17日，乌克兰总统泽连斯基在接受网络媒体采访时表示，乌方准备就乌拒绝加入北约和克里米亚地位问题同俄罗斯进行谈判，但前提是俄方停止军事行动以及其武装力量从乌领土撤离。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-17/detail-imcwipii4758320.d.html</link>
-            <guid>2633642</guid>
-            <pubDate>Sun, 17 Apr 2022 01:56:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
