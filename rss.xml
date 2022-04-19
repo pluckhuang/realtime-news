@@ -4,13 +4,281 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 19 Apr 2022 16:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 19:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美联储埃文斯：如果我们看不到通胀率下降，我们将把利率提高到中性点以上。]]></title>
+            <title><![CDATA[美联储埃文斯表示，今年年底之前无法对通胀压力是否减轻做出判断。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2846247.d.html</link>
+            <guid>2636850</guid>
+            <pubDate>Tue, 19 Apr 2022 18:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储埃文斯：支持美联储今年内加息225个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2845775.d.html</link>
+            <guid>2636843</guid>
+            <pubDate>Tue, 19 Apr 2022 18:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统顾问：俄罗斯正在用反地堡炸弹袭击在马里乌波尔的亚速钢厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2845731.d.html</link>
+            <guid>2636842</guid>
+            <pubDate>Tue, 19 Apr 2022 18:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部颁发通用许可证，允许受制裁的人员、金融机构进行与俄罗斯和乌克兰非政府组织活动有关的某些交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5290647.d.html</link>
+            <guid>2636841</guid>
+            <pubDate>Tue, 19 Apr 2022 18:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌副总理：19日乌克兰没有开通的人道主义走廊】乌克兰副总理韦列修克当地时间19日表示，由于乌俄双方没有达成相关协议，当天乌克兰没有可以开通的人道主义走廊。她表示，顿巴斯地区的炮击事件依然密集，乌克兰计划在马里乌波尔开设的人道主义走廊当天不会开通，而关于在赫尔松州和哈尔科夫州的两处待开放的人道主义走廊能否开通的问题，目前仍处在艰难谈判的进程中。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5290617.d.html</link>
+            <guid>2636840</guid>
+            <pubDate>Tue, 19 Apr 2022 18:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 5月原油期货收跌跌5.65美元，跌幅5.22%，报102.56美元/桶。NYMEX 5月天然气期货收跌8.23%，报7.1760美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2844668.d.html</link>
+            <guid>2636820</guid>
+            <pubDate>Tue, 19 Apr 2022 18:34:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2205合约夜盘收跌4.56%，报670.10元人民币/桶。沪金夜盘收跌1.06%，报402.20元；沪银收跌2.23%，报5172元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5289457.d.html</link>
+            <guid>2636818</guid>
+            <pubDate>Tue, 19 Apr 2022 18:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：拜登与11位领导人就俄乌局势进行了通话】 当地时间4月19日，美国白宫新闻发言人普萨基表示，美国总统拜登当日与11位领导人就俄乌局势进行了通话，各方重申将继续向乌克兰提供安全、经济和人道主义援助。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2843333.d.html</link>
+            <guid>2636804</guid>
+            <pubDate>Tue, 19 Apr 2022 18:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2年期和5年期国债收益率升至日高，分别报2.577%和2.889%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5288261.d.html</link>
+            <guid>2636803</guid>
+            <pubDate>Tue, 19 Apr 2022 18:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：菲律宾LUKATAN东南方100公里处发生5.0级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5288233.d.html</link>
+            <guid>2636802</guid>
+            <pubDate>Tue, 19 Apr 2022 18:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：当地媒体称，美国路易斯安那州巴克斯代尔空军基地的气井爆炸造成人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2843243.d.html</link>
+            <guid>2636801</guid>
+            <pubDate>Tue, 19 Apr 2022 18:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰外长：停战无法通过谈判达成】 据乌克兰媒体报道，乌克兰外长库列巴19日接受采访时表示，俄乌冲突将在战场上决定，而不是在谈判桌上，他强调这个问题不能通过外交谈判来解决。此前，乌克兰总统泽连斯基曾表示，无论如何谈判都会继续。但在最近一次发言中，泽连斯基称，如果俄方消灭马里乌波尔的乌方守军，谈判就将画上句号。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5288164.d.html</link>
+            <guid>2636800</guid>
+            <pubDate>Tue, 19 Apr 2022 18:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特短线下挫，现跌近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2842719.d.html</link>
+            <guid>2636786</guid>
+            <pubDate>Tue, 19 Apr 2022 18:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部发言人科纳申科夫通报称，俄空天军战术航空队一天摧毁了31个乌克兰军事目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5286407.d.html</link>
+            <guid>2636775</guid>
+            <pubDate>Tue, 19 Apr 2022 18:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年一季度，上海市外贸进出口总值超1万亿元】 从上海海关获悉，据上海海关统计，今年一季度，上海市实现进出口总值1.01万亿元人民币，比去年同期增长14.6%。其中，出口4135.4亿元，增长23.8%；进口5943.7亿元，增长8.9%；贸易逆差1808.3亿元，收窄14.6%。主要呈现以下特点：一般贸易方式进出口占五成以上，外商投资企业进出口占六成以上，对欧盟出口增长较快，汽车、手机、锂离子蓄电池出口成倍增长，部分大宗商品进口增长较快。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5286382.d.html</link>
+            <guid>2636774</guid>
+            <pubDate>Tue, 19 Apr 2022 18:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（4月19日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.14%，报360.25欧元/吨。油菜籽期货涨0.32%，报863.00欧元/吨。]]></title>
+            <guid>2636773</guid>
+            <pubDate>Tue, 19 Apr 2022 18:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 6月黄金期货收跌幅1.4%，报1959美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2840380.d.html</link>
+            <guid>2636770</guid>
+            <pubDate>Tue, 19 Apr 2022 17:49:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF突破0.95，日内涨0.64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5285316.d.html</link>
+            <guid>2636765</guid>
+            <pubDate>Tue, 19 Apr 2022 17:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其总统与以色列总统通电话 讨论巴以局势】土耳其总统埃尔多安当地时间19日与以色列总统赫尔佐格通电话。土耳其总统埃尔多安在通话后表示，双方讨论了地区问题和双边关系。埃尔多安称，他强调在这个敏感时期，不应允许对阿克萨清真寺进行挑衅和威胁的行为。土耳其将继续努力确保地区的和平与安宁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2840361.d.html</link>
+            <guid>2636764</guid>
+            <pubDate>Tue, 19 Apr 2022 17:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4月19日23时15分，青海西宁市新增12名新冠肺炎病毒核酸检测阳性人员；新增1名由无症状感染者转为确诊病例人员。（央视新闻）]]></title>
+            <guid>2636755</guid>
+            <pubDate>Tue, 19 Apr 2022 17:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：本周可能会对俄罗斯实施新的制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5284386.d.html</link>
+            <guid>2636754</guid>
+            <pubDate>Tue, 19 Apr 2022 17:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大两年期国债收益率涨至2.5%，创2008年以来新高，投资者关注欧美央行的货币政策前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5284340.d.html</link>
+            <guid>2636753</guid>
+            <pubDate>Tue, 19 Apr 2022 17:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美官员：美国新一轮援助乌克兰的物资抵达欧洲】 当地时间4月19日，美国国防部一位高级官员表示，一架载有提供给乌克兰安全援助物资的航班18日已抵达欧洲，这是美国对乌克兰8亿美元额外援助计划的一部分。该官员还称，预计还有7架载有援助物资的航班将在未来24小时内抵达欧洲。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2839481.d.html</link>
+            <guid>2636752</guid>
+            <pubDate>Tue, 19 Apr 2022 17:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美官员：美国正以“前所未有”的速度向乌克兰运送武器】一位美国高级国防官员当地时间19日表示，美国正以“前所未有”的速度向乌克兰运送武器。该官员称，过去美国向其他国家运送军事设备的过程需要数周或数月，而现在只需48小时至72小时。自俄乌冲突爆发以来，美国政府已授权向乌克兰提供价值23亿美元的武器和设备，此外还向乌克兰提供了3亿美元的安全援助，帮助乌克兰向制造商购买武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2837899.d.html</link>
+            <guid>2636737</guid>
+            <pubDate>Tue, 19 Apr 2022 17:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国政府将避免与俄罗斯在G20会议的部分场合共同出现。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5282438.d.html</link>
+            <guid>2636731</guid>
+            <pubDate>Tue, 19 Apr 2022 17:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯针对部分出口商放宽售汇方面的强制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2837299.d.html</link>
+            <guid>2636730</guid>
+            <pubDate>Tue, 19 Apr 2022 17:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储周二（4月19日）逆回购工具使用规模为1.817万亿美元，逼近3月31日的水平——1.872万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5282092.d.html</link>
+            <guid>2636729</guid>
+            <pubDate>Tue, 19 Apr 2022 17:16:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯央行表示，除大宗商品和能源行业外，放宽俄罗斯出口企业外汇管制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5281578.d.html</link>
+            <guid>2636718</guid>
+            <pubDate>Tue, 19 Apr 2022 17:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马斯克已利用摩根士丹利通过传统的杠杆收购方式，对TWITTER再融资100亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2836417.d.html</link>
+            <guid>2636717</guid>
+            <pubDate>Tue, 19 Apr 2022 17:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国官员称，法国愿意为乌克兰提供安全保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2835777.d.html</link>
+            <guid>2636710</guid>
+            <pubDate>Tue, 19 Apr 2022 17:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间19日，俄罗斯克里姆林宫发布消息称，亚美尼亚总理帕希尼扬邀请普京访问亚美尼亚，参加集体安全条约组织（集安组织）下半年举行的委员会会议，普京接受了邀请。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2835768.d.html</link>
+            <guid>2636709</guid>
+            <pubDate>Tue, 19 Apr 2022 17:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收跌0.83%，沪铜收跌0.77%，沪铝收跌1.11%，沪锌收跌0.10%，沪铅收跌0.61%，沪镍收跌0.72%，沪锡收涨0.44%。不锈钢夜盘收跌0.89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2835460.d.html</link>
+            <guid>2636707</guid>
+            <pubDate>Tue, 19 Apr 2022 17:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞士央行主席称，当汇价太强对通胀有负面影响时，会采取干预措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2835331.d.html</link>
+            <guid>2636706</guid>
+            <pubDate>Tue, 19 Apr 2022 16:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收跌10美元，报10304美元/吨。LME期铝收跌24美元，报3261美元/吨。LME期锌收涨86美元，报4498美元/吨。LME期铅收涨12美元，报2448美元/吨。LME期镍收涨593美元，报33768美元/吨。LME期锡收涨47美元，报43090美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2835192.d.html</link>
+            <guid>2636705</guid>
+            <pubDate>Tue, 19 Apr 2022 16:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特一度小幅拉升，现接近转涨，此前跌近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5279769.d.html</link>
+            <guid>2636704</guid>
+            <pubDate>Tue, 19 Apr 2022 16:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃隆·马斯克计划在10天左右的时间内对推特(TWTR.N)发起收购要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5279536.d.html</link>
+            <guid>2636703</guid>
+            <pubDate>Tue, 19 Apr 2022 16:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会主席冯德莱恩将访问印度】 印度外交部当地时间19日发布消息称，欧盟委员会主席冯德莱恩将于4月24日至25日对印度进行为期两天的正式访问。访印期间，冯德莱恩将与印度总理莫迪进行双边会谈，此外她还将与印度总统科温德会面。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5279004.d.html</link>
+            <guid>2636701</guid>
+            <pubDate>Tue, 19 Apr 2022 16:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储埃文斯表示，如果到12月达到2.25%-2.5%的利率，将能够看到通胀水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5278805.d.html</link>
+            <guid>2636700</guid>
+            <pubDate>Tue, 19 Apr 2022 16:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃隆·马斯克愿意投入100亿-150亿美元的自有现金来竞购推特。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2833662.d.html</link>
+            <guid>2636699</guid>
+            <pubDate>Tue, 19 Apr 2022 16:43:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞士央行行长乔丹，对瑞士物价稳定的最大影响来自能源价格和供应链问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2833379.d.html</link>
+            <guid>2636698</guid>
+            <pubDate>Tue, 19 Apr 2022 16:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士央行行长乔丹：瑞士通胀预期得到很好的锚定。预计消费者行为方式将发生一定程度上的变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5277956.d.html</link>
+            <guid>2636697</guid>
+            <pubDate>Tue, 19 Apr 2022 16:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“长三角重要物资应急保供中转站”完成首次货运交接】 4月18日，经浙江省、江苏省、上海市全力协同，长三角重要物资应急保供中转站（浙江—上海）正式投运。这批中转站将推动省际重要生产物资进站流通，打通长三角区域货运“血管”，实现产业链供应链物资跨区域互联。由上海市经信委牵头，上海市发改委等多个委办局与属地政府协同对接，上汽集团安吉物流有限公司承担建设与运营的中转站，首批共6个，目前已建成4个，其中上海2个，分别位于嘉定区、闵行区；浙江2个，分别位于杭州市、宁波市；江苏2个在建中。（上海经信委）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2832928.d.html</link>
+            <guid>2636696</guid>
+            <pubDate>Tue, 19 Apr 2022 16:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储埃文斯表示，美联储的资产负债表并不是一个积极的政策工具，一旦设定了每月950亿美元的缩表步伐，将不会通过利用它来管理政策，联邦基金利率将成为货币政策的主要工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5277808.d.html</link>
+            <guid>2636695</guid>
+            <pubDate>Tue, 19 Apr 2022 16:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【联合国秘书长呼吁在乌克兰实施人道主义停火】联合国秘书长古特雷斯当地时间4月19日就乌克兰局势发表讲话，呼吁从4月21日开始实施为期4天的人道主义停火，停火持续至4月24日，以便开放一系列人道主义走廊。古特雷斯表示，联合国已准备好在此期间向冲突地区提供人道主义援助，正向各方提交详细计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwiwst2832424.d.html</link>
+            <guid>2636694</guid>
+            <pubDate>Tue, 19 Apr 2022 16:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大宣布增加对俄公民的制裁名单】加拿大总理特鲁多当地时间4月19日宣布增加对俄罗斯公民的制裁名单，新增加的14名俄罗斯公民中，包括俄罗斯总统普京的两个女儿。加拿大外交部长梅兰妮·乔利当天宣布，加拿大根据《特别经济措施（俄罗斯）条例》对俄实施新的制裁。新的制裁名单中包括俄罗斯寡头和他们的家庭成员，也包括普京的两个女儿。截至目前，遭到加拿大制裁的俄罗斯公民已超过900人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5277133.d.html</link>
+            <guid>2636693</guid>
+            <pubDate>Tue, 19 Apr 2022 16:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国芝加哥联储主席埃文斯：如果美国物价未能回落，美联储可以加息至中性利率上方。希望美联储非常仔细地调整资产负债表规模。资产负债表不会是一种活跃的政策工具。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-20/detail-imcwipii5276475.d.html</link>
             <guid>2636692</guid>
             <pubDate>Tue, 19 Apr 2022 16:22:09 GMT</pubDate>
@@ -334,274 +602,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5271547.d.html</link>
             <guid>2636637</guid>
             <pubDate>Tue, 19 Apr 2022 15:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其国防部19日发布战报说，在伊拉克北部发起的代号为“爪锁”的越境打击行动中，土耳其军队打死至少26名库尔德工人党武装人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5271378.d.html</link>
-            <guid>2636636</guid>
-            <pubDate>Tue, 19 Apr 2022 15:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海三一已复工，预计本周恢复正常】据三一集团官微消息，三一重机上海临港产业园已复工，总体复工率接近20%，国内订单生产量已恢复到正常时期的30%左右，预计这个星期内可以恢复到正常生产水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5271064.d.html</link>
-            <guid>2636635</guid>
-            <pubDate>Tue, 19 Apr 2022 15:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行策略师Erik Nelson：新西兰元、加元和美元将在G-10货币中表现出色，因为这些国家的央行打算“相当快地”将利率提高到中性。除非出现重大避险走势，否则日元应该会在整个第二季度继续表现最差。欧洲央行加息可能会限制欧元/美元下行，而不是导致欧元上行。预计欧洲央行9月和12月各加息25个基点，明年上半年再加息50个基点。预计英国央行将在2022年再加息3次，每次加息25个基点。英国央行与美联储、加拿大央行和新西兰联储之间的这种对比使我们相对于其他‘加息’货币尤其看跌英镑”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5271037.d.html</link>
-            <guid>2636634</guid>
-            <pubDate>Tue, 19 Apr 2022 15:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丹麦能源部长：丹麦将在2030年前通过可再生能源取代天然气取暖，以摆脱俄罗斯的天然气供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5270896.d.html</link>
-            <guid>2636632</guid>
-            <pubDate>Tue, 19 Apr 2022 15:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国银行重申对黄金的看涨观点，预计升至每盎司2175美元】 美国银行技术策略师Paul Ciana表示，该行重申2月以来看涨黄金的观点，预计金价未来将升至每盎司2,175美元。这一目标较周一收盘价高出9.9%，将创历史新高。Ciana在一份报告中说：“我们认为日线、周线和月线仍然预示今年金价上涨。”Ciana看到多头在1,940-1,950美元左右战术性逢低买入，在1,888美元左右中期投资买入；Ciana称，白银价格突破了看跌通道，也形成了看涨的楔形延续形态，“这预示白银价格将涨至接近每盎司30美元”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2825745.d.html</link>
-            <guid>2636631</guid>
-            <pubDate>Tue, 19 Apr 2022 15:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龚正在嘉定检查疫情防控工作：察看居民小区、医疗机构 要求全面攻坚清零目标】上海市委副书记、市长龚正4月19日在嘉定区检查疫情防控工作时指出，要深入贯彻落实习近平总书记重要指示精神，按照孙春兰副总理在上海调研指导疫情防控工作时提出的要求，按照市委部署，坚持“动态清零”总方针不动摇，不折不扣落实“四应四尽”各项工作，全力以赴救治重症、危重症患者，切实做好物资保供工作，全面攻坚社会面清零目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5270867.d.html</link>
-            <guid>2636630</guid>
-            <pubDate>Tue, 19 Apr 2022 15:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内跌幅收窄至4%，现报103.29美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2825201.d.html</link>
-            <guid>2636629</guid>
-            <pubDate>Tue, 19 Apr 2022 15:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元上涨1.5%，暂报128.90。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5270084.d.html</link>
-            <guid>2636628</guid>
-            <pubDate>Tue, 19 Apr 2022 15:03:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 据港交所文件：中亿基业控股有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5269854.d.html</link>
-            <guid>2636626</guid>
-            <pubDate>Tue, 19 Apr 2022 15:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西藏珠峰：2021年净利润7.2亿元 同比增2255.61%】西藏珠峰(600338)4月19日晚间披露年报，公司2021年实现营业收入为20.49亿元，同比增长80.88%；归母净利润7.2亿元，同比增长2255.61%；基本每股收益0.79元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2824749.d.html</link>
-            <guid>2636625</guid>
-            <pubDate>Tue, 19 Apr 2022 15:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹期货夜盘收涨0.39%，热卷收涨0.38%；铁矿石期货收跌1.31%。焦炭夜盘收跌2.38%，焦煤收跌2.28%，动力煤收跌0.99%。]]></title>
-            <guid>2636624</guid>
-            <pubDate>Tue, 19 Apr 2022 15:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF货币与资本市场部主任Adrian：IMF没有看到任何证据表明加密货币被用来逃避对俄制裁，但正在对此密切关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2824627.d.html</link>
-            <guid>2636623</guid>
-            <pubDate>Tue, 19 Apr 2022 15:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利报告新增27214例新冠肺炎确诊病例和127例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5269697.d.html</link>
-            <guid>2636622</guid>
-            <pubDate>Tue, 19 Apr 2022 14:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑州市新增5例新冠肺炎无症状感染者】据郑州发布，2022年4月18日22时至19日17时，郑州市发现5例新冠肺炎无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2824138.d.html</link>
-            <guid>2636620</guid>
-            <pubDate>Tue, 19 Apr 2022 14:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国房地产巨头房利美：预计美国经济明年将陷入衰退】美国房地产巨头房利美预计美国经济明年将出现衰退，将美国2022年的GDP增速预期小幅下调0.2个百分点至2.1%，将2023年的GDP增速预期从此前预计的2.2%下调至- 0.1%。最新预测包括2023年下半年出现温和衰退的预期，考虑到当前的工资增长和通胀速度，经济活动收缩是最可能达到美联储通胀目标的路径。它现在预计今年的房屋销售将下降7.4%，2023年将下降9.7%。房价增长将从第一季度的20%放缓至2023年第四季度的3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2824120.d.html</link>
-            <guid>2636619</guid>
-            <pubDate>Tue, 19 Apr 2022 14:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长林德纳在粮食峰会上表示，各国必须保持农业市场的开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2823809.d.html</link>
-            <guid>2636618</guid>
-            <pubDate>Tue, 19 Apr 2022 14:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈尔滨市两地调整为高风险地区】哈尔滨市指挥部决定，自2022年4月19日18时起，将哈尔滨市南岗区王岗镇、跃进街道全域调整为高风险地区。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268867.d.html</link>
-            <guid>2636617</guid>
-            <pubDate>Tue, 19 Apr 2022 14:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄财长：俄罗斯当局预计通胀将进一步放缓】俄罗斯财政部长安东•西卢安诺夫表示，俄罗斯当局预计通胀将进一步放缓，这将有助于降低经济领域的各种利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2823595.d.html</link>
-            <guid>2636616</guid>
-            <pubDate>Tue, 19 Apr 2022 14:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因海岬型船运价走低，波罗的海运价指数下跌1%】波罗的海干散货运价指数周二下跌22点或1%，至2115点。海岬型船运价指数下跌139点或9.4%，至1342点，为逾两个月以来最低水平。海岬型船日均获利减少1158美元，至11127美元。巴拿马型船运价指数上涨37点或1.21%，至3079点。巴拿马型船日均获利增加337美元，至27715美元。超灵便型船运价指数上涨44点，至2541点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268517.d.html</link>
-            <guid>2636615</guid>
-            <pubDate>Tue, 19 Apr 2022 14:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对许多国家和地区而言，通货膨胀已经成为一个明显而现实的危险。甚至在俄乌冲突之前，通胀就因商品价格上涨和供需失衡而飙升。美联储等中央银行已经开始收紧货币政策，而与战争有关的干扰放大了这些压力。IMF现在预计通胀将在更长时间内保持高位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2823328.d.html</link>
-            <guid>2636614</guid>
-            <pubDate>Tue, 19 Apr 2022 14:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯联邦安全会议新闻处发布消息称，俄罗斯与亚美尼亚签署了在保障信息安全领域合作的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2823256.d.html</link>
-            <guid>2636613</guid>
-            <pubDate>Tue, 19 Apr 2022 14:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF首席经济学家古林查斯：地缘局势危机是IMF最新经济展望中的重要主导因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268391.d.html</link>
-            <guid>2636612</guid>
-            <pubDate>Tue, 19 Apr 2022 14:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms(FB.O)对俄罗斯的禁令和被认定为极端组织提出上诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268344.d.html</link>
-            <guid>2636611</guid>
-            <pubDate>Tue, 19 Apr 2022 14:43:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大对俄罗斯政府的14名亲信实施新制裁，其中包括“寡头”及其家人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268319.d.html</link>
-            <guid>2636610</guid>
-            <pubDate>Tue, 19 Apr 2022 14:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒天然：4月19日全球乳品贸易（GDT）拍卖价格指数下降3.6%，奶粉各合同期FAS拍卖均价4,855美元/吨。批发奶粉价格指数下降4.4%，批发奶粉均价4,207美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268252.d.html</link>
-            <guid>2636609</guid>
-            <pubDate>Tue, 19 Apr 2022 14:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY走高逾10点，现报100.98，欧元兑美元EUR/USD下挫逾20点，现报1.0788。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268206.d.html</link>
-            <guid>2636608</guid>
-            <pubDate>Tue, 19 Apr 2022 14:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走低0.17美元，现报25.17美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5268187.d.html</link>
-            <guid>2636607</guid>
-            <pubDate>Tue, 19 Apr 2022 14:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫9美元，现报1951.76美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2823059.d.html</link>
-            <guid>2636606</guid>
-            <pubDate>Tue, 19 Apr 2022 14:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【牢牢锁定社会面清零攻坚行动目标 下定更大决心把防控工作抓实抓细抓到位 孙春兰在沪调研指导疫情防控工作】中共中央政治局委员、国务院副总理孙春兰4月18日至19日在上海调研指导疫情防控工作。孙春兰强调，要深入贯彻落实习近平总书记一系列重要指示精神，按照党中央、国务院决策部署，坚持“动态清零”总方针不犹豫不动摇，牢牢锁定社会面清零攻坚行动目标，下定更大决心把防控工作抓实抓细抓到位，确保实现“四应四尽”、日清日结，全力实现社会面清零目标。市委书记李强参加相关活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2822962.d.html</link>
-            <guid>2636605</guid>
-            <pubDate>Tue, 19 Apr 2022 14:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【半月4202亿元，各地加快落实大规模留抵退税政策】国家税务总局19日发布数据显示，自本月实施大规模留抵退税政策以来，4月1日至15日，已有4202亿元留抵退税款退到52.7万户纳税人的账户。记者采访发现，各地税务部门正加紧落实落细支持政策，确保更好惠及市场主体。国家税务总局相关负责人介绍，在已获得留抵退税的纳税人中，小微企业51万户，占比96.8%，涉及退税金额2422亿元，是政策最大的受益主体。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2822908.d.html</link>
-            <guid>2636604</guid>
-            <pubDate>Tue, 19 Apr 2022 14:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：除了不断加剧的债务危机之外，还存在粮食安全危机的问题，呼吁私营部门债权人加大参与债务重组的力度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2822862.d.html</link>
-            <guid>2636603</guid>
-            <pubDate>Tue, 19 Apr 2022 14:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄副外长：俄方敦促美国就不首先在外层空间部署武器条约进行建设性讨论】俄罗斯外交部副部长里亚布科夫表示，俄方敦促美国就不首先在外层空间部署武器条约进行建设性讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2822738.d.html</link>
-            <guid>2636602</guid>
-            <pubDate>Tue, 19 Apr 2022 14:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【163家上市公司盘后披露2021年年报 亚盛集团EPS超出星矿一致预期比例最高】截至22时，盘后两市有163家上市公司发布2021年年报，EPS超过星矿一致预期幅度最大的前七只个股分别为亚盛集团、杉杉股份、铜冠铜箔、日科化学、力诺特玻、四川九洲和可孚医疗。其中，现代规模农业的示范龙头企业亚盛集团年报EPS超出星矿一致预期的比例最高，达到269%；偏光片业务行业龙头杉杉股份排名第二，达到122%；国内主流铜箔厂商铜冠铜箔年报EPS超出星矿一致预期的幅度为40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267827.d.html</link>
-            <guid>2636601</guid>
-            <pubDate>Tue, 19 Apr 2022 14:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：银行在俄罗斯的间接风险敞口可能导致交易对手风险“急剧上升”。]]></title>
-            <guid>2636600</guid>
-            <pubDate>Tue, 19 Apr 2022 14:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：许多国家可能需要将利率提高到“远高于”中性水平，以对抗通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267406.d.html</link>
-            <guid>2636599</guid>
-            <pubDate>Tue, 19 Apr 2022 14:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际货币基金组织下调意大利GDP增长预期】当地时间4月19日，国际货币基金组织下调意大利2022年和2023年的国内生产总值（GDP）增长预期。IMF预计意大利2022年的GDP将增长2.3%，比1月份的预测下调1.5%。2023年意大利GDP预计增加1.7%，比原预计下调0.5%。意大利GDP增速将持续放缓，至2027年增速将降至0.5%。因对俄罗斯能源依赖性强，意大利和德国是IMF下调GDP增长幅度最大的两个欧元区国家。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2822247.d.html</link>
-            <guid>2636598</guid>
-            <pubDate>Tue, 19 Apr 2022 14:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯能源部：预计2022年迄今煤炭出口下滑9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267333.d.html</link>
-            <guid>2636597</guid>
-            <pubDate>Tue, 19 Apr 2022 14:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：新兴市场和前沿市场面临更为严峻的金融环境，投资组合外流的可能性更高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2822223.d.html</link>
-            <guid>2636596</guid>
-            <pubDate>Tue, 19 Apr 2022 14:34:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：随着冲突加剧，风险突然重新定价，再加上新冠大流行的脆弱性，可能导致资产价格“急剧下降”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwiwst2822199.d.html</link>
-            <guid>2636595</guid>
-            <pubDate>Tue, 19 Apr 2022 14:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：银行和非银行金融中介机构在俄罗斯的风险敞口可能通过金融系统传递风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267268.d.html</link>
-            <guid>2636594</guid>
-            <pubDate>Tue, 19 Apr 2022 14:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：银行对俄罗斯的间接风险敞口难以评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267246.d.html</link>
-            <guid>2636593</guid>
-            <pubDate>Tue, 19 Apr 2022 14:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为48，表明市场处在中性状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267242.d.html</link>
-            <guid>2636592</guid>
-            <pubDate>Tue, 19 Apr 2022 14:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：对俄制裁将“考验”全球金融体系的弹性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267227.d.html</link>
-            <guid>2636591</guid>
-            <pubDate>Tue, 19 Apr 2022 14:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF全球金融稳定报告：俄罗斯与乌克兰的军事行动将对全球经济复苏造成重大拖累。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267203.d.html</link>
-            <guid>2636590</guid>
-            <pubDate>Tue, 19 Apr 2022 14:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据佛山发布：4月20日零时起，取消“持48小时核酸阴性证明离佛”措施，市民群众凭健康码“绿码”出行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-19/detail-imcwipii5267171.d.html</link>
-            <guid>2636589</guid>
-            <pubDate>Tue, 19 Apr 2022 14:32:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
