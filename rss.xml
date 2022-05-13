@@ -4,11 +4,184 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 13 May 2022 16:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2022 19:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[推特CEO：预计（马斯克收购推特的）交易即将完成。我仍专注于自己的工作，将尝试带来更多的透明性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7301521.d.html</link>
+            <guid>2670994</guid>
+            <pubDate>Fri, 13 May 2022 19:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新型消费担纲牵引抓手，线上线下融合痛点待破解】 努力促进消费持续恢复，不仅要稳固消费基本盘，还要在全力保障消费供给、充分发挥适应防疫需要的新型消费优势上下大力气。围绕切实保障消费品流通不断不乱、促进新型消费、加快线上线下消费有机融合等方面，各部委纷纷出台政策予以支持。中银证券指出，疫情背景下，生活物资的即时配送需求将呈台阶式上升趋势。商务部研究院电子商务研究所副研究员洪勇表示，线上线下结合的场景成为未来经济发展的方向，但加快融合发展仍有不少难点和痛点亟待破解。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9744590.d.html</link>
+            <guid>2670992</guid>
+            <pubDate>Fri, 13 May 2022 18:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美原油期货收涨逾4%】WTI 6月原油期货收涨4.11%，报110.49美元/桶；布伦特7月原油期货收涨3.82%，报111.55美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7299278.d.html</link>
+            <guid>2670991</guid>
+            <pubDate>Fri, 13 May 2022 18:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【各路资金积极调仓布局 A股市场有望企稳反弹】经历了前期的震荡回调后，5月份以来A股市场逐步企稳。在此期间，大单资金、两融资金等辗转腾挪，忙着调仓换股，对A股进行积极布局。数据显示，5月份以来，截至5月13日，有1582只个股期间呈现大单资金净流入态势，占A股总数的32.91%，期间合计净流入额为295.83亿元。业内人士普遍认为，目前的A股市场，“政策底”不断夯实，短期“市场底”已基本形成，未来行情有望向中期反弹演变。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9743434.d.html</link>
+            <guid>2670990</guid>
+            <pubDate>Fri, 13 May 2022 18:35:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2206合约夜盘收涨3.03%，报711.10元人民币/桶。沪金夜盘收跌1.28%，报396.28元；沪银收跌0.06%，报4649元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7298057.d.html</link>
+            <guid>2670989</guid>
+            <pubDate>Fri, 13 May 2022 18:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【各路资金积极调仓布局，A股市场有望企稳反弹】 经历了前期的震荡回调后，5月份以来A股市场逐步企稳。在此期间，大单资金、两融资金等辗转腾挪，忙着调仓换股，对A股进行积极布局。数据显示，5月份以来，截至5月13日，有1582只个股期间呈现大单资金净流入态势，占A股总数的32.91%，期间合计净流入额为295.83亿元。业内人士普遍认为，目前的A股市场，“政策底”不断夯实，短期“市场底”已基本形成，未来行情有望向中期反弹演变。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7297835.d.html</link>
+            <guid>2670988</guid>
+            <pubDate>Fri, 13 May 2022 18:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【美联储梅斯特：9月是FOMC评估是否需要采取更多措施来抑制通胀的时候】美联储梅斯特表示，除非有一些大的意外，否则我预计在我们接下来的两次会议上每次都将政策利率再提高50个基点是合适的，到了9月，FOMC就应该评估是否需要采取更多措施来抑制通胀。如果到9月FOMC会议的时候，月度通胀数据提供了令人信服的证据，表明通胀正在下降，那么加息步伐可能会放缓，但如果通胀未能放缓，那么可能有必要加快加息步伐。梅斯特还重申，一旦美联储的资产负债表缩表计划已经顺利展开，美联储应该考虑出售其抵押贷款支持证券资产，以便其资产组合回归以美国国债为主]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7297661.d.html</link>
+            <guid>2670987</guid>
+            <pubDate>Fri, 13 May 2022 18:29:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数涨幅收窄至不足1.3%，曾一度涨超2.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9740853.d.html</link>
+            <guid>2670986</guid>
+            <pubDate>Fri, 13 May 2022 18:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（5月13日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.86%，报411.00欧元/吨，本周累涨5.25%。油菜籽期货涨3.09%，报874.75欧元/吨，本周累涨3.86%。]]></title>
+            <guid>2670985</guid>
+            <pubDate>Fri, 13 May 2022 18:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：5月10日当周，投机者所持布伦特原油净多头头寸下降2,459手合约，至160,632手合约。所持布伦特柴油净多头头寸下降2,815手合约，至79,880手合约，创最近大约16个月新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9739727.d.html</link>
+            <guid>2670984</guid>
+            <pubDate>Fri, 13 May 2022 17:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福清核电累计安全发电2000亿度】 中核集团中国核电旗下福清核电已累计安全发电2000亿度，相当于累计节约标准煤消耗6240万吨，减少二氧化碳排放1.6亿吨，减少二氧化硫排放50万吨，植树造林约14亿棵。相关负责人表示，福清核电6台机组总装机容量达667.8万千瓦，年发电能力超500亿千瓦时，成为目前国内在运装机容量最大的核电基地。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7293472.d.html</link>
+            <guid>2670983</guid>
+            <pubDate>Fri, 13 May 2022 17:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ COMEX 6月黄金期货收跌0.9%，报1808.20美元/盎司，创最近11个月最差单周表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7293363.d.html</link>
+            <guid>2670982</guid>
+            <pubDate>Fri, 13 May 2022 17:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：目前恢复伊朗核协议还远未确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7293047.d.html</link>
+            <guid>2670981</guid>
+            <pubDate>Fri, 13 May 2022 17:41:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase涨幅扩大至逾24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9738248.d.html</link>
+            <guid>2670980</guid>
+            <pubDate>Fri, 13 May 2022 17:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南奥塞梯领导人比比洛夫：关于南奥塞梯加入俄罗斯联邦的全民公投将于7月17日举行。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9737889.d.html</link>
+            <guid>2670979</guid>
+            <pubDate>Fri, 13 May 2022 17:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【法国新增新冠肺炎确诊病例32773例 累计确诊超2913万例】法国公共卫生部门当地时间13日公布的数据显示，截至当天下午，法国累计新冠肺炎确诊病例达29130373例，24小时新增确诊病例32773例；累计死亡病例达147257例，24小时新增死亡病例98例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7291956.d.html</link>
+            <guid>2670978</guid>
+            <pubDate>Fri, 13 May 2022 17:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国加州州长提议暂停征收12个月柴油税。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7291609.d.html</link>
+            <guid>2670977</guid>
+            <pubDate>Fri, 13 May 2022 17:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中概股涨幅扩大，小鹏汽车涨超12%，理想汽车涨近10%，蔚来涨8%，哔哩哔哩涨超9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7291555.d.html</link>
+            <guid>2670976</guid>
+            <pubDate>Fri, 13 May 2022 17:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（5月13日），美联储逆回购工具使用规模为1.865万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9736088.d.html</link>
+            <guid>2670975</guid>
+            <pubDate>Fri, 13 May 2022 17:17:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 美国食品药品管理局（FDA）局长：FDA正设法婴幼儿配方奶粉尽快在美国摆上货架，将于下周宣布婴儿配方进口和生产计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7290657.d.html</link>
+            <guid>2670974</guid>
+            <pubDate>Fri, 13 May 2022 17:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：现在还不是决定克里米亚问题的合适时机】 当地时间13日，乌克兰总统泽连斯基发表讲话表示，现在还不是决定克里米亚问题的合适时机。如果这个问题很难解决，使谈判进程、乌俄总统之间的会见变得复杂的话，可以将这个问题先放下，但不是永远。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9735657.d.html</link>
+            <guid>2670973</guid>
+            <pubDate>Fri, 13 May 2022 17:13:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【美媒：美国今年山火季节的破坏力预计将“超过正常水平”】美国气象媒体AccuWeather预测，今年美国山火季节的破坏力将“超过正常水平”。据悉，美国的山火季节通常从5月持续到10月，而目前5月刚刚开始，美国多地爆发的山火已经烧毁了超过445154公顷（110万英亩）的土地，是去年同期烧毁土地面积的两倍多。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7289210.d.html</link>
+            <guid>2670972</guid>
+            <pubDate>Fri, 13 May 2022 17:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨1.46%，沪铜收涨1.20%，沪铝收涨2.81%，沪锌收涨0.87%，沪铅收跌1.23%，沪镍收涨0.77%，沪锡收跌0.10%。不锈钢夜盘收涨0.43%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7288677.d.html</link>
+            <guid>2670971</guid>
+            <pubDate>Fri, 13 May 2022 17:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特表示，美联储必须对金融稳定风险保持警惕，正在以市场能够承受的速度撤出支持措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7288490.d.html</link>
+            <guid>2670970</guid>
+            <pubDate>Fri, 13 May 2022 16:59:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储卡什卡利：在供给侧问题上明显没有短期解决方案，美联储将不得不承担更多对抗通胀的责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9733543.d.html</link>
+            <guid>2670969</guid>
+            <pubDate>Fri, 13 May 2022 16:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收涨69美元，报9159美元/吨。LME期铝收涨46美元，报2788美元/吨。LME期锌收跌40美元，报3490美元/吨。LME期铅收跌33美元，报2059美元/吨。LME期镍收跌548美元，报27262美元/吨。LME期锡收跌387美元，报33370美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9733284.d.html</link>
+            <guid>2670968</guid>
+            <pubDate>Fri, 13 May 2022 16:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部称，俄罗斯空军袭击了乌克兰哈尔科夫地区的武器库。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7287824.d.html</link>
+            <guid>2670967</guid>
+            <pubDate>Fri, 13 May 2022 16:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（5月13日），ICE英国天然气期货收跌15.44%，报148.45便士/千卡，本周累计上涨12.44%。TTF基准荷兰天然气期货欧市尾盘跌7.86%，报96.750欧元/兆瓦时，本周累跌3.64%。ICE柴油期货收跌2.79%，报1107.00美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwiwst7286742.d.html</link>
+            <guid>2670966</guid>
+            <pubDate>Fri, 13 May 2022 16:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【景林Q1美股持仓：继续大幅增持中概股 网易升至第一大重仓】美国当地时间周五早晨，中国知名私募景林披露了截至3月31日的持仓报告（13F表），网易、贝壳、京东晋升景林最新的美股持仓三甲，Sea跌至第四位，涵盖一系列港股的KraneShares中国海外互联网ETF挤进前十并位列第五。遭到减持的拼多多则跌出了持仓前十的位置。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9731399.d.html</link>
+            <guid>2670965</guid>
+            <pubDate>Fri, 13 May 2022 16:33:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄继续打击乌军目标 击中乌最大炼油厂】俄罗斯国防部称俄空天军、俄导弹和炮兵部队打击了乌克兰的指挥所、弹药库和武器装备集结点等多个军事目标。此外，俄军打击了乌克兰波尔塔瓦州克列缅丘格的一家炼油厂，该厂主要为乌军装备提供原料供应。据当地媒体报道，克列缅丘格炼油厂是乌克兰最大的炼油厂。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-14/detail-imcwipii9730949.d.html</link>
@@ -432,179 +605,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9721045.d.html</link>
             <guid>2670894</guid>
             <pubDate>Fri, 13 May 2022 14:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行：此举旨在限制银行资本的风险，将允许银行对外汇头寸进行内部对冲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9720952.d.html</link>
-            <guid>2670893</guid>
-            <pubDate>Fri, 13 May 2022 14:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数连涨五周】波罗的海干散货运价指数周五下跌，但录得连续五周上涨。波罗的海干散货运价指数下跌13点或0.4%，至3104点。海岬型船运价指数下跌18点或0.5%，至3947点，为去年12月13日以来的最高水平。海岬型船日均获利下跌152美元，至32733美元。巴拿马型船运价指数下跌27点或0.8%，至3283点。巴拿马型船日均获利下降245美元，至29545美元。超灵便型散货船运价指数上涨2点至2752点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7275490.d.html</link>
-            <guid>2670892</guid>
-            <pubDate>Fri, 13 May 2022 14:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数上涨至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9720747.d.html</link>
-            <guid>2670891</guid>
-            <pubDate>Fri, 13 May 2022 14:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊和挪威首相签署了关于英国和挪威关系的新联合声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7275072.d.html</link>
-            <guid>2670890</guid>
-            <pubDate>Fri, 13 May 2022 14:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国方面的声明显示，英国首相约翰逊和挪威首相强调，他们完全支持北欧伙伴为加强其安全而作出的任何主权选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7275018.d.html</link>
-            <guid>2670889</guid>
-            <pubDate>Fri, 13 May 2022 14:20:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行：放宽对银行未平仓外汇头寸的限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9720428.d.html</link>
-            <guid>2670888</guid>
-            <pubDate>Fri, 13 May 2022 14:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  法国和其他欧洲国家表示敦促以色列改变在约旦河西岸修建4000多套住房的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7274954.d.html</link>
-            <guid>2670887</guid>
-            <pubDate>Fri, 13 May 2022 14:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利国债跌幅扩大，10年期国债收益率跃升15个基点，至2.86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7274722.d.html</link>
-            <guid>2670886</guid>
-            <pubDate>Fri, 13 May 2022 14:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线拉升1.1美元，现报109.24美元/桶和109.52美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9720194.d.html</link>
-            <guid>2670885</guid>
-            <pubDate>Fri, 13 May 2022 14:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货白银短线走高近0.3美元，现报20.91美元/盎司；现货黄金短线拉升逾10美元，现报1815.60美元/盎司。]]></title>
-            <guid>2670884</guid>
-            <pubDate>Fri, 13 May 2022 14:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台原董事长高卫东涉嫌严重违法违纪被查】5月13日，贵州省纪委监委消息表示，贵州省煤田地质局党委委员、局长高卫东涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。公开资料显示，高卫东曾于2020年3月至2021年8月担任中国贵州茅台酒厂（集团）有限责任公司党委书记、董事长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9720001.d.html</link>
-            <guid>2670883</guid>
-            <pubDate>Fri, 13 May 2022 14:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【水利部印发关于加快推进省级水网建设的指导意见】近日，水利部印发《关于加快推进省级水网建设的指导意见》。《指导意见》明确了加快推进省级水网建设的指导思想和主要目标。到2025年，省级水网建设规划体系全面建立，水网工程建设取得积极进展，水利基础设施薄弱环节建设得到加强，水资源集约节约安全利用水平得到提高，体制机制法治进一步健全，初步形成一批可借鉴、可推广的典型经验。到2035年，省级水网体系基本建成，水旱灾害防御能力、水资源集约节约利用能力、水资源优化配置能力、河湖生态保护治理能力、水网智慧化水平、体制机制法治管理水平明显提高，水安全保障能力显著增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9719864.d.html</link>
-            <guid>2670882</guid>
-            <pubDate>Fri, 13 May 2022 14:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大商所铁矿期货主力合约上涨3.05%，报828.0元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7274070.d.html</link>
-            <guid>2670881</guid>
-            <pubDate>Fri, 13 May 2022 14:10:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国密歇根大学消费调查主管Curtin评美国5月密歇根大学消费者信心数据：消费者信心比4月份下降了9.4%，逆转了4月份录得的增长。消费者信心下降是基于广泛的基础，从当前的经济状况和消费者预期，以及收入、年龄、教育程度、地理位置和政治派别中都可以看到，消费者情绪延续了过去一年的总体下降趋势。消费者对当前财务状况相对于一年前的评估处于2013年以来的最低水平，36%的消费者将自己的负面评估归因于通胀水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7273927.d.html</link>
-            <guid>2670880</guid>
-            <pubDate>Fri, 13 May 2022 14:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货金银短线反弹，现货黄金短线拉升6美元至1812.71美元/盎司，现货白银短线拉涨0.16美元，现报21.78美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9719147.d.html</link>
-            <guid>2670879</guid>
-            <pubDate>Fri, 13 May 2022 14:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国劳工部长：天然气禁运将会让德国陷入新一轮经济危机和滞胀的风险】德国联邦劳工部长海尔当地时间13日警告称，可能实施的天然气禁运将会让德国陷入新一轮经济危机和滞胀的风险。他指出，目前德国的经济增长和就业市场暂时还能保持稳定，但如果局势进一步恶化，政府必须果断采取行动。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7273572.d.html</link>
-            <guid>2670878</guid>
-            <pubDate>Fri, 13 May 2022 14:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[币安：经沟通，Terra项目方已停止持续新增LUNA代币，Terra区块链已恢复区块生产。因此，币安将于2022年05月13日22:00（东八区时间）开通LUNA/BUSD、UST/BUSD交易对，及LUNA、UST充值提现业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9718946.d.html</link>
-            <guid>2670877</guid>
-            <pubDate>Fri, 13 May 2022 14:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海市委常委会会议学习贯彻中央精神 研究部署当前疫情防控重点】上海市委常委会今晚举行会议，学习贯彻习近平总书记在庆祝中国共产主义青年团成立100周年大会上的重要讲话精神、中共中央政治局会议分析研究当前经济形势和经济工作有关精神，研究部署当前我市疫情防控重点工作。市委书记李强主持会议并讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7273131.d.html</link>
-            <guid>2670876</guid>
-            <pubDate>Fri, 13 May 2022 14:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股高开高走，纳指涨3％，标普500指数涨超1.8％，道指涨超1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7273051.d.html</link>
-            <guid>2670875</guid>
-            <pubDate>Fri, 13 May 2022 14:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨1%。成分股中，波音，华特迪士尼、耐克涨近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9718482.d.html</link>
-            <guid>2670874</guid>
-            <pubDate>Fri, 13 May 2022 14:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月密歇根大学消费者信心指数初值：前值 65.2，预期 64，公布 59.1。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7272786.d.html</link>
-            <guid>2670873</guid>
-            <pubDate>Fri, 13 May 2022 14:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《深圳市2022年重大项目计划》印发 知名企业总部列入建设计划】从深圳市发改委获悉，2022年市级重大项目中现代产业类项目为250个，占项目总数的比例约为28%。包括中芯国际集成电路制造（深圳）有限公司12英寸集成电路生产线项目(F16)、第11代超高清新型显示器件生产线、华为九龙山工业园项目、迈瑞医疗器械标杆制造基地项目等项目建设。据观察，在深圳市2022年市级重大项目计划清单中，一些知名企业的总部建设项目十分抢眼，包括万科总部大厦、中兴通讯总部大厦、微众银行大厦、天音大厦、光峰科技总部大厦、思摩尔全球总部等。(深圳发布)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7272100.d.html</link>
-            <guid>2670872</guid>
-            <pubDate>Fri, 13 May 2022 13:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国方面发布声明称，本周，英国国防大臣华莱士在与美国举行的高层会谈中讨论了帮助乌克兰抵御俄罗斯军事行动的下一步措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7271603.d.html</link>
-            <guid>2670871</guid>
-            <pubDate>Fri, 13 May 2022 13:48:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WSB概念股延续昨日涨势，Robinhood涨超20%，游戏驿站涨超18%，黑莓涨近12%，AMC院线涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9716976.d.html</link>
-            <guid>2670870</guid>
-            <pubDate>Fri, 13 May 2022 13:47:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率势将创下2011年4月以来最大单周跌幅，自上周五以来累计下跌逾27个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9716901.d.html</link>
-            <guid>2670869</guid>
-            <pubDate>Fri, 13 May 2022 13:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：美元持续走强 黄金势创近一年以来最差单周表现】受股市走软、美元走强以及市场预期积极收紧货币政策的影响，金价势将创下去年6月以来最大单周跌幅。周五，随着美国国债收益率上升，金价续创2月初以来的最低水平。周四公布了美国4月份PPI数据，强化了人们对美联储将维持其快速加息的路径以减缓过热的经济的预期，金价一度下跌1.7%。美国10年期国债收益率本周下跌，这通常会支撑对黄金的需求，但黄金的吸引力受到美元反弹的影响。在风险资产全线下跌之际，美元料将连续第六周走强。悉尼黄金交易商Guardian gold Australia业务发展经理John Feeney表示：“推动金价下跌的主要因素是市场波动，它将投资者推向了美元。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9716827.d.html</link>
-            <guid>2670868</guid>
-            <pubDate>Fri, 13 May 2022 13:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上交所新增科创板新股标识“C” 5月16日起正式实施】上交所发布新增科创板股票、存托凭证特殊标识的通知。上海证券交易所决定，自2022年5月16日起，对科创板上市公司首次公开发行股票或者存托凭证新增特殊标识，即在上市首日简称前冠以“N”的基础上，在上市后次日至第5个交易日简称前冠以“C”，以提醒投资者科创板新股上市次日至第五个交易日无涨跌幅限制，与第六日之后的涨跌幅有较大差异，更加方便投资者理解和辨识，更好服务市场主体，提升投资者体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwipii9716620.d.html</link>
-            <guid>2670867</guid>
-            <pubDate>Fri, 13 May 2022 13:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指涨幅扩大至2％，道指涨近1％，标普500指数涨超1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7271046.d.html</link>
-            <guid>2670866</guid>
-            <pubDate>Fri, 13 May 2022 13:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【榆林市发改委召开煤炭价格政策宣讲会】为做好煤炭保供稳价工作，切实保障煤炭价格在合理区间运行，5月12日，榆林市发改委价格服务中心主任冯继艳主持召开全市煤炭价格政策宣讲会暨座谈会。会议强调，各有关部门、县市区、企业要切实提高政治站位，全面加强组织领导，压紧压实工作责任，采取有力措施保障煤炭价格运行在合理区间，通过稳煤价进而稳电价、稳下游企业用能成本，为实现经济稳增长提供强有力支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-13/detail-imcwiwst7271019.d.html</link>
-            <guid>2670865</guid>
-            <pubDate>Fri, 13 May 2022 13:42:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
