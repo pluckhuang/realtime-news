@@ -4,620 +4,604 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 15 May 2022 22:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2022 07:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【首套房贷利率下限降至4.4% 业内称有望撬动更多需求释放】易居研究院智库研究中心总监严跃进表示，首套房贷利率下限的下调，将使得商业银行贷款空间更大，有助于后续更好地促进房贷实际贷款利率的下调。结合“二套住房商业性个人住房贷款利率政策下限按现行规定执行”的规定，可见此次政策更加偏向对刚需购房者的支持。中指研究院指数事业部市场研究总监陈文静表示，新政落地后，预计后续各地下调首套房贷利率的空间将被进一步打开，以促进合理住房需求的释放。（证券日报）]]></title>
-            <guid>2672225</guid>
-            <pubDate>Sun, 15 May 2022 22:13:23 GMT</pubDate>
+            <title><![CDATA[【江西实现全省全域全面动态清零】记者从江西省新冠肺炎疫情防控工作第三十六场新闻发布会上了解到，截至5月15日，江西全省本轮突发疫情实现了全域动态清零，绝大部分突发疫情均在一个潜伏期内得到有效控制。江西全省正常生产生活秩序正在全面有序恢复。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7707170.d.html</link>
+            <guid>2672751</guid>
+            <pubDate>Mon, 16 May 2022 07:20:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国新增确诊病例22894例 累计超8246万例】根据美国约翰斯·霍普金斯大学（JHU）当地时间5月15日数据，截至美东时间当天17时20分（北京时间5月16日凌晨5时20分），美国累计确诊新冠肺炎病例82460610例，累计死亡病例999582例。两项数据与24小时前数据相比，新增确诊病例22894例，新增死亡病例10例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0061430.d.html</link>
-            <guid>2672224</guid>
-            <pubDate>Sun, 15 May 2022 22:11:11 GMT</pubDate>
+            <title><![CDATA[【日本盐野义面向12～19岁启动新冠疫苗临床试验 计划最快6月申请批准上市】盐野义制药公司16日就正在研发的新冠病毒疫苗表示，启动了以12～19岁人群为对象的临床试验。公司称这是为了应对奥密克戎毒株流行以来的低年龄层感染扩大。还计划以5～11岁人群为对象展开临床试验。盐野义的疫苗研发已进入最后阶段的临床试验，计划最快6月向厚生劳动省申请批准。盐野义表示“为了能给广泛年龄层提供接种疫苗的新选项，将致力于尽快开发和供应”。 (共同社)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0151337.d.html</link>
+            <guid>2672750</guid>
+            <pubDate>Mon, 16 May 2022 07:20:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货黄金短线走高5美元，现报1813.81美元/盎司，现货白银短线走高0.13美元，现报21.15美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7616646.d.html</link>
-            <guid>2672223</guid>
-            <pubDate>Sun, 15 May 2022 22:09:23 GMT</pubDate>
+            <title><![CDATA[奥地利外交部长：俄罗斯可能在西巴尔干半岛引起动乱；欧盟需要西巴尔干。]]></title>
+            <guid>2672749</guid>
+            <pubDate>Mon, 16 May 2022 07:19:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储6月加息50个基点的概率降至91.1%】据CME“美联储观察”：美联储到6月份加息25个基点的概率为0%，加息50个基点的概率为91.1%，加息75个基点的概率为8.9%；到7月份累计加息25、50、75个基点的概率均为0%，累计加息100个基点的概率为89.7%，累计加息125个基点的概率为10.2%，累计加息150个基点的概率为0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7616408.d.html</link>
-            <guid>2672222</guid>
-            <pubDate>Sun, 15 May 2022 22:07:11 GMT</pubDate>
+            <title><![CDATA[【明起16条途经北京海淀公交停驶】记者从北京公交集团获悉，按照防疫工作要求，自5月17日首车起，途经海淀区16条公交线路采取临时调度措施。后续将配合封控采取线路临时调整措施。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7706855.d.html</link>
+            <guid>2672748</guid>
+            <pubDate>Mon, 16 May 2022 07:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国股指期货上涨，纳斯达克100指数期货涨0.6％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0060897.d.html</link>
-            <guid>2672221</guid>
-            <pubDate>Sun, 15 May 2022 22:06:41 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：每一个甲烷分子都将用于国内，没有出口计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7706771.d.html</link>
+            <guid>2672747</guid>
+            <pubDate>Mon, 16 May 2022 07:18:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油开盘后涨幅扩大至0.48%，现报110.88美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7615769.d.html</link>
-            <guid>2672220</guid>
-            <pubDate>Sun, 15 May 2022 22:01:09 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：如果加密资产没有在不同司法管辖区以一致和适当的方式进行监管、监督和互操作，可能会扰乱国际金融体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0150988.d.html</link>
+            <guid>2672746</guid>
+            <pubDate>Mon, 16 May 2022 07:17:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货金银亚盘平开，现分别报1809.1美元/盎司和21.09美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0060262.d.html</link>
-            <guid>2672219</guid>
-            <pubDate>Sun, 15 May 2022 22:00:39 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：加密货币资产的无序发展存在“私人”碎片化的风险，其中包括命名有误的“稳定币”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0150940.d.html</link>
+            <guid>2672745</guid>
+            <pubDate>Mon, 16 May 2022 07:17:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【A股全面布局窗口来了？ 机构：投资者可继续耐心等待更为积极的催化因素】上周A股市场交投情绪回暖，主要股指及多数行业板块迎来持续上涨行情。周末市场又迎来房贷降息、上海5月16日起分阶段推进复商复市等利好消息。对于后市走势，机构坦言A股已度过最难时刻。当前是否已到了全面布局的时间窗口？机构认为，投资者可继续耐心等待更为积极的催化因素，配置上估值相对低的稳增长板块可能在当前宏观环境下仍具备相对收益，建议可在稳增长和高景气度板块中优选个股。 (中证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7615658.d.html</link>
-            <guid>2672218</guid>
-            <pubDate>Sun, 15 May 2022 21:59:54 GMT</pubDate>
+            <title><![CDATA[【美团在成都成立互联网医院】企查查APP显示，5月13日，成都金牛百寿互联网医院有限公司成立，法定代表人为金光进，注册资本100万元，经营范围含：依托实体医院的互联网医院服务；医疗服务；互联网信息服务；药品互联网信息服务；医疗器械互联网信息服务；健康咨询服务等。企查查股权穿透显示，该公司由美团关联公司上海三快科技有限公司间接全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7706496.d.html</link>
+            <guid>2672744</guid>
+            <pubDate>Mon, 16 May 2022 07:17:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟国家外长将于5月16日在布鲁塞尔召开新一次外交事务委员会，其主要议题将是支持乌克兰和对俄罗斯新制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0060040.d.html</link>
-            <guid>2672217</guid>
-            <pubDate>Sun, 15 May 2022 21:57:39 GMT</pubDate>
+            <title><![CDATA[奥地利外交部长：相信我们将设法在未来几天内完成第六套对俄制裁方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0150741.d.html</link>
+            <guid>2672743</guid>
+            <pubDate>Mon, 16 May 2022 07:16:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[当地警方办公室称，美国加州拉古纳伍兹教堂的枪击事件造成四人重伤，一人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7615492.d.html</link>
-            <guid>2672216</guid>
-            <pubDate>Sun, 15 May 2022 21:56:59 GMT</pubDate>
+            <title><![CDATA[印度气象部门：周一，印度北部的热浪温度下降了2-3摄氏度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0150653.d.html</link>
+            <guid>2672741</guid>
+            <pubDate>Mon, 16 May 2022 07:15:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年以来百亿级私募正收益占比不到两成 业内人士：目前A股估值处于底部区域、无须过度悲观】私募排排网最新数据显示，截至5月12日，今年以来百亿级私募净值平均回撤超12%，和一季度平均跌幅9.14%相比，回撤幅度明显加大，而且今年以来百亿级私募中获得正收益的占比不到两成。不过，面对业绩压力，诸多百亿级私募并不悲观。受访的多位业内人士表示，目前A股估值处于底部区域，无须过度悲观，当下正是寻找便宜优质股票的好时机，基本面和政策面的变化则是获得超额收益的主要来源。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0059970.d.html</link>
-            <guid>2672215</guid>
-            <pubDate>Sun, 15 May 2022 21:56:50 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：将鼓励政策制定者公开表示，我们需要油气投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7706097.d.html</link>
+            <guid>2672740</guid>
+            <pubDate>Mon, 16 May 2022 07:14:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：欧盟委员会副主席维斯塔格未放弃要求互联网公司分担建设5G基础设施成本的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7615154.d.html</link>
-            <guid>2672214</guid>
-            <pubDate>Sun, 15 May 2022 21:52:50 GMT</pubDate>
+            <title><![CDATA[【万通智控：泰国工厂SMT产线调试结束】万通智控消息，4月下旬，万通（泰国）工厂正式开始了设备单机调试，经过多日努力后，工程师们终于在2022年4月27日顺利地完成第一个产品下线，这标志着产线调试工作已经顺利完成。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7706073.d.html</link>
+            <guid>2672739</guid>
+            <pubDate>Mon, 16 May 2022 07:14:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【公募REITs走出独立行情 今年以来涨幅最高达10%】面对市场持续调整，基础设施REITs却展现出良好的稳健特征。业内人士分析认为，存量公募REITs的底层项目相当优质，展现出较好的经营韧性，给相关基金的市场表现提供了有力支撑。Wind数据显示，截至5月12日，今年以来超过半数的公募REITs逆势上涨。其中，博时蛇口产园REIT上涨10.64%，中航首钢绿能REIT、东吴苏园产业REIT、富国首创水务REIT的涨幅都超过了3%，建信中关村REIT、红土盐田港REIT也有不错的表现。下跌的品种中，除了华夏越秀高速REIT下跌7.44%，中金普洛斯REIT、华安张江光大REIT等4只公募REITs跌幅不到3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0059292.d.html</link>
-            <guid>2672213</guid>
-            <pubDate>Sun, 15 May 2022 21:49:21 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：在货币政策方面，预计6月将举行决定性的会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0150313.d.html</link>
+            <guid>2672738</guid>
+            <pubDate>Mon, 16 May 2022 07:12:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【经济日报：全面提升资本治理效能】经济日报文章指出，改革开放40多年来，我国经济持续快速发展，已经积聚起巨大的资本能量，存在国有资本、集体资本、民营资本、外国资本、混合资本等多种资本形态。规模显著增加、主体更加多元、运行速度加快，国际资本大量进入，资本已成为促进社会生产力发展的重要力量。治理是为了更好发展，全面提升资本治理效能，绝不能片面理解为限制、打压甚至取缔资本。在具体的治理实践中，监管既不能缺位也不能越位，应以保护产权、维护契约、统一市场、平等交换、公平竞争、有效监管为导向，坚持依法监管、公正监管和科学监管，切实保障市场主体的合法权益，给予各种类型市场主体一致性待遇，并防止监管泛化或扩大化，让市场主体真切感受到监管有法、监管有度。总而言之，无论是设立“红绿灯”，还是创新监管方式，抑或是加强属地监管，出发点都是为了营造各种所有制主体依法平等使用资源要素、公开公平公正参与竞争、同等受到法律保护的市场环境，根本目的都是为了让市场竞争更加充分，最大限度激发市场主体活力，最终落脚点都是为了促进我国经济繁荣发展，给人民群众带来实实在在的获得感。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7614489.d.html</link>
-            <guid>2672212</guid>
-            <pubDate>Sun, 15 May 2022 21:44:19 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：欧元过于疲软将违背我们的物价稳定目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7705880.d.html</link>
+            <guid>2672737</guid>
+            <pubDate>Mon, 16 May 2022 07:12:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【高盛下调美国GDP增速预期 2022年料增长2.4%】高盛集团经济学家下调了美国今明两年的经济增长预期，以反映美联储收紧货币政策带来的金融市场震荡。目前预计美国经济今年将增长2.4%，2023年将增长1.6%，低于此前的2.6%和2.2%。“尽管经济增长放缓应有助于减少职位空缺，但也可能会略微提高失业率，特别是考虑到通常只有在衰退中失业率飙升时，职位空缺率才会下降。"高盛经济学家们预计，失业率在未来几个月降至3.4%后，到2023年底将升至3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0058866.d.html</link>
-            <guid>2672211</guid>
-            <pubDate>Sun, 15 May 2022 21:43:22 GMT</pubDate>
+            <title><![CDATA[尼日利亚监管机构将加密货币定义为证券，明确了上市规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7705857.d.html</link>
+            <guid>2672736</guid>
+            <pubDate>Mon, 16 May 2022 07:12:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白俄罗斯总理罗曼∙戈洛夫琴科表示，西方制裁阻碍了该国每年向欧盟和北美的出口额达160-180亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7613188.d.html</link>
-            <guid>2672210</guid>
-            <pubDate>Sun, 15 May 2022 21:28:40 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：我们将仔细监控有效汇率的发展，这是输入型通胀的重要推动因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0150203.d.html</link>
+            <guid>2672735</guid>
+            <pubDate>Mon, 16 May 2022 07:11:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国官员表示，匈牙利的否决不会破坏德国的长期计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7613174.d.html</link>
-            <guid>2672209</guid>
-            <pubDate>Sun, 15 May 2022 21:28:27 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：采取进一步措施前将考虑实际的经济活动和通胀数据，并会带有一定的选择性和渐进性，但我们至少应该朝着中性利率迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7705766.d.html</link>
+            <guid>2672734</guid>
+            <pubDate>Mon, 16 May 2022 07:11:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国计划在年底前结束俄罗斯石油进口】德国政府官员表示，即便欧盟未能在新一轮对俄制裁中就一项全欧盟范围的禁令达成一致，德国也计划在今年年底前停止进口俄罗斯石油。知情官员表示，朔尔茨当局正在努力与替代供应商达成协议，政府相信能够在未来六到七个月内解决剩余的物流问题。这些官员称，政府决心推进其国家计划，但没有说哪个国家将填补这个缺口。德国经济部的数据显示，俄罗斯占德国原油消费量的比例已从乌克兰冲突前的35%降至12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7613164.d.html</link>
-            <guid>2672208</guid>
-            <pubDate>Sun, 15 May 2022 21:28:18 GMT</pubDate>
+            <title><![CDATA[【日本4月企业物价指数大涨10% 创1981年以来最大升幅】日本央行16日公布的4月国内企业物价指数（2015年平均为100）初值较上年同月上升10.0%，达到113.5，创下有可比数据的1981年以来的最大升幅并首次达到两位数。同时该指数连续14个月同比上升，升幅也持续保持高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7705651.d.html</link>
+            <guid>2672733</guid>
+            <pubDate>Mon, 16 May 2022 07:10:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[当地警方办公室表示，美国加州拉古纳伍兹的一座教堂发生多人枪击事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0056715.d.html</link>
-            <guid>2672207</guid>
-            <pubDate>Sun, 15 May 2022 21:16:23 GMT</pubDate>
+            <title><![CDATA[爱尔兰外长科夫尼：欧盟和爱尔兰准备解决英国对于《北爱尔兰议定书》的担忧，但该条约必须得到尊重。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0149775.d.html</link>
+            <guid>2672732</guid>
+            <pubDate>Mon, 16 May 2022 07:09:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国休斯敦市发生火拼事件 致2死3伤】当地时间5月15日，美国得克萨斯州休斯敦市发生一起枪击事件，致2人死亡，3人受伤。根据当地警方的报告，枪击事件源于一场火拼，涉事人员共5人，其中有2人在火拼中死亡，3人重伤被送往医院治疗。除了当场死亡的2人，3名伤者均是该案的嫌疑人，另外还有未在冲突中受伤的2人也是可能的嫌疑人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7612290.d.html</link>
-            <guid>2672206</guid>
-            <pubDate>Sun, 15 May 2022 21:16:10 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：除了沙特阿拉伯，我们没有钱浪费在上游其他地方。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7705305.d.html</link>
+            <guid>2672731</guid>
+            <pubDate>Mon, 16 May 2022 07:08:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊：希望欧盟（就北爱尔兰协议）改变立场，否则我将必须采取行动。认为北爱尔兰协议是一个合理的着陆点，将在未来几天就北爱尔兰协议制定下一步措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7611042.d.html</link>
-            <guid>2672205</guid>
-            <pubDate>Sun, 15 May 2022 21:01:43 GMT</pubDate>
+            <title><![CDATA[伊朗方面表示，欧盟特使访问伊朗后，核谈判“向前迈出了几步”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7705198.d.html</link>
+            <guid>2672730</guid>
+            <pubDate>Mon, 16 May 2022 07:08:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[当地时间5月15日，在索马里总统选举第三轮投票中，前总统穆罕默德·阿卜杜拉希·穆罕默德得票数已过半。根据索临时宪法，在第三轮投票中得票数过半即当选总统。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0055451.d.html</link>
-            <guid>2672204</guid>
-            <pubDate>Sun, 15 May 2022 21:01:13 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：沙特阿美没有考虑进行更多的海外上游投资，因为它正在进行很多下游业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7704967.d.html</link>
+            <guid>2672729</guid>
+            <pubDate>Mon, 16 May 2022 07:07:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美最新民调显示：拜登的支持率再度下降】据《国会山报》当地时间5月15日报道，根据美国国家广播公司（NBC）5月5日至7日、5月9日至10日在1000名受访者中进行的一项民意调查显示，美国总统拜登的支持率又再度下降，在参与民意调查的美国人中，只有39%的人对他的工作表示肯定，56%对他作为总统的工作持否定态度。调查显示，约41%的美国人表示对目前的经济状况“有些满意”，16%的人表示非常不满意自己的财务状况。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7610298.d.html</link>
-            <guid>2672203</guid>
-            <pubDate>Sun, 15 May 2022 20:51:40 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：全球闲置原油日产量在200万至300万桶之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7704884.d.html</link>
+            <guid>2672728</guid>
+            <pubDate>Mon, 16 May 2022 07:06:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[奥克兰机场今年4月累计客运量同比下降24.8％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7609461.d.html</link>
-            <guid>2672202</guid>
-            <pubDate>Sun, 15 May 2022 20:40:12 GMT</pubDate>
+            <title><![CDATA[国家统计局贸易外经司统计师付加奇解读4月份社会消费品零售总额数据：消费市场受疫情冲击明显，基本生活类商品和网上零售保持较好增势。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0149203.d.html</link>
+            <guid>2672727</guid>
+            <pubDate>Mon, 16 May 2022 07:06:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞典首相：北约成员国身份最符合瑞典的安全需求】瑞典首相安德森周日表示，加入北约最能满足瑞典的安全需求。此前，在俄罗斯对乌克兰发动军事行动后，其政党放弃了数十年来的反对立场，加入了美国领导的北约。安德森在新闻发布会上表示：“我们认为瑞典需要北约成员国的正式安全保障。”另外根据报道，瑞典首相安德森将于星周一前往议会，以确保加入北约的申请获得广泛支持。瑞典外交部长表示，我们很有可能解决土耳其对瑞典加入北约持保留态度的问题；在批准过程中可能会发生一些事情，我们需要准备应对这些事情。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0052789.d.html</link>
-            <guid>2672201</guid>
-            <pubDate>Sun, 15 May 2022 20:26:10 GMT</pubDate>
+            <title><![CDATA[【国家统计局：疫情短期冲击未改发展大势 政策加力反弹可期】国家统计局工业司副司长汤魏巍解读4月份工业生产数据表示，尽管4月份工业生产降幅明显，但这是疫情短期冲击带来的波动，同时也要看到，我国工业体系完备、基础雄厚，规模大、韧性强，高技术制造业等新动能仍保持较强增长势头，工业经济长期向好的发展大势没有改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0149084.d.html</link>
+            <guid>2672726</guid>
+            <pubDate>Mon, 16 May 2022 07:05:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰天然气系统运营商表示，5月16日通过Sudzha中转站的俄罗斯天然气运输量为4679万立方米（前一天为6269万立方米）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0052772.d.html</link>
-            <guid>2672200</guid>
-            <pubDate>Sun, 15 May 2022 20:25:54 GMT</pubDate>
+            <title><![CDATA[爱尔兰外长科夫尼：与英国签订的条约是讨论的基础；不能接受英国的单边行动。需要与英国寻找解决方案。]]></title>
+            <guid>2672725</guid>
+            <pubDate>Mon, 16 May 2022 07:05:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比特币站上31000美元/枚，刷新近一周高位，日内涨3.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7608306.d.html</link>
-            <guid>2672199</guid>
-            <pubDate>Sun, 15 May 2022 20:25:33 GMT</pubDate>
+            <title><![CDATA[【LG新能源将与特斯拉高层会面 商讨动力电池合作事项】据知情人士透露，本月LG新能源副董事长Kwon Young-soo将与特斯拉高管会面，就动力电池合作进行商讨，讨论内容将涵盖自动化工厂建设、下一代圆柱电池以及镍、锂采购问题。 (The Elec)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0148905.d.html</link>
+            <guid>2672724</guid>
+            <pubDate>Mon, 16 May 2022 07:04:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗副外长：伊朗将通过外交努力“最大限度”取消美国的制裁】伊朗副外长兼伊朗核问题首席谈判代表巴盖里15日表示，伊朗认真对待伊核问题全面协议相关方谈判，将全力以赴通过外交努力“最大限度”取消美国的制裁。据伊朗外交部网站发布的消息，巴盖里当天在首都德黑兰参加2022年伊朗石油展时说，伊朗在伊核谈判和履行国际承诺时的态度是认真的。伊朗必须利用所有外交能力维护国家利益，并将全力以赴通过外交努力“最大限度”取消美国施加的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0051847.d.html</link>
-            <guid>2672198</guid>
-            <pubDate>Sun, 15 May 2022 20:14:15 GMT</pubDate>
+            <title><![CDATA[罗马尼亚外长：乌克兰、摩尔多瓦应该是欧盟候选国。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7704446.d.html</link>
+            <guid>2672723</guid>
+            <pubDate>Mon, 16 May 2022 07:04:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【正收益占比不到两成 百亿级私募不惧回撤调仓忙】在市场震荡调整的背景下，百亿级私募整体业绩继续回撤。私募排排网最新数据显示，截至5月12日，今年以来百亿级私募净值平均回撤超12%，和一季度平均跌幅9.14%相比，回撤幅度明显加大，而且今年以来百亿级私募中获得正收益的占比不到两成。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0051383.d.html</link>
-            <guid>2672197</guid>
-            <pubDate>Sun, 15 May 2022 20:08:38 GMT</pubDate>
+            <title><![CDATA[国家统计局投资司首席统计师罗毅飞：下阶段，要积极推进重大项目落地开工，用好政府专项债，加快推进基础设施建设，充分发挥政府有效投资引导带动作用，积极带动社会投资，全力促进投资持续平稳增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0148833.d.html</link>
+            <guid>2672722</guid>
+            <pubDate>Mon, 16 May 2022 07:04:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美驻乌使馆：美国军援乌克兰几乎所有榴弹炮已部署到位】乌克兰国家通讯社15日引述美国驻乌克兰大使馆的消息称，美国向乌克兰提供的总计共90门M777榴弹炮除一门外已全部运抵乌克兰，其中大部分都已在前线部署。此前美国军方称，已有200多名乌克兰军人接受了M777榴弹炮的操作培训。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7604649.d.html</link>
-            <guid>2672196</guid>
-            <pubDate>Sun, 15 May 2022 19:39:05 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：我们正在耗尽能源部门各级产能，这是一个需要全世界关注的全球性问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0148764.d.html</link>
+            <guid>2672721</guid>
+            <pubDate>Mon, 16 May 2022 07:03:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中国地震台网正式测定：05月16日01时56分在塔吉克斯坦（北纬38.48度，东经73.79度）发生3.0级地震，震源深度8千米。]]></title>
-            <guid>2672195</guid>
-            <pubDate>Sun, 15 May 2022 19:25:52 GMT</pubDate>
+            <title><![CDATA[国家统计局投资司首席统计师罗毅飞解读2022年1—4月份投资数据：充分发挥有效投资作用，积极推动扩大投资规模。1—4月份，计划总投资亿元及以上项目(简称大项目）完成投资同比增长10.9%，增速高于全部投资4.1个百分点，对全部投资增长的贡献率为81.3%，拉动全部投资增长5.5个百分点，“压舱石”作用明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0148712.d.html</link>
+            <guid>2672720</guid>
+            <pubDate>Mon, 16 May 2022 07:03:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俄官员：如果芬兰部署进攻性武器 俄罗斯将加强边防】俄罗斯联邦委员会国防和安全委员会主席邦达列夫15日在社交媒体上表示，如果芬兰加入北约后在邻近俄罗斯的地区部署北约进攻性武器，俄罗斯将加强边防，增加俄罗斯在边境地区的部队。他强调俄罗斯的安全不会受到威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0046026.d.html</link>
-            <guid>2672194</guid>
-            <pubDate>Sun, 15 May 2022 19:02:43 GMT</pubDate>
+            <title><![CDATA[国家统计局贸易外经司统计师付加奇：网上商品零售保持增长，线上消费占比持续提升。零售及餐饮企业不断开拓线上业务，加快发展互联网销售、外卖送餐等无接触服务，积极满足居民多样消费需求。1—4月份，全国实物商品网上零售额同比增长5.2%，占社会消费品零售总额的比重为23.8%，比1—3月份提高0.6个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7704221.d.html</link>
+            <guid>2672719</guid>
+            <pubDate>Mon, 16 May 2022 07:03:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【芬兰民众反对芬兰加入北约】当地时间5月15日，当天芬兰总统和政府宣布决定申请加入北约后，300名至500名反对加入北约的抗议者抵达芬兰首都赫尔辛基的参议院广场，抗议芬兰加入北约。左翼青年联盟副主席艾娃·达尔维克表示，“如果需要结盟，芬兰应该与北欧国家而不是北约。北约第5条款不一定会为芬兰提供它所寻求的安全。”。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0045995.d.html</link>
-            <guid>2672193</guid>
-            <pubDate>Sun, 15 May 2022 19:02:26 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：在这样的时候，需要更多的过剩产能，让人们放心且有能力说，我们有应急措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7704167.d.html</link>
+            <guid>2672718</guid>
+            <pubDate>Mon, 16 May 2022 07:02:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【刘益谦现身股东榜！这家“AI四小龙”之一即将申购】在下周的新股中，拟于周三申购的云从科技被称为“AI四小龙”之一，是国内人工智能行业的头部企业，在人脸识别、跨镜追踪、语音识别、自然语言处理等感知认知领域具有算法技术优势，拥有平台化能力，人机协同操作系统覆盖感知、认知、决策的全链条，是目前少数具备完整的技术覆盖能力的人工智能企业。云从科技招股书显示，公司产品已在智慧金融、智慧治理、智慧出行、智慧商业四大领域落地。此外，上市公司佳都科技是其第二大股东，而资本大佬刘益谦则位列第五大股东，在本次发行前分别持有7.82%、3.86%的股份。此外，值得一提的是，拟于周二申购的必易微主营电源管理芯片，在LED照明领域已与得邦照明、飞利浦、佛山照明、凯耀照明等建立了长期合作关系；在通用电源管理领域已服务的终端客户主要包括安克创新、奥海、传音控股、公牛、诺基亚等；在家电及IoT领域已与知名企业如奥马、海尔、和而泰、九阳、美的、苏泊尔、TCL、小米等开展合作。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0045788.d.html</link>
-            <guid>2672192</guid>
-            <pubDate>Sun, 15 May 2022 19:00:03 GMT</pubDate>
+            <title><![CDATA[【北向资金全天单边净卖出78.26亿元】数据显示，北向资金全天单边净卖出78.26亿元，其中沪股通净卖出27.98亿元，深股通净卖出50.28亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7704053.d.html</link>
+            <guid>2672716</guid>
+            <pubDate>Mon, 16 May 2022 07:02:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿尔及利亚总统特本开启土耳其之行】当地时间5月15日晚，阿尔及利亚总统特本抵达土耳其首都安卡拉，开启为期三天的土耳其之行。土耳其总统府新闻局发表声明称，应土耳其总统埃尔多安的邀请，特本将于5月15日至17日访问土耳其。访问期间，双方将就双边关系和共同关心的地区和国际问题交换意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0042775.d.html</link>
-            <guid>2672191</guid>
-            <pubDate>Sun, 15 May 2022 18:25:41 GMT</pubDate>
+            <title><![CDATA[【收评：两市午后低位震荡创指跌超1% 农业、房地产板块全天强势】5月16日消息，三大指数早间高开后冲高回落，深成指、创业板指一度涨超1%，随后震荡走低，盘中相继翻绿。板块方面，受利好消息刺激，房地产板块强势拉升，农业相关板块集体大涨；医药医疗板块全线走低，方舱医院、新冠治疗板块跌幅居前。午后指数低位震荡，创业板指跌幅扩大至1%。横琴新区概念股异动拉升，互联网电商、煤炭、旅游等板块走强；汽车整车、电力、光伏、物流等板块走弱。总体而言，市场情绪有所回落，个股涨跌互现，今日成交达7800亿元。截至收盘，沪指跌0.34%，深证成指跌0.6%，创业板指跌1.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7704004.d.html</link>
+            <guid>2672715</guid>
+            <pubDate>Mon, 16 May 2022 07:02:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【白俄罗斯武装部队第一副总参谋长：不排除有来自乌克兰方向的挑衅】白俄罗斯武装部队第一副总参谋长伊戈尔·科罗尔当地时间15日表示，白俄罗斯不排除有来自乌克兰方向的挑衅。他指出，有客观数据表明，在白俄罗斯边界附近的奥夫鲁奇方向已部署了美国的反炮台雷达。截至目前，乌克兰在罗夫诺方向集中了约1万名军人对抗白俄罗斯。同时，乌军在与白俄罗斯邻近地区的道路和桥梁上埋设地雷并加强了武装力量队伍的巡逻，因此不排除有来自乌克兰方向的任何形式的挑衅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7598181.d.html</link>
-            <guid>2672190</guid>
-            <pubDate>Sun, 15 May 2022 18:25:03 GMT</pubDate>
+            <title><![CDATA[欧股集体低开，德国DAX30指数跌0.41%，英国富时100指数跌0.61%，法国CAC40指数跌0.74%，欧洲斯托克50指数跌0.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7703863.d.html</link>
+            <guid>2672714</guid>
+            <pubDate>Mon, 16 May 2022 07:01:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【热浪席卷美国西南部 将加剧新墨西哥州山火情况】热浪于本周末席卷美国西南部，成为山火的“不稳定条件”，迫使一些居民节约用电。据美国有线电视新闻网（CNN）当地时间5月15日报道，本周末至下周初，美国西南部部分地区的高温将达到90至100华氏度（约32.2摄氏度至37.7摄氏度），新墨西哥州部分地区的最高温或将打破历史纪录，进一步加剧当地严峻的山火情况。截至目前，新墨西哥州隐士峰/小牛峡谷火灾（The Calf Canyon and Her-mits Peak Fire）的过火面积已经超过288000英亩（约116549公顷），仅有36%的火情被控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0042538.d.html</link>
-            <guid>2672189</guid>
-            <pubDate>Sun, 15 May 2022 18:23:13 GMT</pubDate>
+            <title><![CDATA[【国内商品期货多数收涨 焦煤涨超6%】国内商品期货多数收涨，焦煤涨超6%，花生、焦炭涨超5%，铁矿石、豆粕、豆二、菜粕涨超3%，红枣、沪铝涨超2%，原油、白糖、20号胶、玻璃、甲醇涨超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0148274.d.html</link>
+            <guid>2672713</guid>
+            <pubDate>Mon, 16 May 2022 07:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【两年增长三倍！制度护航公募权益大发展，公募基金管理人监管办法将抓紧发布，推动长期资金重视权益投资】权益基金发展正迎来“黄金时代”。权威数据显示，截至2021年底，公募基金持有A股流通市值合计6.3万亿元，较2019年初增长332.4%，占A股流通市值比例为8.3%，较2019年初增加4.3个百分点。记者从证监会相关部门获悉，下阶段证监会将抓紧发布《公开募集证券投资基金管理人监督管理办法》，推动各类资管机构、养老金、保险等机构投资者重视权益投资，落实长周期考核，并进一步优化基金注册机制，完善基金管理人分类监管。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7596129.d.html</link>
-            <guid>2672188</guid>
-            <pubDate>Sun, 15 May 2022 18:01:20 GMT</pubDate>
+            <title><![CDATA[据俄罗斯太平洋舰队新闻处消息，俄图-142反潜飞机在鄂霍次克海上空执行了飞行任务。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7703698.d.html</link>
+            <guid>2672712</guid>
+            <pubDate>Mon, 16 May 2022 07:00:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【法国新增新冠肺炎确诊病例22844例 累计确诊超2918万例】法国公共卫生部门5月15日当天公布的数据显示，截至当天下午，法国累计新冠肺炎确诊病例达29183676例，24小时内新增22844例；累计死亡病例达147275例，24小时内新增死亡病例7例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0038995.d.html</link>
-            <guid>2672187</guid>
-            <pubDate>Sun, 15 May 2022 17:38:37 GMT</pubDate>
+            <title><![CDATA[【日本内阁府负责新冠对策的副大臣黄川田仁志感染新冠病毒】据日本广播协会（NHK）16日报道，日本内阁府负责新冠对策的副大臣黄川田仁志13日夜间开始发热，14日经医疗机构核酸检测，确认感染了新冠病毒。据日本内阁府称，新冠对策担当大臣及内阁府职员中没有密切接触者。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0148132.d.html</link>
+            <guid>2672711</guid>
+            <pubDate>Mon, 16 May 2022 07:00:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印度首都遭遇创纪录高温天气 部分地区气温超过49摄氏度】印度首都新德里15日遭遇高温天气，部分地区气温超过49摄氏度，超过以往同期平均气温5摄氏度。据印度气象部门15日公布的消息，当天，新德里有两个地区的气温分别达到49.1摄氏度和49.2摄氏度，气温最低的地区也达到了45.5摄氏度。此外，位于印度北部的哈里亚纳邦的古尔冈市当天的气温也达到48.1摄氏度，是自1966年5月以来的同期最高气温。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7593281.d.html</link>
-            <guid>2672186</guid>
-            <pubDate>Sun, 15 May 2022 17:26:45 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气工业股份公司：天然气现正在通过Sudzha过境。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0148062.d.html</link>
+            <guid>2672710</guid>
+            <pubDate>Mon, 16 May 2022 07:00:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【市场底部“奔私” 年内超百位基金经理离任】Wind数据显示，截至5月13日，今年以来已有69家基金公司的103位公募基金经理离职，而不少基金经理离职之后，选择了创办或者加盟私募。业内人士认为，不少基金经理会选择在市场底部震荡时加盟私募机构，通过在市场底部发行私募产品来实现投资事业的进一步发展。业内人士认为，基金公司一般有季度、年度等考核机制，每年上半年都是基金经理变更的重要时期。另一方面，公募基金经理离职也与当前市场呈现出的底部特征有关，部分基金经理会选择在市场底部震荡时加盟私募机构，以谋求更好发展。在今年公募基金经理“离职潮”中，尽管有部分基金经理任职年限在五年以下，但仍有多位从业时间长、管理规模较大的资深基金经理离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0037612.d.html</link>
-            <guid>2672185</guid>
-            <pubDate>Sun, 15 May 2022 17:22:03 GMT</pubDate>
+            <title><![CDATA[【伊朗驻俄大使：伊朗已制定了与俄罗斯全面完整合作路线图】伊朗驻莫斯科大使卡泽姆∙贾拉里在接受卫星通讯社采访时称，伊朗和俄罗斯已在油气田生产、开发、加工、精炼、石化、油气业战略装备和技术转让等领域进行了谈判，并已达成很好的解决方案。甚至已制定了与俄罗斯的全面完整合作路线图，该图已转交俄联邦官员。（环球网）]]></title>
+            <guid>2672709</guid>
+            <pubDate>Mon, 16 May 2022 07:00:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【多路资金驰援 基建投资提速】随着基建投资提速，资金端也加码发力。业内预计，二季度专项债发行规模或超2万亿元，其中5月和6月单月发行规模或接近万亿，对基建投资释放更大的支撑作用。与此同时，在政策支持下，城投平台融资有望回暖，投向基建领域的银行贷款增速有望明显加快。专家表示，下一步，还需持续拓宽基建长期资金筹措渠道，引导保险资金、养老基金等加大投入；同时，加大土地、节能、环保等资源要素保障，推动基建项目顺利落地实施。专项债是政府拉动投资的重要工具。目前，基础设施建设力度不断加大，业内预计，5月和6月将迎来一轮专项债发行高峰。]]></title>
-            <guid>2672184</guid>
-            <pubDate>Sun, 15 May 2022 17:11:37 GMT</pubDate>
+            <title><![CDATA[大商所焦煤期货主力合约上涨6.09%，报2699.0元/吨；大商所焦炭期货主力合约上涨5.30%，报3465.0元/吨。]]></title>
+            <guid>2672708</guid>
+            <pubDate>Mon, 16 May 2022 06:59:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国副总统哈里斯就纽约布法罗超市枪击事件发表声明】美国副总统哈里斯当地时间5月15日通过白宫官网就纽约布法罗市大规模枪击事件发表声明。哈里斯对所有受害者及其亲人表示慰问，她还表示，仇恨犯罪正在全美范围内流行，必须对其进行发声和谴责。“出于种族动机的仇恨犯罪或暴力极端主义行为是对所有人的伤害，必须尽一切努力确保社区免受此类行为的影响”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0035578.d.html</link>
-            <guid>2672183</guid>
-            <pubDate>Sun, 15 May 2022 17:00:38 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气工业股份公司：将继续通过乌克兰向欧洲输送天然气，周一的输送量为4680万立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0147810.d.html</link>
+            <guid>2672707</guid>
+            <pubDate>Mon, 16 May 2022 06:58:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【猪肉价格连续两个月回升 生猪养殖类上市公司底气渐足】国家统计局5月14日公布2022年5月上旬流通领域重要生产资料市场价格变动情况，其中生猪（外三元）价格为14.9元/千克，环比上涨2.1%，与3月下旬猪肉价格低位时相比每千克上涨3元。猪肉价格上涨，让生猪养殖企业的“底气”逐渐充足起来。 猪肉价格回升，暂时让生猪养殖企业稍微缓了一口气。牧原股份、温氏股份、新希望、天邦股份等养猪企业近期陆续公布的4月份销售数据显示，各家经营数据逐渐向好。今年4月份，牧原股份销售生猪632.1万头，实现销售收入79.42亿元，环比增长6.86%；温氏股份销售肉猪142.70万头（含毛猪和鲜品），实现收入22.63亿元，毛猪销售均价13.33元/千克，环比前三个月变动分别为-1.48%、7.45%、9.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0034928.d.html</link>
-            <guid>2672182</guid>
-            <pubDate>Sun, 15 May 2022 16:53:39 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气工业股份公司：乌克兰拒绝了通过Sokhranivka过境的请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7703318.d.html</link>
+            <guid>2672706</guid>
+            <pubDate>Mon, 16 May 2022 06:58:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【7家A股公司二季度以来获百家公募基金调研 医药生物和电子板块最受青睐】二季度以来，A股指数维持震荡偏稳态势，公募基金对后市的信心也逐渐回暖。据最新Wind数据显示，截至5月13日，二季度以来合计有845家A股公司获得了公募基金调研，相比一季度的620家相比，环比增长了36%。具体来看，有7家A股公司同时获得了百家公募基金的调研，从板块分类来看，医药生物和电子板块最受青睐。数据显示，5月份以来，公募基金所持有的权益类资产仓位有所变动。截至5月12日，6292只开放式权益类基金（不同份额合并计算）平均仓位下降0.16个百分点至64.63%，今年二季度以来累计下降0.89个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7589848.d.html</link>
-            <guid>2672181</guid>
-            <pubDate>Sun, 15 May 2022 16:50:26 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：在国内改用天然气和可再生能源发电，每天将释放100万桶石油用于出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7703289.d.html</link>
+            <guid>2672705</guid>
+            <pubDate>Mon, 16 May 2022 06:58:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首套房贷利率下限降至4.4% 业内称有望撬动更多需求释放】央行、银保监会5月15日联合发文称，对于贷款购买普通自住房的居民家庭，首套住房商业性个人住房贷款利率下限调整为不低于相应期限贷款市场报价利率减20个基点，二套住房商业性个人住房贷款利率政策下限按现行规定执行。若不考虑当前各地区差异化的加点要求，此次下调意味着后续各地首套房贷利率最多可低至4.4%。按照100万元本金、30年贷款期限、等额本息还款方式计算，到期将少付利息42778.8元，一定程度上降低了购房者的购房成本。“此次监管部门调整首套房贷利率下限，释放出了积极信号。”中指研究院指数事业部市场研究总监陈文静表示，今年以来，尽管全国已有超百城优化调整了房地产调控政策，特别是4月份以来，楼市调控政策优化的节奏和力度均有所加大，但从实际情况来看，受部分地区疫情反复影响，楼市短期支持政策效果尚不明显，房地产市场仍处于深度调整期。此次全国统一下调首套房贷利率下限，对当前的市场预期将起到积极作用，亦将对房地产市场产生实质性利好。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7589671.d.html</link>
-            <guid>2672180</guid>
-            <pubDate>Sun, 15 May 2022 16:48:16 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：科威特和沙特阿拉伯需要天然气，我们不能偏离轨道超过22年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0147737.d.html</link>
+            <guid>2672704</guid>
+            <pubDate>Mon, 16 May 2022 06:58:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞士通过《器官移植法》等修订案 器官捐献原则将改为“推定同意”】当地时间5月15日，瑞士就《器官移植法》修订案、《电影法》修订案和增加对欧洲边境管理局的资助三个议案进行公投，均以较高的赞成率获得通过。获得公投通过的《器官移植法》修订案规定，瑞士的器官捐献原则将从现行的“知情同意”改为“推定同意”。这意味着，任何在生前没有明确对器官捐献表示拒绝的人都可以被视为器官捐赠者。不过这不代表死者可以随意被摘取器官，其亲属和家人的意见仍然是最重要的参考因素。如果医院一直无法与死者家属取得联系，器官切除术就不能进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0031686.d.html</link>
-            <guid>2672179</guid>
-            <pubDate>Sun, 15 May 2022 16:18:22 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：我们公开鼓励伊朗坐到谈判桌前，沙特阿拉伯和科威特希望与伊朗讨论DURRA气田，因为两国在资源方面有共同利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0147554.d.html</link>
+            <guid>2672703</guid>
+            <pubDate>Mon, 16 May 2022 06:57:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件】2022年5月16日 周一① 10:00 中国国民经济运行情况发布会② 17:00 欧元区3月季调后贸易帐③ 20:30 加拿大3月批发销售月率④ 20:30 美国5月纽约联储制造业指数⑤ 20:55 美联储威廉姆斯发表讲话⑥ 22:15 英国央行行长贝利等发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7585587.d.html</link>
-            <guid>2672178</guid>
-            <pubDate>Sun, 15 May 2022 16:00:20 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：我们将转向开发DURRA气田。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702880.d.html</link>
+            <guid>2672702</guid>
+            <pubDate>Mon, 16 May 2022 06:55:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山西太原：全市居民每周至少进行1次核酸检测】山西省太原市新型冠状病毒肺炎疫情防控工作领导小组办公室5月15日发布通告，5月16日起，山西太原市居民每周至少进行1次核酸检测，62类重点人群按照规定频次和方式进行核酸检测，未按规定进行核酸检测的赋黄码管理。进入重点场所以及乘坐公交车、地铁等公共交通工具的人员需提供5日内核酸检测阴性证明。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7585529.d.html</link>
-            <guid>2672177</guid>
-            <pubDate>Sun, 15 May 2022 15:59:28 GMT</pubDate>
+            <title><![CDATA[【俄罗斯副外长：瑞典和芬兰加入北约将产生严重后果】当地时间16日，俄罗斯外交部副部长里亚布科夫表示，北约不要幻想俄罗斯会心平气和地对待瑞典和芬兰加入北约的行为。瑞典和芬兰加入北约是这一组织的再一次错误举动，未来会产生严重后果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702844.d.html</link>
+            <guid>2672701</guid>
+            <pubDate>Mon, 16 May 2022 06:55:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【5月15日天津北辰区新增一名新冠阳性感染者】据天津市疫情防控指挥部消息，今日（5月15日）北辰区在全员核酸筛查中发现1例初筛阳性，经检测中心检测结果呈阳性，已转运至市定点医院，为新冠病毒无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7585456.d.html</link>
-            <guid>2672176</guid>
-            <pubDate>Sun, 15 May 2022 15:57:30 GMT</pubDate>
+            <title><![CDATA[郑商所花生期货主力合约上涨6.01%，报10442.0元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0147314.d.html</link>
+            <guid>2672700</guid>
+            <pubDate>Mon, 16 May 2022 06:55:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【美政府将从外国恐怖组织名单中删除五个极端组织】根据媒体当地时间5月15日报道，美国政府将从其外国恐怖组织名单中删除五个极端组织，其中包括极端犹太右翼组织“FTOs”、巴斯克分离主义组织“ETA”、日本邪教奥姆真理教以及两个伊斯兰组织。根据报道，被删除的部分组织曾在亚洲、欧洲和中东地区造成数百人甚至数千人死亡，但据信这些组织均已不复存在。美国国务院于13日向国会通报了这些举措，与此同时，美国政府正在对于是否将伊朗的伊斯兰革命卫队从美国名单中删除进行辩论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0029414.d.html</link>
-            <guid>2672175</guid>
-            <pubDate>Sun, 15 May 2022 15:43:09 GMT</pubDate>
+            <title><![CDATA[加拿大外长若利：瑞典和芬兰（加入北约）的过渡期必须较短。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702778.d.html</link>
+            <guid>2672699</guid>
+            <pubDate>Mon, 16 May 2022 06:55:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【瑞典执政党社民党支持瑞典加入北约】瑞典执政党社民党当地时间5月15日宣布支持瑞典加入北约，16日将提交议会。政府将在议会辩论后的特别会议上对关于加入北约的申请作出决定。根据《瑞典日报》提供的消息，预计瑞典将于17日在布鲁塞尔向北约秘书长斯托尔滕贝格提交会员申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0028938.d.html</link>
-            <guid>2672174</guid>
-            <pubDate>Sun, 15 May 2022 15:33:28 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：沙特和科威特的中立区油田产能目标为40万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702730.d.html</link>
+            <guid>2672698</guid>
+            <pubDate>Mon, 16 May 2022 06:54:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【索马里总统选举第一轮计票结束 4名候选人进入第二轮】索马里总统选举当地时间5月15日第一轮计票结束，无候选人获得三分之二以上选票。根据索临时宪法规定，得票最高的4名总统候选人，现任邦特兰州主席赛义德·阿卜杜拉希·丹尼（65票）、现任索马里总统穆罕默德·阿卜杜拉希·穆罕默德（61票）、前索马里总统哈桑·谢赫·马哈茂德（52票）、前索马里总理哈桑·阿里·海尔（48票）进入第二轮投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0028148.d.html</link>
-            <guid>2672173</guid>
-            <pubDate>Sun, 15 May 2022 15:21:12 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：我们正在与科威特改善中立区油田（的产能），试图先恢复该地区原来的产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702666.d.html</link>
+            <guid>2672697</guid>
+            <pubDate>Mon, 16 May 2022 06:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海口：人才落户即购房 二套房首付比例降低】海口市住房和城乡建设局等四部门联合发布通知称，落户海南省的引进人才购买住房，自落户之日享受本地居民同等待遇；未落户海南省的人才，本人及家庭成员在海南省无自有住房的，提供本人或家庭成员在海南省累计12个月及以上个人所得税或社会保险缴纳证明，可在海口市购买1套住房。同时，对申请商业贷款购买第二套住房但未结清原有住房贷款的，首付比例由不低于70％降低至不低于50％；申请公积金贷款购买二手住房，属首次购房或已结清原有公积金贷款的，首付比例由不低于40％降低至不低于30％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0027689.d.html</link>
-            <guid>2672172</guid>
-            <pubDate>Sun, 15 May 2022 15:13:22 GMT</pubDate>
+            <title><![CDATA[【俄工贸部：法国汽车制造商雷诺集团在俄资产转为国有】据俄罗斯卫星通讯社，俄罗斯工业和贸易部发布消息表示，法国汽车制造商雷诺集团的俄罗斯资产转为国有资产，包括在AvtoVAZ公司的股份转给俄中央汽车和汽车发动机科学研究所（NAMI），“雷诺俄罗斯”工厂股份转给莫斯科市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702596.d.html</link>
+            <guid>2672696</guid>
+            <pubDate>Mon, 16 May 2022 06:53:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浙商宏观：本次房贷新政信号意义重于实质影响 后续仍然需关注LPR调降】浙商宏观最新研报指出，2022年5月15日，人民银行、银保监会发布关于调整差别化住房信贷政策有关问题的通知，调降首套房贷利率下限，这是因城施策以来央行罕见总体房地产利率指导，我们认为本次政策信号意义重于实质影响，验证当前地产政策边际宽松助力稳增长的趋势，同时，降低房贷利率也是配合其他房地产放松政策，驱动房贷逐步放量，指向“宽信用”。本次政策针对增量住房贷款，核心目的是拉动居民购房意愿，提高边际贷款需求，带动地产销售回暖，但对存量房贷影响不大。每个城市首套房定价利率差别较大，实际不会都采取最低利率，本次政策为房贷利率定价释放空间，有助于带动市场平均房贷利率下行，但在“房住不炒”的大背景下，我们认为房贷利率的回落将是渐进的。我们提示后续仍然需关注LPR调降，5月20日LPR报价大概率下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7582821.d.html</link>
-            <guid>2672171</guid>
-            <pubDate>Sun, 15 May 2022 15:09:20 GMT</pubDate>
+            <title><![CDATA[【奈雪的茶因经营过期食品被罚五千元】据信用中国（天津）网站消息，近日，北京奈雪餐饮管理有限公司天津和平区第一分公司因经营超过保质期的食品被天津市和平区市场监督管理局处罚款5000元，处罚内容还包括没收已超过保质期的1瓶已开封的“光明”新鲜牧场高温杀菌乳。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702578.d.html</link>
+            <guid>2672695</guid>
+            <pubDate>Mon, 16 May 2022 06:53:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国参议院少数党领袖麦康奈尔表示，预计周一进行程序性投票、周三就400亿美元乌克兰援助法案进行正式投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0027031.d.html</link>
-            <guid>2672170</guid>
-            <pubDate>Sun, 15 May 2022 15:05:35 GMT</pubDate>
+            <title><![CDATA[国家卫健委：截至2022年5月15日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗336238.9万剂次。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702500.d.html</link>
+            <guid>2672694</guid>
+            <pubDate>Mon, 16 May 2022 06:52:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议院少数党领袖麦康奈尔：美国应该欢迎瑞典和芬兰加入北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7582296.d.html</link>
-            <guid>2672169</guid>
-            <pubDate>Sun, 15 May 2022 15:02:54 GMT</pubDate>
+            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：不能确保对俄制裁问题现在就会得到解决；成员国对制裁俄罗斯的立场是强烈的。]]></title>
+            <guid>2672693</guid>
+            <pubDate>Mon, 16 May 2022 06:52:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【周日重要消息大汇总】国内新闻：① 上海：将从5月16日起分阶段推动复商复市；② 央行：IMF提高人民币在SDR篮子中的权重；③ 央行、银保监会：调整差别化住房信贷政策；国外新闻：① 芬兰正式宣布加入北约，准备与土耳其谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0026765.d.html</link>
-            <guid>2672168</guid>
-            <pubDate>Sun, 15 May 2022 15:02:06 GMT</pubDate>
+            <title><![CDATA[伊朗外交部发言人哈提卜扎德：伊朗外长阿米尔·阿卜杜拉希安定于周一访问阿联酋。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0146816.d.html</link>
+            <guid>2672692</guid>
+            <pubDate>Mon, 16 May 2022 06:51:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【五粮液：拟在未来几年逐步新增十万吨原酒产能】五粮液在互动平台表示，公司拟在未来几年逐步新增十万吨原酒产能，进一步夯实全国最大纯粮固态发酵酿酒基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0026351.d.html</link>
-            <guid>2672158</guid>
-            <pubDate>Sun, 15 May 2022 14:57:07 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：这不是原油供应的问题。目前没有与当前需求相称的炼油产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0146799.d.html</link>
+            <guid>2672691</guid>
+            <pubDate>Mon, 16 May 2022 06:51:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新加坡确诊3例感染新奥密克戎变异毒株病例】新加坡卫生部5月15日晚上发布公告，当天确诊2例感染奥密克戎变异毒株BA.4和1例感染BA.5的病例。这是新加坡首次报告发现感染这两种变异毒株的病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7581460.d.html</link>
-            <guid>2672149</guid>
-            <pubDate>Sun, 15 May 2022 14:51:26 GMT</pubDate>
+            <title><![CDATA[【5月16日6时至12时天津新增22例阳性感染者】记者从天津市防控指挥部获悉，5月15日6时起，该市开展了全市全员核酸检测，已全部完成检测，共发现20∶1混管阳性17管（北辰区8管，东丽区9管）。截至12时，经单人单采复核检测及密接、次密接风险人员追踪排查，共发现26例核酸阳性感染者（其中4例已报道，6时至12时新增22例），其中新冠肺炎确诊病例1例（普通型），新冠病毒无症状感染者16例，尚未分型9例，均来自北辰区和东丽区。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7702129.d.html</link>
+            <guid>2672690</guid>
+            <pubDate>Mon, 16 May 2022 06:50:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【不明原因儿童急性肝炎最新发现：或与新冠病毒超级抗原相关】最近，英国、欧盟、美国、以色列和日本等地都报告了至少348例儿童不明原因严重急性肝炎。英国是此次报告不明原因儿童急性肝炎病例最多的国家。英国卫生安全局（UKHSA）的调查信息显示：所有的患儿都进行了新冠的核酸检测，然而大部分患儿却没做血清学新冠检测。研究表示，儿童感染新冠病毒可导致体内病毒库形成。具体来说是新冠病毒在儿童胃肠道中的持续存在可导致病毒蛋白在肠道上皮细胞中反复释放，从而引起免疫激活。这种反复的免疫激活可能是由新冠病毒的刺突蛋白中超抗原基序介导的，该基序与葡萄球菌肠毒素B相似，能触发广泛和非特异性的T细胞激活。这种超抗原介导的免疫细胞激活已被认为是引起儿童多系统炎症综合征（Multisystem Inflammatory Syndrome in Children, MIS-C）机制。]]></title>
-            <guid>2672148</guid>
-            <pubDate>Sun, 15 May 2022 14:50:51 GMT</pubDate>
+            <title><![CDATA[5月16日6时至12时天津新增22例阳性感染者，均来自北辰区和东丽区。 （央视新闻）]]></title>
+            <guid>2672689</guid>
+            <pubDate>Mon, 16 May 2022 06:50:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【异地就医跨省直接结算稳步推进 超96%县可跨省直接结算普通门诊费用】据国家医保局最新统计数据，截至今年4月底，全国累计完成备案4117.13万人次。基本覆盖了所有一至三级定点医院，累计直接结算1324.96万人次，次均减少患者垫付约1.4万元。此外，门诊费用跨省直接结算也在推进。全国96%以上的县至少有一家定点医疗机构能够跨省直接结算普通门诊费用。高血压、糖尿病、恶性肿瘤门诊放化疗、尿毒症透析、器官移植术后抗排异治疗等5种门诊慢特病费用跨省直接结算试点扩大至74个统筹地区，进一步降低群众异地就医负担。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7581196.d.html</link>
-            <guid>2672143</guid>
-            <pubDate>Sun, 15 May 2022 14:47:36 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：当经济从疫情中复苏导致需求增长时，我们面临着石油设施不断萎缩的现实。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0146470.d.html</link>
+            <guid>2672688</guid>
+            <pubDate>Mon, 16 May 2022 06:49:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【能源价格飙升，德国多地考虑缩短路灯照明时间】 由于近期能源价格飙升，德国多地承受不起高昂电费，考虑缩短路灯照明时间。德国城镇和行政分区协会工作人员亚历山大·汉德舒告诉记者，许多城镇正在研讨节能省钱的可行方案，而缩短路灯照明时间只是潜在措施之一。据黑森州经济部门估算，路灯耗电量不可小觑，在城市财政支出电费中所占的比例可高达50%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7580257.d.html</link>
-            <guid>2672123</guid>
-            <pubDate>Sun, 15 May 2022 14:33:14 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：甚至在过去几天，一些人仍然有勇气说不要投资绿色领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0146452.d.html</link>
+            <guid>2672687</guid>
+            <pubDate>Mon, 16 May 2022 06:49:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特一季度总收入2779亿里亚尔，盈余574.9亿里亚尔，石油收入1837亿里亚尔，非石油收入942.6亿里亚尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0024226.d.html</link>
-            <guid>2672114</guid>
-            <pubDate>Sun, 15 May 2022 14:25:00 GMT</pubDate>
+            <title><![CDATA[【伊朗驻俄大使：伊朗已制定了与俄罗斯全面完整合作路线图】伊朗驻莫斯科大使卡泽姆∙贾拉里在接受卫星通讯社采访时称，伊朗和俄罗斯已在油气田生产、开发、加工、精炼、石化、油气业战略装备和技术转让等领域进行了谈判，并已达成很好的解决方案。甚至已制定了与俄罗斯的全面完整合作路线图，该图已转交俄联邦官员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7701847.d.html</link>
+            <guid>2672686</guid>
+            <pubDate>Mon, 16 May 2022 06:49:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[5月16日起，自上海实施封控以来暂停的多家上海出发的客运航班陆续恢复。上海浦东机场的货运也在恢复中。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7579255.d.html</link>
-            <guid>2672102</guid>
-            <pubDate>Sun, 15 May 2022 14:18:58 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：如果市场需要，我们可以在达到此水平维持不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0146322.d.html</link>
+            <guid>2672685</guid>
+            <pubDate>Mon, 16 May 2022 06:48:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中证协报告透露个人投资者最新数据：股民超1.97亿 基民超7.2亿】在全国投资者保护宣传日，中证协正式发布《2021年度证券公司投资者服务与保护报告》显示，截止2021年底，我国个人股票投资者已超过1.97 亿，基金投资者超过7.2亿。《报告》指出，投保工作事关数亿群众的切身利益，站稳资本市场监管的人民立场、保护好广大投资者的合法权益，是资本市场践行初心使命的内在要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7579185.d.html</link>
-            <guid>2672101</guid>
-            <pubDate>Sun, 15 May 2022 14:17:31 GMT</pubDate>
+            <title><![CDATA[沙特能源部长：（在2026年底、2027年初前）将产能提高到1320-1340万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7701621.d.html</link>
+            <guid>2672684</guid>
+            <pubDate>Mon, 16 May 2022 06:47:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【意大利联盟党党首反对瑞典芬兰加入北约：现在不是时候】据意大利英文媒体《意大利邮报》报道，当地时间14日，意大利执政联盟成员联盟党党首马泰奥·萨尔维尼在一场主题为“我们所希望的意大利”会议上表示，反对芬兰和瑞典现在加入北约。萨尔维尼认为，现在不是瑞典和芬兰加入北约的时候，当务之急是重启俄乌对话，乌克兰加入欧盟和瑞典、芬兰加入北约的事项都应依次顺延。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7578563.d.html</link>
-            <guid>2672095</guid>
-            <pubDate>Sun, 15 May 2022 14:09:25 GMT</pubDate>
+            <title><![CDATA[俄罗斯副外长：芬兰和瑞典加入北约是一个将产生深远影响的错误。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7701379.d.html</link>
+            <guid>2672683</guid>
+            <pubDate>Mon, 16 May 2022 06:46:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及供应部部长：埃及同意从印度购买50万吨小麦。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7578185.d.html</link>
-            <guid>2672094</guid>
-            <pubDate>Sun, 15 May 2022 14:05:05 GMT</pubDate>
+            <title><![CDATA[【奔驰召回超12万辆进口及国产汽车】梅赛德斯-奔驰（中国）汽车销售有限公司召回生产日期在2020年11月10日至2021年9月25日期间的部分进口CLA 、A级汽车，共计2辆；北京奔驰汽车有限公司召回生产日期在2020年7月7日至2021年8月19日期间的部分国产A级、GLB SUV汽车，共计3辆。梅赛德斯-奔驰（中国）汽车销售有限公司召回生产日期在2005年4月28日至2015年8月31日期间的部分进口ML、GL和R级汽车，共计120297辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0145812.d.html</link>
+            <guid>2672682</guid>
+            <pubDate>Mon, 16 May 2022 06:46:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿布林肯：6月北约马德里峰会将进一步评估北约与俄罗斯的关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0022558.d.html</link>
-            <guid>2672093</guid>
-            <pubDate>Sun, 15 May 2022 14:04:29 GMT</pubDate>
+            <title><![CDATA[市场消息：沙特将在2026年底、2027年初前提高石油生产能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7701231.d.html</link>
+            <guid>2672681</guid>
+            <pubDate>Mon, 16 May 2022 06:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及贸易部长：与俄罗斯的商业交易不受冲突影响，研究使用卢布交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0022369.d.html</link>
-            <guid>2672092</guid>
-            <pubDate>Sun, 15 May 2022 14:02:30 GMT</pubDate>
+            <title><![CDATA[港股煤炭概念股走高，易大宗涨近6%，Mongol Mining涨超4%，兖矿能源、伊泰煤炭涨近4%，中国神华跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7701140.d.html</link>
+            <guid>2672680</guid>
+            <pubDate>Mon, 16 May 2022 06:45:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[意大利最近24小时新增新冠肺炎确诊病例27,162例，新增死亡病例62例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0022097.d.html</link>
-            <guid>2672091</guid>
-            <pubDate>Sun, 15 May 2022 13:59:52 GMT</pubDate>
+            <title><![CDATA[立陶宛部长：需要马上让乌克兰成为欧盟候选国。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7701102.d.html</link>
+            <guid>2672679</guid>
+            <pubDate>Mon, 16 May 2022 06:44:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【下周资本市场大事提醒】
-1、国家统计局5月16日将公布4月经济数据，包括工业增加值、固定资产投资、社会消费品零售总额等。
-2、央行周一将公布MLF利率，周五（5月20日）上午9:15，将公布5月1年期贷款市场报价利率和5年期贷款市场报价利率。央行是否调降MLF和LPR利率为最大焦点。
-3、央行下周公开市场将有600亿元逆回购到期，其中周一至周五分别到期200亿元、100亿元、100亿元、100亿元、100亿元；下周二(5月17日)还有1000亿元MLF到期。
-4、国家统计局5月18日将发布4月70个大中城市住宅销售价格月度报告。
-5、财政部5月18日将招标续发两期合计1060亿元记账式附息国债，期限包括1年和5年，发行金额均为530亿元。
-6、新一轮油价调整窗口将于5月16日24时开启，根据目前国际油价走势及参考原油变化率，预计每吨或将上调210元左右。
-7、下周沪深两市限售股上市数量共计75.6亿股，以5月13日收盘价计算，市值时隔4个月后重上千亿元，约1152.77亿元，较本周环比大增107%。东方盛虹、顺丰控股等解禁数量较大。
-8、下周将有3只新股发行，其中创业板有1只。5月17日发行的是必易微、菲菱科思；5月18日发行的是云从科技。累计发行数量共计约1.43亿股，预计募集资金金额共计56.16亿元。
-9、国际重要经济数据方面，5月16日，欧盟将公布3月欧元区贸易差额；5月17日，法国将公布第一季度 GDP同比数据，美国将公布4月核心零售总额；5月18日，英国将公布4月CPI数据、欧盟将公布4月欧元区CPI数据，美国将公布4月新屋开工数据等；5月19日，美国将公布5月14日当周初次申请失业金人数。
-10、下周腾讯、小米、唯品会、迅雷、京东、嘉楠科技、雾芯科技、腾讯音乐等公司将发布2022年第一季度财报。
-11、5月19日是第12个“中国旅游日”，主题为：感悟中华文化，享受美好旅程。整个5月，将举办主题日、主题周、主题月活动，开展四大推广行动。
-12、由工信部、内蒙古自治区人民政府联合主办的2022年世界电信日大会5月17日开幕。
-13、世界经济论坛2022年年会将于5月22日至5月26日在瑞士达沃斯-克洛斯特斯举行。
-14、第75届戛纳电影节将于5月17日至28日举行。近日，第75届戛纳电影节短片主竞赛单元公布入围名单，两部华语片入围。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0022077.d.html</link>
-            <guid>2672090</guid>
-            <pubDate>Sun, 15 May 2022 13:59:41 GMT</pubDate>
+            <title><![CDATA[伊朗驻俄罗斯大使贾拉利在接受卫星通讯社采访时表示，在“欧佩克”联盟框架内，德黑兰与莫斯科的立场非常接近。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7700930.d.html</link>
+            <guid>2672678</guid>
+            <pubDate>Mon, 16 May 2022 06:42:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿布林肯：美国已经将“大量”液化天然气LNG重新导向欧洲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7577295.d.html</link>
-            <guid>2672086</guid>
-            <pubDate>Sun, 15 May 2022 13:55:31 GMT</pubDate>
+            <title><![CDATA[截至2022年5月15日，北京市累计报告接种新冠病毒疫苗6169.41万剂次，累计接种2324.07万人。 （首都健康）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0145502.d.html</link>
+            <guid>2672677</guid>
+            <pubDate>Mon, 16 May 2022 06:42:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[芬兰总统尼尼斯托：最近与俄罗斯总统普京有关北约的交谈是“平静、冷静的”。俄罗斯总统普京说芬兰加入北约是错误的，但他没有再提出威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0021779.d.html</link>
-            <guid>2672085</guid>
-            <pubDate>Sun, 15 May 2022 13:55:13 GMT</pubDate>
+            <title><![CDATA[俄罗斯外交官：任何人都不该幻想俄罗斯会容忍瑞典和芬兰加入北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0145422.d.html</link>
+            <guid>2672676</guid>
+            <pubDate>Mon, 16 May 2022 06:41:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【土耳其外长：瑞典和芬兰加入北约时必须停止支持库尔德工人党】 当地时间15日，在柏林参加北约外长会的土耳其外交部长恰武什奥卢表示，瑞典和芬兰在寻求加入北约时必须停止支持该国的“恐怖组织”库尔德工人党，提供明确的安全保证并解除对土耳其的出口禁令。他强调，土耳其的立场是“公开而清晰的”，没有威胁任何国家或借机寻求更大的影响力。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7576777.d.html</link>
-            <guid>2672081</guid>
-            <pubDate>Sun, 15 May 2022 13:47:50 GMT</pubDate>
+            <title><![CDATA[【俄媒：特朗普称“永远不回推特” 认为马斯克出价过高】据俄罗斯卫星社莫斯科5月16日报道，美国前总统特朗普表示，他永远不会再回推特。 特朗普在发出的一份声明中说：“感谢这个提议，但我永远不会回去推特。” 报道称，他表示，他更倾向于出现在自己的社交网络平台“真相”（Truth）上。 与此同时，特朗普认为企业家埃隆·马斯克宣布的准备为社交网络推特支付的价格过高。特朗普说：“只有傻瓜才会花这么多钱买推特，而埃隆不是傻瓜。” 此前有报道称，马斯克称封锁特朗普的推特账户是一个“错误”，表示准备将对该社交网络的访问权归还给这位前总统。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0144981.d.html</link>
+            <guid>2672675</guid>
+            <pubDate>Mon, 16 May 2022 06:39:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国什列斯威-霍尔斯坦州发现有禽流感的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0021036.d.html</link>
-            <guid>2672076</guid>
-            <pubDate>Sun, 15 May 2022 13:45:05 GMT</pubDate>
+            <title><![CDATA[【侯毅卸任杭州盒马网络科技公司董事长】天眼查显示，近日，杭州盒马网络科技有限公司发生工商变更，盒马CEO侯毅卸任董事长职位，严筱磊、尚大春等退出董事、经理职位，新增金瓯任法定代表人、执行董事兼总经理。该公司成立于2018年8月，注册资本5000万美元，经营范围含货物进出口；食品销售；食品互联网销售等，由盒马（香港）有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7700211.d.html</link>
+            <guid>2672674</guid>
+            <pubDate>Mon, 16 May 2022 06:37:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国婴儿配方奶粉短缺加剧 美国计划进口海外配方奶粉】随着美国各地婴儿配方奶粉短缺状况日益严重，美国政府也加强了对这一危机状况的应对力度。据美国媒体报道，美国众议院监管委员会在一封写给奶粉行业四家主要公司的信中表示，婴儿配方奶粉短缺对婴儿人身安全和经济安全造成了严重威胁，对于低收入群体影响尤其明显。据悉，四家公司分别为美赞臣、雀巢、培瑞克和雅培营养，这四家在美国整个婴儿配方奶粉市场中的占比接近90%。数据显示，上周婴儿配方奶粉的平均断货率达到43%。美国食药监局表示，为缓解这一局面，下周将宣布允许进口海外生产的配方奶粉的计划。据了解，美国消费的配方奶粉有98%是在美国本土生产的。(央视财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7576456.d.html</link>
-            <guid>2672071</guid>
-            <pubDate>Sun, 15 May 2022 13:43:11 GMT</pubDate>
+            <title><![CDATA[【特斯拉召回部分国产Model 3和Model Y电动汽车 共计107293辆】特斯拉（上海）有限公司向国家市场监督管理总局备案了召回计划。自2022年5月23日起，召回生产日期在2021年10月19日至2022年4月26日期间的部分国产Model 3、Model Y电动汽车，共计107293辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7700124.d.html</link>
+            <guid>2672672</guid>
+            <pubDate>Mon, 16 May 2022 06:37:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[菲律宾首都马尼拉在5月16-31日期间将继续维持一级防疫警戒。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0020686.d.html</link>
-            <guid>2672064</guid>
-            <pubDate>Sun, 15 May 2022 13:40:16 GMT</pubDate>
+            <title><![CDATA[【上海三毛上演“地天板”】上海三毛拉升触板，该股此前一度触及跌停，目前成交额近4.5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0144562.d.html</link>
+            <guid>2672670</guid>
+            <pubDate>Mon, 16 May 2022 06:36:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【A股新陈代谢常态化，“应退尽退”是核心】 近期市场有一些声音认为“要建立有效的退市制度，保持上市、退市股票数量的大体持平”。对此，要有客观理性的认识，一个稳定健康发展的资本市场必然要求畅通入口和出口两道关，形成有进有出、良性循环的市场生态。落实退市新规的核心是坚持“应退尽退”，不能简单地将退市数量和上市数量挂钩。在我国国情下，应退的公司主要有两类，一类是“空壳僵尸”，长期占用市场资源，影响资源配置；一类是“害群之马”，出清有利于整肃市场秩序。只要触及规则规定情形的，都将按规则予以出清。记者从监管部门处了解到，证监会正在坚定不移地贯彻落实党中央国务院的决策部署，严格执行退市新规，确保标准统一，做到“应退尽退”，实现“退得下，退得稳”。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0020350.d.html</link>
-            <guid>2672059</guid>
-            <pubDate>Sun, 15 May 2022 13:35:37 GMT</pubDate>
+            <title><![CDATA[【摩根大通集体上调阿里巴巴、腾讯、百度、美团等公司评级】摩根大通证券股份有限公司今日集体上调多家中概股公司评级：摩根大通证券股份有限公司将京东集团ADR和H股评级上调至中性；摩根大通证券股份有限公司将阿里巴巴ADR评级上调至超配；摩根大通证券股份有限公司将百度ADR评级上调至中性；目标价125美元；摩根大通证券股份有限公司将哔哩哔哩H股评级上调至中性；摩根大通证券股份有限公司将腾讯评级上调至超配；目标价470港元；摩根大通证券股份有限公司将网易评级上调至超配；目标价185港元；摩根大通证券股份有限公司将美团评级上调至超配；目标价220港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0144403.d.html</link>
+            <guid>2672669</guid>
+            <pubDate>Mon, 16 May 2022 06:35:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿布林肯：在柏林与土耳其外长恰武什奥卢进行了交谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7575878.d.html</link>
-            <guid>2672058</guid>
-            <pubDate>Sun, 15 May 2022 13:35:13 GMT</pubDate>
+            <title><![CDATA[【亚速钢铁厂10名乌军持白旗投降】据今日俄罗斯电视16日报道，10名乌克兰军人手持白旗走出亚速钢铁厂的地下设施，向俄方投降。（央视军事 ）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7699704.d.html</link>
+            <guid>2672668</guid>
+            <pubDate>Mon, 16 May 2022 06:34:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美纽约州州长就布法罗超市枪击案发表讲话 呼吁社交媒体负责】美国纽约州州长凯西·霍赫尔就当日发生的纽约布法罗市超市大规模枪击事件发表讲话，她指出社交媒体在监控内容方面必须“更加警惕”。霍赫尔表示，嫌犯将作案全过程在社交媒体平台上进行了直播，但这种“对无辜人类进行处决”的野蛮行为录像没有立刻被删除，相关媒体平台应负有责任。对此，她将确保提供相关平台的负责人负责，确保消除网站上的仇恨内容，并将积极追捕仇恨犯罪者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0020060.d.html</link>
-            <guid>2672055</guid>
-            <pubDate>Sun, 15 May 2022 13:31:28 GMT</pubDate>
+            <title><![CDATA[【白俄罗斯总统前往莫斯科参加集安组织首脑峰会，将与普京会谈】当地时间16日，白俄罗斯总统卢卡申科启程前往俄罗斯莫斯科参加集安组织首脑峰会，并将在莫斯科与俄罗斯总统普京举行会谈。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0144113.d.html</link>
+            <guid>2672667</guid>
+            <pubDate>Mon, 16 May 2022 06:33:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿布林肯：美国正重新开放驻基辅大使馆，将“很快”恢复运作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0019859.d.html</link>
-            <guid>2672051</guid>
-            <pubDate>Sun, 15 May 2022 13:29:36 GMT</pubDate>
+            <title><![CDATA[韩国KOSPI指数5月16日（周一）收盘下跌7.66点，跌幅0.29%，报2596.58点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0144035.d.html</link>
+            <guid>2672666</guid>
+            <pubDate>Mon, 16 May 2022 06:32:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及供应部长：埃及与印度达成50万吨小麦的购买协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0019833.d.html</link>
-            <guid>2672050</guid>
-            <pubDate>Sun, 15 May 2022 13:29:05 GMT</pubDate>
+            <title><![CDATA[沪深两市成交额突破7000亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0143823.d.html</link>
+            <guid>2672665</guid>
+            <pubDate>Mon, 16 May 2022 06:31:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿布林肯：只要有需要，就会继续维持对俄罗斯的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0019808.d.html</link>
-            <guid>2672049</guid>
-            <pubDate>Sun, 15 May 2022 13:28:37 GMT</pubDate>
+            <title><![CDATA[零售板块异动拉升，新世界、友好集团涨停，上海九百、徐家汇、农产品、友阿股份、吉峰科技、锦和商业、丽尚国潮、华联股份等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7699055.d.html</link>
+            <guid>2672664</guid>
+            <pubDate>Mon, 16 May 2022 06:30:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外长贝尔伯克：俄罗斯破坏了所有的对话渠道。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7574260.d.html</link>
-            <guid>2672034</guid>
-            <pubDate>Sun, 15 May 2022 13:16:24 GMT</pubDate>
+            <title><![CDATA[伊朗驻俄罗斯大使在接受卫星通讯设采访时表示，伊朗拟扩大俄罗斯谷物的进口，每年可能进口2000多万吨谷物和油料作物。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7698754.d.html</link>
+            <guid>2672663</guid>
+            <pubDate>Mon, 16 May 2022 06:28:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海建工：乌鲁木齐东进场高架道路EPC工程进入大规模吊装连接施工阶段】上海建工消息，在新疆乌鲁木齐，由上海建工旗下市政总院总承包的东进场高架道路EPC工程日新月异，目前正处于标准段大规模吊装连接施工阶段,一期工程计划于明年6月建成。该项目投资额逾70亿元，路线全长约12.9公里，市政总院把先进的桥梁预制装配技术带到了这里，立柱、盖梁、上部梁板结构采用“工厂预制+现场吊装”方式，预制装配率已达90%，一改过去扬尘漫天、搅拌机轰鸣的场景。这也是市政总院迄今为止承接的最大规模的EPC单体项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0018539.d.html</link>
-            <guid>2672033</guid>
-            <pubDate>Sun, 15 May 2022 13:15:05 GMT</pubDate>
+            <title><![CDATA[【新西兰宣布对白俄罗斯领导人和国防实体进行制裁】新西兰外交部长马胡塔当地时间5月16日宣布，作为对俄乌冲突的持续反应的一部分，新西兰政府将对支持俄罗斯在乌克兰采取行动的白俄罗斯个人和国防实体实施制裁。制裁对象包括白俄罗斯总统卢卡申科和军队领导人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0143434.d.html</link>
+            <guid>2672662</guid>
+            <pubDate>Mon, 16 May 2022 06:28:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：土耳其已经明确表示其意图不是阻止芬兰和瑞典加入北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7573797.d.html</link>
-            <guid>2672030</guid>
-            <pubDate>Sun, 15 May 2022 13:12:32 GMT</pubDate>
+            <title><![CDATA[比特币日内跌6％，半小时内跌近1000美元，现报29429美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0143323.d.html</link>
+            <guid>2672661</guid>
+            <pubDate>Mon, 16 May 2022 06:27:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：（回应俄罗斯对北约扩张的潜在报复）密切关注俄罗斯的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0017343.d.html</link>
-            <guid>2672021</guid>
-            <pubDate>Sun, 15 May 2022 13:06:01 GMT</pubDate>
+            <title><![CDATA[港股四环医药转跌，此前涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0143183.d.html</link>
+            <guid>2672660</guid>
+            <pubDate>Mon, 16 May 2022 06:26:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格表示，所有成员国都认同北约的门户开放，所有盟国都同意瑞典和芬兰的加入。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7572714.d.html</link>
-            <guid>2672020</guid>
-            <pubDate>Sun, 15 May 2022 13:05:21 GMT</pubDate>
+            <title><![CDATA[拼多多(PDD.O)：将于5月27日发布截至3月31日的2022年第一季度财报，管理团队将于北京时间晚上7:30分召开财报电话会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0143053.d.html</link>
+            <guid>2672659</guid>
+            <pubDate>Mon, 16 May 2022 06:25:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外长贝尔伯克：德国将通过快速程序批准瑞典和芬兰的申请。过渡阶段需要尽可能的短。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7572346.d.html</link>
-            <guid>2672019</guid>
-            <pubDate>Sun, 15 May 2022 13:02:18 GMT</pubDate>
+            <title><![CDATA[【预告】中共中央宣传部将于5月17日（星期二）上午10时举行“中国这十年”系列主题新闻发布会，请财政部副部长许宏才、审计署副审计长王陆进、国家税务总局副局长王道树介绍财税改革与发展有关情况，并答记者问。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0143035.d.html</link>
+            <guid>2672658</guid>
+            <pubDate>Mon, 16 May 2022 06:25:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外长贝尔伯克：瑞典和芬兰已经是北约的成员国了，只是暂时还没有“会员卡”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7571961.d.html</link>
-            <guid>2672018</guid>
-            <pubDate>Sun, 15 May 2022 12:59:16 GMT</pubDate>
+            <title><![CDATA[【消息称特斯拉将上海工厂产量恢复正常时间推迟一周】据市场消息，根据一份内部备忘录，特斯拉将其上海工厂的生产恢复到因疫情停工前的水平的计划推迟了至少一周。特斯拉原本计划从5月16日起将其上海工厂的日产量提高到2600辆。但最新的备忘录称，该公司上海工厂本周计划维持一个班次，日产量约为1200辆。该公司还表示，现在的目标是从5月23日起将日产量提高到2600辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7698376.d.html</link>
+            <guid>2672657</guid>
+            <pubDate>Mon, 16 May 2022 06:25:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外长贝尔伯克：芬兰和瑞典将“很快”加入北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0016314.d.html</link>
-            <guid>2672017</guid>
-            <pubDate>Sun, 15 May 2022 12:56:46 GMT</pubDate>
+            <title><![CDATA[【韩国4月新能源汽车本土销量同比大增57.7% 连续两个月创历史新高】据韩国产业通商资源部16日发布《4月汽车产业动向》显示，新能源汽车本土销量同比大增57.7%，为3.9624万辆，连续三个月呈现增势，连续两个月刷新历史最高纪录。其中，国产车增加83.6%，为2.8996万辆；进口车增加13.9%，为1.0628万辆。新能源车出口同比大增40.2%，为4.7953万辆，出口额增加42.4%，为13.2亿美元，二者均连续16个月保持增势，创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7698202.d.html</link>
+            <guid>2672656</guid>
+            <pubDate>Mon, 16 May 2022 06:24:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外长贝尔伯克：北约的重要性超过以往任何时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0016300.d.html</link>
-            <guid>2672016</guid>
-            <pubDate>Sun, 15 May 2022 12:56:32 GMT</pubDate>
+            <title><![CDATA[伊朗驻俄罗斯大使向卫星通讯社表示，虽然莫斯科受到制裁，但伊朗也打算扩大对俄贸易和投资规模，两国正在努力克服障碍。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0142723.d.html</link>
+            <guid>2672655</guid>
+            <pubDate>Mon, 16 May 2022 06:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外长贝尔伯克：乌克兰局势将在数十年内持续影响欧洲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0016131.d.html</link>
-            <guid>2672015</guid>
-            <pubDate>Sun, 15 May 2022 12:54:21 GMT</pubDate>
+            <title><![CDATA[【美团回应跑腿骑手与用户纠纷：不辜负善意】近日，上海一美团跑腿骑手和用户的纠纷，引发社会关注。16日，美团外卖回应称，不辜负善意，送好每一单。并表示，目前韩师傅已经正常跑单。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7698071.d.html</link>
+            <guid>2672654</guid>
+            <pubDate>Mon, 16 May 2022 06:22:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国外长贝尔伯克：只要乌克兰有自卫的需求，就不能放松对乌克兰的军事支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7571369.d.html</link>
-            <guid>2672014</guid>
-            <pubDate>Sun, 15 May 2022 12:53:08 GMT</pubDate>
+            <title><![CDATA[澳大利亚S&P/ASX200指数5月16日（周一）收盘上涨17.90点，涨幅0.25%，报7093.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7697915.d.html</link>
+            <guid>2672653</guid>
+            <pubDate>Mon, 16 May 2022 06:21:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及供应部长：正在与印度、澳大利亚、哈萨克斯坦和法国谈判直接购买小麦的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0015972.d.html</link>
-            <guid>2672013</guid>
-            <pubDate>Sun, 15 May 2022 12:52:28 GMT</pubDate>
+            <title><![CDATA[荷兰次日交付的天然气批发合同下跌12.9%，至81欧元/兆瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0142516.d.html</link>
+            <guid>2672652</guid>
+            <pubDate>Mon, 16 May 2022 06:21:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格表示，加入北约的决定取决于瑞典和芬兰本身，瑞典和芬兰的加入将提高北约的安全性。 如果瑞典和芬兰决定申请加入北约，这将是历史性时刻。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7570885.d.html</link>
-            <guid>2672011</guid>
-            <pubDate>Sun, 15 May 2022 12:47:59 GMT</pubDate>
+            <title><![CDATA[【河北廊坊首套房贷利率降至与LPR利率持平 最低可至4.6%】记者从河北廊坊房产中介以及银行信贷工作人员处获悉，廊坊有银行首套房贷利率由5%降至最低4.6%，与5年期以上LPR利率持平。廊坊地区一家大行工作人员表示，该行自今日起首套房贷利率降至4.6%，首付2成；二套房贷利率降至5.2%左右，首付3成。针对周日央行下调首套房贷利率下限为不低于相应期限贷款市场报价利率（LPR）减20个基点的规定，该工作人员表示，目前尚未接到其他调整通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7697429.d.html</link>
+            <guid>2672651</guid>
+            <pubDate>Mon, 16 May 2022 06:19:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及总理：如果国内天然气供应有所盈余，可将额外天然气出口至欧洲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwipik0015229.d.html</link>
-            <guid>2672009</guid>
-            <pubDate>Sun, 15 May 2022 12:45:22 GMT</pubDate>
+            <title><![CDATA[【乌天然气管道运营商：预计16日俄过境乌天然气转运量较前一天下降约1/4】乌克兰天然气管道运营商发布的消息显示，16日过境乌克兰向欧洲输送的俄罗斯天然气将是4680万立方米，较前一天下降约1/4。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwiwst7697366.d.html</link>
+            <guid>2672650</guid>
+            <pubDate>Mon, 16 May 2022 06:19:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度食物与消费事务部：谷物皱缩是由于3月份北部地区的极端热浪导致的自然现象，恶劣的天气条件超出农民的控制范围。因此，政府考虑粮食品质的变化，决定适当放松采购标准以保护农民的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7570486.d.html</link>
-            <guid>2672008</guid>
-            <pubDate>Sun, 15 May 2022 12:44:04 GMT</pubDate>
+            <title><![CDATA[伊朗驻俄罗斯大使对卫星通讯社表示，伊朗或将弥补俄罗斯科技密集型经济领域因西方制裁而出现的赤字。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0141971.d.html</link>
+            <guid>2672649</guid>
+            <pubDate>Mon, 16 May 2022 06:18:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度食物与消费事务部：联邦政府决定将皱缩粒及破损粒小麦的采购标准从原先的6%放宽至18%，且不减价收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-15/detail-imcwiwst7570368.d.html</link>
-            <guid>2672007</guid>
-            <pubDate>Sun, 15 May 2022 12:42:10 GMT</pubDate>
+            <title><![CDATA[科文：将Poshmark(POSH.O)目标价从22美元下调至12美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-16/detail-imcwipik0141810.d.html</link>
+            <guid>2672648</guid>
+            <pubDate>Mon, 16 May 2022 06:17:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
