@@ -4,11 +4,566 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 23 May 2022 16:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 19:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【322家新三板基础层公司正式晋升创新层，创历史新高】23日，322家新三板基础层公司正式晋升创新层，这是今年第二批调整进入创新层的企业。至此，创新层企业数量达到1558家，超过2017年新三板第二年度分层时的创新层企业总数1393家，创造了新三板历史上创新层企业数量的新高。市场人士认为，本次晋级创新层企业的数量应是今年最多，全年创新层的进层主要集中在这一次。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3016537.d.html</link>
+            <guid>2681868</guid>
+            <pubDate>Mon, 23 May 2022 19:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：全球各品牌都应该放弃俄罗斯，来乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3016497.d.html</link>
+            <guid>2681867</guid>
+            <pubDate>Mon, 23 May 2022 19:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  由于蒸汽停运，埃克森巴吞鲁日炼油厂可能会一直关闭到6月1日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4416551.d.html</link>
+            <guid>2681866</guid>
+            <pubDate>Mon, 23 May 2022 19:06:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase：扩大了钱包代币互换交易，已纳入BNB CHAIN和AVALANCHE区块链网络，将在未来几个月进一步扩大互换交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3016079.d.html</link>
+            <guid>2681865</guid>
+            <pubDate>Mon, 23 May 2022 19:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【土总统：土耳其即将发动新一轮跨境军事打击行动】土耳其总统埃尔多安当地时间5月23日表示，土耳其很快就要在其南部边境启动新一轮军事行动，目标是在叙利亚北部建立一个纵深30公里的安全区，“以应对来自这些地区的恐怖主义威胁。”埃尔多安并没透露过多细节，但他明确表示，一旦军事情报部门以及安全部队完成前期准备工作后，将立即启动军事行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4416229.d.html</link>
+            <guid>2681864</guid>
+            <pubDate>Mon, 23 May 2022 19:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美军参谋长联席会议主席：美军重返乌克兰计划仍处于低层级讨论阶段】美军参谋长联席会议主席马克·米利表示，任何在乌克兰重新部署美军的计划都将是“总统的决定”。让美军以任何形式重返乌克兰的计划，比如保护重新开放的美国驻基辅大使馆，都还处于低层级讨论阶段，这些计划还没有提交给国防部部长或米利本人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015597.d.html</link>
+            <guid>2681863</guid>
+            <pubDate>Mon, 23 May 2022 18:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：我们需要武器，需要（国际社会）对俄罗斯采取制裁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015579.d.html</link>
+            <guid>2681862</guid>
+            <pubDate>Mon, 23 May 2022 18:58:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：乌克兰战争对欧洲构成经济衰退风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015352.d.html</link>
+            <guid>2681861</guid>
+            <pubDate>Mon, 23 May 2022 18:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿富汗西部省份启动脊髓灰质炎疫苗接种计划】阿富汗西部省份当地时间24日启动脊髓灰质炎疫苗接种计划。阿临时政府公共卫生部预计，作为目前正在进行的脊髓灰质炎疫苗接种计划的一部分，该国将有近1000万的5岁以下儿童接种疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4415759.d.html</link>
+            <guid>2681860</guid>
+            <pubDate>Mon, 23 May 2022 18:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美军参谋长联席会议主席马克·米利：任何在乌克兰重新部署美军的计划都将是“总统的决定”；让美军以任何形式重返乌克兰的计划，比如保护重新开放的美国驻基辅大使馆，都还处于低层级讨论阶段，这些计划还没有提交给国防部部长或我本人。]]></title>
+            <guid>2681859</guid>
+            <pubDate>Mon, 23 May 2022 18:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：俄罗斯的官员里面我只会见普京，并将只就停止战争这一个问题进行谈话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4415693.d.html</link>
+            <guid>2681858</guid>
+            <pubDate>Mon, 23 May 2022 18:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰首相吕特：希望欧盟27国就对俄罗斯实施的新一轮制裁措施达成一致意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015240.d.html</link>
+            <guid>2681857</guid>
+            <pubDate>Mon, 23 May 2022 18:53:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：以武力夺回克里米亚将导致数十万伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015222.d.html</link>
+            <guid>2681856</guid>
+            <pubDate>Mon, 23 May 2022 18:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰首相吕特：目前关键的是要回到谈判桌前。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015214.d.html</link>
+            <guid>2681855</guid>
+            <pubDate>Mon, 23 May 2022 18:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰首相吕特：欧盟在北爱尔兰协议上表现出了“最大的灵活性”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015202.d.html</link>
+            <guid>2681854</guid>
+            <pubDate>Mon, 23 May 2022 18:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：猴痘疑似病例出现在纽约市、佛罗里达州和犹他州。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015186.d.html</link>
+            <guid>2681853</guid>
+            <pubDate>Mon, 23 May 2022 18:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰首相吕特：完全同意爱尔兰在北爱尔兰协议问题上的立场。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015174.d.html</link>
+            <guid>2681852</guid>
+            <pubDate>Mon, 23 May 2022 18:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰总理：欧盟做好了一切准备以回应英国。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015153.d.html</link>
+            <guid>2681851</guid>
+            <pubDate>Mon, 23 May 2022 18:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：我们在哈尔科夫地区的行动很成功。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015139.d.html</link>
+            <guid>2681850</guid>
+            <pubDate>Mon, 23 May 2022 18:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰总理：欧盟方面希望和英国保持和谐的关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015134.d.html</link>
+            <guid>2681849</guid>
+            <pubDate>Mon, 23 May 2022 18:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：安排任何总统级别的会议变得越来越困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3015117.d.html</link>
+            <guid>2681848</guid>
+            <pubDate>Mon, 23 May 2022 18:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫桑比克上调柴油价格11%，至历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4415537.d.html</link>
+            <guid>2681847</guid>
+            <pubDate>Mon, 23 May 2022 18:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰首相吕特：对英国计划推翻北爱尔兰协议表示遗憾。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3014274.d.html</link>
+            <guid>2681846</guid>
+            <pubDate>Mon, 23 May 2022 18:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国有超过1亿剂ACAM2000天花疫苗以预防猴痘感染。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4414728.d.html</link>
+            <guid>2681845</guid>
+            <pubDate>Mon, 23 May 2022 18:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：美国有超过1000剂JYNNEOS猴痘疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3014247.d.html</link>
+            <guid>2681844</guid>
+            <pubDate>Mon, 23 May 2022 18:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰总理：欧盟和英国必须就协议进行“真诚的”接触。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4414705.d.html</link>
+            <guid>2681843</guid>
+            <pubDate>Mon, 23 May 2022 18:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  智利寻求在不影响绿色目标的情况下增加冶炼铜的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3013970.d.html</link>
+            <guid>2681842</guid>
+            <pubDate>Mon, 23 May 2022 18:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI原油期货收涨0.01%，报110.29美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3013940.d.html</link>
+            <guid>2681841</guid>
+            <pubDate>Mon, 23 May 2022 18:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约商业交易所（NYMEX）柴油6月期货结算价报3.7688美元/加仑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3013821.d.html</link>
+            <guid>2681840</guid>
+            <pubDate>Mon, 23 May 2022 18:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  上期所原油期货收跌0.71%，报695.9元/桶。沪金收涨0.09%， 沪银收跌0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4414264.d.html</link>
+            <guid>2681839</guid>
+            <pubDate>Mon, 23 May 2022 18:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汇丰的Major继续看多债券，称通胀让华尔街的收益率预测乱了阵脚】汇丰控股长期看涨债券的Steven Major认为，一轮收益率飙升过后，美国债券最糟糕的日子可能已经过去。华尔街对收益率的预测一向不太靠谱，现在投资者也应该无视他们的更高收益率预测。事实上，投资者和分析师可能被最近的收益率飙升搞得乱了阵脚。在通胀轨迹仍然不确定的情况下，损失程度和预测历史等其他指标现在可能更具价值。“债券市场刚刚经历的下跌与以前创纪录的抛售并无二致……永远不会有一个指标可以说明一切，但看看以前的预测误差，可能会让一些投资者对基于更高收益率预测而建仓三思而行。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3013590.d.html</link>
+            <guid>2681838</guid>
+            <pubDate>Mon, 23 May 2022 18:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美军参谋长联席会议主席：驻欧美军人数比俄乌冲突前增加30%】美军参谋长联席会议主席马克·米利在新闻发布会上表示，目前约有10.2万名美军驻扎在欧洲行动区，比俄乌冲突开始前的美军人数增加了30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3013451.d.html</link>
+            <guid>2681837</guid>
+            <pubDate>Mon, 23 May 2022 18:27:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，生物科技公司Bavarian Nordic将扩大天花疫苗的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4413261.d.html</link>
+            <guid>2681836</guid>
+            <pubDate>Mon, 23 May 2022 18:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美防长：已有20个国家宣布最新对乌安全援助计划】当地时间5月23日，美国国防部长奥斯汀在其主持的第二次乌克兰联络小组会议结束时表示，有20个国家宣布了新的对乌安全援助计划，将向乌克兰提供火炮弹药、海岸防御系统、坦克和其他装甲车辆。奥斯汀称，其中丹麦已同意向乌克兰提供鱼叉发射器和导弹，捷克也同意向乌克兰提供实质性支持，包括武装直升机、坦克和火箭系统。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4413200.d.html</link>
+            <guid>2681835</guid>
+            <pubDate>Mon, 23 May 2022 18:22:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京下令在8月1日前批准一项开发北部海上航线的计划】当地时间5月23日，据克里姆林宫官网消息，俄罗斯总统普京下令政府在8月1日前批准一项在2035年前开发北部海上航线的计划，并在7月15日之前制定出一份向俄罗斯原子能公司转交北部海上航线集中管理权力的法律草案。此外，普京还指示政府采取一系列举措，为居住在北极地区的俄罗斯公民提供社会基础设施。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4413181.d.html</link>
+            <guid>2681834</guid>
+            <pubDate>Mon, 23 May 2022 18:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：大多数病例都是症状“较温和”的西非毒株。]]></title>
+            <guid>2681833</guid>
+            <pubDate>Mon, 23 May 2022 18:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心将加拿大的新冠旅游警戒级别从低级上调至高级。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3012629.d.html</link>
+            <guid>2681832</guid>
+            <pubDate>Mon, 23 May 2022 18:21:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：确诊了1例猴痘感染病例，有4例疑似病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3012619.d.html</link>
+            <guid>2681831</guid>
+            <pubDate>Mon, 23 May 2022 18:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：美联储目前面临的挑战是，要确定供给和需求何时达到平衡，而不是过度加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3012606.d.html</link>
+            <guid>2681830</guid>
+            <pubDate>Mon, 23 May 2022 18:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：目标是在年底前将联邦基金利率提高到2-2.5%的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3012597.d.html</link>
+            <guid>2681829</guid>
+            <pubDate>Mon, 23 May 2022 18:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：已经看到实体经济对政策作出的良好反应，但需要有更广泛的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4413056.d.html</link>
+            <guid>2681828</guid>
+            <pubDate>Mon, 23 May 2022 18:20:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【墨西哥发生4.7级地震】根据墨西哥国家地震监测中心的信息，当地时间5月23日早上7时37分，墨西哥发生4.7级地震，震源位于墨西哥哈里斯科州（Jalisco）的瓦雅尔塔港（Puerto Vallarta）西南方向约342公里，震源深度约10公里。目前，暂无人员伤亡和财物损失的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3012386.d.html</link>
+            <guid>2681827</guid>
+            <pubDate>Mon, 23 May 2022 18:18:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：预计今年的通胀率仍在3%的高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4411957.d.html</link>
+            <guid>2681826</guid>
+            <pubDate>Mon, 23 May 2022 18:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：市场分析师对经济发展路径有“广泛的看法”，这是市场波动的其中一个来源。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3011414.d.html</link>
+            <guid>2681825</guid>
+            <pubDate>Mon, 23 May 2022 18:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO Dimon：美联储几乎不得不实施量化紧缩（QT），外部流动性过多。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4411717.d.html</link>
+            <guid>2681824</guid>
+            <pubDate>Mon, 23 May 2022 18:04:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：如果通胀仍然很高，对于更激进的行动保持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3010991.d.html</link>
+            <guid>2681822</guid>
+            <pubDate>Mon, 23 May 2022 18:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥外交部长埃布拉德表示，墨西哥希望海湾主权财富基金进行更多投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3010914.d.html</link>
+            <guid>2681821</guid>
+            <pubDate>Mon, 23 May 2022 18:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：可能在9月暂停加息，具体要看通胀的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3010896.d.html</link>
+            <guid>2681820</guid>
+            <pubDate>Mon, 23 May 2022 18:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：在接下来的几次会议中，50个基点的加息幅度是可以接受的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4411436.d.html</link>
+            <guid>2681819</guid>
+            <pubDate>Mon, 23 May 2022 18:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：如果通货膨胀持续高企，9月可能加息25或50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4411420.d.html</link>
+            <guid>2681818</guid>
+            <pubDate>Mon, 23 May 2022 18:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：:金融市场已经进行了相当大的调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4411407.d.html</link>
+            <guid>2681817</guid>
+            <pubDate>Mon, 23 May 2022 18:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【意大利总理德拉吉会见保加利亚总理佩特科夫】意大利总理德拉吉于罗马会见来访的保加利亚总理佩特科夫。意大利总理府发布消息称，双方会谈的主要内容是乌克兰局势、避免粮食危机持续的必要性、西巴尔干国家加入欧盟的进程以及进一步巩固双边合作等问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3010085.d.html</link>
+            <guid>2681816</guid>
+            <pubDate>Mon, 23 May 2022 17:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿美石油公司首席执行官表示，即使在乌克兰危机之前，由于投资不足，能源供应形势已经处于危机之中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3010067.d.html</link>
+            <guid>2681815</guid>
+            <pubDate>Mon, 23 May 2022 17:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 黄金期货收涨0.3%，连续第三个交易日上涨，报1847.80美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4410597.d.html</link>
+            <guid>2681814</guid>
+            <pubDate>Mon, 23 May 2022 17:50:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿美石油公司首席执行官表示，全世界的闲置石油产能不足2%，飞机燃油消耗量恢复到疫情前的水平将使世界几乎没有多余的石油产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4410443.d.html</link>
+            <guid>2681813</guid>
+            <pubDate>Mon, 23 May 2022 17:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【富国银行：未来几周美元涨势将会停顿并进入盘整走势】富国银行认为，未来几周，随着投资者消化令人失望的经济数据，以及对美联储鹰派程度的预期达到顶峰，美元涨势将会停顿并进入盘整走势。富国银行外汇策略师Erik Nelson在周一的报告中写道，鉴于美联储已经暗示可能在未来两次会议上每次加息50个基点，并降低了以更大幅度加息的可能性，所以美元近期内不太可能上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3009817.d.html</link>
+            <guid>2681812</guid>
+            <pubDate>Mon, 23 May 2022 17:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总理埃尔多安：将沿着南部边境发起新的军事行动，建立30公里深的安全区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4408718.d.html</link>
+            <guid>2681811</guid>
+            <pubDate>Mon, 23 May 2022 17:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受俄乌局势影响欧洲最大食盐生产商已停止营业】当地时间5月23日，据乌克兰UNIAN通讯社消息，欧洲最大的食盐生产商、乌克兰国有企业阿尔乔姆盐业（Artemsol）因受俄乌局势影响，4月已停止营业。该企业负责人维克多·尤林表示，暂停营业的影响将波及乌克兰国内外。该企业固定供应的国家包括匈牙利、波兰、格鲁吉亚等。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4408638.d.html</link>
+            <guid>2681810</guid>
+            <pubDate>Mon, 23 May 2022 17:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【非洲大象保护会议开幕 津巴布韦拟游说解除象牙贸易禁令】为期三天的非洲大象保护会议在津巴布韦万基国家公园开幕。在本届会议上，津巴布韦试图游说各方允许该国出售其查获的象牙库存。由于长期存在的人象冲突，津巴布韦和一些非洲国家正在游说取消象牙贸易禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3007998.d.html</link>
+            <guid>2681809</guid>
+            <pubDate>Mon, 23 May 2022 17:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国家天然气运输运营商：俄罗斯天然气工业股份公司已将5月24日的运输能力从此前预订的66.26万立方米降至4496万立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3007212.d.html</link>
+            <guid>2681808</guid>
+            <pubDate>Mon, 23 May 2022 17:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：可能美联储需要对加息采取“超级强硬”的态度，但这不是基本预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4407545.d.html</link>
+            <guid>2681807</guid>
+            <pubDate>Mon, 23 May 2022 17:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：美联储致力于实现“软着陆”，这其中的难度很大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3006854.d.html</link>
+            <guid>2681806</guid>
+            <pubDate>Mon, 23 May 2022 17:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储逆回购工具使用规模突破2万亿美元】美联储逆回购工具使用规模为2.045万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4407365.d.html</link>
+            <guid>2681805</guid>
+            <pubDate>Mon, 23 May 2022 17:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：目标是不对就业市场造成过度的损害。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3006324.d.html</link>
+            <guid>2681804</guid>
+            <pubDate>Mon, 23 May 2022 17:14:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：美联储需要做好准备，根据经济的反应，或快或慢地调整利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3005716.d.html</link>
+            <guid>2681803</guid>
+            <pubDate>Mon, 23 May 2022 17:07:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：通胀的演变是决定美联储政策的重要驱动因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3005664.d.html</link>
+            <guid>2681802</guid>
+            <pubDate>Mon, 23 May 2022 17:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：认为美联储内部关于通胀前景的观点是“多样化”的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4406267.d.html</link>
+            <guid>2681801</guid>
+            <pubDate>Mon, 23 May 2022 17:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：乌克兰危机对美联储来说是“另一个巨大的不确定性来源”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4406253.d.html</link>
+            <guid>2681800</guid>
+            <pubDate>Mon, 23 May 2022 17:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：乌克兰冲突的全面影响尚未显现，工业投入价格的上行压力即将到来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4406234.d.html</link>
+            <guid>2681799</guid>
+            <pubDate>Mon, 23 May 2022 17:06:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国计划在三周内立法反对脱欧协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4405993.d.html</link>
+            <guid>2681798</guid>
+            <pubDate>Mon, 23 May 2022 17:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨0.39%，沪铜收涨0.25%，沪铝收跌1.05%，沪锌收涨0.08%，沪铅收平，沪镍收跌0.54%，沪锡收跌0.64%。不锈钢夜盘收跌1.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3005079.d.html</link>
+            <guid>2681797</guid>
+            <pubDate>Mon, 23 May 2022 17:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度证券交易委员会允许共同基金推出被动型基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3004914.d.html</link>
+            <guid>2681796</guid>
+            <pubDate>Mon, 23 May 2022 17:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【诺奖得主斯蒂格利茨警告：全球通胀冲击严重程度比70年代“严重一个数量级”】 在达沃斯世界经济论坛年会期间，诺贝尔经济学奖得主斯蒂格利茨表示，当前的物价上涨比1970年代“严重一个数量级”。曾任世界银行首席经济学家的斯蒂格利茨表示，央行对这场危机“完全没有做好准备”，这场危机比1970年代更糟糕，因为它不仅仅事关石油，而是粮食、石油和covid-19供应动荡的大杂烩。哈佛大学教授、前白宫经济顾问委员会主席Jason Furman也表示：“我们正在回归更古老的货币政策时代。就业的优先级远远高于通胀——通胀无足轻重……这是一个伤痕累累的教训，除非通胀在未来六个月内消失，否则央行领导们会记20到30年——我们千万不能好了伤疤忘了痛。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4405545.d.html</link>
+            <guid>2681795</guid>
+            <pubDate>Mon, 23 May 2022 17:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：仍未感受到乌克兰危机对供应链的全面影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4405493.d.html</link>
+            <guid>2681794</guid>
+            <pubDate>Mon, 23 May 2022 16:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：要让过多的现金从家庭银行账户流出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3004798.d.html</link>
+            <guid>2681793</guid>
+            <pubDate>Mon, 23 May 2022 16:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：企业产出仍无法满足需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3004788.d.html</link>
+            <guid>2681792</guid>
+            <pubDate>Mon, 23 May 2022 16:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：美联储在平衡供需方面面临考验和挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4405211.d.html</link>
+            <guid>2681791</guid>
+            <pubDate>Mon, 23 May 2022 16:55:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国军方发言人Milley：美国距离重新向乌克兰派遣美军仍有一段距离。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4405199.d.html</link>
+            <guid>2681790</guid>
+            <pubDate>Mon, 23 May 2022 16:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国军方发言人Milley：美国有充足的武器储备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4405178.d.html</link>
+            <guid>2681789</guid>
+            <pubDate>Mon, 23 May 2022 16:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阿富汗将重启该国护照发放工作】阿富汗护照总局新闻主任沙菲乌拉塔萨尔当地时间23日表示，300万本的五年期护照将在两周内抵达喀布尔，该部门已经与联合国阿富汗援助团就护照运输至阿富汗的问题进行了会谈。沙菲乌拉塔萨尔说：“这些护照应该已经在运输的路上了，未来几天它们将被运到阿富汗。当新护照到达时，阿富汗的护照管理部门将重新开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4405163.d.html</link>
+            <guid>2681788</guid>
+            <pubDate>Mon, 23 May 2022 16:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  LME期铜收涨126美元，报9548美元/吨；LME期铝收涨10美元，报2956美元/吨；LME期锌收涨79美元，报3786美元/吨；LME期铅收涨32美元，报2192美元/吨；LME期镍收跌241美元，报27732美元/吨；LME期锡收跌51美元，报34614美元/吨。]]></title>
+            <guid>2681787</guid>
+            <pubDate>Mon, 23 May 2022 16:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【桥水基金联席首席投资官警告市场“过于乐观”】尽管市场经历了数周动荡，债券和股市双双下跌，但全球最大对冲基金桥水基金的联席首席投资官Greg Jensen表示，市场仍然“过于乐观”，投资者还没有适应通胀上升且增长放缓这种“长期变化”。Jensen在最新一期Odd Lots播客中警告称，美联储加息和收缩资产负债表以应对数十年来最高通胀对资产价格而言是一种有毒组合。尽管市场已经出现了上述变动，但Jensen表示，投资者实际上仅仅是为一个相对平稳的着陆情境做好了准备，即美联储能够在不引发经济衰退的情况下降低通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4404867.d.html</link>
+            <guid>2681786</guid>
+            <pubDate>Mon, 23 May 2022 16:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员图米：我还没有就对巴尔美联储监管副主席提名的投票方式作出决定，计划与巴尔作进一步会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3003895.d.html</link>
+            <guid>2681785</guid>
+            <pubDate>Mon, 23 May 2022 16:48:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：通胀太高了，我们需要降低通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3003865.d.html</link>
+            <guid>2681784</guid>
+            <pubDate>Mon, 23 May 2022 16:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀：丹麦向乌克兰运送了AGM—84（Harpoon）反舰导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3003846.d.html</link>
+            <guid>2681783</guid>
+            <pubDate>Mon, 23 May 2022 16:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国央行行长维勒鲁瓦：最近人们对加密货币“失去了信任”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3003491.d.html</link>
+            <guid>2681782</guid>
+            <pubDate>Mon, 23 May 2022 16:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃呼吁建立连接各国央行数字货币的公共平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4404078.d.html</link>
+            <guid>2681781</guid>
+            <pubDate>Mon, 23 May 2022 16:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀：意大利、希腊和波兰（正向乌克兰）运送新的火炮系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4404028.d.html</link>
+            <guid>2681780</guid>
+            <pubDate>Mon, 23 May 2022 16:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀：已有20个国家宣布向乌克兰提供新的安全援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3003367.d.html</link>
+            <guid>2681779</guid>
+            <pubDate>Mon, 23 May 2022 16:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员图米：预计美联储监管副主席提名人迈克尔·巴尔将得到确认。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3003353.d.html</link>
+            <guid>2681778</guid>
+            <pubDate>Mon, 23 May 2022 16:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国猴痘确诊病例增至57例】当地时间23日，据英国媒体报道，英国新增猴痘确诊病例36例，累计确诊57例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3002854.d.html</link>
+            <guid>2681777</guid>
+            <pubDate>Mon, 23 May 2022 16:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利能源部长：意大利将要求欧盟允许农民出售能源盈余。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4403133.d.html</link>
+            <guid>2681776</guid>
+            <pubDate>Mon, 23 May 2022 16:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业内人士：房贷利率调整的信号意义更大】继5月20日5年期以上LPR超预期下调后，北京、深圳等多城市房贷利率随之下调。接受记者采访的业内人士认为，房贷利率调整的信号意义更大，因为大部分城市都没有执行下调首套房贷利率下限的最低标准，只有楼市成交低迷的城市执行了“降息+降低标准”政策。不仅新发放的首套房贷利率需要下调，存量的房贷利率也需要有所下调，另外，市场更期望看到二套房认定标准的调整及相应利率的下调，这样市场才能加速稳定。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4403101.d.html</link>
+            <guid>2681775</guid>
+            <pubDate>Mon, 23 May 2022 16:31:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【普京与卢卡申科结束在索契的正式会谈】俄罗斯总统普京与白俄罗斯总统卢卡申科当地时间23日在索契的正式会谈结束，会谈时间持续4小时50分钟。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4402643.d.html</link>
@@ -50,557 +605,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3000726.d.html</link>
             <guid>2681768</guid>
             <pubDate>Mon, 23 May 2022 16:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克首席执行官Friedman：美联储致力于抑制通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4401135.d.html</link>
-            <guid>2681767</guid>
-            <pubDate>Mon, 23 May 2022 16:10:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数涨幅达2%，纳斯达克综合指数现涨1.69%，道指涨2.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3000389.d.html</link>
-            <guid>2681766</guid>
-            <pubDate>Mon, 23 May 2022 16:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  COINBASE表示未来几个月将进一步扩大掉期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu3000335.d.html</link>
-            <guid>2681765</guid>
-            <pubDate>Mon, 23 May 2022 16:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一（5月23日），ICE英国天然气期货收跌8.74%，报135.03便士/千卡。ICE柴油期货收涨0.28%，报1071.00美元/吨。德国未来一个月电价欧市尾盘跌4.17%，报184.00欧元。德国未来一年电价跌3.29%，报220.50欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4400721.d.html</link>
-            <guid>2681764</guid>
-            <pubDate>Mon, 23 May 2022 16:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲作物监测机构将2022年欧盟软质小麦产量预测从上月的5.95吨/公顷下调至5.89吨/公顷；将2022年欧盟全大麦(冬+春)产量预测从上个月的4.97吨/公顷下调至4.89吨/公顷。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4400674.d.html</link>
-            <guid>2681763</guid>
-            <pubDate>Mon, 23 May 2022 16:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国民主党参议员Merkley新冠检测结果呈阳性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu2999927.d.html</link>
-            <guid>2681762</guid>
-            <pubDate>Mon, 23 May 2022 16:04:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件】2022年5月24日 周二① 07:30 美联储乔治发表讲话② 15:15 法国5月制造业PMI初值③ 15:30 德国5月制造业PMI初值④ 16:00 欧元区5月制造业PMI初值⑤ 16:30 英国5月制造业PMI⑥ 16:30 英国5月服务业PMI⑦ 18:00 英国5月CBI零售销售差值⑧ 21:45 美国5月Markit制造业PMI初值⑨ 21:45 美国5月Markit服务业PMI初值⑩ 22:00 美国4月新屋销售总数年化⑪ 22:00 美国5月里奇蒙德联储制造业指数⑫ 次日00:20 美联储主席鲍威尔发表讲话⑬ 次日04:30 美国至5月20日当周API原油库存。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizirau4400524.d.html</link>
-            <guid>2681761</guid>
-            <pubDate>Mon, 23 May 2022 16:04:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国天然气期货继续上涨，价格上涨5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-24/detail-imizmscu2999496.d.html</link>
-            <guid>2681760</guid>
-            <pubDate>Mon, 23 May 2022 16:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【麦迪科技：拟定增募资不超2.39亿元 实控人将变为绵阳市安州区国资委】麦迪科技公告，公司拟向皓祥控股非公开发行股票募资不超2.39亿元，用于补充流动资金和偿还有息借款。同时，皓祥控股与翁康、严黄红、汪建华、傅洪签署《股份转让协议》，受让公司7.63%的股份。此次非公开发行及转让股份完成后，皓祥控股将持有公司16.03%股份；公司现有控股股东、实控人翁康将持有公司9.01%股份。公司控股股东将变更为皓祥控股，实控人将变更为绵阳市安州区国资委。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4400013.d.html</link>
-            <guid>2681759</guid>
-            <pubDate>Mon, 23 May 2022 15:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克CEO：美联储“致力于”抑制通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2999252.d.html</link>
-            <guid>2681758</guid>
-            <pubDate>Mon, 23 May 2022 15:55:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根大通预计第二季度市场收入同比增长20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2999202.d.html</link>
-            <guid>2681757</guid>
-            <pubDate>Mon, 23 May 2022 15:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国卫生安全局表示，在英国又发现了36例猴痘病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4399655.d.html</link>
-            <guid>2681756</guid>
-            <pubDate>Mon, 23 May 2022 15:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[索菱股份公告，高新投5月20日通过大宗交易方式累计减持公司2%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4399641.d.html</link>
-            <guid>2681755</guid>
-            <pubDate>Mon, 23 May 2022 15:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨超700点，金融类成分股摩根大通涨超7.5%领跑、高盛涨约4.3%、美国运通涨超3.7%，可口可乐和卡特彼勒涨约3.4%，沃尔玛涨约2.9%，陶氏化学仍然跌0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4399479.d.html</link>
-            <guid>2681754</guid>
-            <pubDate>Mon, 23 May 2022 15:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿布扎比警方表示：阿布扎比天然气爆炸造成2人死亡，120人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4399349.d.html</link>
-            <guid>2681753</guid>
-            <pubDate>Mon, 23 May 2022 15:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧股收盘普涨】欧股收盘普涨，德国DAX30指数涨1.41%，英国富时100指数涨1.6%，法国CAC40指数涨1.17%，欧洲斯托克50指数涨1.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4399147.d.html</link>
-            <guid>2681752</guid>
-            <pubDate>Mon, 23 May 2022 15:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗临时政府要求印度断绝与阿前政府的联系】当地时间23日，阿富汗临时政府驻多哈政治办公室主任苏海尔·沙欣在接受采访时表示，印度应切断与阿前总统加尼政府的所有联系，并在国家和共同利益的基础上与阿富汗临时政府建立联系。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4399002.d.html</link>
-            <guid>2681751</guid>
-            <pubDate>Mon, 23 May 2022 15:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[立陶宛总统下令从6月1日起召回驻俄罗斯大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398905.d.html</link>
-            <guid>2681750</guid>
-            <pubDate>Mon, 23 May 2022 15:39:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【葡萄牙已确诊37例猴痘病例】葡萄牙国家卫生总局23日报告称，该国新增确诊14例猴痘病例，截至目前该国已确诊37例猴痘病例，其中35例位于里斯本和塔霍河谷大区，北部大区和阿尔加维大区各出现1例确诊病例，该国仍有更多疑似猴痘感染病例在等待检测结果。葡萄牙国家卫生总局在声明中表示，目前该国的猴痘感染病例病情稳定，当局正在进行猴痘疫情的流行病学调查，以确认猴痘病毒的传播链。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398835.d.html</link>
-            <guid>2681749</guid>
-            <pubDate>Mon, 23 May 2022 15:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：我们需要为医疗保健和经济发展制定更多的长期政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2998150.d.html</link>
-            <guid>2681748</guid>
-            <pubDate>Mon, 23 May 2022 15:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：对加密货币的一些产品不太确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398751.d.html</link>
-            <guid>2681747</guid>
-            <pubDate>Mon, 23 May 2022 15:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：我们喜欢加密货币背后的技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398740.d.html</link>
-            <guid>2681746</guid>
-            <pubDate>Mon, 23 May 2022 15:37:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖6个月期国债，得标利率1.530%，投标倍数3.07（前次为3.09）。]]></title>
-            <guid>2681745</guid>
-            <pubDate>Mon, 23 May 2022 15:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国央行行长内格尔：下半年德国将达成更高的工资目标。]]></title>
-            <guid>2681744</guid>
-            <pubDate>Mon, 23 May 2022 15:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国央行行长内格尔：下半年德国将达成更高的工资目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398446.d.html</link>
-            <guid>2681743</guid>
-            <pubDate>Mon, 23 May 2022 15:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国央行行长内格尔：德国的工资控制已经结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2997810.d.html</link>
-            <guid>2681742</guid>
-            <pubDate>Mon, 23 May 2022 15:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西方官员表示，任何让船只将粮食运出敖德萨的安全通道的决定都需要俄罗斯的同意。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398420.d.html</link>
-            <guid>2681741</guid>
-            <pubDate>Mon, 23 May 2022 15:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Statista全球消费者调查，通货膨胀是全球多个国家居民最关心的问题。数据显示，俄罗斯人对通胀的担忧最大，紧随其后的是阿根廷，媒体预计到 2022年底，阿根廷的通胀率将至少达到60%，自年初以来贫困率上升了43%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2997731.d.html</link>
-            <guid>2681740</guid>
-            <pubDate>Mon, 23 May 2022 15:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【孙春兰在北京调研时强调 采取更加彻底的措施 加快实现社会面清零】中共中央政治局委员、国务院副总理孙春兰23日到北京市调研指导疫情防控工作，转达党中央、国务院对抗疫一线广大医务人员和干部群众的问候。她来到海淀区、东城区实地考察发生聚集性疫情的五道口购物中心、海淀街道友谊社区、东方新天地商业区，了解重点场所疫情防控、社区封控、风险人员流调排查和转运隔离等情况，到区疫情防控指挥部召开座谈会，研究加快推动各项防控措施落实。她强调，各级党政干部要深入贯彻习近平总书记关于疫情防控的一系列重要指示精神，落实党中央、国务院决策部署，坚持“动态清零”总方针，加快流调、转运、隔离速度，刻不容缓、以快制快，尽快实现社会面清零，保障人民群众健康安全和正常生产生活秩序。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398296.d.html</link>
-            <guid>2681739</guid>
-            <pubDate>Mon, 23 May 2022 15:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰天然气系统运营商：顿涅茨克和卢甘斯克地区的主要天然气管道在遭受俄罗斯炮击受损后，暂停了天然气供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398197.d.html</link>
-            <guid>2681738</guid>
-            <pubDate>Mon, 23 May 2022 15:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基办公室：德拉基与保加利亚总理讨论了俄乌局势和应对粮食危机的必要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398137.d.html</link>
-            <guid>2681737</guid>
-            <pubDate>Mon, 23 May 2022 15:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：让全球经济更加环保是一项艰巨的任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2997439.d.html</link>
-            <guid>2681736</guid>
-            <pubDate>Mon, 23 May 2022 15:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：监管加密资产现在是一个紧急问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2997420.d.html</link>
-            <guid>2681735</guid>
-            <pubDate>Mon, 23 May 2022 15:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：欧洲央行的政策不是以汇率为目标的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398020.d.html</link>
-            <guid>2681734</guid>
-            <pubDate>Mon, 23 May 2022 15:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：我们没有设定汇率目标，但汇率很重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4398003.d.html</link>
-            <guid>2681733</guid>
-            <pubDate>Mon, 23 May 2022 15:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国10年期国债收益率升至日内高点2.859%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4397899.d.html</link>
-            <guid>2681732</guid>
-            <pubDate>Mon, 23 May 2022 15:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  惠誉确认美国金融为“B+”；将前景修改为负面。]]></title>
-            <guid>2681731</guid>
-            <pubDate>Mon, 23 May 2022 15:26:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数触及逾五个月高位】波罗的海干散货运价指数周一上扬，触及逾五个月高位，因海岬型船运价指数上扬。波罗的海整体干散货运价指数上张25点或0.8%，至3369点，为12月8日以来高位。海岬型船运价指数上涨76点，或1.7%，至4602点。海岬型船日均获利增加631美元，至38169美元。巴拿马型船运价指数下滑5点或0.2%，至3377点。巴拿马型船日均获利下跌48美元，至30392美元。超灵便型散货船运价指数上涨2点，至2818点。灵便型船运价指数上扬2点，报1664点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4397624.d.html</link>
-            <guid>2681730</guid>
-            <pubDate>Mon, 23 May 2022 15:22:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑英镑EUR/GBP向上触及0.85，日内涨0.65%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2996913.d.html</link>
-            <guid>2681729</guid>
-            <pubDate>Mon, 23 May 2022 15:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯财政部：鉴于本币卢布汇率趋于稳定，宣布调整现有的外汇销售强制政策，将出口商售汇（占比）从80%下调至50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4397322.d.html</link>
-            <guid>2681728</guid>
-            <pubDate>Mon, 23 May 2022 15:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总检察长表示，目前约有1.3万起俄罗斯涉嫌的战争罪正在被调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4397306.d.html</link>
-            <guid>2681727</guid>
-            <pubDate>Mon, 23 May 2022 15:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加密货币交易所FTX在进军股票交易之际悄悄收购券商初创公司】据知情人士透露，FTX已就收购事宜接洽了至少三家私人控股的交易初创企业。此前FTX首席执行官购买了美国著名网络券商Robinhood的股份。散户交易者越来越多地投资于加密货币和股票，经纪公司也一直在将这两种资产类别合在一起（提供服务）。一位消息人士称，谈判仍处于初期阶段，尚未达成投资意向书。FTX近几个月接洽的公司包括Webull、Apex Clearing和Public.com。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4397151.d.html</link>
-            <guid>2681726</guid>
-            <pubDate>Mon, 23 May 2022 15:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨幅扩大至2%。银行股领涨，摩根大通、花旗集团、美国银行均涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4397047.d.html</link>
-            <guid>2681725</guid>
-            <pubDate>Mon, 23 May 2022 15:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美民调：美国总统拜登的支持率创新低】根据美国选举预测机构决策台总部（DECISION DESK HQ）当地时间23日发布的一项民意调查，美国总统拜登的支持率日前创下新低。该民调显示，57%的注册选民表示不赞成拜登的工作表现。其中，40%的人表示“强烈不赞成”，17%的人表示“有些不赞成”。同时，22日发布的哥伦比亚广播公司（CBS）民意调查显示，拜登的支持率仅为43%，不支持率高达57%。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4397011.d.html</link>
-            <guid>2681724</guid>
-            <pubDate>Mon, 23 May 2022 15:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国已确诊4例猴痘病例 相关部门或将于24日提出隔离建议】德国已确诊4例猴痘病例，其中柏林3例，慕尼黑1例。对此，德国联邦卫生部发言人表示，德国疾控机构罗伯特·科赫研究所正在对防疫建议进行研究，包括是否建议对确诊者和密接人群进行隔离，以及建议哪些人接种天花疫苗。据德国联邦卫生部长劳特巴赫透露，罗伯特·科赫研究所有望在24日给出具体的建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4396636.d.html</link>
-            <guid>2681723</guid>
-            <pubDate>Mon, 23 May 2022 15:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为13，表明市场处在极度恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4396564.d.html</link>
-            <guid>2681722</guid>
-            <pubDate>Mon, 23 May 2022 15:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，加密货币交易所FTX寻求收购券商初创企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2995706.d.html</link>
-            <guid>2681721</guid>
-            <pubDate>Mon, 23 May 2022 15:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉加德的加息计划让欧洲央行希望动作更快的部分人士感到不快】据知情人士透露，欧洲央行行长拉加德“可能两次加息25个基点”的说法已经惹恼了那些希望更快加息的委员。尽管近几周来，欧洲央行的政策制定者越来越认同在7月21日的会议上首次加息的可能性，但他们几乎没有提到可能会像美联储那样，更激进地加息50个基点。在全球经济环境迅速变化的背景下，货币政策背后可能随时出现紧张局势。欧元区的通货膨胀率现在达到了7.4%，世界各地的其他央行现在大多也已经进入紧缩政策模式。因此，许多欧洲央行委员认为需要更快地加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4396260.d.html</link>
-            <guid>2681720</guid>
-            <pubDate>Mon, 23 May 2022 15:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：大宗商品（市场）的混乱还将延续。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2995305.d.html</link>
-            <guid>2681719</guid>
-            <pubDate>Mon, 23 May 2022 15:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：开始看到大宗商品供过于求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2995234.d.html</link>
-            <guid>2681718</guid>
-            <pubDate>Mon, 23 May 2022 15:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【君实生物：VV116用于轻中度 COVID-19 的早期治疗达到临床方案预设的主要终点】君实生物公告，控股子公司上海君拓生物医药科技有限公司（“君拓生物”）与苏州旺山旺水生物医药有限公司（“旺山旺水”）合作开发的产品口服核苷类抗SARSCoV-2药物VV116片（项目代号：JT001/VV116，简称“VV116”）在一项对比奈玛特韦片/利托那韦片（即PAXLOVID）用于轻中度新型冠状病毒肺炎（“COVID-19”）早期治疗的III期注册临床研究（NCT05341609）达到方案预设的主要终点。公司将于近期与监管部门沟通递交新药上市申请事宜。]]></title>
-            <guid>2681717</guid>
-            <pubDate>Mon, 23 May 2022 15:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【科陆电子：拟向美的集团定增募资不超13.86亿元 实控人将变更为何享健】科陆电子公告，公司拟向美的集团非公开发行股票募资不超过13.86亿元，扣除发行费用后的净额将全部用于偿还有息负债。同时，美的集团与公司控股股东及实控人深圳资本集团签署《表决权委托协议》，深圳资本集团拟将其持有的公司8.95%股份对应的表决权委托给美的集团。本次发行完成后，美的集团将持有公司29.96%的股份及表决权，成为公司控股股东，公司实控人将变更为何享健。公司股票将于5月24日起复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2995175.d.html</link>
-            <guid>2681716</guid>
-            <pubDate>Mon, 23 May 2022 15:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至23:00收盘，国内期货主力合约跌多涨少。菜粕跌超3%，液化石油气（LPG）、焦炭、焦煤跌超2%，豆粕、低硫燃料油（LU）、燃油、玻璃跌近2%；涨幅方面，豆一涨近1%。]]></title>
-            <guid>2681715</guid>
-            <pubDate>Mon, 23 May 2022 15:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国副总理兼经济部长哈贝克表示，希望欧盟“在几天内”同意对俄罗斯石油实施禁运。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2994781.d.html</link>
-            <guid>2681714</guid>
-            <pubDate>Mon, 23 May 2022 14:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[君实生物：VV116用于轻中度 COVID-19 的早期治疗达到临床方案预设的主要终点，将于近期与药物监管部门沟通递交新药上市申请事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4395444.d.html</link>
-            <guid>2681713</guid>
-            <pubDate>Mon, 23 May 2022 14:58:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国经济部长：必须寻找能源安全与其他问题的共同解决方案】德国副总理兼经济与气候保护部部长哈贝克在参加世界经济论坛年会时表示，必须寻找能源安全与其他问题的共同解决方案。哈贝克在当天的讲话中指出：“我们目前面临四个问题：高通胀、能源危机、粮食危机和气候危机。光关注其中一个方面是没有办法解决危机的。”在他看来，想要摆脱对俄罗斯的能源依赖，欧洲必须找到统一的方案。目前，匈牙利仍然不支持对俄罗斯实行石油禁运。另外，参与能源危机讨论的专家和政要一致认为，必须迅速扩大可再生能源的生产，否则无法解决任何重要问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2994682.d.html</link>
-            <guid>2681712</guid>
-            <pubDate>Mon, 23 May 2022 14:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据最近发布年度富豪榜的《星期日泰晤士报》报道，英国前十名最富有的人比以往任何时候都更加富有。数据显示，英国前十位亿万富翁的财富从2009年的477.7亿英镑增长到2022年的1820亿英镑，增幅281%。在2008年金融危机后，英国亿万富翁的财富稳定增长，尽管新冠疫情使英国经济在2020年二季度萎缩了20.4%，但这种上升趋势仍在继续。英国250名超级富豪的集体财富在2022年飙升至创纪录的6530亿英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2994493.d.html</link>
-            <guid>2681711</guid>
-            <pubDate>Mon, 23 May 2022 14:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德称，加息计划让欧洲央行希望动作更快的部分人士感到不快。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4395161.d.html</link>
-            <guid>2681710</guid>
-            <pubDate>Mon, 23 May 2022 14:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天齐锂业董事长蒋卫平回应：雅江措拉锂矿前期工程在加快推进】前不久，起拍价335.29万元而成交价20亿元的一场锂矿企业拍卖会，震惊市场内外。这场拍卖会上的重要“看点”即斯诺威锂矿脉，而天齐锂业的雅江措拉锂矿则与之临近。在年度股东大会上，记者就相关问题采访了天齐锂业董事长蒋卫平。“20亿元的拍卖，还要承担债务，仅是探矿权，不敢说对，还是不对，只能说远远超出想象。可能为了锂矿有一点不顾一切的感觉，但我希望它（对行业）是好的事情。”蒋卫平表示，“最近我们也去了那边考察，对于雅江措拉锂矿的开采进度，我们正在加快推进前期工程，设计单位的比选，投资意向的确定等方面已经接洽了很久。”蒋卫平表示。(每日经济新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2994360.d.html</link>
-            <guid>2681709</guid>
-            <pubDate>Mon, 23 May 2022 14:53:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国考虑动用紧急柴油储备以缓和油价】拜登政府正在考虑动用应急柴油储备以缓解供应紧张，这项措施此前很少使用。白宫正在考虑宣布紧急状态，使其可以使用位于新英格兰地区的东北家庭取暖石油储备。一位白宫官员说，该储备中有100万桶超低硫馏分油。虽然储备只够夏季东海岸地区一天的供应，而且可能不会大幅降低柴油价格，但其可以防止燃料现货供应中断。近几周，柴油库存已跌至历史低点，柴油和航空燃油价格的上涨提高了从卡车运输到农业和航空旅行等方面的成本，并加剧了通胀压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4395069.d.html</link>
-            <guid>2681708</guid>
-            <pubDate>Mon, 23 May 2022 14:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：欧洲正在应对供应链中断和能源危机的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2994313.d.html</link>
-            <guid>2681707</guid>
-            <pubDate>Mon, 23 May 2022 14:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：可能在近期加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4394967.d.html</link>
-            <guid>2681706</guid>
-            <pubDate>Mon, 23 May 2022 14:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国新款洗衣机均价破万元人民币 韩国家电企业抬价保盈利】随着原材料价格和物流成本上升，韩国制造企业的经营压力不断加剧，LG电子等家电企业只好通过提高产品售价等方式来确保盈利。记者了解到，以本月起陆续上市的多款大容量洗衣机为例，平均价格已经突破了190万韩元、约合人民币一万元，与去年夏天推出的容量相近的系列产品相比，涨价幅度接近两成。据韩国金融监督院最近公开的韩国上市公司一季报，随着钢、铜、塑料等原材料价格大涨，LG电子和三星电子两大家电企业的主要家电产品售价也呈现全面涨势。雪上加霜的是，近年来韩国很多家电产品都已实现了智能化，对芯片的依赖程度较高。近期由于芯片的供应持续紧张，韩国部分新款家电从订购到发货的时间延长到1个月以上。 (央视财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4394941.d.html</link>
-            <guid>2681705</guid>
-            <pubDate>Mon, 23 May 2022 14:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丁二烯贸易商：月出口增逾1万吨 订单排到6月】3月以来，丁二烯出口量翻倍上涨，出口量从每月4000-5000吨，上涨到每月1万多吨，出口地主要为韩国。此外，国外订单充足，相关企业出口订单已经排到6月。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4394914.d.html</link>
-            <guid>2681704</guid>
-            <pubDate>Mon, 23 May 2022 14:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：坚信欧洲将陷入经济衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2994158.d.html</link>
-            <guid>2681703</guid>
-            <pubDate>Mon, 23 May 2022 14:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团CEO Fraser：美国消费者的储蓄率将成为经济下行的缓冲器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2994147.d.html</link>
-            <guid>2681702</guid>
-            <pubDate>Mon, 23 May 2022 14:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通上涨5.6%，为18个月最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4394691.d.html</link>
-            <guid>2681701</guid>
-            <pubDate>Mon, 23 May 2022 14:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：将使政策正常化，而不是收紧政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993980.d.html</link>
-            <guid>2681700</guid>
-            <pubDate>Mon, 23 May 2022 14:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：由于通胀加剧，必须使货币政策正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993905.d.html</link>
-            <guid>2681699</guid>
-            <pubDate>Mon, 23 May 2022 14:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：欧元区的经济增长是有弹性的，短期内的主要问题是通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993857.d.html</link>
-            <guid>2681698</guid>
-            <pubDate>Mon, 23 May 2022 14:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金砖国家工业互联网与数字制造发展论坛发布《金砖国家制造业数字化转型合作倡议》】在厦门举办的金砖国家工业互联网与数字制造发展论坛上，为构建开放共享的产业生态，金砖国家政府、产业、学术界以及国际组织等围绕“创新发展工业互联网，推动制造业数字化转型”开展了广泛深入探讨，并发布了《金砖国家制造业数字化转型合作倡议》。《金砖国家制造业数字化转型合作倡议》围绕1，凝聚数字化发展共识；2，建设通达的数字基础设施；3，充分激发数据要素价值；4，加快制造业数字化转型；5，助力中小微企业包容增长；6，培育数字化新模式新业态；7，深化数字化绿色化协同；8，加强国际人才交流合作；9，共建开放协同新生态；10，构建多边国际合作机制等十个方面进行深入的交流探讨，并达成一致倡议。倡议指出，当前第四次工业革命深入推进，实体经济加快向数字化、网络化、智能化转型升级。作为新一代信息通信技术与工业经济深度融合的新型基础设施、应用模式和工业生态，工业互联网通过对人、机、物、系统等的全面连接，构建起覆盖全产业链、全价值链的全新制造和服务体系，为工业乃至产业数字化、网络化、智能化发展提供了实现途径。后疫情时代与数字化变革交织叠加，当务之急是快速实现经济复苏。为此，金砖国家需要创新发展工业互联网，推动制造业数字化转型，深化合作、分享实践经验，实现优势互补。]]></title>
-            <guid>2681697</guid>
-            <pubDate>Mon, 23 May 2022 14:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中缅新通道（重庆-临沧-缅甸）国际铁路班列正式运行】 5月23日下午，首趟中缅新通道（重庆—临沧—缅甸）国际铁路班列从重庆果园港鱼嘴车站发出。该班列的顺利开行将进一步优化我国西部内陆地区出海的国际物流模式及路线。首趟班列运载60个标箱，包含机械设备、电子配件、汽摩配件等货物，将经云南临沧口岸出境，通过公铁联运方式，15天后最终抵达缅甸曼德勒。依托中缅新通道，重庆本地及周边地区出口货物可以经缅甸出海口联通欧洲、非洲、中东及南亚各国，运输距离和运输时间大幅缩短。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993588.d.html</link>
-            <guid>2681696</guid>
-            <pubDate>Mon, 23 May 2022 14:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：巴布亚新几内亚金贝港口东北以东131公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993540.d.html</link>
-            <guid>2681695</guid>
-            <pubDate>Mon, 23 May 2022 14:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德策略师将发达市场股票评级调降至中性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993456.d.html</link>
-            <guid>2681694</guid>
-            <pubDate>Mon, 23 May 2022 14:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：2022年将是世界经济艰难的一年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993384.d.html</link>
-            <guid>2681693</guid>
-            <pubDate>Mon, 23 May 2022 14:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部表示，卢布涨势已见顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4394036.d.html</link>
-            <guid>2681692</guid>
-            <pubDate>Mon, 23 May 2022 14:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：七国集团一些成员国的经济衰退并不是毫无可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993343.d.html</link>
-            <guid>2681691</guid>
-            <pubDate>Mon, 23 May 2022 14:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南：以麦收开始为标志的“三夏”会战即将于28日前后在中原大地全面展开】 夏粮产量占全国四分之一还多的“中原粮仓”迎来丰收时刻。5月23日，河南省政府召开新闻发布会宣布，以麦收开始为标志的“三夏”会战即将于28日前后在中原大地全面展开。河南省农业农村厅副厅长马万里说，尽管2021年遭受严重秋汛和苗情偏弱影响，今年河南夏粮面积仍然保持在8500万亩以上，当前小麦长势与常年持平。据统计，今年“三夏”，河南计划投入各类农业机械400万台（套），确保全省小麦机收率稳定在99%以上，小麦机收平均损失率控制在2%以内；确保完成100万亩大豆玉米带状复合种植任务，秋粮播种面积稳定在7600万亩以上。目前，河南已在全省设置400多个跨区机收接待服务站点，发放农机跨区作业证5万张，设立1460座农机保供加油站，提前对接机收小麦面积7337万亩。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993333.d.html</link>
-            <guid>2681690</guid>
-            <pubDate>Mon, 23 May 2022 14:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD日内走低0.50%，现报1.2770。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2993259.d.html</link>
-            <guid>2681689</guid>
-            <pubDate>Mon, 23 May 2022 14:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：自上一轮国际货币基金组织预测以来，经济前景已经变得更黯淡了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4393892.d.html</link>
-            <guid>2681688</guid>
-            <pubDate>Mon, 23 May 2022 14:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其外长将访问巴勒斯坦和以色列】土耳其外交部当地时间5月23日发表声明称，土耳其外长恰武什奥卢5月24日、25日将先后访问巴勒斯坦和以色列。声明显示，恰武什奥卢24日计划与巴勒斯坦外交部长马立基举行双边会晤，并将与巴勒斯坦总统阿巴斯举行会面。恰武什奥卢还将主持联合委员会第二次会议。该委员会于2010年成立，由土耳其和巴勒斯坦外长担任主席。声明还称，恰武什奥卢将于25日访问以色列，与以色列候任总理、外长拉皮德举行双边会晤和代表团会见，就地区和国际问题以及两国双边关系交换意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4393602.d.html</link>
-            <guid>2681687</guid>
-            <pubDate>Mon, 23 May 2022 14:39:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利新增9820例新冠肺炎病例，新增80例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2992716.d.html</link>
-            <guid>2681686</guid>
-            <pubDate>Mon, 23 May 2022 14:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔CEO：国际半导体产业协会(SEMI)的供应和需求要到2024年才能达到平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4393322.d.html</link>
-            <guid>2681685</guid>
-            <pubDate>Mon, 23 May 2022 14:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[记者从杭州市统计局获悉，2021年，杭州常住人口突破1200万人，增量在长三角城市群中居首。在全国千万人口城市中，杭州市人口增量排名在武汉、成都之后，列第三位。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2992586.d.html</link>
-            <guid>2681684</guid>
-            <pubDate>Mon, 23 May 2022 14:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯工业部长呼吁金砖国家伙伴与俄罗斯共同建造石油和天然气精炼设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4393143.d.html</link>
-            <guid>2681683</guid>
-            <pubDate>Mon, 23 May 2022 14:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储调查：约20%的成年人表示，他们的财务状况比一年前更糟，这低于一年前的24%，但高于2019年的14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4393127.d.html</link>
-            <guid>2681682</guid>
-            <pubDate>Mon, 23 May 2022 14:35:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储调查：有48%的成年人认为美国经济“好”或“优秀”，高于2020年的43%，但低于2019年的63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4392979.d.html</link>
-            <guid>2681681</guid>
-            <pubDate>Mon, 23 May 2022 14:33:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄联邦消费者权益保护局新闻处发布消息表示，为防止猴痘传入俄罗斯，该局已在俄边境加强卫生管控。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2992201.d.html</link>
-            <guid>2681680</guid>
-            <pubDate>Mon, 23 May 2022 14:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储调查：15%的劳动者在过去12个月换了工作；他们中的大多数人表示，新工作总体上更好。]]></title>
-            <guid>2681679</guid>
-            <pubDate>Mon, 23 May 2022 14:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储调查：2021年第四季度，78%的美国成年人生活良好或生活舒适，这是自2013年开始调查以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4392801.d.html</link>
-            <guid>2681678</guid>
-            <pubDate>Mon, 23 May 2022 14:31:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储调查：去年有12%的美国成年人使用加密货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2992110.d.html</link>
-            <guid>2681677</guid>
-            <pubDate>Mon, 23 May 2022 14:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：汉隆集团股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizmscu2992079.d.html</link>
-            <guid>2681676</guid>
-            <pubDate>Mon, 23 May 2022 14:31:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【承诺保本和最低收益 湖北证监局对晟道创业投资出具警示函】近日，武汉晟道创业投资基金管理有限公司存在多项违规被湖北证监局出具警示函。其中，晟道创业投资管理的多只基金存在向投资者承诺本金不受损失和最低收益情况，还包括部分基金未办理基金备案手续等总计四大问题。资料显示，晟道创业投资成立于2016年，是武汉当代集团旗下私募股权基金管理平台，投资项目包括易果生鲜、火辣健身、江中食疗等。 (每日经济新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-23/detail-imizirau4392680.d.html</link>
-            <guid>2681675</guid>
-            <pubDate>Mon, 23 May 2022 14:30:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
