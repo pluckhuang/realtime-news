@@ -4,606 +4,609 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【SEMI：全球晶圆厂设备支出今年将突破1000亿美元 同比增长20%】国际半导体产业协会（SEMI）于今（14）日公布的最新一季全球晶圆厂预测报告中指出，2022年全球前端晶圆厂设备支出总额将较前一年成长20%，创下1,090亿美元新高纪录，继 2021年大幅成长42%之后，连续三年成长。2023年的晶圆厂设备支出预计也将持续成长。]]></title>
-            <guid>2704961</guid>
-            <pubDate>Tue, 14 Jun 2022 07:21:01 GMT</pubDate>
+            <title><![CDATA[消息人士：欧佩克预计2023年全球需求增速为200万桶/日或更低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8427223.d.html</link>
+            <guid>2705237</guid>
+            <pubDate>Tue, 14 Jun 2022 10:23:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线走高18点，现报1.0455，美元指数DXY短线走低逾10点，现报104.87。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8391493.d.html</link>
-            <guid>2704960</guid>
-            <pubDate>Tue, 14 Jun 2022 07:20:45 GMT</pubDate>
+            <title><![CDATA[市场消息：伊朗与巴基斯坦讨论了天然气出口与电力互换协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6794323.d.html</link>
+            <guid>2705236</guid>
+            <pubDate>Tue, 14 Jun 2022 10:22:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【兰花集团携手华为煤矿军团加速智能矿山建设】据“华为智能矿山”官微消息6月13日，集团公司召开项目专题会，听取兰花科创产业互联网项目和智能化矿山合作项目实施情况的汇报，研究推进智能化矿山项目建设有关事宜。智能矿山合作项目于5月20日签署了《智能矿山合作协议》，兰花和华为煤矿军团初步确定了合作范围和合作条款，通过调研，初步协商确定了“基于矿压大数据分析预测预警”“基于瓦斯趋势数据分析与预测预警”两项合作课题，正就课题的技术框架进行沟通和论证。下一步，将尽快完成课题的技术框架编制以及具体的技术方案与概算。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8391424.d.html</link>
-            <guid>2704959</guid>
-            <pubDate>Tue, 14 Jun 2022 07:20:35 GMT</pubDate>
+            <title><![CDATA[花旗：将甲骨文(ORCL.N)目标价从75美元上调至81美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6794292.d.html</link>
+            <guid>2705235</guid>
+            <pubDate>Tue, 14 Jun 2022 10:22:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英飞凌将量子处理器测试时间从数周缩短至一天】近日，英飞凌宣布其在奥地利南部城市菲拉赫新开设的量子研究实验室，成功将测试量子处理器的时间从数周缩短为一天。前述实验室为英飞凌、奥地利因斯布鲁克大学和Joanneum Research公司的项目测试工业制造的量子芯片。其中，Joanneum Research公司从事研究集成光学的3D光刻技术。英飞凌奥地利公司的量子研究始于2016年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8391216.d.html</link>
-            <guid>2704958</guid>
-            <pubDate>Tue, 14 Jun 2022 07:19:52 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：6月14日18时11分在四川阿坝州马尔康市发生4.4级地震，震源深度11千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6794236.d.html</link>
+            <guid>2705234</guid>
+            <pubDate>Tue, 14 Jun 2022 10:21:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲股市反弹，因投资者在全球股市暴跌后买入】欧洲股市从一年多来的最低水平反弹，投资者在全球股市暴跌后买入。Mirabaud Securities分析师Neil Campling表示，股市短期暴跌后正在反弹，但对央行无法实现软着陆的担忧意味着，市场可能还没有看到股市的中期低点。安本资产管理公司投资主管James Athey表示：“就在两天前，我根本没想到我们会在本周讨论美联储将加息75个基点的问题，但在一个交易日内，市场就这样定价了，在美联储噤声期内，即使他们想反击也无法行动。他们的困境是，如果明天不加息75个基点，就有可能被认为是鸽派，让他们未来的工作变得更加困难。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6762027.d.html</link>
-            <guid>2704957</guid>
-            <pubDate>Tue, 14 Jun 2022 07:19:21 GMT</pubDate>
+            <title><![CDATA[消息人士：欧佩克预测2023年全球石油需求增长将放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6794205.d.html</link>
+            <guid>2705233</guid>
+            <pubDate>Tue, 14 Jun 2022 10:21:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：越南考虑进一步削减燃油税以缓解通胀压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6761763.d.html</link>
-            <guid>2704956</guid>
-            <pubDate>Tue, 14 Jun 2022 07:17:43 GMT</pubDate>
+            <title><![CDATA[市场消息：伊朗方面讨论了增加对巴基斯坦的电力出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8426821.d.html</link>
+            <guid>2705232</guid>
+            <pubDate>Tue, 14 Jun 2022 10:21:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股新东方在线短线拉升，涨近20%，昨日收盘涨近40%，本月9个交易日新东方在线累计涨幅超180%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6761703.d.html</link>
-            <guid>2704955</guid>
-            <pubDate>Tue, 14 Jun 2022 07:17:12 GMT</pubDate>
+            <title><![CDATA[Meta Platforms(META.O)：从6月开始，VR耳机Meta Quest家长监督工具将开始在包括英国、日本、澳大利亚、爱尔兰、加拿大、法国、德国在内的国家推广，并计划在今年年底前在全球范围内推出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6793873.d.html</link>
+            <guid>2705231</guid>
+            <pubDate>Tue, 14 Jun 2022 10:20:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国债期货收盘，10年期主力合约跌0.02%，5年期主力合约涨0.00%，2年期主力合约涨0.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6761596.d.html</link>
-            <guid>2704953</guid>
-            <pubDate>Tue, 14 Jun 2022 07:16:35 GMT</pubDate>
+            <title><![CDATA[【保隆科技：获得汽车排气热端管项目定点通知书】保隆科技公告，近日收到北美某一级供应商的《定点通知书》，选择公司作为其全新平台项目汽车排气热端管的零部件供应商。根据客户规划，该项目生命周期为6年，生命周期总金额超过人民币3亿元，预计2023年8月开始量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6793781.d.html</link>
+            <guid>2705230</guid>
+            <pubDate>Tue, 14 Jun 2022 10:19:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新东方旗下直播公司已成立6家分公司】近日，名师“双语带货”火出圈后，新东方在线旗下品牌东方甄选开始在招聘网站发布招聘信息。天眼查App显示，“东方甄选”关联公司东方优选（北京）科技有限公司成立于2021年10月，由北京新东方迅程网络科技股份有限公司全资持股。目前，该公司已成立6家分支机构，包括文创分公司、图书分公司、电子产品分公司等。知识产权信息显示，新东方迅程网络公司已申请多个“东方甄选”“DONGFANGZHENXUAN”商标，东方优选公司则申请了多个“好物东方”“好物东方来”商标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8390243.d.html</link>
-            <guid>2704952</guid>
-            <pubDate>Tue, 14 Jun 2022 07:14:16 GMT</pubDate>
+            <title><![CDATA[【中兴通讯与泰国AIS签署战略合作协议 共建泰国首个高水平5G网络】据中兴通讯官微，近日，中兴通讯与泰国第一大移动运营商AIS在泰国曼谷签署战略合作协议。AIS执行委员会主席Allen Lew，首席执行官Somchai Lertsutiwong，中兴通讯总裁徐子阳，高级副总裁梅中华，中兴通讯泰国分公司总经理韩志明等出席战略合作签约仪式。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6793746.d.html</link>
+            <guid>2705229</guid>
+            <pubDate>Tue, 14 Jun 2022 10:19:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行会议纪要：韩国央行必须关注价格，同时确保不会影响经济增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8389701.d.html</link>
-            <guid>2704951</guid>
-            <pubDate>Tue, 14 Jun 2022 07:11:18 GMT</pubDate>
+            <title><![CDATA[【美团-W获南向资金净买入12.06亿港元】南向资金今日再度大幅净买入51.79亿港元，近4日连续加仓累计近150亿港元。美团-W、理想汽车-W、中国海洋石油分别获净买入12.06亿港元、6.47亿港元、5.86亿港元。快手-W净卖出额居首，金额为1.33亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8426357.d.html</link>
+            <guid>2705228</guid>
+            <pubDate>Tue, 14 Jun 2022 10:18:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行会议纪要：抑制通货膨胀是当务之急。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8389263.d.html</link>
-            <guid>2704950</guid>
-            <pubDate>Tue, 14 Jun 2022 07:09:25 GMT</pubDate>
+            <title><![CDATA[石四药集团(02005.HK)：已取得国家药品监督管理局有关瑞舒伐他汀钙片（5mg）的药品生产注册批件，视同通过一致性评价，并在现有10mg的基础上增加了一个规格。瑞舒伐他汀钙主要用于治疗原发性高胆固醇血症或混合型血脂异常症。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8425935.d.html</link>
+            <guid>2705227</guid>
+            <pubDate>Tue, 14 Jun 2022 10:16:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【电力短缺澳大利亚五个州面临停电】当地时间6月14日，根据澳大利亚能源市场运营商（AEMO）公布的消息，澳大利亚目前面临电力短缺问题，当日晚些时候及次日，预计澳大利亚五个州将出现电力中断，其中包括人口最多的新南威尔士州和维多利亚州，以及昆士兰州、南澳大利亚州、塔斯马尼亚州。澳大利亚电力短缺导致电价上涨，目前，澳大利亚能源市场运营商已经在多州采取了限价措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8389226.d.html</link>
-            <guid>2704949</guid>
-            <pubDate>Tue, 14 Jun 2022 07:09:16 GMT</pubDate>
+            <title><![CDATA[长城汽车(02333.HK)：于2022年6月14日回购94.5万股，回购价格为15.18-15.7港元，共耗资约1462.9万港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6793248.d.html</link>
+            <guid>2705226</guid>
+            <pubDate>Tue, 14 Jun 2022 10:16:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司：继续通过乌克兰向欧洲输送天然气，周二的输送量为4190万立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8389158.d.html</link>
-            <guid>2704948</guid>
-            <pubDate>Tue, 14 Jun 2022 07:08:58 GMT</pubDate>
+            <title><![CDATA[有“原油交易之神”称号的安杜兰德(Pierre Andurand)的最大对冲基金在大宗商品反弹中飙升162%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6793182.d.html</link>
+            <guid>2705225</guid>
+            <pubDate>Tue, 14 Jun 2022 10:15:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[意大利10年期国债收益率下跌11个基点，至3.91％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8388882.d.html</link>
-            <guid>2704947</guid>
-            <pubDate>Tue, 14 Jun 2022 07:07:39 GMT</pubDate>
+            <title><![CDATA[【四川阿坝州马尔康市附近发生4.5级左右地震】中国地震台网自动测定：18时11分在四川阿坝州马尔康市附近发生4.5级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6793133.d.html</link>
+            <guid>2705224</guid>
+            <pubDate>Tue, 14 Jun 2022 10:15:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国5年期国债收益率日内下跌7个基点，至2.150%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6759996.d.html</link>
-            <guid>2704946</guid>
-            <pubDate>Tue, 14 Jun 2022 07:07:10 GMT</pubDate>
+            <title><![CDATA[乌克兰总统泽连斯基：将俄罗斯逐出占领区的速度取决于武器的交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8425755.d.html</link>
+            <guid>2705223</guid>
+            <pubDate>Tue, 14 Jun 2022 10:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行会议纪要：一名委员称，需要进一步加息，以使基准利率达到“中性利率”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6759952.d.html</link>
-            <guid>2704945</guid>
-            <pubDate>Tue, 14 Jun 2022 07:06:57 GMT</pubDate>
+            <title><![CDATA[Meta Platforms(META.O)：开始向所有独立VR耳机Meta Quest推出家长监督工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8425551.d.html</link>
+            <guid>2705222</guid>
+            <pubDate>Tue, 14 Jun 2022 10:13:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯布良斯克州州长表示，该州一座村庄遭到攻击，导致4人受伤，数所住房受损。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8388586.d.html</link>
-            <guid>2704944</guid>
-            <pubDate>Tue, 14 Jun 2022 07:06:15 GMT</pubDate>
+            <title><![CDATA[苏格兰首席大臣斯特金：苏格兰计划发表一系列关于独立问题的文件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792860.d.html</link>
+            <guid>2705221</guid>
+            <pubDate>Tue, 14 Jun 2022 10:13:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国央行会议纪要：未来加息步伐应灵活，以尽量减少对经济增长的影响。应该先发制人地应对国外的加息。韩国可以承受连续加息的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6759761.d.html</link>
-            <guid>2704943</guid>
-            <pubDate>Tue, 14 Jun 2022 07:06:04 GMT</pubDate>
+            <title><![CDATA[Meta Platforms(META.O)：推出新功能，允许用户邀请朋友进入其虚拟现实(VR)平台Horizon Worlds的家庭场景中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8425494.d.html</link>
+            <guid>2705220</guid>
+            <pubDate>Tue, 14 Jun 2022 10:13:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[数据显示，北向资金跟随指数先抑后扬，尾盘再度大幅进场抢筹，全天净买入39.44亿元；其中沪股通净买入36.38亿元；深股通净买入3.07亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6759176.d.html</link>
-            <guid>2704942</guid>
-            <pubDate>Tue, 14 Jun 2022 07:02:51 GMT</pubDate>
+            <title><![CDATA[英镑兑美元触及两年新低1.2104，日内跌幅达0.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792806.d.html</link>
+            <guid>2705219</guid>
+            <pubDate>Tue, 14 Jun 2022 10:13:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【收评：A股上演深V逆转沪指涨近1% “牛市旗手”拉开反攻序幕】6月14日消息，三大股指尾盘全线翻红，沪指盘中涨超1%，北向资金大幅流入超60亿元，两市成交额再破万亿元。板块方面，汽车板块午后活跃，有机硅板块继续领涨，煤炭、石油等资源股异动拉升，电力板块快速反弹，券商板块反复活跃 ；电子烟、贵金属、军工板块震荡走低，半导体板块领跌两市。总体而言，市场情绪转暖，信心增强，个股跌多涨少，赚钱效应一般。截至收盘，上证指数涨1.02%，深证成指涨0.2%，创业板指涨0.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6759132.d.html</link>
-            <guid>2704941</guid>
-            <pubDate>Tue, 14 Jun 2022 07:02:25 GMT</pubDate>
+            <title><![CDATA[【恒瑞医药：海曲泊帕乙醇胺片获得美国FDA孤儿药资格认定】恒瑞医药公告，海曲泊帕乙醇胺片获得美国FDA孤儿药资格认定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8425423.d.html</link>
+            <guid>2705218</guid>
+            <pubDate>Tue, 14 Jun 2022 10:12:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国内商品期货收盘多数下跌 燃料油涨超4%】国内商品期货收盘多数下跌，燃料油涨超4%，原油涨超2%，乙二醇、沥青、生猪涨超1%。花生、玻璃跌超4%，纯碱、硅铁跌超3%，沪镍、菜粕、PVC、不锈钢、热卷、螺纹钢跌超2%，锰硅、橡胶、尿素、苯乙烯、豆粕跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6758983.d.html</link>
-            <guid>2704940</guid>
-            <pubDate>Tue, 14 Jun 2022 07:01:26 GMT</pubDate>
+            <title><![CDATA[粤桂股份公告，粤桂投资拟减持不超过1.45%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8425312.d.html</link>
+            <guid>2705217</guid>
+            <pubDate>Tue, 14 Jun 2022 10:11:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧股开盘，英国富时100指数涨0.65%，欧洲斯托克50指数涨0.92%，德国DAX指数涨0.8%，意大利富时MIB指数涨0.89%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8387540.d.html</link>
-            <guid>2704939</guid>
-            <pubDate>Tue, 14 Jun 2022 07:00:37 GMT</pubDate>
+            <title><![CDATA[苏格兰首席大臣斯特金：计划很快向议会提供有关举行独立公投程序的重要最新情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792601.d.html</link>
+            <guid>2705216</guid>
+            <pubDate>Tue, 14 Jun 2022 10:11:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其10年期政府债券收益率下跌146个基点至20.11％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6758482.d.html</link>
-            <guid>2704938</guid>
-            <pubDate>Tue, 14 Jun 2022 06:59:03 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：来自欧盟、美国和加拿大的公司仍对俄罗斯市场感兴趣。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8425251.d.html</link>
+            <guid>2705215</guid>
+            <pubDate>Tue, 14 Jun 2022 10:11:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国银行调查：紧缩政策给欧洲股市带来最大风险】美国银行以Andreas Bruckner为首的策略师称，调查显示，32%的人认为紧缩政策是欧洲市场面临的最大风险，25%的人认为是全球衰退的风险，22%的人认为是通胀。77%的受访者预计欧洲经济增长将放缓，远高于上个月的59%，而54%的受访者预计欧洲未来12个月将陷入衰退。对于股市而言，64%的受访者认为欧洲股市已经见顶，34%的人认为有更大的抛售空间，32%的人认为未来12个月股市至少会反弹5%。银行股重新成为最受欢迎的增持板块，而英国股市在欧洲中受到青睐。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8386673.d.html</link>
-            <guid>2704937</guid>
-            <pubDate>Tue, 14 Jun 2022 06:55:44 GMT</pubDate>
+            <title><![CDATA[苏格兰首席大臣斯特金：如果没有英国首相的同意，我们必须在必要时开辟前进的道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792558.d.html</link>
+            <guid>2705214</guid>
+            <pubDate>Tue, 14 Jun 2022 10:11:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  北向资金净流入超50亿元，其中沪股通净流入40亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8386450.d.html</link>
-            <guid>2704936</guid>
-            <pubDate>Tue, 14 Jun 2022 06:54:15 GMT</pubDate>
+            <title><![CDATA[克里姆林宫抨击乌克兰军队对顿巴斯的炮击行为很野蛮。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792514.d.html</link>
+            <guid>2705213</guid>
+            <pubDate>Tue, 14 Jun 2022 10:11:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国家卫健委：截至2022年6月13日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗339019.4万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6757584.d.html</link>
-            <guid>2704935</guid>
-            <pubDate>Tue, 14 Jun 2022 06:52:51 GMT</pubDate>
+            <title><![CDATA[苏格兰首席大臣斯特金：任何新的独立公投都必须是合法的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792427.d.html</link>
+            <guid>2705212</guid>
+            <pubDate>Tue, 14 Jun 2022 10:10:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沪指继续走高，尾盘涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8385563.d.html</link>
-            <guid>2704934</guid>
-            <pubDate>Tue, 14 Jun 2022 06:49:35 GMT</pubDate>
+            <title><![CDATA[苏格兰首席大臣斯特金：苏格兰议会有权进行新的公投。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8424920.d.html</link>
+            <guid>2705211</guid>
+            <pubDate>Tue, 14 Jun 2022 10:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[货币市场预计英国央行到9月份累计加息125个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8385377.d.html</link>
-            <guid>2704933</guid>
-            <pubDate>Tue, 14 Jun 2022 06:48:24 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：还没有就俄罗斯总统普京和土耳其总统埃尔多安之间的电话对话制定好计划，但如果有必要，可以迅速组织起来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792268.d.html</link>
+            <guid>2705210</guid>
+            <pubDate>Tue, 14 Jun 2022 10:09:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A股三大股指尾盘均翻红，沪指涨幅扩大近1％；券商股午后爆发，有机硅、商用车、焦炭板块涨幅居前。]]></title>
-            <guid>2704932</guid>
-            <pubDate>Tue, 14 Jun 2022 06:48:03 GMT</pubDate>
+            <title><![CDATA[赛意信息公告，共同实际控制人刘国华、曹金乔拟合计减持不超过1.89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8424877.d.html</link>
+            <guid>2705209</guid>
+            <pubDate>Tue, 14 Jun 2022 10:09:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银行股异动拉升 兰州银行涨停】兰州银行涨停，江苏银行、厦门银行、江阴银行、瑞丰银行、张家港行、浙商银行、齐鲁银行等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8385245.d.html</link>
-            <guid>2704931</guid>
-            <pubDate>Tue, 14 Jun 2022 06:47:33 GMT</pubDate>
+            <title><![CDATA[【交通运输部：6月13日全国高速公路货车通行701.94万辆 环比增长13.91%】国务院物流保通保畅工作领导小组办公室监测汇总数据显示，6月13日，全国货运物流有序运行、持续恢复，其中：国家铁路货运继续保持高位运行，运输货物1086.5万吨，环比下降0.52%；全国高速公路货车通行701.94万辆，环比增长13.91%；监测港口完成货物吞吐量3267.2万吨，环比下降1.8%，完成集装箱吞吐量80.3万TEU，环比增长2.2%；民航保障货运航班635班（其中国际货运航班475班，国内货运航班160班），环比下降15.4%；邮政快递揽收量约3.39亿件，环比增长8.7%；投递量约3.30亿件，环比增长2.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792153.d.html</link>
+            <guid>2705208</guid>
+            <pubDate>Tue, 14 Jun 2022 10:09:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：杉杉股份据称与华泰证券一起研究其至多10亿美元的瑞士上市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6756638.d.html</link>
-            <guid>2704930</guid>
-            <pubDate>Tue, 14 Jun 2022 06:47:04 GMT</pubDate>
+            <title><![CDATA[【上海沿浦：将生产小鹏、东风等4款新车型的汽车座椅骨架产品】上海沿浦公告，武汉沿浦将给武汉东风李尔云鹤生产供应小鹏、东风等4款新车型的汽车座椅骨架产品，4款新车型的项目周期预计是5年-7年，4款新车型在项目周期内预计将产生14.87亿元的营业收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8424753.d.html</link>
+            <guid>2705207</guid>
+            <pubDate>Tue, 14 Jun 2022 10:09:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北向资金净流入超30亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8385061.d.html</link>
-            <guid>2704929</guid>
-            <pubDate>Tue, 14 Jun 2022 06:46:33 GMT</pubDate>
+            <title><![CDATA[欧盟议会委员会支持否决欧盟将天然气和核能列为“分类法”可持续投资的规定的决议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6792075.d.html</link>
+            <guid>2705206</guid>
+            <pubDate>Tue, 14 Jun 2022 10:08:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中信建投触及涨停，成交额12.58亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6756452.d.html</link>
-            <guid>2704928</guid>
-            <pubDate>Tue, 14 Jun 2022 06:46:02 GMT</pubDate>
+            <title><![CDATA[华友钴业：拟终止在磷酸铁锂材料领域的布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8424682.d.html</link>
+            <guid>2705205</guid>
+            <pubDate>Tue, 14 Jun 2022 10:08:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【许家印被广东省河南商会推举为永远名誉会长】广东省河南商会日前发文称，许家印是该会创会会长，发起并组织创立商会，并连任三届会长职务，为商会发展作出卓越贡献。经商会理事会一致同意，推举许家印为商会永远名誉会长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8384889.d.html</link>
-            <guid>2704927</guid>
-            <pubDate>Tue, 14 Jun 2022 06:45:48 GMT</pubDate>
+            <title><![CDATA[当被问及俄罗斯支持的乌克兰亲俄武装领导人要求俄罗斯增兵一事时，克里姆林宫表示，这是国防部的特权。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6791992.d.html</link>
+            <guid>2705204</guid>
+            <pubDate>Tue, 14 Jun 2022 10:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股恒生科技指数涨1%，此前跌约2.8%，京东健康涨近6%，理想汽车涨近5%，美团涨近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6756353.d.html</link>
-            <guid>2704926</guid>
-            <pubDate>Tue, 14 Jun 2022 06:45:23 GMT</pubDate>
+            <title><![CDATA[【温州省内首推购房灵活还款按揭产品 前三年可只还息缓付本金】温州市住建局日前与华夏银行温州分行签订政银合作协议并创新推出购房灵活还款按揭产品“安居贷”，借款人前三年可选择只还利息，以减少刚性需求购房群体的还贷压力。据介绍，“安居贷”面向贷款期限在10年（含）以上的首套住房按揭客户，对“等额本金、等额本息”两种传统个人购房按揭贷款还款方式进行创新，核心是“灵活还、自由还”。申请“安居贷”的居民可选择“先息后本”或“少量本金加利息”等灵活还款方式，灵活还款方式最长可达3年，第四年开始分期还本付息，以减轻购房前期还贷压力，满足刚需购房需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6791799.d.html</link>
+            <guid>2705203</guid>
+            <pubDate>Tue, 14 Jun 2022 10:07:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据中国货币网报价，在岸人民币兑美元上涨0.5%至6.7191。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8384785.d.html</link>
-            <guid>2704925</guid>
-            <pubDate>Tue, 14 Jun 2022 06:45:03 GMT</pubDate>
+            <title><![CDATA[携程集团(09961.HK)：董事会审计委员会将于2022年6月24日（星期五）（上海╱香港时间）举行会议，藉以（其中包括）批准本公司之2022年第一季度业绩及其刊发。]]></title>
+            <guid>2705202</guid>
+            <pubDate>Tue, 14 Jun 2022 10:06:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沪深两市成交额连续第三个交易日突破1万亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8384635.d.html</link>
-            <guid>2704924</guid>
-            <pubDate>Tue, 14 Jun 2022 06:44:03 GMT</pubDate>
+            <title><![CDATA[【国家知识产权局：用好知识产权质押途径支持中小微企业融资】据新华社消息，为加快推动知识产权价值实现，国家知识产权局近日发布了《关于知识产权政策实施提速增效 促进经济平稳健康发展的通知》，提出以知识产权、信用数据为基础，推动建立企业“白名单”筛选机制，用好知识产权质押途径支持中小微企业融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8424144.d.html</link>
+            <guid>2705201</guid>
+            <pubDate>Tue, 14 Jun 2022 10:05:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【长沙第二批集中供地开启 19宗地块总起始价近158亿元】6月14日，长沙市国土资源网上交易系统发布“长沙市国有建设用地使用权网上挂牌出让公告”，开启该市2022年第二批集中供地。公告显示，长沙本次集中供地共挂牌19宗国有建设用地，总面积145.98万平方米，总起始价157.74亿元。从区域来看，供地数量最多的是岳麓区，共有10宗地块；另外，雨花区有3宗地块，天心区、芙蓉区、望城区各有2宗地块。从规划用途来看，在此次供应的19宗地块中，商住用地12宗、纯住宅用地5宗、商业用地2宗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6755815.d.html</link>
-            <guid>2704922</guid>
-            <pubDate>Tue, 14 Jun 2022 06:41:34 GMT</pubDate>
+            <title><![CDATA[【贤丰控股：持股6.51%的股东大成创新拟减持不超过4%】贤丰控股公告，持股6.51%的股东大成创新拟减持不超过4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6791405.d.html</link>
+            <guid>2705200</guid>
+            <pubDate>Tue, 14 Jun 2022 10:05:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[南向资金净流入超50亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6755741.d.html</link>
-            <guid>2704921</guid>
-            <pubDate>Tue, 14 Jun 2022 06:41:13 GMT</pubDate>
+            <title><![CDATA[【上海松江区将于明日进行一轮全员核酸筛查】上海市松江区新冠肺炎疫情防控指挥部办公室发布公告，为持续巩固疫情防控成果，构筑坚实有效的疫情防控屏障，为居民提供更为便利的核酸采样服务，我区将于本周三及本周末进行两轮全员核酸筛查，即本周三（6月15日）17:00-23:00进行一轮全员核酸筛查，本周六（6月18日）、周日（6月19日）7:00-17:00两天进行一轮全员核酸筛查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8423961.d.html</link>
+            <guid>2705199</guid>
+            <pubDate>Tue, 14 Jun 2022 10:04:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【泽连斯基要求德国明确态度：不要试图“在乌克兰和对俄关系之间劈叉”】据德国《世界报》网站6月13日报道，乌克兰总统弗拉基米尔·泽连斯基要求德国总理奥拉夫·朔尔茨在乌克兰冲突中更加明确自身定位。 泽连斯基当地时间13日在基辅接受德国电视二台采访时说：“我们需要朔尔茨总理保证德国援助乌克兰。他和他的政府必须作选择。”他说，不能试图“在乌克兰和对俄关系之间劈叉”。 泽连斯基批评说：“从提供武器的角度看，德国比我们的一些邻国来得晚。这是事实。”他表示，首先是美国、英国、波罗的海国家以及其他欧盟东部国家行动了起来，德国和法国一开始只在政治和口头上支持乌克兰。  （参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6755702.d.html</link>
-            <guid>2704920</guid>
-            <pubDate>Tue, 14 Jun 2022 06:41:07 GMT</pubDate>
+            <title><![CDATA[Forexlive评美国5月NFIB小型企业信心指数：由于通胀担忧持续，美国5月NFIB小型企业信心指数下降。报告的细节显示，尽管利率上升、金融环境趋紧，但劳动力需求依然强劲。然而，预计未来6个月商业环境会好转的企业主比例再次下降（自1月以来每月都在下降），创历史新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6791216.d.html</link>
+            <guid>2705198</guid>
+            <pubDate>Tue, 14 Jun 2022 10:04:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿富汗代表团将参加圣彼得堡国际经济论坛】当地时间14日，俄罗斯总统阿富汗问题特别代表卡布罗夫表示，阿富汗工商业部门代表团将参加圣彼得堡国际经济论坛。圣彼得堡国际经济论坛将于6月15日至18日举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8383749.d.html</link>
-            <guid>2704919</guid>
-            <pubDate>Tue, 14 Jun 2022 06:40:12 GMT</pubDate>
+            <title><![CDATA[【华友钴业：拟出资11.89亿共同设立衢州信华股权投资合伙企业】华友钴业公告，拟出资11.89亿元与衢州市国资信安资本管理有限公司和衢州市工业股权投资有限公司共同设立衢州信华股权投资合伙企业（有限合伙）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8423664.d.html</link>
+            <guid>2705197</guid>
+            <pubDate>Tue, 14 Jun 2022 10:03:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全球市场反弹】美股期货涨幅扩大，纳指期货涨1.7%，标普500指数期货涨1.3%，道指期货涨1%。富时中国A50指数期货涨幅扩大至1%。比特币走高，一度收复23000美元/枚关口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6755331.d.html</link>
-            <guid>2704918</guid>
-            <pubDate>Tue, 14 Jun 2022 06:39:38 GMT</pubDate>
+            <title><![CDATA[华友钴业公告，终止通过控股子公司巴莫科技收购圣钒科技100%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8423613.d.html</link>
+            <guid>2705196</guid>
+            <pubDate>Tue, 14 Jun 2022 10:03:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国短期国债价格下跌，德国2年期国债收益率攀升6个基点至1.20％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6755100.d.html</link>
-            <guid>2704917</guid>
-            <pubDate>Tue, 14 Jun 2022 06:38:11 GMT</pubDate>
+            <title><![CDATA[【支持小微保就业 浙商银行推出22项纾困措施】6月14日，浙商银行推出22条举措，缓解疫情对小微企业的冲击，扎实助力“六稳、六保”。在主动让利、减负纾困方面，该行特别安排5亿元小微贷款利息减免红包，对受疫情影响较大的批发零售、文化旅游、住宿餐饮、交通运输行业存量小微企业及个体工商户主动给予利息减免，并发放“小微抗疫贷” 支持重点区域、重点领域、重点行业的小微企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6791012.d.html</link>
+            <guid>2705195</guid>
+            <pubDate>Tue, 14 Jun 2022 10:02:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行在固定利率操作购买了创纪录数量的债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6754974.d.html</link>
-            <guid>2704916</guid>
-            <pubDate>Tue, 14 Jun 2022 06:37:12 GMT</pubDate>
+            <title><![CDATA[【印度板球超级联赛体育版权突破1年10亿美元】综合多家媒体报道，在今年印度板球超级联赛的转播权拍卖中，迪士尼以2357.5亿印度卢比（约合30亿美元）拿下未来五年印度市场的电视直播版权，而亚洲首富安巴尼麾下的Viacom18则出价超过2100亿印度卢比（约合27亿美元）从迪士尼手里抢来了流媒体直播版权，最终的结果仍有待官方确认。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8423434.d.html</link>
+            <guid>2705194</guid>
+            <pubDate>Tue, 14 Jun 2022 10:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄国家航天集团新闻处表示，该集团和欧洲航天局继续讨论落实联合任务ExoMars的可能。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6754933.d.html</link>
-            <guid>2704915</guid>
-            <pubDate>Tue, 14 Jun 2022 06:37:00 GMT</pubDate>
+            <title><![CDATA[“顿涅茨克人民共和国”军方发言人（当被问及向俄罗斯请求额外援助时）：希望能更积极地使用陆基和空基导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6790862.d.html</link>
+            <guid>2705193</guid>
+            <pubDate>Tue, 14 Jun 2022 10:01:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[银行板块持续拉升，兰州银行涨超4%，江苏银行、张家港行、浙商银行、江阴银行、杭州银行等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6754874.d.html</link>
-            <guid>2704914</guid>
-            <pubDate>Tue, 14 Jun 2022 06:36:39 GMT</pubDate>
+            <title><![CDATA[塞尔维亚总统武契奇：由于欧盟对俄罗斯的制裁，塞尔维亚自11月起将不能从俄罗斯进口石油。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8423392.d.html</link>
+            <guid>2705192</guid>
+            <pubDate>Tue, 14 Jun 2022 10:01:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[富时中国A50指数期货涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8382978.d.html</link>
-            <guid>2704913</guid>
-            <pubDate>Tue, 14 Jun 2022 06:36:02 GMT</pubDate>
+            <title><![CDATA[美国5月NFIB小型企业信心指数录得93.1，为2020年4月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6790780.d.html</link>
+            <guid>2705191</guid>
+            <pubDate>Tue, 14 Jun 2022 10:01:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度5月份制造业产品价格同比上涨10.11%；印度5月初级商品价格同比上涨19.71%。]]></title>
-            <guid>2704912</guid>
-            <pubDate>Tue, 14 Jun 2022 06:35:53 GMT</pubDate>
+            <title><![CDATA[美国5月NFIB小型企业信心指数为93.1，预期93，前值93.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6790712.d.html</link>
+            <guid>2705190</guid>
+            <pubDate>Tue, 14 Jun 2022 10:00:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度5月份批发价格同比增长15.88%，预估为15.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8382797.d.html</link>
-            <guid>2704911</guid>
-            <pubDate>Tue, 14 Jun 2022 06:34:55 GMT</pubDate>
+            <title><![CDATA[松原股份在互动平台表示，公司与比亚迪目前就后排安全带产品正处商务报价阶段，预计近期将有定点结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8423174.d.html</link>
+            <guid>2705189</guid>
+            <pubDate>Tue, 14 Jun 2022 10:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【固德威投资功率半导体器件提供商中恒微】企查查APP显示，近日，合肥中恒微半导体有限公司发生工商变更，新增股东固德威。企查查信息显示，中恒微半导体是一家致力于功率半导体模块设计、制造与系统应用的企业，产品主要应用于新能源汽车、电机驱动、光伏逆变等行业。其公司成立于2018年，注册资本3380.8万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6754461.d.html</link>
-            <guid>2704910</guid>
-            <pubDate>Tue, 14 Jun 2022 06:33:47 GMT</pubDate>
+            <title><![CDATA[【中科大在基于原子器件的精密测量物理取得进展】近日，中国科学技术大学工程科学学院教授盛东与物理学院教授卢征天联合课题组，在基于原子器件的精密测量物理方面取得进展，开发出高精度的氙同位素共磁力仪。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8422958.d.html</link>
+            <guid>2705187</guid>
+            <pubDate>Tue, 14 Jun 2022 09:59:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【20家承销商被问询，交易所关注IPO投价报告预测审慎合理性】据券中社消息，2022年5月深交所针对创业板35家首发项目的20家承销商采取出具《问询函》的工作措施，结合投价报告盈利预测实现情况，问询关注投价报告出具程序及预测审慎合理性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8382547.d.html</link>
-            <guid>2704909</guid>
-            <pubDate>Tue, 14 Jun 2022 06:33:34 GMT</pubDate>
+            <title><![CDATA[德国国防部长：不久将完成对乌克兰军队进行的德国榴弹炮训练。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8422571.d.html</link>
+            <guid>2705186</guid>
+            <pubDate>Tue, 14 Jun 2022 09:56:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油、布伦特原油分别站上122美元、123美元，涨幅近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6754341.d.html</link>
-            <guid>2704908</guid>
-            <pubDate>Tue, 14 Jun 2022 06:32:46 GMT</pubDate>
+            <title><![CDATA[【蜂巢能源杨红新：电池材料和设备供应整体不存在问题 供应紧缺是结构性的】 在6月14日高工锂电产业峰会上，蜂巢能源董事长杨红新表示，电池材料和设备的供给整体上不存在问题，材料方面最紧张的是负极材料，是因为上游石墨化受制于环保能耗、电力供应等限制；设备的问题在于订货周期变长了，电池厂由提前半年到提前8个月以上订货。供应紧张是结构性的，订单会向头部企业集中。预计今年乘用车领域动力电池装车量在250GWh左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8422488.d.html</link>
+            <guid>2705185</guid>
+            <pubDate>Tue, 14 Jun 2022 09:56:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[燃料油主力合约午后持续走高，现涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6754199.d.html</link>
-            <guid>2704907</guid>
-            <pubDate>Tue, 14 Jun 2022 06:31:46 GMT</pubDate>
+            <title><![CDATA[【利比亚出现猴痘疑似病例】 当地时间6月13日，利比亚国家疾病控制中心主任海德尔·赛耶宣布利比亚境内已有多例猴痘疑似病例，尚未出现确诊病例。利比亚各地的监测小组已经采集了一些样本，并将在实验室进行分析。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8422444.d.html</link>
+            <guid>2705184</guid>
+            <pubDate>Tue, 14 Jun 2022 09:56:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国KOSPI指数6月14日（周二）收盘下跌9.83点，跌幅0.39%，报2494.68点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8382269.d.html</link>
-            <guid>2704906</guid>
-            <pubDate>Tue, 14 Jun 2022 06:31:33 GMT</pubDate>
+            <title><![CDATA[【瑞典5月通胀率创1991年以来新高】瑞典中央统计局14日发布的数据显示，瑞典5月通货膨胀率为7.2%，创1991年12月以来新高。瑞典中央统计局统计学家卡尔·莫滕松在新闻公报中说，“食品价格上涨对通胀率有很大影响”，尤其是肉类、牛奶、奶酪和鸡蛋价格大幅上涨。数据显示，除食品价格外，电力、娱乐和文化活动价格上涨也推高了5月通胀率。中央统计局此前公布的数据显示，瑞典3月和4月通胀率分别为6.1%和6.4%，连创1991年12月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6789936.d.html</link>
+            <guid>2705183</guid>
+            <pubDate>Tue, 14 Jun 2022 09:55:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【文化纸集体涨价300元/吨 未来或将进一步调涨】继白卡纸厂商宣布涨价后，文化纸市场也迎来一轮集体提价。记者获悉，近日包括太阳纸业、晨鸣纸业、博汇纸业、岳阳林纸在内的数家文化纸企业几乎同时发布涨价函，宣布受原材料及能源等成本影响，自本月中旬起，对文化纸类产品在目前售价基础上上调300元/吨。此外，部分纸企还表示未来将视成本与市场情况对相关产品作出进一步的价格调涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6754080.d.html</link>
-            <guid>2704905</guid>
-            <pubDate>Tue, 14 Jun 2022 06:31:00 GMT</pubDate>
+            <title><![CDATA[【我武生物：实控人胡赓熙拟通过大宗交易减持不超过2%】我武生物公告，实控人胡赓熙拟通过大宗交易减持不超过2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6789770.d.html</link>
+            <guid>2705180</guid>
+            <pubDate>Tue, 14 Jun 2022 09:54:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[芬兰能源部长：将为芬兰国有能源公司富腾（Fortum）退出俄罗斯提供时间准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8381919.d.html</link>
-            <guid>2704904</guid>
-            <pubDate>Tue, 14 Jun 2022 06:29:51 GMT</pubDate>
+            <title><![CDATA[【北京君正：部分控股股东、董监高拟合计减持不超1.33%股份】北京君正公告，公司控股股东暨实控人之一、董事李杰，董事兼副总经理冼永辉，董事兼副总经理张紧，副总经理兼董事会秘书张敏，监事会主席张燕祥拟合计减持不超1.33%的公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6789736.d.html</link>
+            <guid>2705179</guid>
+            <pubDate>Tue, 14 Jun 2022 09:53:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【台积电芯片封装产能利用率几近100%】消息人士透露，强劲的AI和HPC处理器订单将台积电的封装产能利用率提升至近100%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6753843.d.html</link>
-            <guid>2704903</guid>
-            <pubDate>Tue, 14 Jun 2022 06:29:38 GMT</pubDate>
+            <title><![CDATA[【毕马威联合GBI发布《中国药企出海白皮书》 本土药企进入出海爆发期】毕马威、GBI近日联合发布《中国药企出海白皮书》。《白皮书》提到，虽然近年来国内创新药上市速度提升，但创新药的研发成本高，国内竞争压力剧增，众多药企把目光投向海外市场，出海成为本土创新药企的必由之路。《白皮书》显示，中国对全球医药研发的贡献率于2018年上升至4％-8％，跨入第二梯队，成为全球医药研发版图上的新力军。2020年，中国创新药进入出海爆发期，全年出海创新药数量高达39家，本土药企与海外药企的跨境交易累计271起，五年内实现增长300%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8422084.d.html</link>
+            <guid>2705178</guid>
+            <pubDate>Tue, 14 Jun 2022 09:53:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据上海钢联发布数据显示，今日部分锂电材料报价下跌，镍豆跌7000元/吨，氯化钴跌1000元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6753808.d.html</link>
-            <guid>2704902</guid>
-            <pubDate>Tue, 14 Jun 2022 06:29:22 GMT</pubDate>
+            <title><![CDATA[希腊30年期国债收益率升至5％，创2015年以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6789643.d.html</link>
+            <guid>2705177</guid>
+            <pubDate>Tue, 14 Jun 2022 09:53:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[布伦特原油日内涨幅达1.00%，现报123.36美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6753732.d.html</link>
-            <guid>2704901</guid>
-            <pubDate>Tue, 14 Jun 2022 06:28:43 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威：我们将采取必要措施使通货膨胀回到2-3%的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6789218.d.html</link>
+            <guid>2705176</guid>
+            <pubDate>Tue, 14 Jun 2022 09:50:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数创2020年3月27日以来最大单日跌幅，收盘较今年高点下跌12%以上，确认进入修正区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6753484.d.html</link>
-            <guid>2704900</guid>
-            <pubDate>Tue, 14 Jun 2022 06:26:37 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威：2023年下半年通胀将明显下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8421465.d.html</link>
+            <guid>2705175</guid>
+            <pubDate>Tue, 14 Jun 2022 09:50:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货钯金日内涨幅达2.00%，现报1835.40美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8381269.d.html</link>
-            <guid>2704899</guid>
-            <pubDate>Tue, 14 Jun 2022 06:25:50 GMT</pubDate>
+            <title><![CDATA[【科德数控：公司参与龙芯中科A股IPO的战略配售】科德数控公告，公司以自有资金参与龙芯中科A股IPO的战略配售，龙芯中科本次发行股票的价格为人民币60.06元/股，本公司参与战略配售的认购价格为龙芯中科本次发行价格，获配售股数为205,000股，获配金额为人民币1231.23万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8421350.d.html</link>
+            <guid>2705174</guid>
+            <pubDate>Tue, 14 Jun 2022 09:49:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国外交大臣特拉斯：欧盟完全没有理由对我们在《北爱尔兰议定书》上的措施做出负面反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8381010.d.html</link>
-            <guid>2704898</guid>
-            <pubDate>Tue, 14 Jun 2022 06:24:05 GMT</pubDate>
+            <title><![CDATA[德国财长林德纳：各国降低债务水平很重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6789000.d.html</link>
+            <guid>2705173</guid>
+            <pubDate>Tue, 14 Jun 2022 09:48:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【消息称京东方拟进攻商用化大尺寸电视用OLED面板】随着OLED电视影响力渐增，京东方也将目光转向电视用OLED市场，传正筹备商用化各种尺寸的电视用OLED面板。据报导，京东方正准备商用化电视用的大尺寸LED面板。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6752988.d.html</link>
-            <guid>2704897</guid>
-            <pubDate>Tue, 14 Jun 2022 06:23:15 GMT</pubDate>
+            <title><![CDATA[【应急管理部：一季度新能源汽车火灾上升32% 平均每天超七例】国家应急管理部公布了2022年一季度新能源汽车火灾数据：共计640起，比去年同期上升32%，高于交通工具火灾平均（8.8%）增幅。平均每日超7例火灾。目前，新能源汽车起火原因主要可归为5点：包括电池部件老化、外部碰撞、高温天气、电池热失控、高负荷等。其中，用火用电因素所导致的火灾占一半以上。另一大诱因则为外部碰撞起火。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788854.d.html</link>
+            <guid>2705172</guid>
+            <pubDate>Tue, 14 Jun 2022 09:47:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A股午后回暖，沪指转涨，深成指、创业板指日内跌幅收窄至约1%和1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6752854.d.html</link>
-            <guid>2704896</guid>
-            <pubDate>Tue, 14 Jun 2022 06:22:35 GMT</pubDate>
+            <title><![CDATA[惠誉：利用闲置产能和贸易流量重定向最终将减轻全球石油供应的压力，因此预计油价增长将放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8421079.d.html</link>
+            <guid>2705171</guid>
+            <pubDate>Tue, 14 Jun 2022 09:47:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[南向资金净买额达30亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6752645.d.html</link>
-            <guid>2704895</guid>
-            <pubDate>Tue, 14 Jun 2022 06:21:48 GMT</pubDate>
+            <title><![CDATA[华润电力(00836.HK)：首五个月附属电厂累计售电量达到71,132,707兆瓦时，同比增加了0.4%，其中，附属风电场累计售电量达到15,348,623兆瓦时，同比增加了11.0%；附属光伏电站累计售电量达到564,697兆瓦时，同比增加了60.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8421030.d.html</link>
+            <guid>2705170</guid>
+            <pubDate>Tue, 14 Jun 2022 09:47:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数6月14日（周二）收盘下跌266.40点，跌幅3.84%，报6665.60点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8380037.d.html</link>
-            <guid>2704894</guid>
-            <pubDate>Tue, 14 Jun 2022 06:20:39 GMT</pubDate>
+            <title><![CDATA[华润电力(00836.HK)：五月附属电厂售电量达到12,293,448兆瓦时，同比减少了14.7%，其中，附属风电场售电量达到3,270,844兆瓦时，同比增加了0.3%；附属光伏电站售电量达到127,141兆瓦时，同比增加了39.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788788.d.html</link>
+            <guid>2705169</guid>
+            <pubDate>Tue, 14 Jun 2022 09:47:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【券商板块反复活跃 光大证券5天4板】光大证券反包涨停5天4板，长城证券此前涨停，方正证券、红塔证券、锦龙股份、中信建投、山西证券等冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8379937.d.html</link>
-            <guid>2704893</guid>
-            <pubDate>Tue, 14 Jun 2022 06:20:19 GMT</pubDate>
+            <title><![CDATA[巴克莱：将美国航空集团(AAL.O)目标价从20美元下调至17美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788769.d.html</link>
+            <guid>2705168</guid>
+            <pubDate>Tue, 14 Jun 2022 09:46:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三维天地：公司目前在制药行业业务处于高速增长阶段】三维天地近日在机构调研时表示，公司的医疗行业客户包括疾病控制、制药与生物技术、临床和医疗保健、生命科学等细分行业。新冠疫情爆发以来，公司在疾控行业的客户订单有所增长，如去年新增贵州、甘肃、海南等多地疾控中心的订单；公司目前在制药行业也处于高速增长阶段，行业客户已超百家；近两年公司与生命科学领域客户的合作也逐渐兴起，如华大基因、华诺奥美等，预计未来会有不错的增长态势。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8379680.d.html</link>
-            <guid>2704892</guid>
-            <pubDate>Tue, 14 Jun 2022 06:19:12 GMT</pubDate>
+            <title><![CDATA[法国方面要求欧盟国家保留碳改革的关键参数。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788731.d.html</link>
+            <guid>2705167</guid>
+            <pubDate>Tue, 14 Jun 2022 09:46:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【证监会答记者问：并无设置薪酬限额，也不涉及薪酬总额和具体操作办法】证监会在答记者问中表示，近期，监管部门会同行业协会，在充分听取行业意见建议的基础上，由证券业协会、基金业协会分别发布了薪酬管理指引，体现出尊重市场基本规律、立足行业实际情况、压实机构主体责任、防范短期过度激励的基本思路，旨在夯实行业发展的治理基础、风控基础、合规基础、文化基础和人才基础，更好有效服务实体经济、防范金融风险，并无设置薪酬限额，也不涉及薪酬总额和具体操作办法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8379473.d.html</link>
-            <guid>2704891</guid>
-            <pubDate>Tue, 14 Jun 2022 06:18:07 GMT</pubDate>
+            <title><![CDATA[【水利部：入汛以来全国汛情形势总体偏重】央视新闻消息，据水利部介绍，今年入汛以来，全国汛情形势总体偏重。自6月1日进入主汛期以来，全国降雨量较常年同期偏多近3成，汛情形势总体重于常年、重于去年。主要呈现出强降水过程多、大江大河编号洪水多、中小河流洪水多发3个特点。6月1日以来，全国共发生5次强降雨过程，较1998年以来同期强降雨过程次数明显偏多。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788645.d.html</link>
+            <guid>2705166</guid>
+            <pubDate>Tue, 14 Jun 2022 09:46:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国外交大臣特拉斯：正在以合理的方式就北爱尔兰协议采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8379358.d.html</link>
-            <guid>2704890</guid>
-            <pubDate>Tue, 14 Jun 2022 06:17:28 GMT</pubDate>
+            <title><![CDATA[法国方面提议对欧盟实施更强有力的保护以应对碳价格上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788591.d.html</link>
+            <guid>2705165</guid>
+            <pubDate>Tue, 14 Jun 2022 09:46:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[莫斯科交易所：从6月14日起暂停瑞士法郎兑美元和瑞士法郎兑卢布的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8379183.d.html</link>
-            <guid>2704889</guid>
-            <pubDate>Tue, 14 Jun 2022 06:16:39 GMT</pubDate>
+            <title><![CDATA[惠誉：新的基本情况假设WTI原油价格在2022年为100美元/桶，2023年为81.0美元/桶，2024年为62.0美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8420782.d.html</link>
+            <guid>2705164</guid>
+            <pubDate>Tue, 14 Jun 2022 09:45:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【消息称长江存储将直接挑战232层NAND 并于2022年底量产】3DNAND200层堆栈以上赛局加速展开，继存储器大厂美光(Micron)提出业界首家232层堆栈3DNAND Flash将于2022年底前率先量产，近日市场传长江存储将跳过原定192层技术，直接挑战232层NAND，并于2022年底量产。存储器相关业者指出，如此一来，长江存储可望赶上其他NAND大厂如三星电子等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8379150.d.html</link>
-            <guid>2704888</guid>
-            <pubDate>Tue, 14 Jun 2022 06:16:28 GMT</pubDate>
+            <title><![CDATA[惠誉：新的基本情况假设布伦特原油在2022年为105美元/桶，2023年为85美元/桶，2024年为65美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788557.d.html</link>
+            <guid>2705163</guid>
+            <pubDate>Tue, 14 Jun 2022 09:45:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【证监会答记者问：“要求外资投行报告高管薪酬细节”报道为不实消息】近日，有媒体报道中国证监会今年在上海和北京召开会议，要求外资投行报告高管薪酬细节，并提出不要给高管过高薪酬。请问证监会对此有何评论？证监会回应：上述报道为不实消息，我会及相关证监局、行业协会未召开过上述会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6751147.d.html</link>
-            <guid>2704887</guid>
-            <pubDate>Tue, 14 Jun 2022 06:14:34 GMT</pubDate>
+            <title><![CDATA[欧元兑英镑EUR/GBP日内涨超0.50%，现报0.8616。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788507.d.html</link>
+            <guid>2705162</guid>
+            <pubDate>Tue, 14 Jun 2022 09:45:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[奥地利政府声明：到2026年，解决生活成本上升问题的一揽子措施将耗资约280亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8378743.d.html</link>
-            <guid>2704886</guid>
-            <pubDate>Tue, 14 Jun 2022 06:14:15 GMT</pubDate>
+            <title><![CDATA[德国财长林德纳：通胀对私人消费者造成巨大危险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6788480.d.html</link>
+            <guid>2705161</guid>
+            <pubDate>Tue, 14 Jun 2022 09:45:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全球500大富豪今年损失1.4万亿美元】根据彭博亿万富翁指数，随着全球金融市场在高利率和通胀焦虑的重压下大跌，全球500大富豪今年总共已损失了1.4万亿美元，其中仅周一就损失了2060亿美元。根据周二发布的Capgemini World Wealth报告，这与去年形成鲜明对比，当时市场飙升，全球高净值个人的人数增加了约8%，其中北美增加了13%。数据显示，亚太地区的富人人数仅增长了4.2%，落后于欧洲，与北美的差距进一步扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8378622.d.html</link>
-            <guid>2704885</guid>
-            <pubDate>Tue, 14 Jun 2022 06:13:29 GMT</pubDate>
+            <title><![CDATA[德国财长林德纳：希腊国家财政正在正常化，改革进程必须继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8420612.d.html</link>
+            <guid>2705160</guid>
+            <pubDate>Tue, 14 Jun 2022 09:44:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国将结束插电式汽车新订单的补贴计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6750846.d.html</link>
-            <guid>2704884</guid>
-            <pubDate>Tue, 14 Jun 2022 06:12:31 GMT</pubDate>
+            <title><![CDATA[德国财长林德纳：希腊经济数据强劲。我们明确赞扬这一点和其预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787952.d.html</link>
+            <guid>2705159</guid>
+            <pubDate>Tue, 14 Jun 2022 09:41:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工信部召开《中国光电子器件产业技术发展路线图（2023-2027年）》编制启动会】近日，工业和信息化部电子信息司指导召开《中国光电子器件产业技术发展路线图（2023-2027年）》编制启动会。会议代表表示，《路线图》的编制应充分体现创新性、战略性和指导性，通过凝练创新方向和重大目标，指引新时期光电子产业实现高质量发展。下一步，行业协会和业内企事业单位将集思广益，按计划推进《路线图》的编制工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8378425.d.html</link>
-            <guid>2704883</guid>
-            <pubDate>Tue, 14 Jun 2022 06:12:21 GMT</pubDate>
+            <title><![CDATA[【西班牙迎来近20年来6月期间最强烈热浪天气】根据西班牙国家气象局当地时间6月14日发布的消息，高温天气使得西班牙15个大区处在高温预警状态，其中安达卢西亚、阿拉贡、卡斯蒂利亚-莱昂、卡斯蒂利亚-拉曼恰、埃斯特雷马杜拉、马德里和加泰罗尼亚大区处在高温橙色预警状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419945.d.html</link>
+            <guid>2705158</guid>
+            <pubDate>Tue, 14 Jun 2022 09:41:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[汽车零部件板块异动拉升，广东鸿图、继峰股份涨停，嵘泰股份涨超8%，湘油泵、明新旭腾、岱美股份、旭升股份等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8378328.d.html</link>
-            <guid>2704882</guid>
-            <pubDate>Tue, 14 Jun 2022 06:11:47 GMT</pubDate>
+            <title><![CDATA[【河南省卫健委：接到外地来豫储户被赋红码的投诉 正调查核实】近日，多名在河南几家村镇银行存款的储户反映，他们因存款无法取出，近期来郑州、开封等地尝试线下取钱。但抵达后，他们的健康码被赋红码。6月14日16时许，河南省卫健委值班室一名工作人员表示，昨天（13日）开始，该省卫健委及12345政务服务热线接到多个“外地来豫储户被赋红码”的投诉。接到投诉后，省卫健委昨日已将投诉反馈至相关部门，目前正在调查核实中。至于这些储户为何被赋红码以及调查核实的进展等，该工作人员表示暂不了解。 (澎湃新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787840.d.html</link>
+            <guid>2705157</guid>
+            <pubDate>Tue, 14 Jun 2022 09:41:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞典商业银行：预计6月和9月瑞典央行将加息50个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8378180.d.html</link>
-            <guid>2704881</guid>
-            <pubDate>Tue, 14 Jun 2022 06:10:59 GMT</pubDate>
+            <title><![CDATA[【平治信息：中标中国移动6895.58万元合同】平治信息公告，子公司中标中国移动通信集团江苏有限公司6895.58万元合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419522.d.html</link>
+            <guid>2705156</guid>
+            <pubDate>Tue, 14 Jun 2022 09:39:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【集邦咨询：2022下半年消费规MLCC需求持续疲弱 价格恐再降3~6%】据TrendForce集邦咨询数据显示，各尺寸平均库存水位达90天以上，预估下半年消费规MLCC价格平均恐再降3~6%。现下，制造业复工进程缓慢，第二季疫情造成的生产短缺口，ODM厂难以在下半年填补，高通胀问题导致物价居高不下，无助于支撑下半年旺季的需求，其中以手机、笔电、平板、电视等消费性产品有显著影响，造成消费规MLCC需求滑落，市场库存不断攀高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8378138.d.html</link>
-            <guid>2704880</guid>
-            <pubDate>Tue, 14 Jun 2022 06:10:48 GMT</pubDate>
+            <title><![CDATA[【交易商协会：首批4单用途类科创票据项目正式落地】交易商协会官微消息，6月14日，首批4单用途类科创票据成功发行。其中，合肥市产业投资控股（集团）有限公司金额10亿元，期限3+2年，发行利率3.12%，认购倍数3.2倍；厦门象屿集团有限公司金额10亿元，期限3年，发行利率3.80%；无锡华光环保能源集团股份有限公司金额2亿元，期限3年，发行利率3.25%，认购倍数2倍；苏州金合盛控股有限公司金额2亿元，期限3年，发行利率3.3%，认购倍数2.75倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787455.d.html</link>
+            <guid>2705155</guid>
+            <pubDate>Tue, 14 Jun 2022 09:39:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[财经网站Forexlive评英国5月失业金申请人数数据：预计的5月份就业人数增加9万人，达到创纪录的2960万人，就业率增长0.2%，达到75.6%。尽管如此，后者仍低于疫情前的水平。报告还指出，英国4月三个月ILO失业率出人意料地上升到了3.8%。除此之外，3月至5月的职位空缺数量达到了创纪录的130万，但职位空缺率的增速继续放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8377804.d.html</link>
-            <guid>2704879</guid>
-            <pubDate>Tue, 14 Jun 2022 06:09:23 GMT</pubDate>
+            <title><![CDATA[希腊财长：预计欧元集团将于周四确认希腊退出强化监管框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419453.d.html</link>
+            <guid>2705154</guid>
+            <pubDate>Tue, 14 Jun 2022 09:39:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汽配股继续活跃 一体压铸方向领涨】广东鸿图、继峰股份双双拉升封板，瑞鹄模具、嵘泰股份、岱美股份、旭升股份等纷纷冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8377719.d.html</link>
-            <guid>2704878</guid>
-            <pubDate>Tue, 14 Jun 2022 06:09:00 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威预计未来6-12个月澳大利亚经济增长将相当强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787380.d.html</link>
+            <guid>2705153</guid>
+            <pubDate>Tue, 14 Jun 2022 09:39:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【恒顺醋业跨界推出气泡水产品 】上海证券报消息，记者日前了解到，恒顺醋业跨界气泡水领域，推出了一款名为“酸甜抱抱™”的气泡水，主打低卡、低糖、0防腐剂、真实果汁概念，目前有菠萝、百香果和荔枝三种口味。酸甜抱抱天猫旗舰店客服向记者表示，该款气泡水产品隶属恒顺醋业旗下，于今年5月中旬推出。记者在产品详情介绍页面看到，该款气泡水产品添加了恒顺三年陈香醋。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8377532.d.html</link>
-            <guid>2704877</guid>
-            <pubDate>Tue, 14 Jun 2022 06:08:03 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威：通胀到圣诞节时可能达到7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419372.d.html</link>
+            <guid>2705152</guid>
+            <pubDate>Tue, 14 Jun 2022 09:38:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚审慎监管局：银行需要有系统来限制高风险住房抵押贷款的增长，新规定将于今年9月生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8377309.d.html</link>
-            <guid>2704875</guid>
-            <pubDate>Tue, 14 Jun 2022 06:06:57 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威认为澳大利亚经济“相当有韧性”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419356.d.html</link>
+            <guid>2705151</guid>
+            <pubDate>Tue, 14 Jun 2022 09:38:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【吉尔吉斯斯坦与塔吉克斯坦边界发生边防军交火】吉尔吉斯斯坦边防局新闻中心6月14日对卫星通讯社称，吉尔吉斯斯坦与塔吉克斯坦边界上发生边防军之间的交火。吉方新闻处发言人表示，6月14日清早，在巴特肯州，从塔吉克斯坦边防局哨所向吉尔吉斯斯坦边防哨所方向射击。据其称，作为回应，吉方向塔吉克斯坦哨所方向进行了射击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8377268.d.html</link>
-            <guid>2704874</guid>
-            <pubDate>Tue, 14 Jun 2022 06:06:46 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威：预测利率在某个时刻达到2.5％是“合理的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787286.d.html</link>
+            <guid>2705150</guid>
+            <pubDate>Tue, 14 Jun 2022 09:38:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：尽管失业或正在寻找工作的人数小幅下降，但总体仍比新冠疫情前的水平高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8377056.d.html</link>
-            <guid>2704873</guid>
-            <pubDate>Tue, 14 Jun 2022 06:05:52 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威：不担心房价下跌会影响银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419287.d.html</link>
+            <guid>2705149</guid>
+            <pubDate>Tue, 14 Jun 2022 09:38:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国家统计局：今日公布的失业数据表明就业市场喜忧参半。尽管就业人数连续3个月上升，但数据仍低于疫情前的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8376871.d.html</link>
-            <guid>2704872</guid>
-            <pubDate>Tue, 14 Jun 2022 06:04:44 GMT</pubDate>
+            <title><![CDATA[惠誉：上调的油价预期反映了既定供应渠道的中断和不断增长的石油需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419266.d.html</link>
+            <guid>2705148</guid>
+            <pubDate>Tue, 14 Jun 2022 09:38:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国5月份CPI同比增长7.9%，预估7.9%；5月份CPI环比增长0.9%，预估0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8376687.d.html</link>
-            <guid>2704871</guid>
-            <pubDate>Tue, 14 Jun 2022 06:03:42 GMT</pubDate>
+            <title><![CDATA[惠誉维持其长期油价预期不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787218.d.html</link>
+            <guid>2705147</guid>
+            <pubDate>Tue, 14 Jun 2022 09:38:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国5月批发物价指数年率 22.9%，前值23.80%。德国5月批发物价指数月率 1%，前值2.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6749193.d.html</link>
-            <guid>2704870</guid>
-            <pubDate>Tue, 14 Jun 2022 06:03:02 GMT</pubDate>
+            <title><![CDATA[荷兰日前交付的批发天然气价格上涨5.6%，至85.50欧元/兆瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419228.d.html</link>
+            <guid>2705146</guid>
+            <pubDate>Tue, 14 Jun 2022 09:37:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国台湾报告新增66119例本土新冠肺炎确诊病例，新增123例新冠肺炎死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6749116.d.html</link>
-            <guid>2704869</guid>
-            <pubDate>Tue, 14 Jun 2022 06:02:29 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威：目前还不清楚利率需要上调多少。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787156.d.html</link>
+            <guid>2705145</guid>
+            <pubDate>Tue, 14 Jun 2022 09:37:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国两年期国债收益率下跌5个基点至3.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8376484.d.html</link>
-            <guid>2704868</guid>
-            <pubDate>Tue, 14 Jun 2022 06:02:18 GMT</pubDate>
+            <title><![CDATA[惠誉评级提高了其石油和天然气价格假设。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419154.d.html</link>
+            <guid>2705144</guid>
+            <pubDate>Tue, 14 Jun 2022 09:37:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日经225指数收盘跌1.3%，报26629.86点；东证指数跌1.2%，报1878.45点。]]></title>
-            <guid>2704867</guid>
-            <pubDate>Tue, 14 Jun 2022 06:01:51 GMT</pubDate>
+            <title><![CDATA[欧盟议会委员会支持将碳排放改革提交全体会议，欧盟议会环境委员会就碳市场改革进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419112.d.html</link>
+            <guid>2705143</guid>
+            <pubDate>Tue, 14 Jun 2022 09:37:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国5月失业金申请人数减少1.97万人，为2021年2月以来最小降幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6748963.d.html</link>
-            <guid>2704866</guid>
-            <pubDate>Tue, 14 Jun 2022 06:01:33 GMT</pubDate>
+            <title><![CDATA[澳洲联储主席洛威表示，需要更高的利率来降低通货膨胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6787032.d.html</link>
+            <guid>2705142</guid>
+            <pubDate>Tue, 14 Jun 2022 09:37:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国4月三个月ILO失业率 3.8%，预期 3.6%，前值 3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8376236.d.html</link>
-            <guid>2704865</guid>
-            <pubDate>Tue, 14 Jun 2022 06:01:10 GMT</pubDate>
+            <title><![CDATA[三叶草生物(02197.HK)：于2022年6月14日，治疗肿瘤化疗相关性血小板减少症(CIT)的药物SCB-219M已完成I期临床试验首位受试者给药。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8419009.d.html</link>
+            <guid>2705141</guid>
+            <pubDate>Tue, 14 Jun 2022 09:36:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股恒指转涨，此前跌约1.6%，电力股、香港银行股走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6748465.d.html</link>
-            <guid>2704864</guid>
-            <pubDate>Tue, 14 Jun 2022 05:59:22 GMT</pubDate>
+            <title><![CDATA[【比特币疯狂赌徒：MicroStrategy创始人账面浮亏12亿美金！】据《财富》此前报道，一份提交给美国证券交易委员会的文件显示，截至3月31日，MicroStrategy(MSTR.O)拥有129,218枚比特币，价值39.7亿美元。如果比特币价格跌至21000美元下方，该公司将面临追加保证金，并且需要为其在3月份从Silvergate银行获得的2.05亿美元贷款提供更多比特币抵押品。据最新市场消息透露，该公司CEO Michael Saylor持有的比特币目前已经浮亏12.6亿美元。截至目前，比特币现价报22500美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8418962.d.html</link>
+            <guid>2705140</guid>
+            <pubDate>Tue, 14 Jun 2022 09:36:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[海汽集团再度触及涨停，录得11连板。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8375765.d.html</link>
-            <guid>2704863</guid>
-            <pubDate>Tue, 14 Jun 2022 05:59:14 GMT</pubDate>
+            <title><![CDATA[证监会批复同意合肥晶合集成电路股份有限公司科创板首次公开发行股票注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6786875.d.html</link>
+            <guid>2705139</guid>
+            <pubDate>Tue, 14 Jun 2022 09:36:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【南京市新增1例本土无症状感染者】根据江苏省卫健委6月14日发布，2022年6月13日0—24时，南京市无新增本土确诊病例，新增本土无症状感染者1例（为外省市来宁闭环管理人员）。新增本土无症状感染者详情：女，28岁，6月6日乘坐G368次列车来南京，到达南京南站后即开始闭环管理，6月13日核酸检测结果阳性，当日诊断为无症状感染者。该无症状感染者目前已转至定点医疗机构隔离医学观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6748347.d.html</link>
-            <guid>2704862</guid>
-            <pubDate>Tue, 14 Jun 2022 05:58:55 GMT</pubDate>
+            <title><![CDATA[【伊朗港口和海事组织：被希腊政府扣押的伊朗油轮将被释放】伊朗港口和海事组织在一份声明中表示，此前被希腊政府扣押的伊朗油轮将被释放。声明说，尽管美国命令希腊扣押该船以及货物，但最终希腊政府决定释放该油轮及船上货物。5月25日，伊朗港口和海事组织发表声明称，一艘悬挂伊朗国旗的油轮在希腊海域附近发生技术故障，在向希腊政府求助后，遭到美国政府的干预，随后希腊法院下达拦截命令，并派遣军方人员将该油轮上的货物强行卸走。伊朗方面表示，该油轮有合法的运输手续，希腊的行为是"海盗行为"，违反国际法，必须立刻予以纠正。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8418847.d.html</link>
+            <guid>2705138</guid>
+            <pubDate>Tue, 14 Jun 2022 09:36:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄太平洋舰队护卫舰在太平洋举行防空演习】俄罗斯太平洋舰队发布消息称，该舰队护卫舰编队在太平洋演习框架内抗击假想敌轰炸机的空中打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6748211.d.html</link>
-            <guid>2704861</guid>
-            <pubDate>Tue, 14 Jun 2022 05:58:17 GMT</pubDate>
+            <title><![CDATA[【中核钛白：签订2GW“源网荷储一体化”新能源发电项目投资框架协议】中核钛白公告，近日，中核时代与甘肃省白银市景泰县人民政府就2GW“源网荷储一体化”新能源发电项目在景泰县投资建设有关事宜达成一致意见，并签订《景泰县2GW“源网荷储一体化”新能源发电项目投资框架协议》；同日，中核时代就新能源项目用地需求与景泰县政府指定的景泰寿鹿实业投资发展集团有限公司签订《光伏项目土地租赁合同》。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8418794.d.html</link>
+            <guid>2705137</guid>
+            <pubDate>Tue, 14 Jun 2022 09:36:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【速腾聚创新一轮战略融资完成最新交割 华兴资本云锋基金景林投资等参与】智能激光雷达企业RoboSense（速腾聚创）6月14日宣布新一轮战略融资完成最新交割。由华兴新经济基金领投，云锋基金、景林投资和昆仲资本跟投。至此，参与速腾聚创新一轮战略融资的领投方有华兴资本、小米长江产业基金和宇通集团，其他投资方包括云锋基金、景林投资、比亚迪集团、香港立讯、德赛西威等。本轮融资着眼于纳入上下游全链产业资本生态，持续提升激光雷达在性能、可靠性、量产交付等方面的综合实力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6748188.d.html</link>
-            <guid>2704860</guid>
-            <pubDate>Tue, 14 Jun 2022 05:58:05 GMT</pubDate>
+            <title><![CDATA[【美媒：美国有儿童感染含新冠在内7种病毒 专家称罕见】据海外网消息，美国耶鲁大学医学院儿科医生托马斯·默里13日表示，他的团队近期发现许多儿童感染了多种病毒，部分入院的儿童感染了两种病毒，部分儿童同时感染了三种病毒，有的儿童被发现感染了包括新冠病毒在内的七种呼吸道病毒。默里称：“这种情况在一年中的任何时候出现都很罕见，5月和6月更不常见。”美国数字健康平台eMed的流行病学家迈克尔·米纳称，新冠疫情期间，儿童的免疫系统被削弱。美国疾病控制与预防中心的数据显示，近几个星期，儿童流感病例异常激增。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6786554.d.html</link>
+            <guid>2705136</guid>
+            <pubDate>Tue, 14 Jun 2022 09:34:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[现货白银日内涨幅扩大至1%，现报21.27美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6747838.d.html</link>
-            <guid>2704859</guid>
-            <pubDate>Tue, 14 Jun 2022 05:56:25 GMT</pubDate>
+            <title><![CDATA[【应急管理部：一季度新能源汽车火灾上升32% 平均每天超过七例】国家应急管理部公布了2022年一季度新能源汽车火灾数据：共计640起，比去年同期上升32%，高于交通工具火灾平均（8.8%）增幅。平均每日超7例火灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6786147.d.html</link>
+            <guid>2705135</guid>
+            <pubDate>Tue, 14 Jun 2022 09:31:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
