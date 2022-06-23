@@ -4,608 +4,606 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 23 Jun 2022 16:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 19:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[意大利油企埃尼集团：因市场状况推迟全面上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0208550.d.html</link>
-            <guid>2716843</guid>
-            <pubDate>Thu, 23 Jun 2022 16:28:48 GMT</pubDate>
+            <title><![CDATA[欧洲理事会主席米歇尔：西巴尔干领导人赞成欧洲政治共同体理念。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419986.d.html</link>
+            <guid>2716943</guid>
+            <pubDate>Thu, 23 Jun 2022 19:13:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【英飞特：墨西哥工厂今年通过了几家关键大客户审核】英飞特在互动平台表示，当前公司墨西哥工厂毛利较低，主要原因是产能还没有完全释放。公司墨西哥工厂今年通过了几家关键大客户的审核，当原材料供应问题得到缓解后，预计产量能够获得进一步的提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0208460.d.html</link>
-            <guid>2716842</guid>
-            <pubDate>Thu, 23 Jun 2022 16:27:48 GMT</pubDate>
+            <title><![CDATA[通用旗下自动驾驶汽车公司Cruise的COO：预计到2024年将运营上千台无人驾驶出租车。Cruise的自动驾驶汽车明年将把服务范围拓展至其他城市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0223258.d.html</link>
+            <guid>2716942</guid>
+            <pubDate>Thu, 23 Jun 2022 19:13:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国参议院有足够票数通过枪支立法；投票仍在继续。]]></title>
-            <guid>2716841</guid>
-            <pubDate>Thu, 23 Jun 2022 16:23:42 GMT</pubDate>
+            <title><![CDATA[美国能源部：美国能源部长格兰霍姆和美国炼油商讨论了在美国进一步进入飓风季节之际加强东部沿海地区准备工作的措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419676.d.html</link>
+            <guid>2716941</guid>
+            <pubDate>Thu, 23 Jun 2022 19:09:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：FOMC的最新预测是“合理”的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0208042.d.html</link>
-            <guid>2716840</guid>
-            <pubDate>Thu, 23 Jun 2022 16:22:58 GMT</pubDate>
+            <title><![CDATA[恒指期货夜盘收跌0.21%，报21182点，低水92点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0222765.d.html</link>
+            <guid>2716940</guid>
+            <pubDate>Thu, 23 Jun 2022 19:07:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们预计今年将继续加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0207951.d.html</link>
-            <guid>2716839</guid>
-            <pubDate>Thu, 23 Jun 2022 16:22:04 GMT</pubDate>
+            <title><![CDATA[美国能源部：美国能源部长格兰霍姆与美国炼油企业召开紧急会议，讨论了全球石油供应和炼油问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0222704.d.html</link>
+            <guid>2716939</guid>
+            <pubDate>Thu, 23 Jun 2022 19:06:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：预计随着时间推移会进一步加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0207909.d.html</link>
-            <guid>2716838</guid>
-            <pubDate>Thu, 23 Jun 2022 16:21:39 GMT</pubDate>
+            <title><![CDATA[  【摩根士丹利策略师Wilson：美国经济衰退的几率仍低于50%】越来越多的华尔街知名人士认为美国经济衰退不可避免。摩根士丹利首席美国股票策略师Wilson在谈及衰退概率时表示，我们还没到那一步。基准预测的概率可能大约在50%，悲观预测的概率35%，乐观预测的概率15%。美股暴跌后定价更为合理，但如果经济萎缩，那么标普500指数需跌至3000点左右才能充分反映萎缩的影响，这意味着较周三收盘点位3759.89点跌约20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419292.d.html</link>
+            <guid>2716938</guid>
+            <pubDate>Thu, 23 Jun 2022 19:05:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[LME期铜下跌4.6%，创2021年6月份以来最大跌幅。]]></title>
-            <guid>2716837</guid>
-            <pubDate>Thu, 23 Jun 2022 16:20:35 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委Kazimir：加息（路径）取决于数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419249.d.html</link>
+            <guid>2716937</guid>
+            <pubDate>Thu, 23 Jun 2022 19:04:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：美国能源部长格兰霍姆与炼油企业高管会谈时采取了调和的语气。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8404514.d.html</link>
-            <guid>2716836</guid>
-            <pubDate>Thu, 23 Jun 2022 16:20:25 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委Kazimir：欧洲央行利率可能在一年内达到1.5％-2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419235.d.html</link>
+            <guid>2716936</guid>
+            <pubDate>Thu, 23 Jun 2022 19:04:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  丰田将召回所有车轮可能脱落的bZ4X电动车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0207597.d.html</link>
-            <guid>2716835</guid>
-            <pubDate>Thu, 23 Jun 2022 16:18:42 GMT</pubDate>
+            <title><![CDATA[美国得克萨斯电网公司：为周四可能出现的创纪录电力需求做好了准备，有足够的电力供应以满足需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0222492.d.html</link>
+            <guid>2716935</guid>
+            <pubDate>Thu, 23 Jun 2022 19:04:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国能源部长Granholm与石油行业高管们开会，会议持续了一个小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8404256.d.html</link>
-            <guid>2716834</guid>
-            <pubDate>Thu, 23 Jun 2022 16:17:40 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委Kazimir：欧洲央行可能会在7月加息25个基点，9月加息50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0222424.d.html</link>
+            <guid>2716934</guid>
+            <pubDate>Thu, 23 Jun 2022 19:03:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：美国能源部长格兰霍姆淡化了禁止燃料出口作为降低汽油价格的可行短期选择的说法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0207279.d.html</link>
-            <guid>2716833</guid>
-            <pubDate>Thu, 23 Jun 2022 16:15:05 GMT</pubDate>
+            <title><![CDATA[雪佛龙CEO：会议是实现能源安全的重要一步。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419154.d.html</link>
+            <guid>2716933</guid>
+            <pubDate>Thu, 23 Jun 2022 19:03:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：汽油和食品价格上涨增加了应对通胀的紧迫性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8403947.d.html</link>
-            <guid>2716832</guid>
-            <pubDate>Thu, 23 Jun 2022 16:13:46 GMT</pubDate>
+            <title><![CDATA[加密货币交易所Coinbase：已修复问题，网页版和移动端都已恢复正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419131.d.html</link>
+            <guid>2716932</guid>
+            <pubDate>Thu, 23 Jun 2022 19:03:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国五年期通胀保值国债（TIPS）损益平衡通胀率跌至2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0207069.d.html</link>
-            <guid>2716831</guid>
-            <pubDate>Thu, 23 Jun 2022 16:12:08 GMT</pubDate>
+            <title><![CDATA[美国能源部长格兰霍姆敦促炼油商提高产能以降低汽油价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8419119.d.html</link>
+            <guid>2716931</guid>
+            <pubDate>Thu, 23 Jun 2022 19:02:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美、布两油短线走低0.9美元，现分别报104.21美元/桶和110.03美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0207036.d.html</link>
-            <guid>2716830</guid>
-            <pubDate>Thu, 23 Jun 2022 16:11:48 GMT</pubDate>
+            <title><![CDATA[雪佛龙CEO：与美国能源部长格兰霍姆的会议“具有建设性”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418894.d.html</link>
+            <guid>2716930</guid>
+            <pubDate>Thu, 23 Jun 2022 18:59:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【辽宁丹东：全市有序恢复生产生活秩序】丹东市新冠肺炎疫情防控指挥部办公室发布关于全市有序恢复生产生活秩序的通知。通知指出，丹东全域仍然作为防范区进行管理，非必要不离丹。特殊情况确需离丹人员须持 48 小时核酸检测阴性证明，机关企事业单位人员须经所在单位批准、其他人员须经社区批准。除封控区、管控区的居民外，其他居民可凭 48 小时核酸检测阴性证明在全市有序流动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0206951.d.html</link>
-            <guid>2716829</guid>
-            <pubDate>Thu, 23 Jun 2022 16:11:05 GMT</pubDate>
+            <title><![CDATA[摩尔多瓦总统：欧盟决定授予摩尔多瓦候选国地位是历史性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418782.d.html</link>
+            <guid>2716929</guid>
+            <pubDate>Thu, 23 Jun 2022 18:58:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【佳兆业美好：2021年公司拥有人应占溢利同比减少74.41%】佳兆业美好公告，该公司2021年营业收入增长约9.36亿元至26.66亿元，较2020年营业收入增幅约54%；公司拥有人应占溢利约为5680.6万元，较2020年同期的2.22亿元减少74.41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0206883.d.html</link>
-            <guid>2716828</guid>
-            <pubDate>Thu, 23 Jun 2022 16:10:28 GMT</pubDate>
+            <title><![CDATA[法国总统马克龙：法国愿意协助欧盟候选国进行改革。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0222004.d.html</link>
+            <guid>2716928</guid>
+            <pubDate>Thu, 23 Jun 2022 18:58:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  “元宇宙公司”Meta Platform将支付业务Facebook Pay更名为Meta Pay。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0206842.d.html</link>
-            <guid>2716827</guid>
-            <pubDate>Thu, 23 Jun 2022 16:10:15 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委Kazimir：部分欧洲国家可能面临短期技术性经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0221935.d.html</link>
+            <guid>2716927</guid>
+            <pubDate>Thu, 23 Jun 2022 18:57:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：现在到处都在发生通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8403497.d.html</link>
-            <guid>2716826</guid>
-            <pubDate>Thu, 23 Jun 2022 16:08:36 GMT</pubDate>
+            <title><![CDATA[【俄气将对北溪1号进行年度维修，天然气供应或将停止】据报道，几天后，俄气公司将对北溪1号进行年度维修，此举将导致通过该管道的供应中断。德国商业联合会表示，“在此前的定期维护期间，俄气通过乌克兰向德国输送更多天然气，或通过亚马尔—欧洲管道输送，以弥补短缺。但有人担心，他们今年不会这么做。俄气已经把通过该管道的流量削减了60%，而没有通过增加通过其他管道来弥补。”德国化学工业协会能源主管Jörg Rothermel表示：“如果我们不能在秋季之前成功填满储气库，将很快出现天然气短缺问题。德国联邦网络局将不得不开始发布命令，要求企业减少天然气消耗，甚至关闭一些生产设施。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418681.d.html</link>
+            <guid>2716926</guid>
+            <pubDate>Thu, 23 Jun 2022 18:57:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们不能使用工具来改变能源价格，但工具有助于我们迅速达到适当（物价）水平的愿望。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0206656.d.html</link>
-            <guid>2716825</guid>
-            <pubDate>Thu, 23 Jun 2022 16:08:10 GMT</pubDate>
+            <title><![CDATA[欧盟委员会主席冯德莱恩：相信乌克兰和摩尔多瓦将尽快采取行动，实施必要的改革。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0221697.d.html</link>
+            <guid>2716925</guid>
+            <pubDate>Thu, 23 Jun 2022 18:54:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：关键是市场要有足够的流动性来消化信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8403418.d.html</link>
-            <guid>2716824</guid>
-            <pubDate>Thu, 23 Jun 2022 16:07:56 GMT</pubDate>
+            <title><![CDATA[美国疾控中心主管Walensky：7天平均新冠确诊病例较前一周下降了4%，至9.94万人，平均死亡病例下降了16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418438.d.html</link>
+            <guid>2716924</guid>
+            <pubDate>Thu, 23 Jun 2022 18:54:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CNH数据显示：墨西哥5月石油产量环比增长0.6%，至161.6万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8402809.d.html</link>
-            <guid>2716823</guid>
-            <pubDate>Thu, 23 Jun 2022 16:01:06 GMT</pubDate>
+            <title><![CDATA[市场消息，麦当劳收紧有关餐厅所有权的规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418210.d.html</link>
+            <guid>2716923</guid>
+            <pubDate>Thu, 23 Jun 2022 18:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：美国能源部长格兰霍姆周四在炼油商会议上表示有兴趣取消夏季燃料规格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8402742.d.html</link>
-            <guid>2716822</guid>
-            <pubDate>Thu, 23 Jun 2022 16:00:29 GMT</pubDate>
+            <title><![CDATA[乌克兰总统泽连斯基：基辅将尽一切努力迅速实施计划，以便就加入欧盟展开谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418194.d.html</link>
+            <guid>2716922</guid>
+            <pubDate>Thu, 23 Jun 2022 18:51:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件】2022年6月24日 周五① 07:01 英国6月Gfk消费者信心指数② 07:30 日本5月核心CPI年率③ 14:00 英国5月季调后零售销售月率④ 16:00 德国6月IFO商业景气指数⑤ 18:15 美联储布拉德出席专家谈话⑥ 19:30 美联储布拉德就央行政策和通胀进行讨论⑦ 22:00 美国6月密歇根大学消费者信心指数终值⑧ 22:00 美国5月新屋销售总数年化⑨ 次日01:00 美国至6月24日当周石油钻井总数⑩ 次日03:30 美国CFTC公布周度持仓报告⑪ 次日04:00 IMF讨论美国经济的年度评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0205834.d.html</link>
-            <guid>2716821</guid>
-            <pubDate>Thu, 23 Jun 2022 16:00:19 GMT</pubDate>
+            <title><![CDATA[美国共和党参议员ROB PORTMAN：小组以15:0的投票比例赞成为12至17岁儿童接种莫德纳疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418181.d.html</link>
+            <guid>2716921</guid>
+            <pubDate>Thu, 23 Jun 2022 18:50:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫官员：美国周内的失业数据与低失业率相符，完全不是经济衰退时劳动力市场的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8402585.d.html</link>
-            <guid>2716820</guid>
-            <pubDate>Thu, 23 Jun 2022 15:57:16 GMT</pubDate>
+            <title><![CDATA[美国共和党参议员ROB PORTMAN：小组以15:0的投票比例赞成为6至11岁儿童接种莫德纳疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8418155.d.html</link>
+            <guid>2716920</guid>
+            <pubDate>Thu, 23 Jun 2022 18:50:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[道指转跌，成分股卡特彼勒跌3.9%领跌，雪佛龙和波音至少跌3.7%，美国运通、摩根大通、霍尼韦尔至多跌超2.6%，耐克和沃尔玛则涨1.9%，Salesforce.com涨约2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205703.d.html</link>
-            <guid>2716819</guid>
-            <pubDate>Thu, 23 Jun 2022 15:56:55 GMT</pubDate>
+            <title><![CDATA[埃及官员：预计2022年糖产量为280万吨，而2021为300万吨；糖储备足以供六个月以上使用。]]></title>
+            <guid>2716919</guid>
+            <pubDate>Thu, 23 Jun 2022 18:37:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：无法想象我们会在没有国会批准的情况下推进央行数字货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8402552.d.html</link>
-            <guid>2716818</guid>
-            <pubDate>Thu, 23 Jun 2022 15:56:38 GMT</pubDate>
+            <title><![CDATA[WTI 8月原油期货收跌1.92美元，跌幅1.81%，报104.27美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8417171.d.html</link>
+            <guid>2716918</guid>
+            <pubDate>Thu, 23 Jun 2022 18:37:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：对最高法院关于枪支限令无效的裁决深感失望。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205627.d.html</link>
-            <guid>2716817</guid>
-            <pubDate>Thu, 23 Jun 2022 15:55:36 GMT</pubDate>
+            <title><![CDATA[  【新疆吐鲁番市鄯善县附近发生5.4级左右地震】中国地震台网自动测定：6月24日02时27分，在新疆吐鲁番市鄯善县附近（北纬41.74度，东经90.67度）发生5.4级左右地震。最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0220330.d.html</link>
+            <guid>2716917</guid>
+            <pubDate>Thu, 23 Jun 2022 18:37:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：美联储打算保持计划，但如果有必要的话会灵活实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205486.d.html</link>
-            <guid>2716816</guid>
-            <pubDate>Thu, 23 Jun 2022 15:53:15 GMT</pubDate>
+            <title><![CDATA[乌克兰总统泽连斯基对欧盟给予候选国地位的举动表示欢迎，称这是双边关系中独一无二的历史性时刻。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0220189.d.html</link>
+            <guid>2716916</guid>
+            <pubDate>Thu, 23 Jun 2022 18:36:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：美联储FED Now支付系统将在2023年投入使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205478.d.html</link>
-            <guid>2716815</guid>
-            <pubDate>Thu, 23 Jun 2022 15:53:05 GMT</pubDate>
+            <title><![CDATA[COMEX期银向下触及21美元/盎司，日内跌2.29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8416997.d.html</link>
+            <guid>2716915</guid>
+            <pubDate>Thu, 23 Jun 2022 18:36:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[达拉斯联储能源调查：大多数公司高管（66%）预计，解决供应链问题将需要超过一年的时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205338.d.html</link>
-            <guid>2716814</guid>
-            <pubDate>Thu, 23 Jun 2022 15:51:10 GMT</pubDate>
+            <title><![CDATA[美元兑加元USD/CAD站上1.30，日内涨0.46%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8416987.d.html</link>
+            <guid>2716914</guid>
+            <pubDate>Thu, 23 Jun 2022 18:35:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[为应对创纪录的汽油价格，美国总统拜登周三呼吁立法者暂停对汽油征收联邦税三个月。分析称，美国的汽油产量已接近极限，除了恳求沙特阿拉伯增加钻探之外，联邦政府没有太多的牌可打。临时减税政策并不会为司机节省那么多钱。联邦汽油税为每加仑18.4美分，不到当前汽油价格的4%。另外，如果汽油价格越来越贵，那么税率“假期”看起来可能会更糟。分析称，“汽油税假期”是否会成为遏制通胀的又一次徒劳无功的努力很难说，但针对低收入家庭的有针对性的救济，以及对公共交通和电动汽车的补贴可能是一个更好的起点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205250.d.html</link>
-            <guid>2716813</guid>
-            <pubDate>Thu, 23 Jun 2022 15:50:19 GMT</pubDate>
+            <title><![CDATA[现货白银跌破21美元/盎司，为6月15日以来首次，日内跌幅扩大至逾2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0220142.d.html</link>
+            <guid>2716913</guid>
+            <pubDate>Thu, 23 Jun 2022 18:35:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及央行维持基准利率在11.25%不变，市场预期将加息至12.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8402091.d.html</link>
-            <guid>2716812</guid>
-            <pubDate>Thu, 23 Jun 2022 15:49:59 GMT</pubDate>
+            <title><![CDATA[上期所原油期货2207合约夜盘收涨0.12%，报684.400元人民币/桶。沪金夜盘收跌0.9%，沪银收跌3.24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8416761.d.html</link>
+            <guid>2716912</guid>
+            <pubDate>Thu, 23 Jun 2022 18:33:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：但这还不够，因为随着时间的推移，通胀预期将面临压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205205.d.html</link>
-            <guid>2716811</guid>
-            <pubDate>Thu, 23 Jun 2022 15:49:48 GMT</pubDate>
+            <title><![CDATA[市场消息：美国总统拜登呼吁国会将枪支法案递交给他。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8416733.d.html</link>
+            <guid>2716911</guid>
+            <pubDate>Thu, 23 Jun 2022 18:32:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[达拉斯联储能源调查：在关于如何评价供应链问题对公司的影响方面，认为供应链问题对公司产生轻微负面影响和显著负面影响的受访公司高管各占近一半（47%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205183.d.html</link>
-            <guid>2716810</guid>
-            <pubDate>Thu, 23 Jun 2022 15:49:36 GMT</pubDate>
+            <title><![CDATA[上海黄金交易所黄金T+D 6月24日（周五）晚盘收盘下跌0.82%报393.6元/克；上海黄金交易所白银T+D 6月24日（周五）晚盘收盘下跌2.59%报4510.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0219707.d.html</link>
+            <guid>2716910</guid>
+            <pubDate>Thu, 23 Jun 2022 18:31:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：通胀预期已在控制范围内。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205173.d.html</link>
-            <guid>2716809</guid>
-            <pubDate>Thu, 23 Jun 2022 15:49:29 GMT</pubDate>
+            <title><![CDATA[【欧佩克+据悉8月将继续增产64.8万桶/日】消息人士称，在美国总统拜登计划访问沙特和中东之际，欧佩克+8月可能会坚持增产64.8万桶/日，希望借此缓解油价飙升和通胀压力。在6月会议上，该组织同意7月增产64.8万桶/日，即全球需求的0.7%，并在8月份以相同幅度增产，此前计划在截至9月份的三个月内增产43.2万桶/日。对俄制裁加剧了全球能源短缺问题，为此西方施加了数月的压力，欧佩克+决定加大增产受到了美国的欢迎。欧佩克+将于6月30日召开下一次会议，届时很可能将重点讨论8月份的产量政策。由于部分成员国对油田投资不足，以及最近俄罗斯的产量损失，欧佩克+一直难以实现增产目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8416484.d.html</link>
+            <guid>2716909</guid>
+            <pubDate>Thu, 23 Jun 2022 18:30:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：如果债务问题得不到解决，美元可能面临长期挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8401965.d.html</link>
-            <guid>2716808</guid>
-            <pubDate>Thu, 23 Jun 2022 15:48:15 GMT</pubDate>
+            <title><![CDATA[荷兰皇家壳牌要求美国能源部长格兰霍姆加快许可程序以提高墨西哥湾油气产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8416097.d.html</link>
+            <guid>2716908</guid>
+            <pubDate>Thu, 23 Jun 2022 18:25:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【农业农村部审议并原则通过《生猪产能调控工作考核方案》】6月23日，中央农办主任、农业农村部部长唐仁健主持召开部常务会议。会议强调，要紧盯不放抓好夏收扫尾，指导新疆、甘肃等地安排好夏收春小麦收获，帮助农民做好粮食晾晒烘干，协调配合有关部门搞好夏粮收储，把好不容易夺取的丰收、增加的产量全部拿到手。会议审议并原则通过《生猪产能调控工作考核方案》，强调要把生猪产能调控工作考核作为稳定生猪生产的关键措施，从严从实建立奖优罚劣机制，发挥好考核指挥棒作用。会同相关部门督促落实好支持生猪生产的金融、环保、用地等政策，切实稳定生猪生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205090.d.html</link>
-            <guid>2716807</guid>
-            <pubDate>Thu, 23 Jun 2022 15:48:05 GMT</pubDate>
+            <title><![CDATA[【乌克兰获得欧盟候选国地位】乌克兰获得了欧盟候选国地位，欧盟领导人同时批准摩尔多瓦成为欧盟候选国。欧盟领导人也同意格鲁吉亚满足条件后可以加入欧盟。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8415660.d.html</link>
+            <guid>2716907</guid>
+            <pubDate>Thu, 23 Jun 2022 18:20:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：目前的通胀形势加强了我们迅速加息的愿望。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8401940.d.html</link>
-            <guid>2716806</guid>
-            <pubDate>Thu, 23 Jun 2022 15:47:53 GMT</pubDate>
+            <title><![CDATA[市场消息：Coinbase网页出现连接问题；公司正在进行调查。]]></title>
+            <guid>2716906</guid>
+            <pubDate>Thu, 23 Jun 2022 18:19:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[达拉斯联储能源调查：受访者对2022年年底WTI原油价格预期的平均水平为108美元/桶，受访者的预期从65美元/桶到160美元/桶不等；受访者预计今年年底Henry Hub天然气价格为7.55美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8401927.d.html</link>
-            <guid>2716805</guid>
-            <pubDate>Thu, 23 Jun 2022 15:47:42 GMT</pubDate>
+            <title><![CDATA[布宜诺斯艾利斯谷物交易所：阿根廷小麦种植完成61.9％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0217864.d.html</link>
+            <guid>2716905</guid>
+            <pubDate>Thu, 23 Jun 2022 18:09:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们还没有经历过像当前通胀形势这样的考验。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205053.d.html</link>
-            <guid>2716804</guid>
-            <pubDate>Thu, 23 Jun 2022 15:47:32 GMT</pubDate>
+            <title><![CDATA[墨西哥央行预计2022年第三季度通胀率将加速至8.1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0217693.d.html</link>
+            <guid>2716904</guid>
+            <pubDate>Thu, 23 Jun 2022 18:07:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：人们确实期望通货膨胀会回到我们的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0205040.d.html</link>
-            <guid>2716803</guid>
-            <pubDate>Thu, 23 Jun 2022 15:47:20 GMT</pubDate>
+            <title><![CDATA[墨西哥央行：除了新冠疫情带来的通货膨胀冲击，还有地缘政治冲突带来的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8414533.d.html</link>
+            <guid>2716903</guid>
+            <pubDate>Thu, 23 Jun 2022 18:07:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：美元作为世界储备货币的地位不会受到威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8401797.d.html</link>
-            <guid>2716802</guid>
-            <pubDate>Thu, 23 Jun 2022 15:45:16 GMT</pubDate>
+            <title><![CDATA[墨西哥央行：委员会打算在接下来的政策决定中继续提高参考利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0217494.d.html</link>
+            <guid>2716902</guid>
+            <pubDate>Thu, 23 Jun 2022 18:04:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：价格控制的历史对我们并不有利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0204757.d.html</link>
-            <guid>2716801</guid>
-            <pubDate>Thu, 23 Jun 2022 15:42:04 GMT</pubDate>
+            <title><![CDATA[布宜诺斯艾利斯谷物交易所：阿根廷2022/23小麦种植面积估计为630万公顷，而此前估计为640万公顷。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0217404.d.html</link>
+            <guid>2716901</guid>
+            <pubDate>Thu, 23 Jun 2022 18:04:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞银：英国央行可能比其他央行更早结束加息 英镑将受打击】瑞银全球财富管理公司表示，在英国经济前景疲软的情况下，英国央行可能比其他主要央行更早结束加息周期，这可能会打击英镑。瑞银集团首席投资官Themistocleous表示，英国央行是最早开始加息的国家之一，但货币政策委员会最近讨论了对经济前景的担忧，因此英国央行可能会比其他国家更早暂停加息。英国在未来18个月内发生经济衰退的风险看起来比欧元区国家要高。在这种背景下，英镑相对其他一些货币，如欧元或美元的表现不一定会那么强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8401604.d.html</link>
-            <guid>2716800</guid>
-            <pubDate>Thu, 23 Jun 2022 15:41:23 GMT</pubDate>
+            <title><![CDATA[【欧洲议会主席称批准乌克兰和摩尔多瓦为欧盟候选国是一个正确的决定】欧洲议会主席梅措拉当地时间23日在布鲁塞尔举行新闻发布会表示，欧盟峰会批准乌克兰和摩尔多瓦为欧盟候选国是一个正确的决定，这是欧盟历史性的一天。梅措拉说，这个决定将加强乌克兰，也会加强欧盟。乌克兰驻欧盟大使琴特索夫表示，乌克兰成为欧盟候选国标志着欧洲地缘政治的重大变化。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8414206.d.html</link>
+            <guid>2716900</guid>
+            <pubDate>Thu, 23 Jun 2022 18:03:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：这是一个高度不确定的时期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0204502.d.html</link>
-            <guid>2716799</guid>
-            <pubDate>Thu, 23 Jun 2022 15:38:53 GMT</pubDate>
+            <title><![CDATA[五名消息人士：欧佩克+预计将在下周的会议上再次确认8月份增产64.8万桶/日的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8414148.d.html</link>
+            <guid>2716899</guid>
+            <pubDate>Thu, 23 Jun 2022 18:02:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[金砖国家领导人第十四次会晤北京宣言：重申对多边主义的承诺，维护国际法，包括作为其不可或缺基石的《联合国宪章》宗旨和原则，维护联合国在国际体系中的核心作用，在此体系中各主权国家合作维护和平与安全，推动可持续发展，促进和保护民主、所有人的人权和基本自由，并基于相互尊重、正义、平等的精神加强合作。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8401363.d.html</link>
-            <guid>2716798</guid>
-            <pubDate>Thu, 23 Jun 2022 15:38:14 GMT</pubDate>
+            <title><![CDATA[周四（6月23日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌2.75%，报353.00欧元/吨，欧股收盘后一度跌至日低345.50欧元。油菜籽期货跌4.75%，报661.75欧元/吨，一度跌至日低657.00欧元。]]></title>
+            <guid>2716898</guid>
+            <pubDate>Thu, 23 Jun 2022 18:02:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CBOT农产品整体走低，CBOT玉米跌超5%，CBOT大豆、豆油跌超4%，CBOT小麦、豆粕跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0204261.d.html</link>
-            <guid>2716797</guid>
-            <pubDate>Thu, 23 Jun 2022 15:35:36 GMT</pubDate>
+            <title><![CDATA[【墨西哥央行加息75个基点，追随鲍威尔的做法】墨西哥央行加息至7.75%，符合市场预期，之前为7.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8413894.d.html</link>
+            <guid>2716897</guid>
+            <pubDate>Thu, 23 Jun 2022 18:01:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部拍卖四周期国债，得标利率1.100%（前次为1.180%），投标倍数2.90（前次为3.17）。拍卖八周期国债，得标利率1.500%（前次为1.470%），投标倍数2.97（前次为3.28）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8401048.d.html</link>
-            <guid>2716796</guid>
-            <pubDate>Thu, 23 Jun 2022 15:34:03 GMT</pubDate>
+            <title><![CDATA[加拿大银行类股较2022年2月份所创历史新高回落超过20%，道明证券、丰业银行、加拿大帝国商业银行6月23日盘中领跌，经济衰退风险让投资者夺路而逃。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0216730.d.html</link>
+            <guid>2716896</guid>
+            <pubDate>Thu, 23 Jun 2022 17:57:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧股收盘，三大股指全线收跌。德国DAX指数跌1.65%，法国CAC指数跌0.41%，英国富时指数跌1.09%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0204051.d.html</link>
-            <guid>2716795</guid>
-            <pubDate>Thu, 23 Jun 2022 15:33:28 GMT</pubDate>
+            <title><![CDATA[西班牙部长会议消息人士称，马德里举办北约峰会需要花费西班牙政府大约5000万欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8413560.d.html</link>
+            <guid>2716895</guid>
+            <pubDate>Thu, 23 Jun 2022 17:57:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰与德国签订IRIS-T防空系统合同】乌克兰驻德国大使梅利尼克23日在接受乌克兰媒体采访时透露，与IRIS-T防空系统制造商的合同价值1.78亿欧元，相关款项将由德国政府支付，乌克兰将得到10套IRIS-T防空系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400866.d.html</link>
-            <guid>2716794</guid>
-            <pubDate>Thu, 23 Jun 2022 15:31:44 GMT</pubDate>
+            <title><![CDATA[美国运输部报告：美国航空业4月的航班准点率降至76%，低于2019年4月疫情前水平；捷蓝航空、精神航空、边疆航空4月份的准点率最低，而达美航空、联合航空和夏威夷航空的准点率最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8413526.d.html</link>
+            <guid>2716894</guid>
+            <pubDate>Thu, 23 Jun 2022 17:56:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CBOT玉米期货跌至6.53美元/蒲式耳，创乌克兰冲突爆发以来的盘中新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400837.d.html</link>
-            <guid>2716793</guid>
-            <pubDate>Thu, 23 Jun 2022 15:31:22 GMT</pubDate>
+            <title><![CDATA[美国运输部报告：2022年4月，美国消费者对航空公司的投诉事件比疫情前水平飙升了320%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8413484.d.html</link>
+            <guid>2716893</guid>
+            <pubDate>Thu, 23 Jun 2022 17:56:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们不寻求更深层次地干预经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400792.d.html</link>
-            <guid>2716792</guid>
-            <pubDate>Thu, 23 Jun 2022 15:30:56 GMT</pubDate>
+            <title><![CDATA[COMEX 8月黄金期货收跌0.5%，报1829.80美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0215613.d.html</link>
+            <guid>2716892</guid>
+            <pubDate>Thu, 23 Jun 2022 17:44:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元兑美元EUR/USD、英镑兑美元GBP/USD短线走低超20点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203791.d.html</link>
-            <guid>2716791</guid>
-            <pubDate>Thu, 23 Jun 2022 15:30:37 GMT</pubDate>
+            <title><![CDATA[农业生物科技公司Bioceres CEO：俄乌冲突为全球粮食供应带来了“现实考验”，为转基因小麦提供了支持。]]></title>
+            <guid>2716891</guid>
+            <pubDate>Thu, 23 Jun 2022 17:44:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德意志银行执委会在WhatsApp应用方面遭遇财务冲击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203769.d.html</link>
-            <guid>2716790</guid>
-            <pubDate>Thu, 23 Jun 2022 15:30:25 GMT</pubDate>
+            <title><![CDATA[俄罗斯驻联合国特使：俄罗斯准备在需要时向阿富汗供应粮食。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0215528.d.html</link>
+            <guid>2716890</guid>
+            <pubDate>Thu, 23 Jun 2022 17:43:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们的工具并不“锋利”，但它们是应对需求的正确工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400706.d.html</link>
-            <guid>2716789</guid>
-            <pubDate>Thu, 23 Jun 2022 15:30:04 GMT</pubDate>
+            <title><![CDATA[  【俄罗斯国防部长与哈萨克斯坦国防部长举行会见】俄罗斯国防部长绍伊古与哈萨克斯坦国防部长扎克西里科夫举行会见。绍伊古表示，俄哈两国有关发展军事合作的新协议已经生效，确定了双方协作的重点方向，关键在于完善俄罗斯和哈萨克斯坦的统一区域防空系统、开展军事技术合作、进行人员培训及战斗训练活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0215503.d.html</link>
+            <guid>2716889</guid>
+            <pubDate>Thu, 23 Jun 2022 17:43:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：很大一部分通胀不会受到我们工具的影响，但还是有很大一部分会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203704.d.html</link>
-            <guid>2716788</guid>
-            <pubDate>Thu, 23 Jun 2022 15:29:21 GMT</pubDate>
+            <title><![CDATA[  【22城首轮土拍收官 收金5000亿】随着6月22日郑州首轮集中土拍收金107亿元，今年22城首轮集中土拍全部完成。有研究机构统计，22城共计推出涉宅用地469宗，最终成交397宗，成交规划建筑面积3907万平米，总成交金额4969亿元，与去年首轮相比降幅超5成。其中，深圳平均溢价率为14.98%，是本轮热度最高城市；天津流拍与撤牌地块宗数最多，显出冷意。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8412192.d.html</link>
+            <guid>2716888</guid>
+            <pubDate>Thu, 23 Jun 2022 17:40:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【乌克兰国防部长：美国“海马斯” 多管火箭系统已抵乌】乌克兰国防部长列兹尼科夫表示，美国“海马斯” 多管火箭系统已经抵达乌克兰。乌克兰向美国保证不会对俄罗斯境内的目标使用该武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400672.d.html</link>
-            <guid>2716787</guid>
-            <pubDate>Thu, 23 Jun 2022 15:29:14 GMT</pubDate>
+            <title><![CDATA[自由港（LNG）旗下液化天然气（LNG）公司：网络袭击并非6月8日得州出口终端起火的原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0213531.d.html</link>
+            <guid>2716887</guid>
+            <pubDate>Thu, 23 Jun 2022 17:21:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：美联储不是在寻找新的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203650.d.html</link>
-            <guid>2716786</guid>
-            <pubDate>Thu, 23 Jun 2022 15:28:10 GMT</pubDate>
+            <title><![CDATA[法国能源部长：俄罗斯天然气进口量减少，但我们仍在接收俄罗斯天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0213500.d.html</link>
+            <guid>2716886</guid>
+            <pubDate>Thu, 23 Jun 2022 17:21:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：其中一些工资涨幅远远高于与2%通胀预期相符的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400605.d.html</link>
-            <guid>2716785</guid>
-            <pubDate>Thu, 23 Jun 2022 15:28:01 GMT</pubDate>
+            <title><![CDATA[法国能源部长：如果我们能够确保未来有足够的液化天然气供应，我们就可以不进口俄罗斯天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8410310.d.html</link>
+            <guid>2716885</guid>
+            <pubDate>Thu, 23 Jun 2022 17:20:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[黎巴嫩总统米歇尔·奥恩任命看守内阁总理纳吉布·米卡提为新总理，并授权其组建新一届内阁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400588.d.html</link>
-            <guid>2716784</guid>
-            <pubDate>Thu, 23 Jun 2022 15:27:42 GMT</pubDate>
+            <title><![CDATA[法国能源部长：未来几天我们将继续进口俄罗斯天然气，但数量会有所不同。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8410271.d.html</link>
+            <guid>2716884</guid>
+            <pubDate>Thu, 23 Jun 2022 17:20:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其监管部门发布关于按揭贷款的新规。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203555.d.html</link>
-            <guid>2716783</guid>
-            <pubDate>Thu, 23 Jun 2022 15:26:33 GMT</pubDate>
+            <title><![CDATA[周四（6月23日），美联储逆回购工具使用规模为2.285万亿美元，继续创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8409976.d.html</link>
+            <guid>2716883</guid>
+            <pubDate>Thu, 23 Jun 2022 17:17:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们的工具影响通货膨胀，而不一定影响工资增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203548.d.html</link>
-            <guid>2716782</guid>
-            <pubDate>Thu, 23 Jun 2022 15:26:21 GMT</pubDate>
+            <title><![CDATA[【锌现货升水幅度创1997年以来最大，或表明又一场供应危机正在LME酝酿】周四（6月23日），现货锌相比期货的溢价升至1997年以来的最高水平，现货升水的现象是供应短缺的典型特征。溢价飙升之际，本周库存大幅下滑，降至了至少25年以来的最低水平。伦敦金属交易所（LME）表示，正在密切关注形势。锌市场掀起此番动荡的三个月前，镍市场出现了空前的逼空行情，导致价格大涨250%，LME暂停交易一周。LME自那以来采取了多项旨在防止逼空失控的紧急措施，但是锌出现历史性的现货升水，仍然可能意味着，现在就需要现货的买家恐面临重大亏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8409821.d.html</link>
+            <guid>2716882</guid>
+            <pubDate>Thu, 23 Jun 2022 17:15:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：美联储可能对通胀的判断是错误的，但判断并非“非理性”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400503.d.html</link>
-            <guid>2716781</guid>
-            <pubDate>Thu, 23 Jun 2022 15:26:09 GMT</pubDate>
+            <title><![CDATA[美国共和党众议员BRYAN STEIL：应该收回未用完的新冠援助资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0212939.d.html</link>
+            <guid>2716881</guid>
+            <pubDate>Thu, 23 Jun 2022 17:15:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数DXY短线走高超20点，现报104.42。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203533.d.html</link>
-            <guid>2716780</guid>
-            <pubDate>Thu, 23 Jun 2022 15:25:51 GMT</pubDate>
+            <title><![CDATA[  【美国会参议院推进两党枪支安全法案】美国国会参议院以65票同意、34票反对的结果推进了一项两党合作的枪支安全法案。该法案名为《两党安全社区法》，是对得州及纽约州等多起大规模枪击事件的回应。法案要求加强对21岁以下枪支购买者的背景调查，为“红旗法案”（Red Flag Laws）提供资金，并打击非法枪支购买者。法案支持者表示，该法案将有效防止在学校发生大规模枪击事件，同时为加强学校安全、加强儿童和家庭的心理健康服务等措施提供80亿美元的资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8409433.d.html</link>
+            <guid>2716880</guid>
+            <pubDate>Thu, 23 Jun 2022 17:11:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[葡萄牙一季度住房价格同比上涨13%，创2010年开始汇编楼市数据以来的最大升幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203444.d.html</link>
-            <guid>2716779</guid>
-            <pubDate>Thu, 23 Jun 2022 15:24:10 GMT</pubDate>
+            <title><![CDATA[美国众议院共和党成员Steil：美联储一直都行动迟缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0212359.d.html</link>
+            <guid>2716879</guid>
+            <pubDate>Thu, 23 Jun 2022 17:09:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：事后看来，通货膨胀不是暂时的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400386.d.html</link>
-            <guid>2716778</guid>
-            <pubDate>Thu, 23 Jun 2022 15:23:54 GMT</pubDate>
+            <title><![CDATA[美国财政部拍卖180亿美元五年期通胀保值国债（TIPS），得标利率0.362%，投标倍数2.61。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0211859.d.html</link>
+            <guid>2716878</guid>
+            <pubDate>Thu, 23 Jun 2022 17:03:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们的实时判断已经被证明是错误的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203422.d.html</link>
-            <guid>2716777</guid>
-            <pubDate>Thu, 23 Jun 2022 15:23:45 GMT</pubDate>
+            <title><![CDATA[【鲍威尔6月23日众议院听证会要点总结】1、通胀：a、重申6月决议声明的立场——关于抗击美国高通胀的承诺“是无条件的”。美联储的意图是将美国通胀压低至2%，同时维持就业市场的强劲表现。b、美联储不会调整通胀目标。美联储正利用工具来影响需求端。美国高通胀是需求端非常强劲所造成的后果之一。c、从马后炮的角度来看，美联储（确实）低估了美国的高通胀问题。但实时通胀判断“被证明将是不实的”。2、楼市：美国住房市场摆脱非常热的状态，并正在放缓。按揭贷款利率上涨，使得楼市出现回调。3、数字货币：不希望一个私人发行的稳定币成为数字美元。如果有数字美元，它需要由美联储发行，并获得（联邦）政府的支持。监管稳定币、数字金融的时代即将到来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0211828.d.html</link>
+            <guid>2716877</guid>
+            <pubDate>Thu, 23 Jun 2022 17:03:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们认为供给冲击就像石油冲击一样，总是来来往往的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203389.d.html</link>
-            <guid>2716776</guid>
-            <pubDate>Thu, 23 Jun 2022 15:23:13 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔结束众议院听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0211746.d.html</link>
+            <guid>2716876</guid>
+            <pubDate>Thu, 23 Jun 2022 17:02:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：美联储不应在财政政策中扮演角色。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400293.d.html</link>
-            <guid>2716775</guid>
-            <pubDate>Thu, 23 Jun 2022 15:22:28 GMT</pubDate>
+            <title><![CDATA[法国最近24小时新增79,852例新冠肺炎病例，新增40例死亡病例、累计死亡149,268例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8408510.d.html</link>
+            <guid>2716875</guid>
+            <pubDate>Thu, 23 Jun 2022 17:02:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我在2020年底已经完全停止了谈论财政政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8400276.d.html</link>
-            <guid>2716774</guid>
-            <pubDate>Thu, 23 Jun 2022 15:22:17 GMT</pubDate>
+            <title><![CDATA[国际铜夜盘收跌3.75%，沪铜收跌4.02%，沪铝收跌0.57%，沪锌收跌2.56%，沪铅收跌0.63%，沪镍收跌2.69%，沪锡收跌6.19%。不锈钢夜盘收跌0.30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8408408.d.html</link>
+            <guid>2716874</guid>
+            <pubDate>Thu, 23 Jun 2022 17:01:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：不知道我们现在是否需要数字美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203145.d.html</link>
-            <guid>2716773</guid>
-            <pubDate>Thu, 23 Jun 2022 15:20:42 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：房地产是货币政策发挥作用的渠道之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0211590.d.html</link>
+            <guid>2716873</guid>
+            <pubDate>Thu, 23 Jun 2022 17:01:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们不希望私人发行的稳定货币变成数字美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203127.d.html</link>
-            <guid>2716772</guid>
-            <pubDate>Thu, 23 Jun 2022 15:20:32 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美联储加息正在导致房地产市场放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0211557.d.html</link>
+            <guid>2716872</guid>
+            <pubDate>Thu, 23 Jun 2022 17:00:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：任何涉及支付的事情，美联储都应该参与监管。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203095.d.html</link>
-            <guid>2716771</guid>
-            <pubDate>Thu, 23 Jun 2022 15:20:21 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：金融状况需要处于对经济产生理想效果的位置。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0211533.d.html</link>
+            <guid>2716871</guid>
+            <pubDate>Thu, 23 Jun 2022 17:00:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：如果有数字美元，它需要由美联储发行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399984.d.html</link>
-            <guid>2716770</guid>
-            <pubDate>Thu, 23 Jun 2022 15:20:09 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美联储利润损失不会影响货币政策操作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8408205.d.html</link>
+            <guid>2716870</guid>
+            <pubDate>Thu, 23 Jun 2022 16:59:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：对稳定币、数字金融市场进行监管的时代已经到来，尽快完成这件事很重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0203056.d.html</link>
-            <guid>2716769</guid>
-            <pubDate>Thu, 23 Jun 2022 15:19:59 GMT</pubDate>
+            <title><![CDATA[壳牌：美国能源部长在会议上给出“协调基调”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0211316.d.html</link>
+            <guid>2716869</guid>
+            <pubDate>Thu, 23 Jun 2022 16:57:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯外交部长拉夫罗夫6月23日抵达阿塞拜疆首都巴库，将对阿塞拜疆进行为期两天的工作访问。拉夫罗夫计划与阿塞拜疆总统阿利耶夫和外交部长会面，讨论双边合作的状况和前景，并就区域和国际热点问题交换意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399958.d.html</link>
-            <guid>2716768</guid>
-            <pubDate>Thu, 23 Jun 2022 15:19:43 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们需要一项授权立法来建立央行数字货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8407999.d.html</link>
+            <guid>2716868</guid>
+            <pubDate>Thu, 23 Jun 2022 16:56:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【波罗的海干散货运价指数上涨，因海岬型船运价指数走强】波罗的海干散货运价指数周四上涨，因海岬型船运价指数走强。波罗的海整体干散货运价指数上涨5点，或0.2%，至2354点。海岬型船运价指数上涨76点，或3.24%，至2419点。海岬型船日均获利上升631美元，至20061美元。巴拿马型船运价指数下滑65点或2.32%，至2732点。巴拿马型船日均获利下滑578美元，至24592美元。超灵便型散货船运价指数下滑9点，至2466点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202838.d.html</link>
-            <guid>2716767</guid>
-            <pubDate>Thu, 23 Jun 2022 15:17:23 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们预计未来两年通货膨胀率将下降，更接近2%的目标水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8407822.d.html</link>
+            <guid>2716867</guid>
+            <pubDate>Thu, 23 Jun 2022 16:53:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：我们必须使货币政策正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202826.d.html</link>
-            <guid>2716766</guid>
-            <pubDate>Thu, 23 Jun 2022 15:17:15 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美联储不是气候决策机构。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0210968.d.html</link>
+            <guid>2716866</guid>
+            <pubDate>Thu, 23 Jun 2022 16:53:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西央行行长内托：巴西央行寻求通胀保持在目标水平附近。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202775.d.html</link>
-            <guid>2716765</guid>
-            <pubDate>Thu, 23 Jun 2022 15:16:20 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们将在利率问题上采取合理的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8407753.d.html</link>
+            <guid>2716865</guid>
+            <pubDate>Thu, 23 Jun 2022 16:52:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西央行行长内托：目标是让通胀低于4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399708.d.html</link>
-            <guid>2716764</guid>
-            <pubDate>Thu, 23 Jun 2022 15:15:57 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们需要利率达到适度的限制范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8407724.d.html</link>
+            <guid>2716864</guid>
+            <pubDate>Thu, 23 Jun 2022 16:52:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：在宣布胜利之前，希望有证据证明通胀有所缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399707.d.html</link>
-            <guid>2716763</guid>
-            <pubDate>Thu, 23 Jun 2022 15:15:47 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：金融状况已普遍收紧，但利率仍相当低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0210870.d.html</link>
+            <guid>2716863</guid>
+            <pubDate>Thu, 23 Jun 2022 16:52:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西央行行长内托：现在讨论降息还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399688.d.html</link>
-            <guid>2716762</guid>
-            <pubDate>Thu, 23 Jun 2022 15:15:36 GMT</pubDate>
+            <title><![CDATA[市场消息，俄罗斯天然气公司Gazprom将对北溪1号天然气管道进行年度维护，此举将导致通过该管道的供应中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0210766.d.html</link>
+            <guid>2716862</guid>
+            <pubDate>Thu, 23 Jun 2022 16:51:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：不愿降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202720.d.html</link>
-            <guid>2716761</guid>
-            <pubDate>Thu, 23 Jun 2022 15:15:26 GMT</pubDate>
+            <title><![CDATA[市场消息，英特尔已经告诉美国官员，计划推迟俄亥俄州芯片工厂的动工时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8407163.d.html</link>
+            <guid>2716861</guid>
+            <pubDate>Thu, 23 Jun 2022 16:47:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行管委内格尔：欧洲央行并不依赖于其他央行的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202715.d.html</link>
-            <guid>2716760</guid>
-            <pubDate>Thu, 23 Jun 2022 15:15:18 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：资产负债表最终将比现在减少大约2.5至3万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0210318.d.html</link>
+            <guid>2716860</guid>
+            <pubDate>Thu, 23 Jun 2022 16:46:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们不能在降低通货膨胀方面失败。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202701.d.html</link>
-            <guid>2716759</guid>
-            <pubDate>Thu, 23 Jun 2022 15:15:07 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美联储不会提高通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8406993.d.html</link>
+            <guid>2716859</guid>
+            <pubDate>Thu, 23 Jun 2022 16:45:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们会一直问自己，我们的政策利率是否以我们需要和打算的方式影响金融市场和经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399638.d.html</link>
-            <guid>2716758</guid>
-            <pubDate>Thu, 23 Jun 2022 15:14:54 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：控制通货膨胀必须是我们的重点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0210015.d.html</link>
+            <guid>2716858</guid>
+            <pubDate>Thu, 23 Jun 2022 16:43:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：2022年下半年的经济增长应该仍然“相当强劲”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399569.d.html</link>
-            <guid>2716757</guid>
-            <pubDate>Thu, 23 Jun 2022 15:13:45 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：劳动力市场极其强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0209988.d.html</link>
+            <guid>2716857</guid>
+            <pubDate>Thu, 23 Jun 2022 16:43:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国煤炭运销协会发布关于做好迎峰度夏电煤保供稳价工作的倡议书：全力保障电煤安全稳定供应。煤炭企业要继续梳理现有资源，积极挖掘增产潜力，加快释放优质煤炭产能，多措并举做好煤炭增产增供，有效增加市场供给，做好应急保供预案，提升煤炭供应保障能力，全力保障迎峰度夏电煤安全稳定供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399528.d.html</link>
-            <guid>2716756</guid>
-            <pubDate>Thu, 23 Jun 2022 15:13:04 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：美联储的两项任务是平等的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8406808.d.html</link>
+            <guid>2716856</guid>
+            <pubDate>Thu, 23 Jun 2022 16:43:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【机构分析：经济衰退担忧笼罩市场 欧美国债大幅上涨】欧美国债周四连续第二天强劲上涨，因市场担心央行收紧政策可能使经济陷入衰退。德国国债领涨，10年期国债收益率一度下跌25个基点，势将创下2011年11月以来最大跌幅。对基准利率变化最为敏感的2年期国债收益率利率一度下跌28个基点，势将创下2008年全球金融危机以来的最大跌幅。美国国债方面，短期国债收益率领跌，2年期和5年期收益率下跌约19个基点。美国和欧洲经济衰退的风险“相当高”，太平洋投资管理公司的全球固定收益首席投资官AndrewBalls表示，“市场体现了很多的欧洲央行加息预期，所以出现回撤一点我不感到意外。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202555.d.html</link>
-            <guid>2716755</guid>
-            <pubDate>Thu, 23 Jun 2022 15:12:40 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：物价稳定是经济的基石，我们必须恢复它。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0209969.d.html</link>
+            <guid>2716855</guid>
+            <pubDate>Thu, 23 Jun 2022 16:43:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：长期住房供应存在问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399351.d.html</link>
-            <guid>2716754</guid>
-            <pubDate>Thu, 23 Jun 2022 15:10:58 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：加息也会对供应产生影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8406782.d.html</link>
+            <guid>2716854</guid>
+            <pubDate>Thu, 23 Jun 2022 16:42:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：由于抵押贷款利率上升，房地产市场现在在一定程度上放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202357.d.html</link>
-            <guid>2716753</guid>
-            <pubDate>Thu, 23 Jun 2022 15:10:47 GMT</pubDate>
+            <title><![CDATA[据Variety报道，奈飞周四解雇了约300名员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8406759.d.html</link>
+            <guid>2716853</guid>
+            <pubDate>Thu, 23 Jun 2022 16:42:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【6月23日欧盘美盘重要新闻汇总】国内新闻：①发改委、证监会联合召开科创板上市公司扩大投资和促进就业座谈会；②中国央行副行长陈雨露称，坚持不搞“大水漫灌”、不超发货币、不透支未来的宏观政策取向；③蔚来回应测试车坠楼事件称，这是一起（非车辆原因导致的）意外事故；④科兴新冠小分子口服药SHEN26胶囊临床试验注册申请获得受理；⑤6月23日0-12时，深圳新增两例病例；⑥宁德时代发布CTP3.0麒麟电池，系统集成度创全球新高，体积利用率突破72%，能量密度可达255Wh/kg，轻松实现整车1000公里续航。理想汽车旗下新能源车将搭载麒麟电池。国际新闻：①美国第一季度经常帐逆差2914亿美元，为纪录最大逆差；②美国6月Markit制造业PMI创近两年低位，现货黄金短线拉升10美元；③EIA天然气库存增幅超预期，美国天然气期货日内重挫9%；④美国30年期固定抵押贷款利率升至5.81%，为2008年以来最高；⑤交易员现在认为美联储加息周期最早在今年结束；⑥桥水做空欧股规模翻倍至105亿美元，看空力度达两年来最高；⑦土耳其外长宣布与以色列恢复外交关系的进程，两国正寻求结束为期十多年的紧张关系；⑧德国5年期国债收益率下跌28个基点，势将创下1998年以来最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399273.d.html</link>
-            <guid>2716752</guid>
-            <pubDate>Thu, 23 Jun 2022 15:10:20 GMT</pubDate>
+            <title><![CDATA[市场消息：美国两党枪支立法清除了最后的程序障碍，预计最迟将于周五投票通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8406133.d.html</link>
+            <guid>2716852</guid>
+            <pubDate>Thu, 23 Jun 2022 16:36:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为22，表明市场处在极度恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399234.d.html</link>
-            <guid>2716751</guid>
-            <pubDate>Thu, 23 Jun 2022 15:09:52 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：如果我们真的出售住房抵押贷款支持证券，认为不会对抵押贷款利率产生太大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8406013.d.html</link>
+            <guid>2716851</guid>
+            <pubDate>Thu, 23 Jun 2022 16:35:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储理事鲍曼：美联储的首要责任是降低通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399066.d.html</link>
-            <guid>2716750</guid>
-            <pubDate>Thu, 23 Jun 2022 15:07:59 GMT</pubDate>
+            <title><![CDATA[英特尔（INTC）警告称，由于国会山在融资问题上设绊的缘故，该公司俄亥俄州扩张计划恐怕会被推迟付诸实践。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0209220.d.html</link>
+            <guid>2716850</guid>
+            <pubDate>Thu, 23 Jun 2022 16:35:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储理事鲍曼：在此之后可能还需要进一步加息，具体将取决于经济情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399054.d.html</link>
-            <guid>2716749</guid>
-            <pubDate>Thu, 23 Jun 2022 15:07:48 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们还没有决定开始出售住房抵押贷款支持证券，但已经说过会考虑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8405704.d.html</link>
+            <guid>2716849</guid>
+            <pubDate>Thu, 23 Jun 2022 16:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：美联储不会影响油价和能源供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0202009.d.html</link>
-            <guid>2716748</guid>
-            <pubDate>Thu, 23 Jun 2022 15:07:36 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：我们致力于建立一个主要为国债的资产负债表。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8405687.d.html</link>
+            <guid>2716848</guid>
+            <pubDate>Thu, 23 Jun 2022 16:32:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊：俄罗斯利用港口封锁把全世界的粮食短缺当作威胁手段。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8399013.d.html</link>
-            <guid>2716747</guid>
-            <pubDate>Thu, 23 Jun 2022 15:07:23 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：衰退并非不可避免。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8405489.d.html</link>
+            <guid>2716847</guid>
+            <pubDate>Thu, 23 Jun 2022 16:30:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储理事鲍曼：随着资产负债表缩小，支持最终出售MBS。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8398995.d.html</link>
-            <guid>2716746</guid>
-            <pubDate>Thu, 23 Jun 2022 15:07:09 GMT</pubDate>
+            <title><![CDATA[美联储主席鲍威尔：正在努力推进工作，争取在9月中旬的最后期限前发布美联储的Libor相关规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8405482.d.html</link>
+            <guid>2716846</guid>
+            <pubDate>Thu, 23 Jun 2022 16:30:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊：英国愿意考虑提供政府支持的保险，以帮助鼓励船只从乌克兰出口食品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizirav0201952.d.html</link>
-            <guid>2716745</guid>
-            <pubDate>Thu, 23 Jun 2022 15:06:56 GMT</pubDate>
+            <title><![CDATA[吉林省吉林市卫健委发布，6月23日0—24时，吉林市新增本土无症状感染者7例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8405439.d.html</link>
+            <guid>2716845</guid>
+            <pubDate>Thu, 23 Jun 2022 16:30:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊：英国愿意协助乌克兰黑海沿岸的排雷行动，以免费提供食物。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-23/detail-imizmscu8398936.d.html</link>
-            <guid>2716744</guid>
-            <pubDate>Thu, 23 Jun 2022 15:06:39 GMT</pubDate>
+            <title><![CDATA[  美国将再向乌克兰提供4.5亿美元的军事援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0208675.d.html</link>
+            <guid>2716844</guid>
+            <pubDate>Thu, 23 Jun 2022 16:30:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
