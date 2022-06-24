@@ -4,11 +4,370 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 24 Jun 2022 19:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 22:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【欢呼加息预期退烧 标普创两年最大涨幅 中概继续走强 原油反弹 伦锡一周重挫20%】标普纳指涨超3%，道指涨超800点，Meta涨超7%、所在板块涨近4%，特斯拉一周涨13%、所在板块全周涨超8%，能源板块全周独跌；小鹏汽车涨7%，阿里涨近5%。泛欧股指创六周最大涨幅及逾一周新高，结束三周连跌，科技板块涨近4%、全周涨超5%，矿业板块一周跌近5%。10年期美债收益率重上3.1%，较周四低位升逾10个基点，仍止步三周连升。美元指数结束三周连涨。美油涨超3%摆脱六周低谷，仍连跌两周。欧洲天然气跌离三个月高位，全周仍涨超9%。黄金终结四连跌走出逾一周低谷，但连跌两周。日间跌超9%的沪锡夜盘跌超5%，伦锡跌超9%创15个月新低；纽铜暂别16个月低位，全周跌近7%。]]></title>
+            <guid>2718500</guid>
+            <pubDate>Fri, 24 Jun 2022 22:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国第19批援津巴布韦医疗队举行义诊活动】当地时间24日，中国第19批援津巴布韦医疗队在津首都哈拉雷的中非经济文化交流研究中心举行义诊活动，向在津中国公民以及当地百姓提供免费医学诊疗和咨询服务。]]></title>
+            <guid>2718499</guid>
+            <pubDate>Fri, 24 Jun 2022 22:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道明证券商品策略师Daniel Ghali：有多种力量在左右金价，迫使它保持在一个狭小交易空间。我们有经济衰退的风险和全球经济增长即将放缓的迹象，促使资金流入黄金作为避风港。另一方面，我们有美联储对打击通胀的承诺，促使实际利率大幅上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0423334.d.html</link>
+            <guid>2718498</guid>
+            <pubDate>Fri, 24 Jun 2022 21:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  IMF总裁格奥尔基耶娃表示，明年全球粮食形势可能会恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0422259.d.html</link>
+            <guid>2718497</guid>
+            <pubDate>Fri, 24 Jun 2022 21:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  津巴布韦上调汽油和柴油价格，为最近一个月内第二次提价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8613960.d.html</link>
+            <guid>2718496</guid>
+            <pubDate>Fri, 24 Jun 2022 21:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【硅片行业龙头宣布明起价格上调，业内人士：仍有上涨空间】率先发布N型产品报价的TCL中环，上调了最新硅片报价；业内人士指出，当前硅料价格节节攀升，下游硅片企业通过签订“锁量不锁价”的长单来稳定硅料供应。硅片行业需求量仍在继续加大，预计短期内硅料和硅片市场仍将保持强势，价格仍有上涨空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8613182.d.html</link>
+            <guid>2718495</guid>
+            <pubDate>Fri, 24 Jun 2022 21:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国6月商业景气指数环比下降】德国伊弗经济研究所24日公布的数据显示，受天然气短缺风险影响，德国6月商业景气指数从上月的93.0点降至92.3点。数据显示，构成商业景气指数的4项指标中，制造业和贸易两项指标环比显著下降，服务业和建筑业则环比上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0420336.d.html</link>
+            <guid>2718494</guid>
+            <pubDate>Fri, 24 Jun 2022 21:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：全球新冠肺炎确诊病例超5.3989亿例】根据世卫组织最新实时统计数据，截至欧洲中部时间6月24日19时24分（北京时间6月25日1时24分），全球累计新冠肺炎确诊病例539893858例，累计死亡病例6324112例。24日全球新冠肺炎确诊病例新增673417例，死亡病例新增1472例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0420188.d.html</link>
+            <guid>2718493</guid>
+            <pubDate>Fri, 24 Jun 2022 21:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国国务卿：乌克兰需要多少军援 美国就提供多少】美国国务卿布林肯24日表示，如有需要，美国将继续向乌克兰提供军事援助。我们向乌克兰提供支持，以便他们能够保护自己。只要需要，我们就将一直这样做下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0420182.d.html</link>
+            <guid>2718492</guid>
+            <pubDate>Fri, 24 Jun 2022 21:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（6月24日）纽约尾盘，CME比特币期货BTC主力合约报21175美元，较周四纽约尾盘涨1.32%，盘中交投于20675-21465美元区间。CME以太币期货DCR主力合约报1219.50美元，较周四涨8.79%，盘中交投于1120.00-1241.50美元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8612373.d.html</link>
+            <guid>2718491</guid>
+            <pubDate>Fri, 24 Jun 2022 21:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报6.6816元，较周四纽约尾盘涨179点，盘中整体交投于6.7027-6.6756元区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8612361.d.html</link>
+            <guid>2718490</guid>
+            <pubDate>Fri, 24 Jun 2022 21:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨3.68%，报1494.77点，本周累跌2.51%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8611880.d.html</link>
+            <guid>2718489</guid>
+            <pubDate>Fri, 24 Jun 2022 21:05:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数收涨1.85%，报19062.91点，本周累涨0.70%。巴西圣保罗证交所指数收涨0.60%，报98672.26点，本周累跌1.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8611869.d.html</link>
+            <guid>2718488</guid>
+            <pubDate>Fri, 24 Jun 2022 21:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大类资产类ETF周五多数收涨，纳指100 ETF涨超3.4%领跑，标普500 ETF和罗素2000指数ETF至少涨3.1%，美国布伦特原油基金（BNO）、标普500价值ETF、道指ETF、新兴市场ETF、美国房地产ETF至多涨2.8%，巴克莱美国可转债ETF涨1.6%，黄金ETF则跌0.1%，做多美元指数、日元做多、美国国债7-10年ETF至少跌超0.2%，恐慌指数做多跌1.2%，美国国债20+年ETF跌约1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0419106.d.html</link>
+            <guid>2718487</guid>
+            <pubDate>Fri, 24 Jun 2022 20:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股周五收盘普遍走高 小鹏汽车涨超7%】纳斯达克中国金龙指数大涨4.00%。金山云涨超10%，Boss直聘涨超9%，欢聚集团、中通涨超8%，小鹏汽车、贝壳、搜狐涨超7%，名创优品涨超6%，迅雷涨超5%，阿里巴巴、水滴公司涨近5%，新东方、蔚来汽车、知乎、携程涨超4%，理想汽车涨近4%，爱奇艺、百度、京东、斗鱼、老虎证券、网易、腾讯音乐、达达集团涨超3%，微博、拼多多、好未来、荔枝涨超2%，雾芯科技、每日优鲜、趣头条、高途涨超1%，富途控股、途牛、百世集团涨近1%。比特矿业跌超17%，一起教育跌超13%，51Talk跌超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8611267.d.html</link>
+            <guid>2718486</guid>
+            <pubDate>Fri, 24 Jun 2022 20:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙将在美国加州缩减规模，将出售位于加州的总部设施，就迁址到得州向员工支付费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8611237.d.html</link>
+            <guid>2718485</guid>
+            <pubDate>Fri, 24 Jun 2022 20:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业类ETF周五全线收涨，网络股指数ETF涨约5.1%领跑，全球航空业ETF涨超4.5%，可选消费ETF涨超3.8%，金融业ETF、科技行业ETF、银行业ETF、全球科技股指数ETF、区域银行ETF至少涨约3.5%，能源业ETF涨超1.3%涨幅最小。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8611227.d.html</link>
+            <guid>2718484</guid>
+            <pubDate>Fri, 24 Jun 2022 20:54:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品管理局（FDA）禁止Juul在美国境内销售电子烟的命令被联邦上诉法庭驳回，法院允许Juul针对FDA的禁令进行辩护。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0418730.d.html</link>
+            <guid>2718483</guid>
+            <pubDate>Fri, 24 Jun 2022 20:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Coindesk：消息人士称，高盛正筹集20亿美元资金，计划收购加密贷款机构Celsius出售的不良资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0418634.d.html</link>
+            <guid>2718482</guid>
+            <pubDate>Fri, 24 Jun 2022 20:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：房价上涨可能会放缓，这是受欢迎的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8610846.d.html</link>
+            <guid>2718481</guid>
+            <pubDate>Fri, 24 Jun 2022 20:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：在消费者受到高能源和食品价格冲击的时候，美国取消关税将是相当有针对性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0418300.d.html</link>
+            <guid>2718480</guid>
+            <pubDate>Fri, 24 Jun 2022 20:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：如果我们的前置加息有效，我们最终需要做的就会更少。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0418147.d.html</link>
+            <guid>2718479</guid>
+            <pubDate>Fri, 24 Jun 2022 20:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：确认美国Aaa评级，前景展望维持在稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0418074.d.html</link>
+            <guid>2718478</guid>
+            <pubDate>Fri, 24 Jun 2022 20:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大蒙特利尔银行：美联储可能会调整准备金利率（IORB）来推高担保隔夜融资利率，但这样做的概率不到50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8610452.d.html</link>
+            <guid>2718477</guid>
+            <pubDate>Fri, 24 Jun 2022 20:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数的11个板块周五全线收涨，原材料板块上涨将近4.0%领跑，通信板块涨超3.9%，金融、可选消费、信息技术、工业板块至少涨约3.5%，房地产板块涨约2.1%，能源板块涨超1.5%表现最差。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8610440.d.html</link>
+            <guid>2718476</guid>
+            <pubDate>Fri, 24 Jun 2022 20:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国银行股创最近约18个月最大单日涨幅，此前通过了美联储年度压力测试】大型银行股中，富国银行收涨7.55%，高盛涨5.79%，摩根士丹利涨5.20%，伯克希尔哈撒韦类股涨4.02%，花旗集团涨3.26%，美国运通涨3.18%，摩根大通涨2.98%，美国银行也涨0.72%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0418033.d.html</link>
+            <guid>2718475</guid>
+            <pubDate>Fri, 24 Jun 2022 20:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国拜登政府累计向乌克兰提供的155毫米榴弹数量仅相当于俄军大约5天的消耗量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8609845.d.html</link>
+            <guid>2718474</guid>
+            <pubDate>Fri, 24 Jun 2022 20:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【高价雪糕背后：千亿市场“消费升级”？】那些潜伏在便利店冰柜里、看起来其貌不扬的雪糕，被网友们调侃为“雪糕刺客”，因为价格上涨在他们的意料之外。如今少有低于5元的雪糕，价格在10元/支以上的雪糕占据半壁江山。更有甚者，甚至超过50元/支。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8609797.d.html</link>
+            <guid>2718473</guid>
+            <pubDate>Fri, 24 Jun 2022 20:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：印尼Padang南侧101公里处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0416360.d.html</link>
+            <guid>2718472</guid>
+            <pubDate>Fri, 24 Jun 2022 20:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【IMF将2022年美国经济增长预测从3.7%下调至2.9%】国际货币基金组织将2022年美国经济增长预测从3.7%下调至2.9%，将2023年增长预测从2.3%下调至1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8608757.d.html</link>
+            <guid>2718471</guid>
+            <pubDate>Fri, 24 Jun 2022 20:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士银行FlowBank：最近大宗商品价格的下跌是一个令人鼓舞的信号。这正是美联储希望看到的，因为大宗商品是通胀如此高的原因之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0416001.d.html</link>
+            <guid>2718470</guid>
+            <pubDate>Fri, 24 Jun 2022 20:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：美国重视IMF的经济监督，财长耶伦重申了对IMF所有成员国进行“坦诚而彻底”评估的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0415617.d.html</link>
+            <guid>2718469</guid>
+            <pubDate>Fri, 24 Jun 2022 20:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本周道指涨5.40%，纳指涨7.49%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8608024.d.html</link>
+            <guid>2718468</guid>
+            <pubDate>Fri, 24 Jun 2022 20:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数四周来首次录得周度上涨，涨6.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0415487.d.html</link>
+            <guid>2718467</guid>
+            <pubDate>Fri, 24 Jun 2022 20:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嘉年华收涨12%，创2020年11月份以来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8607955.d.html</link>
+            <guid>2718466</guid>
+            <pubDate>Fri, 24 Jun 2022 20:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】道琼斯指数6月24日（周五）收盘上涨826.35点，涨幅2.69%，报31503.71点；标普500指数6月24日（周五）收盘上涨116.42点，涨幅3.07%，报3912.15点；纳斯达克综合指数6月24日（周五）收盘上涨375.43点，涨幅3.34%，报11607.62点。]]></title>
+            <guid>2718465</guid>
+            <pubDate>Fri, 24 Jun 2022 20:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：希望在物价降温的同时避免劳动力市场出现紊乱。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0415333.d.html</link>
+            <guid>2718464</guid>
+            <pubDate>Fri, 24 Jun 2022 20:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股收盘，道指初步收涨约110点，纳指收涨约3.3%，道指涨约2.7%，标普500指数11个板块全线上扬，其中金融、工业和材料类股表现最为强劲，热门中概股、明星科技股普遍上涨，小鹏汽车涨近7%，特斯拉涨超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0415308.d.html</link>
+            <guid>2718463</guid>
+            <pubDate>Fri, 24 Jun 2022 20:01:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指初步收涨逾3%，本周累涨逾8%。热门科技股中，Meta涨约6.8%，美国卡车公司涨超110%，AMD和英伟达涨超5%，谷歌A、奈飞、特斯拉涨超4%。道指初步收涨逾700点，成分股Salesforce.com涨超7%领跑，高盛和波音涨超5%，电信运营商威瑞森则跌超2%。中概股金山云涨超9%，小鹏汽车涨6%，阿里巴巴涨4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8607732.d.html</link>
+            <guid>2718462</guid>
+            <pubDate>Fri, 24 Jun 2022 20:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（6月24日）纽约尾盘，CBOT玉米期货上涨2.75%，报6.73-1/2美元/蒲式耳，本周累计下跌8.37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8607396.d.html</link>
+            <guid>2718461</guid>
+            <pubDate>Fri, 24 Jun 2022 19:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股尾盘涨幅扩大，纳指涨3%，标普500指数涨超2.8%，道指涨超2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0414676.d.html</link>
+            <guid>2718460</guid>
+            <pubDate>Fri, 24 Jun 2022 19:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国5月房屋销售额上升10.7%】根据美国人口普查局当地时间6月24日公布的数据，美国5月份新房销售额经季节性调整后增长了10.7%。虽然5月份美国东北部的房屋销售额暴跌51.1%，中西部下降18.3%，但南部的销售额增长了12.8%，西部增长了39.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8607149.d.html</link>
+            <guid>2718459</guid>
+            <pubDate>Fri, 24 Jun 2022 19:50:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛首席经济学家：如果出现经济衰退 幅度偏浅】高盛经济学家Jan Hatzius表示经济衰退的风险已经上升。“如果确实出现经济衰退，那么它可能会幅度偏浅。私营部门资产负债状况比上一个商业周期结束时要好。”此外，Hatzius说，“虽然通胀非常高，但我不认为通胀、特别是通胀预期，像1970年代和1980年代初的高通胀时期那样根深蒂固。”不过，通胀的推动因素之一是接近充分就业的美国劳动力市场。“要减少劳动力需求，同时避免经济恶化自我加强、最终演变为经济衰退，这是非常困难的，”Hatzius说。“因此，我们预计未来12个月经济衰退的概率为三分之一，未来两年的概率接近50%。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0414411.d.html</link>
+            <guid>2718458</guid>
+            <pubDate>Fri, 24 Jun 2022 19:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，投机者将CBOT美国超长期国债期货合约净空头头寸增加3455手至345056手，为2020年7月以来最高水平。]]></title>
+            <guid>2718457</guid>
+            <pubDate>Fri, 24 Jun 2022 19:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，投机者将CBOT美国5年期国债期货合约净空头头寸减少86980手至104091手，为2021年9月以来的最低水平。]]></title>
+            <guid>2718456</guid>
+            <pubDate>Fri, 24 Jun 2022 19:47:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，美元投机性净多头押注增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8606878.d.html</link>
+            <guid>2718455</guid>
+            <pubDate>Fri, 24 Jun 2022 19:47:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股这波反弹能到何时？摩根大通：标普轻松破4000，高盛：涨到7月初】月底季末的美国养老金再平衡的资金净流入或将成为美股反弹的潜在催化剂，华尔街多头分析师表示再平衡可能推动股票上涨7%]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0413737.d.html</link>
+            <guid>2718454</guid>
+            <pubDate>Fri, 24 Jun 2022 19:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，NYMEX、ICE市场的天然气期货净多头持仓减少15072手至19105手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8606060.d.html</link>
+            <guid>2718453</guid>
+            <pubDate>Fri, 24 Jun 2022 19:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会(CFTC)：截至6月21日当周，股票基金投机者将标普500指数CME净空头持仓增加7156手至40715手，股票基金经理将标普500指数CME净多头持仓减少1784手至37519手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0413384.d.html</link>
+            <guid>2718452</guid>
+            <pubDate>Fri, 24 Jun 2022 19:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，投机者将CBOT美国2年期国债期货合约净空头头寸减少41139手至119283手。]]></title>
+            <guid>2718451</guid>
+            <pubDate>Fri, 24 Jun 2022 19:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，投机者将CBOT美国10年期国债期货合约净空头头寸增加22655手至228184手。]]></title>
+            <guid>2718450</guid>
+            <pubDate>Fri, 24 Jun 2022 19:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，投机者将CBOT美国国债期货合约净空头头寸减少10078手至19322手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0413206.d.html</link>
+            <guid>2718449</guid>
+            <pubDate>Fri, 24 Jun 2022 19:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，COMEX铜期货投机性净空头头寸增加9163手至15959手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0413199.d.html</link>
+            <guid>2718448</guid>
+            <pubDate>Fri, 24 Jun 2022 19:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美银：一旦日本央行政策转向，日元的公允价值将给汇率提供支撑】美国银行的分析表明，如果日本央行加入全球央行的鹰派队伍，或者美国经济滑向衰退，那么日元的公允价值可能给其汇率提供支撑。日元兑美元汇率目前接近24年低点，美国银行策略师Myria Kyriacou在周五的报告中表示，在基于基本面的行为均衡汇率模型中，日元与其公允价值的偏差突出。虽然美元兑日元目前报135.25日元，但美国银行估计均衡水平在90.74日元，也就是日元应当比现在高49%左右。确实，今年交易员更加关注全球货币政策路径和大宗商品价格上涨等趋势，而不是估值。不过，Kyriacou表示，该模型为货币的中期走势提供了一个视角。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8605761.d.html</link>
+            <guid>2718447</guid>
+            <pubDate>Fri, 24 Jun 2022 19:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，COMEX白银期货投机性净多头头寸增加6008手至7809手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8605735.d.html</link>
+            <guid>2718446</guid>
+            <pubDate>Fri, 24 Jun 2022 19:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，COMEX黄金期货投机性净多头寸增加12256手至61816手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0413136.d.html</link>
+            <guid>2718445</guid>
+            <pubDate>Fri, 24 Jun 2022 19:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至6月21日当周，WTI原油期货投机性净多头头寸减少34690手至224666手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8605701.d.html</link>
+            <guid>2718444</guid>
+            <pubDate>Fri, 24 Jun 2022 19:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西北共同财富管理公司高级投资组合经理Matt Stucky：本周美股的反弹并不意味着市场已经触底。美联储在退出加息之前，需要有更多证据表明它正在赢得对抗通胀的胜利。在我看来，金融状况将继续收紧，而不是放松。即使本周有几个令人鼓舞的数据点，也不足以让美联储表示要后退一步，看看接下来会发生什么。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0413092.d.html</link>
+            <guid>2718443</guid>
+            <pubDate>Fri, 24 Jun 2022 19:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[分析师：密歇根大学将五至十年期通胀率预期从3.3%下调至3.1%，这一下调增加了市场对美联储加息不会那么积极的乐观情绪，并在结果公布后推动美股上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0412494.d.html</link>
+            <guid>2718442</guid>
+            <pubDate>Fri, 24 Jun 2022 19:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际泳联世锦赛：张雨霏女子50米蝶泳再夺一铜】北京时间6月25日凌晨，2022年国际泳联世锦赛继续游泳项目第七比赛日的对决。在率先结束的女子50米蝶泳比赛中，中国选手张雨霏以25.32秒的成绩获得一枚铜牌，这也是本届世锦赛张雨霏获得的第三枚铜牌，冠军被瑞典名将舍斯特伦获得。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0412257.d.html</link>
+            <guid>2718441</guid>
+            <pubDate>Fri, 24 Jun 2022 19:20:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大累计确诊猴痘病例235例】加拿大公共卫生署当地时间6月24日公布的猴痘病例统计结果显示，截至当日13时，加拿大累计确诊235例猴痘确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8604731.d.html</link>
+            <guid>2718440</guid>
+            <pubDate>Fri, 24 Jun 2022 19:18:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【黄金因美元下滑和衰退担忧走高，但周线下跌】黄金周五上扬，因美元回落和对经济衰退的担忧增强了黄金的避险吸引力，但迫在眉睫的加息使黄金录得周线跌幅。现货黄金现涨0.3%，报1827.20美元/盎司，此前曾触及一周低点1816.10美元。美元指数DXY现跌0.16%，提振了黄金的吸引力。道明证券商品策略师Daniel Ghali说：“有多种力量在左右金价，迫使它保持在一个狭小交易空间。经济衰退的风险和全球经济增长即将放缓的迹象，促使资金流入黄金作为避风港。另一方面，美联储对打击通胀的承诺，促使实际利率大幅上升。”德国商业银行分析师Carsten Fritsch说：“我们确实认为黄金在今年下半年有一些小的上升潜力，预测价格是1900美元/盎司。”]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8604527.d.html</link>
@@ -240,372 +599,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0403522.d.html</link>
             <guid>2718401</guid>
             <pubDate>Fri, 24 Jun 2022 17:29:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国众议院已经有足够票数通过枪支安全法案，投票仍在进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0403423.d.html</link>
-            <guid>2718400</guid>
-            <pubDate>Fri, 24 Jun 2022 17:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议院议长南希·佩洛西的丈夫被控酒驾】据NBC报道，当地时间5月28日，美国议长佩洛西82岁的先生保罗在加州酒乡纳帕县因酒驾发生车祸被捕。在发生车祸125分钟后，保罗血液中的酒精含量经测试为0.082%（0.08%是加州酒驾裁定标准。）根据受害者所受伤害的程度，地方检察官提出了轻罪指控。酒驾轻罪的处罚包括最长 5 年的缓刑，最少 5 天的监禁，罚款或防止酒驾课程。被捕第二天，保罗以 5000 美元的保释金获释。他将于8月3日接受传讯。如果罪名成立，保罗将面临至少五天的监禁和五年的缓刑，还需学习防止酒驾的课程，并在车上安装一个点火联锁装置。（中国日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0403381.d.html</link>
-            <guid>2718399</guid>
-            <pubDate>Fri, 24 Jun 2022 17:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保加利亚议会投票取消对北马其顿加入欧盟谈判的否决权，但有三个先决条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8595167.d.html</link>
-            <guid>2718398</guid>
-            <pubDate>Fri, 24 Jun 2022 17:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了97个对手方的2.181万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8595080.d.html</link>
-            <guid>2718397</guid>
-            <pubDate>Fri, 24 Jun 2022 17:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷总统：正寻求加入金砖国家，成为负责任的粮食出口国、生物技术和物流领域公认的参与者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0402426.d.html</link>
-            <guid>2718396</guid>
-            <pubDate>Fri, 24 Jun 2022 17:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷暴大风+冰雹，河南将迎强对流天气】6月26-27日，河南将有一次区域性暴雨天气过程，部分县市有大暴雨，河南省气象台预计，河南全省大部过程累计降水量在40毫米以上。河南省气象台专家表示，前期西太平洋副热带高压偏南，我国主雨带位于华南到江南一带。河南省受大陆暖高压脊控制，出现持续近10天高温晴热天气。根据最新气象材料综合分析，6月26日到7月上旬，河南省将会出现3至4次降水天气。此次降水过程对有效缓解河南旱情有利，但需要密切关注强降水所引发的山洪地质灾害，及中小河流洪水和城市内涝的气象风险。关注景区、尾矿库等隐患点风险排查。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8594646.d.html</link>
-            <guid>2718395</guid>
-            <pubDate>Fri, 24 Jun 2022 17:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登捍卫Roe案裁决结果 称女性健康现在面临风险】美国总统拜登就最高法院剥夺女性堕胎权的决定发表讲话：“现在，随着Roe案裁决被推翻，我们必须非常明确：这个国家女性的健康和生命正面临风险。”“对于最高法院和这个国家来说，这是悲哀的一天”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8594589.d.html</link>
-            <guid>2718394</guid>
-            <pubDate>Fri, 24 Jun 2022 17:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年夏粮旺季收购量预计将达1300亿斤】从国家粮食和物资储备局获悉，目前夏粮收购正由南向北陆续展开，预计今年夏粮旺季收购量将达1300亿斤左右，仍保持在较高水平。从收购进度看，截至目前，主产区收购小麦1889万吨，同比增加529万吨。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8594419.d.html</link>
-            <guid>2718393</guid>
-            <pubDate>Fri, 24 Jun 2022 17:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯：美国钻井工人连续七个季度增加石油和天然气钻井平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8594380.d.html</link>
-            <guid>2718392</guid>
-            <pubDate>Fri, 24 Jun 2022 17:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯：美国钻井工人连续22个月增加石油钻井平台，创下纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8594341.d.html</link>
-            <guid>2718391</guid>
-            <pubDate>Fri, 24 Jun 2022 17:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝克休斯：美国钻井工人连续23个月增加石油和天然气钻井平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8594209.d.html</link>
-            <guid>2718390</guid>
-            <pubDate>Fri, 24 Jun 2022 17:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美众议员议长佩洛西抨击最高法院推翻“罗诉韦德案”裁决的行为】当地时间6月24日，美国众议院议长南希·佩洛西猛烈抨击美国最高法院推翻“罗诉韦德案”的裁决的行为，称大法官们正在“侵蚀美国人的权利”。 佩洛西表示，这项裁决是对女性的“侮辱”，是“对女性的一记耳光”。她称：“今天，共和党控制的最高法院已经实现了他们黑暗、极端的目标，剥夺了女性自己做出生殖健康决定的权利。”（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0401235.d.html</link>
-            <guid>2718389</guid>
-            <pubDate>Fri, 24 Jun 2022 17:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月24日当周总钻井总数 753口，前值740口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8593797.d.html</link>
-            <guid>2718388</guid>
-            <pubDate>Fri, 24 Jun 2022 17:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月24日当周天然气钻井总数 157口，前值154口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0401140.d.html</link>
-            <guid>2718387</guid>
-            <pubDate>Fri, 24 Jun 2022 17:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至6月24日当周石油钻井总数 594口，预期589口，前值584口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0401129.d.html</link>
-            <guid>2718386</guid>
-            <pubDate>Fri, 24 Jun 2022 17:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其银行监管机构：如果公司的外汇现金资产超过总资产或年收入的10%，将无法获得里拉贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8593577.d.html</link>
-            <guid>2718385</guid>
-            <pubDate>Fri, 24 Jun 2022 16:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑土耳其里拉USD/TRY跌幅扩大至5%，为年内最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8593514.d.html</link>
-            <guid>2718384</guid>
-            <pubDate>Fri, 24 Jun 2022 16:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：莫斯科从未发出过“核威胁”言论，莫斯科使用核武器的方法完全是基于威慑逻辑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8593481.d.html</link>
-            <guid>2718383</guid>
-            <pubDate>Fri, 24 Jun 2022 16:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌28美元，报8381美元/吨。LME期铝收跌22美元，报2456美元/吨。LME期锌收跌142美元，报3350美元/吨。LME期铅收跌32美元，报1915美元/吨。LME期镍收跌1638美元，报22400美元/吨。LME期锡收跌2395美元，报24590美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0400727.d.html</link>
-            <guid>2718382</guid>
-            <pubDate>Fri, 24 Jun 2022 16:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其银行监管机构表示，银行不会向外汇现金资产价值超过1500万里拉的公司发放里拉贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8593425.d.html</link>
-            <guid>2718381</guid>
-            <pubDate>Fri, 24 Jun 2022 16:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：欧盟的激进做法显然可能导致欧洲出现新的、更深层次的分裂和危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8593329.d.html</link>
-            <guid>2718380</guid>
-            <pubDate>Fri, 24 Jun 2022 16:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登：最高法院剥夺了美国人民的宪法权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8592620.d.html</link>
-            <guid>2718379</guid>
-            <pubDate>Fri, 24 Jun 2022 16:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登：我相信ROE诉WADE一案的裁决是正确的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8592606.d.html</link>
-            <guid>2718378</guid>
-            <pubDate>Fri, 24 Jun 2022 16:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部表示，欧盟给予乌克兰和摩尔多瓦候选国地位将产生负面影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8592505.d.html</link>
-            <guid>2718377</guid>
-            <pubDate>Fri, 24 Jun 2022 16:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所BITPANDA：裁员与市场情绪低迷有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8591860.d.html</link>
-            <guid>2718376</guid>
-            <pubDate>Fri, 24 Jun 2022 16:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：加密货币交易所BITPANDA解雇了数百名员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0399125.d.html</link>
-            <guid>2718375</guid>
-            <pubDate>Fri, 24 Jun 2022 16:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示：美国商务部否认了俄罗斯北风航空公司、波贝达航空公司和S7航空公司的出口特权，对这三家俄罗斯航空公司下达了为期六个月的出口禁令，并有可能延长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8591519.d.html</link>
-            <guid>2718374</guid>
-            <pubDate>Fri, 24 Jun 2022 16:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[如果美国食品药品监督管理局（FDA）禁令生效，美国电子烟初创企业Juul可能会申请破产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8591300.d.html</link>
-            <guid>2718373</guid>
-            <pubDate>Fri, 24 Jun 2022 16:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：加密贷款机构Celsius雇佣更多顾问为潜在破产做准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0398482.d.html</link>
-            <guid>2718372</guid>
-            <pubDate>Fri, 24 Jun 2022 16:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑土耳其里拉USD/TRY跌幅扩大至2%，报17。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8591093.d.html</link>
-            <guid>2718371</guid>
-            <pubDate>Fri, 24 Jun 2022 16:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国消费者通胀预期由14年高点回落 美联储激进加息的紧迫性或降】根据密歇根大学消费者信心指数6月终值，美国消费者的更长期通胀预期从6月初值报告中的14年高点回落，可能会降低美联储激进加息的紧迫性。周五的报告显示，受访者表示他们预计未来五到十年价格上涨3.1%，低于3.3%的初值。他们预计接下来一年价格将上涨5.3%，与初值一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8591028.d.html</link>
-            <guid>2718370</guid>
-            <pubDate>Fri, 24 Jun 2022 16:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑土耳其里拉USD/TRY跌超1%，此前土耳其对里拉贷款实施部分禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0397952.d.html</link>
-            <guid>2718369</guid>
-            <pubDate>Fri, 24 Jun 2022 16:26:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼日利亚：欧佩克几乎没有闲置产能，8月不会有什么意外】尼日利亚石油部长Timipre Sylva说，欧佩克+原油产量即将耗尽，包括最大产油国沙特。Sylva表示：“一些人认为油价有点偏高，并希望我们增加一点产量，但目前真的没有什么额外的产能。就连沙特、俄罗斯，现在也或多或少地退出了市场。目前我认为油价正在走高，我认为8月欧佩克不会带来任何意外。”尼日利亚是非洲最大产油国，多年来一直在努力应对产量下降的问题，该国5月份的日产量为149万桶，6月份和7月份的日产量配额分别为177万桶和180万桶。Sylva表示，甚至连满足配额都很难，运营商计划在8月底之前填补这一缺口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8590612.d.html</link>
-            <guid>2718368</guid>
-            <pubDate>Fri, 24 Jun 2022 16:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“元宇宙公司”Meta Platform维持大约6%的涨幅，徘徊于日高169.53美元附近。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8590533.d.html</link>
-            <guid>2718367</guid>
-            <pubDate>Fri, 24 Jun 2022 16:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪士尼、奈飞和META表示，将承担员工处于堕胎需求的旅行费用。据央视报道，美国最高法院6月24日推翻实现美国堕胎合法化的“罗诉韦德案”裁决。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8590399.d.html</link>
-            <guid>2718366</guid>
-            <pubDate>Fri, 24 Jun 2022 16:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美最高法院推翻“罗诉韦德案”裁决，几乎一半的州或宣布堕胎非法或严格限制】当地时间6月24日，美国最高法院推翻了“罗诉韦德案”裁决。这项裁决曾在1973年实现了美国堕胎合法化。最高法院的这项最新裁决将赋予各州制定堕胎法的权力，预计几乎一半的州将宣布堕胎为非法或严格限制堕胎。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0397288.d.html</link>
-            <guid>2718365</guid>
-            <pubDate>Fri, 24 Jun 2022 16:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相在保守党补选失败后讲话，将失败归咎于生活成本危机】6月24日，正在卢旺达出席英联邦会议的英国首相约翰逊在新闻发布会上讲话。他坚持强调，供应链危机和俄乌冲突引发的生活成本危机是保守党补选失败的原因。约翰逊说，时代艰难，但政府有正确的计划应对这种情况。在被问及是否考虑辞职时，约翰逊回避了这个问题。当天早些时候，英国执政党保守党在两个地区的补选中败给工党和自由民主党，由此引发保守党主席辞职，并引发党派内外部分人士发出约翰逊下台的呼声。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8589759.d.html</link>
-            <guid>2718364</guid>
-            <pubDate>Fri, 24 Jun 2022 16:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其银行监管机构：土耳其禁止向被认为拥有大量外汇现金的公司发放里拉贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8589618.d.html</link>
-            <guid>2718363</guid>
-            <pubDate>Fri, 24 Jun 2022 16:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯就可能会在巴厘岛与俄罗斯外长拉夫罗夫会面表示，拭目以待。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8589196.d.html</link>
-            <guid>2718362</guid>
-            <pubDate>Fri, 24 Jun 2022 16:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储发布地方联储主席的年度财务信息披露报告，此前，卡普兰和罗森格伦等地方联储主席已经在2021年因炒股而被卷入伦理丑闻并“引咎”辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8589050.d.html</link>
-            <guid>2718361</guid>
-            <pubDate>Fri, 24 Jun 2022 16:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国生物技术公司瓦尔内瓦：VLA2001新冠疫苗获得欧盟上市许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0396007.d.html</link>
-            <guid>2718360</guid>
-            <pubDate>Fri, 24 Jun 2022 16:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：俄罗斯主张制裁导致粮食危机的说法是错误的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0395791.d.html</link>
-            <guid>2718359</guid>
-            <pubDate>Fri, 24 Jun 2022 16:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新东方在线表示，公司预计截至2022年5月31日止财政年度的财务业绩刊发时间将为8月末前后。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizirav0395612.d.html</link>
-            <guid>2718358</guid>
-            <pubDate>Fri, 24 Jun 2022 16:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国参议院确认克里斯托弗·卡沃利担任美军欧洲司令部司令】美国参议院投票确认陆军上将克里斯托弗·卡沃利担任美军欧洲司令部司令的提名。此外，卡沃利还将接任北约驻欧洲盟军最高指挥官，监督北约行动的规划和执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-25/detail-imizmscu8588385.d.html</link>
-            <guid>2718357</guid>
-            <pubDate>Fri, 24 Jun 2022 16:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美疾控中心批准为6岁至17岁人群接种莫德纳新冠疫苗】美国疾病控制和预防中心（CDC）批准为6岁至17岁儿童和青少年接种莫德纳新冠疫苗。目前，美国三分之二的5岁至11岁的儿童和约三分之一的12岁至17岁的青少年尚未接种新冠疫苗。根据美疾控中心的数据，在疫情期间，已有近1100万5岁至17岁的儿童和青少年确诊了新冠肺炎，其中超过4.5万人住院，超600人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0395559.d.html</link>
-            <guid>2718356</guid>
-            <pubDate>Fri, 24 Jun 2022 15:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯新沙赫京斯克炼油厂在火灾后恢复运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8588344.d.html</link>
-            <guid>2718355</guid>
-            <pubDate>Fri, 24 Jun 2022 15:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江省鸡西市1亿元发展数字经济，国家级数字创新平台最高奖励200万】 6月24日，煤城鸡西市政府新闻办举行新闻发布会，就近日出台的《鸡西市“十四五”数字经济发展规划》进行了解读，“十四五”期间，黑龙江省鸡西市将大力发展数字经济，并设立1亿元市级数字经济发展资金，对国家级数字创新平台和数字经济关键技术攻关转化等进行最高200万元的一次性奖励。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8588243.d.html</link>
-            <guid>2718354</guid>
-            <pubDate>Fri, 24 Jun 2022 15:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利总理德拉基：欧洲应立刻对能源价格采取行动】出席欧盟峰会的意大利总理德拉基表示，应立刻对能源价格采取行动。意大利正采取措施保护意大利民众的购买力，维护社会稳定。德拉基说，由于能源价格和通货膨胀，欧元区所有国家的经济增长预期都将有所放缓，必须立即对能源价格采取行动。此外，还要确保冬季能源供应不出现紧张状况。德拉基还表示将在未来10天至15天内尽快与社会各界代表召开会议，商讨支持意大利民众购买力的措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8588231.d.html</link>
-            <guid>2718353</guid>
-            <pubDate>Fri, 24 Jun 2022 15:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：将继续与乌克兰及盟国讨论外交战略，同时继续加强乌克兰在冲突中的地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8588175.d.html</link>
-            <guid>2718352</guid>
-            <pubDate>Fri, 24 Jun 2022 15:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：美国随时准备支持任何解决乌克兰冲突的外交方案，但俄罗斯对此没有兴趣。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0395198.d.html</link>
-            <guid>2718351</guid>
-            <pubDate>Fri, 24 Jun 2022 15:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国天然气期货下跌超过13%，刷新日低至161.030便士，本周或累计下跌约19.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394776.d.html</link>
-            <guid>2718348</guid>
-            <pubDate>Fri, 24 Jun 2022 15:46:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】德国DAX30指数6月24日（周五）收盘上涨204.80点，涨幅1.59%，报13117.39点；英国富时100指数6月24日（周五）收盘上涨187.73点，涨幅2.67%，报7208.18点；法国CAC40指数6月24日（周五）收盘上涨190.02点，涨幅3.23%，报6073.35点；欧洲斯托克50指数6月24日（周五）收盘上涨98.36点，涨幅2.86%，报3534.65点；西班牙IBEX35指数6月24日（周五）收盘上涨134.01点，涨幅1.65%，报8240.41点；意大利富时MIB指数6月24日（周五）收盘上涨500.00点，涨幅2.31%，报22115.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394728.d.html</link>
-            <guid>2718347</guid>
-            <pubDate>Fri, 24 Jun 2022 15:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利计划与欧盟官员们讨论区域性天然气单一网络计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394681.d.html</link>
-            <guid>2718346</guid>
-            <pubDate>Fri, 24 Jun 2022 15:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公募“抢着”发行小盘股基金，冯柳、杨东加仓，量化巨头也盯上小盘股】截至目前，今年共有10只小盘股基金发行，发行数量同比翻倍。从私募动向来看，二季度百亿级私募调研的主要方向是中小盘股，上市公司公告也暴露了部分私募大佬的加仓操作。有量化私募人士更是坦言，中证1000指数有望成为量化策略的下一个发力点。多位业内人士认为，从历史经验来看，在宽货币和宽信用的宏观环境下，中证1000指数的表现或更优，叠加估值处于历史底部区域，小盘股的性价比正逐步凸显。与此同时，风险管理工具的进一步丰富，有望吸引更多投资者参与市场定价，相关投资机会值得关注。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394589.d.html</link>
-            <guid>2718345</guid>
-            <pubDate>Fri, 24 Jun 2022 15:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.6898元，较周四夜盘收盘涨100点。成交量329.01亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394579.d.html</link>
-            <guid>2718344</guid>
-            <pubDate>Fri, 24 Jun 2022 15:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯：俄罗斯的经济策略不可持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8587464.d.html</link>
-            <guid>2718343</guid>
-            <pubDate>Fri, 24 Jun 2022 15:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：一个主权独立的乌克兰将不会让普京的军事计划得逞。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394499.d.html</link>
-            <guid>2718342</guid>
-            <pubDate>Fri, 24 Jun 2022 15:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾国内的糖供应短缺进一步加剧】菲律宾糖业管理局警告称，菲国内的糖供应短缺进一步加剧，糖就快用光了。受台风和恶劣天气影响，菲律宾今年的原糖产量受创。截至6月17日，首都马尼拉超市里的精制糖平均零售价约合人民币每公斤9元，价格与去年同期相比增长了近39％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394263.d.html</link>
-            <guid>2718341</guid>
-            <pubDate>Fri, 24 Jun 2022 15:38:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯：俄罗斯摧毁了乌克兰的农业基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0394197.d.html</link>
-            <guid>2718340</guid>
-            <pubDate>Fri, 24 Jun 2022 15:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王小洪已任中央政法委副书记】中国长安网24日更新“领导·机构”栏目信息显示，王小洪已任中央政法委副书记。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizmscu8586884.d.html</link>
-            <guid>2718339</guid>
-            <pubDate>Fri, 24 Jun 2022 15:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科文：将埃森哲(ACN.N)目标价从330美元下调至325美元 维持跑赢大市评级】科文分析师Bryan Bergin将埃森哲的目标价从330美元降至325美元，并保持对该股的跑赢大市评级。该分析师说，该公司的财报显示，第三财季业绩稳健、前景和产品线情况良好，反映出尽管有宏观市场的担忧，但公司需求没有受到干扰。Bergin表示，该公司坚实的长期定位、持久的模式和财务能力可能会使经济放缓（如果发生）对每股收益的任何实质性影响有限；然而，由于估值争论持续，他承认股价可能会保持区间波动，直到其2023年增长轨迹得到解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-24/detail-imizirav0393891.d.html</link>
-            <guid>2718338</guid>
-            <pubDate>Fri, 24 Jun 2022 15:33:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
