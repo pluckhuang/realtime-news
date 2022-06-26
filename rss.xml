@@ -4,11 +4,245 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 26 Jun 2022 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 22:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【欧委会主席：不希望将俄罗斯总统普京排除在G20峰会之外】欧盟委员会主席冯德莱恩26日在接受德国媒体采访时表示，不希望将俄罗斯总统普京排除在今年11月印度尼西亚举行的二十国集团领导人峰会之外。她表示：“我认为，如果他（普京）真的出席的话，可以当面告诉他我们的想法，然后让他也进行表态，这样比较好。”不过，她也坦言，跟普京不会“像以前那样”打交道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8890275.d.html</link>
+            <guid>2719226</guid>
+            <pubDate>Sun, 26 Jun 2022 22:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西新增16,679例新冠肺炎病例，新增36例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0701198.d.html</link>
+            <guid>2719225</guid>
+            <pubDate>Sun, 26 Jun 2022 22:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国议会将就“北爱尔兰议定书”新法案进行第一次辩论】6月27日，英国议会将就“北爱尔兰议定书”的新法案进行第一次辩论。英国外交部称，新立法旨在修复“北爱尔兰议定书”中部分条款造成的现实问题，以此确保维护《贝尔法斯特协议》。届时，议会辩论的四个关键论点为：繁多的海关手续、缺乏灵活性的条款、税收及支出差异，以及民主的管理体系等事项。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8890168.d.html</link>
+            <guid>2719224</guid>
+            <pubDate>Sun, 26 Jun 2022 22:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【法国赞同在全球层面对石油价格设定上限】法国总统府爱丽舍宫26日表示，法国原则上赞同美国在七国集团领导人峰会上提出的“对俄石油价格设定上限”这项提议，但除此之外更加强有力的，是对所有石油生产国的石油价格设定价格上限，以应对俄乌危机造成的油价飙升。爱丽舍宫同时补充说，这需要重新与欧佩克（石油输出国组织）以及世界上其他石油生产国进行磋商。此外，爱丽舍宫还指出，此次七国集团领导人峰会召开的主要目的，是试图对石油及天然气价格设定上限，以避免对俄制裁措施给全球经济造成严重影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0701160.d.html</link>
+            <guid>2719223</guid>
+            <pubDate>Sun, 26 Jun 2022 22:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专家：入围个人养老金投资公募基金销售机构或接近40家，逾百只养老目标基金有望被优先纳入】“个人养老金制度中涉及公募基金部分的重要监管文件公开征求意见，有助于加快构建养老金、资本市场与实体经济的良性互动。”受访专家预计，对标监管要求，入围个人养老金投资公募基金销售机构或接近40家，其中，个别机构近一年有被采取行政监管措施的情形，是否进入销售机构名录还有待观察；此外，满足“最近4个季度末规模不低于5000万元”优先纳入条件的养老目标基金产品目前预计逾百只。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8889976.d.html</link>
+            <guid>2719222</guid>
+            <pubDate>Sun, 26 Jun 2022 22:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI原油跌幅扩大至1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0700910.d.html</link>
+            <guid>2719221</guid>
+            <pubDate>Sun, 26 Jun 2022 22:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰石油天然气有限公司消息，CUE ENERGY RESOURCES与新西兰石油天然气公司签订了700万新西兰元的两年期无担保贷款协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0700467.d.html</link>
+            <guid>2719220</guid>
+            <pubDate>Sun, 26 Jun 2022 22:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货开盘跌0.5%，报107.02美元/桶。周末消息称G7集团商讨通过保险和航运限制对俄罗斯石油价格施行上限、伊朗和欧盟宣布伊核问题相关会谈将在未来几天重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0700300.d.html</link>
+            <guid>2719219</guid>
+            <pubDate>Sun, 26 Jun 2022 22:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金开涨10美元，周末消息称G7集团将宣布禁止进口俄罗斯黄金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0700288.d.html</link>
+            <guid>2719218</guid>
+            <pubDate>Sun, 26 Jun 2022 22:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“滚隔夜”热度不减 债市齐呼“降杠杆”】6月20日，银行间市场质押式回购成交6.46万亿元，创今年来新高。而截至6月24日，银行间市场质押式回购成交已连续8天在6.1万亿元以上。即使已在半年末时点，而且6月有近1.2万亿元的天量政府债发行，资金面却仍相当充裕。低廉的资金价格，让一些债市投资者把杠杆策略发挥得淋漓尽致，“借短买长”成为他们收益的重要来源。多位业内人士警示，利率将有上行风险，此时不宜继续加杠杆，建议逐步去杠杆来降低风险。 (上海证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0699917.d.html</link>
+            <guid>2719217</guid>
+            <pubDate>Sun, 26 Jun 2022 21:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[厄瓜多尔能源部称石油生产可能在48小时内停止。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8888527.d.html</link>
+            <guid>2719216</guid>
+            <pubDate>Sun, 26 Jun 2022 21:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴希莉亚（Celia）目前保持强度，但可能很快开始减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8888335.d.html</link>
+            <guid>2719215</guid>
+            <pubDate>Sun, 26 Jun 2022 21:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：节约集约用地丝毫不能懈怠】当前，一些城镇、产业园区低效和闲置用地问题比较突出，可以考虑修订部分行业用地定额指标，强化重大建设项目节约集约用地刚性约束，探索工业用地供应方式转变，提高工业用地利用效率。同时，考虑到村庄用地总量过大、布局不尽合理，可探索有效盘活农村存量建设用地的路径。此外，还要加大对违法违规占用耕地行为的查处力度，向社会释放对违法占用耕地“零容忍”的强烈信号。要落实“长牙齿”的硬措施，实行耕地保护党政同责，把耕地保有量和永久基本农田保护目标任务逐级分解下达，并作为刚性指标实行严格考核。]]></title>
+            <guid>2719214</guid>
+            <pubDate>Sun, 26 Jun 2022 21:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公募REITs发行升温 鹏华深圳能源REIT今日询价】继国金中国铁建重庆渝遂高速REIT一日售罄后，6月27日，鹏华深圳能源REIT将开启询价。6月以来，公募REITs发行持续增温，而年内投资者有望迎来更多REITs新产品。下半年公募REITs产品发行有望提速。来自沪深交易所信息显示，目前华泰紫金江苏交控高速公路封闭式基础设施证券投资基金、中金厦门安居保障性租赁住房封闭式基础设施证券投资基金的项目状态均显示“已反馈”，而红土创新深圳人才安居保障性租赁住房封闭式基础设施证券投资基金的项目状态目前为“已问询”。(经参)]]></title>
+            <guid>2719213</guid>
+            <pubDate>Sun, 26 Jun 2022 21:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【哥伦比亚斗牛场看台坍塌 已致4人死亡百余人受伤】当地时间6月26日中午，哥伦比亚托利马省一座正在举行斗牛表演的斗牛场看台发生坍塌，事故造成的死亡人数已升至4人，另有上百人受伤。据当地媒体最新报道，参加斗牛表演的多头斗牛也从围栏中逃脱，冲出斗牛场，在附近街道引发路人恐慌。事故发生后，哥伦比亚当选总统佩特罗通过个人社交媒体账户发布信息，对事故伤亡者的家属表示慰问，同时要求各地方政府今后不再批准类似会造成动物、人员伤亡的表演活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0698046.d.html</link>
+            <guid>2719212</guid>
+            <pubDate>Sun, 26 Jun 2022 21:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台6月27日06时继续发布强对流天气黄色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8886694.d.html</link>
+            <guid>2719211</guid>
+            <pubDate>Sun, 26 Jun 2022 21:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【清理“假外资”优化真外资投资环境 业内：不会影响北向资金整体活跃度】近日，中国证监会发布《关于修改〈内地与香港股票市场交易互联互通机制若干规定〉的决定》，明确沪股通和深股通投资者不包括内地投资者，规范内地投资者返程交易行为，对所谓“假外资”从严监管。规定自2022年7月25日起施行。接受采访的专家表示，新规正式实施后，香港经纪商将不得再为内地投资者新开通沪深股通交易权限。“假外资”绕道返投A股，背后暗藏跨境操纵市场等违法违规行为。监管清理“假外资”，有助于优化真外资的投资环境，对北向资金活跃度不会产生影响，有助于A股市场稳定以及互联互通机制长期健康发展。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0697366.d.html</link>
+            <guid>2719210</guid>
+            <pubDate>Sun, 26 Jun 2022 21:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及供应部长：埃及从印度进口18万吨小麦，现有战略储备足够维持6个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0696969.d.html</link>
+            <guid>2719209</guid>
+            <pubDate>Sun, 26 Jun 2022 20:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国能源公司莱茵集团警告称，英国的税收政策将危及150亿英镑的可再生能源投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0696646.d.html</link>
+            <guid>2719208</guid>
+            <pubDate>Sun, 26 Jun 2022 20:50:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  NORDEX董事会决定以现金出资方式进行增资，金额略低于现有股本的10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0695796.d.html</link>
+            <guid>2719207</guid>
+            <pubDate>Sun, 26 Jun 2022 20:35:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界银行行长：美联储缩减资产负债表有助于避免经济衰退】世行行长马尔帕斯称，美联储债券投资组合规模的缩小有望释放资本，以提振美国经济产出，并避免经济陷入衰退。马尔帕斯认为，美联储有多种工具，包括缩表，这会把更多资金返还给银行。如果银行有更多资金，就可以放贷，美国经济中的非银行部门也会受益。他指出，资本的涌入可能有助于缓解供应链的压力。马尔帕斯表示，要让通胀率回落至同比2%的水平，需要几个月，甚至可能两年的时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8884741.d.html</link>
+            <guid>2719206</guid>
+            <pubDate>Sun, 26 Jun 2022 20:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其里拉亚洲早盘上涨0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8884254.d.html</link>
+            <guid>2719205</guid>
+            <pubDate>Sun, 26 Jun 2022 20:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斯里兰卡派遣官员前往俄罗斯和卡塔尔寻求廉价石油】当地时间6月26日，资金短缺的斯里兰卡宣布派遣部长前往俄罗斯和卡塔尔，希望在燃料几乎耗尽的最后时刻获得廉价石油。同时，斯里兰卡政府将非必要的国家机构暂时关闭两周，以节省燃料，只保留骨干人员提供最低限度的服务。]]></title>
+            <guid>2719204</guid>
+            <pubDate>Sun, 26 Jun 2022 20:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【G7据悉商讨通过保险和航运限制对俄罗斯石油价格施行上限】根据知情人士透露，七国集团（G7）正在讨论通过对保险和航运实施限制，从而对俄罗斯石油价格施行上限。知情人士表示，这一潜在机制将只允许运输以低于商定门槛销售的俄罗斯原油和石油产品。他们指出，G7领导人和官员之间的讨论正在进行，尚未达成协议。两位知情人士称，虽然相关机制在议程之上，且有可能就这一概念达成原则上的一致，但是领导人们是否能够在峰会结束前确定具体细节尚不清楚，细节包括限价的具体位置等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0694857.d.html</link>
+            <guid>2719203</guid>
+            <pubDate>Sun, 26 Jun 2022 20:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电动船舶驶入新蓝海】经过多年蓄力深耕，我国电动船舶产业整体实力实现与西方发达国家“并跑”，而且在部分关键领域实现超越。业内专家建议，借鉴新能源汽车产业发展成功经验，加大对电动船舶产业扶持力度。随着全球环保政策日趋严格，船舶能源种类逐渐向低碳化能源转变，船舶电动化趋势愈发明显，市场规模逐步扩大。受良好的市场前景吸引，宁德时代、亿纬动力、国轩高科、比亚迪、鹏辉能源等电池企业纷纷入局电动船舶，产业创新要素集聚、活力迸发。（经参）]]></title>
+            <guid>2719202</guid>
+            <pubDate>Sun, 26 Jun 2022 20:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“东数西算”稳步推进 新基建赋能数字经济】腾格里沙漠边缘，宁夏中卫市西部云基地建设正酣；青海海东河湟新区，中国电信（国家）数字青海新型大数据中心顺利接火供电……今年“东数西算”工程正式全面启动以来，一个个数据中心项目加快从图纸变为现实。与此同时，一批5G、工业互联网等新基建项目扎实推进，为数字经济发展开拓新空间、增添新动能。 (经济参考报)]]></title>
+            <guid>2719201</guid>
+            <pubDate>Sun, 26 Jun 2022 19:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国发现首例儿童猴痘病例】据法国媒体报道，25日晚，法兰西岛大区卫生机构宣布一名儿童感染猴痘病毒，这是法国发现的首例儿童猴痘病例。据悉，该病患是一名小学生，病情已得到控制且没有恶化的风险。据统计，法国迄今已确诊猴痘病例超过300例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0692057.d.html</link>
+            <guid>2719200</guid>
+            <pubDate>Sun, 26 Jun 2022 19:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加里宁格勒州州长称该州在波罗的海海运吞吐能力已过剩】加里宁格勒州州长安东∙阿里汉诺夫表示，波罗的海海运吞吐能力已经过剩，向该州运输或运出货物都能找到货船。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8880137.d.html</link>
+            <guid>2719199</guid>
+            <pubDate>Sun, 26 Jun 2022 19:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【江苏盐城市大丰区海域发生3.1级地震】中国地震台网正式测定：6月27日02时51分，在江苏盐城市大丰区海域(北纬33.49度，东经121.19度)发生3.1级地震，震源深度19公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0690554.d.html</link>
+            <guid>2719198</guid>
+            <pubDate>Sun, 26 Jun 2022 19:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【挪威首都发生枪击事件后 全国加强警戒严防恐袭】挪威首都奥斯陆25日凌晨发生枪击事件后，全国尤其是首都地区加强警戒，严防再次遭遇恐怖袭击。德新社25日援引挪威警察安全局局长罗格·贝格的话报道，评估显示挪威面临的恐怖袭击威胁“异常高”，因此情报部门决定将恐袭警戒级别从3级上调至最高级的5级。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8878884.d.html</link>
+            <guid>2719197</guid>
+            <pubDate>Sun, 26 Jun 2022 19:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  埃及银行6月30日因国家假日关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8878173.d.html</link>
+            <guid>2719196</guid>
+            <pubDate>Sun, 26 Jun 2022 18:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【下半年经济恢复步伐将加快 财政货币政策仍有发力空间】当前国际环境仍然复杂严峻、通胀走高，下半年经济形势走势如何？我国宏观政策该如何应对？记者分别就此采访了巨丰投资首席经济学家邱晓华、摩根士丹利证券首席经济学家章俊等八位首席经济学家，首席经济学家普遍认为，今年上半年GDP增速或在3%左右，下半年财政、货币政策需要加大力度，经济恢复步伐将加快。在多位首席经济学家看来，基建投资是重要发力点之一。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8877088.d.html</link>
+            <guid>2719195</guid>
+            <pubDate>Sun, 26 Jun 2022 18:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国资产长期投资价值持续显现】6月以来，北向资金加快流入节奏。截至6月26日，北向资金6月以来的净买入额已经超过600亿元。与此同时，从资本集团、摩根大通等多家外资机构旗下基金最新披露的持仓情况来看，多只中国股票获得加仓。不少外资机构日前表示，继续看好中国市场的长期投资价值，在国内经济持续复苏背景下，中国资产具有较大的吸引力。 (经济参考报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0687338.d.html</link>
+            <guid>2719194</guid>
+            <pubDate>Sun, 26 Jun 2022 18:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【24个银保监局齐上阵70家险企新规后首迎现场评估】偿二代二期规则于今年全面实施后，保险公司也将首次迎来监管现场评估，即偿付能力风险管理能力监管评估（SARMRA评估）。自7月起，24个银保监局将对70家保险公司开展SARMRA评估工作，10月底前完成现场评估。这些被评估机构占所有保险公司的近三分之一，按照以往经验，各险企每三年要接受一次现场评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0686815.d.html</link>
+            <guid>2719193</guid>
+            <pubDate>Sun, 26 Jun 2022 18:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【伊朗外长将访问土耳其】土耳其外交部当地时间26日发表声明说，伊朗外长阿卜杜拉希扬将于6月27日访问土耳其。访问期间，他将与土方官员讨论双边关系以及当前的地区和国际局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8874466.d.html</link>
+            <guid>2719192</guid>
+            <pubDate>Sun, 26 Jun 2022 17:52:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【供应链金融加速“上线” 银行期盼核心企业挺身做“链长”】稳定的供应链成为这一轮复工复产最重要的环节之一。在多家金融机构近期陆续召开的“落实稳住经济大盘工作部署”会议中，“供应链金融”成为纾困企业、稳经济的一大关键词。记者了解到，中小微企业贷款考核任务增加、市场需求迫切等因素，推动着部分银行加快供应链金融的创新步伐，但由于供应链金融是一项多方融合的业务，对银行风险管理的能力要求较高，一些银行对这项业务仍是望而却步。“就一线的感受来说，我觉得真正能把普惠业务做大、把风险控制在最低的业务就是供应链金融，这也是银行最希望发展的模式。”一位国有大行普惠业务人士告诉记者，但供应链金融业务仍存在诸多难点，例如核心企业的参与意愿、不同参与方的利益分配、越来越依赖线上化的业务数据难以获取等问题，均增加了银行开展供应链金融的成本。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0684495.d.html</link>
+            <guid>2719191</guid>
+            <pubDate>Sun, 26 Jun 2022 17:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：6月27日00时45分在台湾花莲县海域（北纬23.71度，东经121.55度）发生4.1级地震，震源深度10千米。]]></title>
+            <guid>2719190</guid>
+            <pubDate>Sun, 26 Jun 2022 17:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【七国集团发起一项全球性倡议 旨在多领域支持发展中国家】在当地时间26日举办的七国集团峰会期间，七国集团国家领导人、欧洲理事会主席米歇尔和欧盟委员会主席冯德莱恩共同宣布建立“全球基础设施与投资伙伴关系”，以在气候保护、改善医疗保健系统和推动数字化转型等领域支持发展中国家。按照七国集团轮值主席国德国总理朔尔茨的说法，七国集团国家高度关注世界经济形势发展，因此决定在基础设施投资方面发起一项全球性的倡议。据美国总统拜登介绍，美国将为此在未来五年内启动数千亿欧元的投资。日本、加拿大和法国的领导人同样各自宣布了高达数十亿欧元的投资计划。意大利总理德拉吉则在讲话中表达了对西方国家在非洲投资天然气基础设施和大力发展可再生能源的支持。另外，按照欧盟委员会主席冯德莱恩的说法，欧盟将在2027年前通过筹集公共和私人资本为七国集团的投资倡议提供3000亿欧元的资金支持。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0681509.d.html</link>
+            <guid>2719189</guid>
+            <pubDate>Sun, 26 Jun 2022 16:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄国防部：俄军摧毁乌克兰四个军火库】俄罗斯国防部发布消息称，俄空军和炮兵部队24小时摧毁卢甘斯克共和国境内的4个乌克兰军火库，尼古拉耶夫州境内的2个指挥所以及60多个地区的火炮和迫击炮。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0680860.d.html</link>
+            <guid>2719188</guid>
+            <pubDate>Sun, 26 Jun 2022 16:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）发言人称将于6月27日（周一）更新推迟的几份数据报告的最新情况。另外，第184届欧佩克大会举行将提前于29日（周三）举行，第30届欧佩克和非欧佩克产油国部长级会议将按原定日程30日（周四）举行，敬请留意。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizirav0679735.d.html</link>
+            <guid>2719187</guid>
+            <pubDate>Sun, 26 Jun 2022 16:33:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【阿联酋代表团将赴德国商讨氢气等清洁能源合作】据阿联酋通讯社（WAM）6月26日报道，阿联酋政府官员和阿布扎比国家石油公司（Adnoc）、马斯达尔石油公司（Masdar）的代表将于6月28日前往德国，就氢气和清洁能源举行会谈。阿联酋能源部副部长Sharif Al Olama说：“此次访问旨在建立两国间的可持续合作机制。”阿联酋正试图成为世界前列的氢气供应国。今年3月，阿布扎比国家石油公司（Adnoc）与德国公司签署了谅解备忘录（MoU）和联合研究协议（JSA），加快清洁氢合作。第一批货物可能会在今年运出。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-27/detail-imizmscu8867280.d.html</link>
@@ -378,246 +612,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0661251.d.html</link>
             <guid>2719124</guid>
             <pubDate>Sun, 26 Jun 2022 12:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄乌争夺卢甘斯克“最后一城” 利西昌斯克：卢甘斯克唯一仍在乌控制下城市】乌军撤出北顿涅茨克，意味着与其隔河相望的利西昌斯克成为卢甘斯克唯一一座仍处于乌方控制下的城市。而连日来，利西昌斯克以南地区成为攻防双方争夺的焦点。美国智库战争研究所分析，北顿涅茨克之战对俄军来说还算不上“决定性的胜利”，也不是整个俄乌战事中的重大转折点。西方媒体普遍认为，与北顿涅茨克相比，接下来的利西昌斯克之战可能会更加残酷。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0660702.d.html</link>
-            <guid>2719123</guid>
-            <pubDate>Sun, 26 Jun 2022 12:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登总统和德国总理朔尔茨在G7峰会前的会议上同意继续向乌克兰提供武器和资金。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8849718.d.html</link>
-            <guid>2719122</guid>
-            <pubDate>Sun, 26 Jun 2022 12:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：俄罗斯空天军在第聂伯罗彼得罗夫斯克州一次空战中击落了一架乌克兰米格-29飞机。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8849293.d.html</link>
-            <guid>2719121</guid>
-            <pubDate>Sun, 26 Jun 2022 12:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部称俄军空袭乌军多个军事训练中心】根据俄罗斯国防部当地时间26日公布的消息，俄军此前使用“口径”导弹空袭了乌克兰军队在切尔尼戈夫、日托米尔和利沃夫地区的军事训练中心。俄军还在蛇岛使用“铠甲”防空系统击落了乌军战机和数枚火箭弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8849057.d.html</link>
-            <guid>2719120</guid>
-            <pubDate>Sun, 26 Jun 2022 12:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天原股份：控股子公司拟与莱尔科技等合作投资 填补华南市场空白】天原股份公告，公司下属控股子公司宜宾天亿新材料与莱尔科技、顺控发展签署投资合作协议，拟共同出资设立有限责任公司，加快天亿新材料产品的市场拓展。新公司注册资本1亿元，天亿新材料出资5100万元，占比51%；莱尔科技占比23%；顺控发展占比26%。新公司未来将以广东省顺德区作为华南基地，将市场覆盖至粤港澳大湾区，逐步辐射全国拓展PVC-O新型管材及PVC生态环保地板业务，提高盈利能力，助力天亿新材料早日实现资产证券化目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0659657.d.html</link>
-            <guid>2719118</guid>
-            <pubDate>Sun, 26 Jun 2022 12:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6月26日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.习近平就研究吸收网民对党的二十大相关工作意见建议作出重要指示强调 善于通过互联网等各种渠道问需于民问计于民 更好倾听民声尊重民意顺应民心；2.【沿着总书记的足迹】宁夏：“塞上江南”万象新；3.人民日报文章：牢记中国共产党是什么、要干什么这个根本问题——以习近平同志为核心的党中央扎实开展党内集中学习教育述评；4.汪洋会见中国共产党全国台湾省籍党员代表会议代表；5.【奋进新征程 建功新时代·大美边疆行】:（1）内蒙古：守望相助 共同创造美好生活；（2）甘肃：绿色发展 兴边富民；6.新华社“钟华论”文章：紫荆花永远盛开；7.五集系列专题片《香江永奔流》今晚开播；8.【在希望的田野上·三夏时节】抢农时 促生产 夏种夏管有力推进；9.各地开展禁毒宣传活动；10.国家卫生健康委通报最新疫情；11.国内联播快讯：（1）前五个月电信业务收入同比增长8.5%；（2）我国首个海洋油气装备制造“智能工厂”投产；（3）北京将投入约17亿元财政资金支持科创主体；（4）第24届中国科协年会在长沙开幕；（5）电视剧《山河锦绣》在京开机；（6）“畅享高铁 乐游湖北”活动启动；（7）黑龙江启动走进黑龙江乌苏里江旅游推介活动；（8）游泳世锦赛半程收官 中国队获5金6铜；（9）电视剧《大山的女儿》今晚播出；（10）《走进县城看发展》明天走进吉林梅河口；12.多国人士高度评价习近平主席在金砖国家领导人第十四次会晤和全球发展高层对话会上的重要主张；13.俄称控制北顿涅茨克 乌称将重新集结作战：（1）乌克兰首都基辅今天多次传出爆炸声；（2）国际人士：北约制造战争 我们想要和平；14.堕胎权裁决引发全美多地抗议冲突；15.阿富汗要求美国归还阿海外资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8848486.d.html</link>
-            <guid>2719117</guid>
-            <pubDate>Sun, 26 Jun 2022 11:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行公示第四批支付牌照续展结果：19张被注销】央行官网6月26日公示了2022年6月第四批第三方支付公司牌照续展结果。根据公示情况，79家牌照到期续展支付公司中，有52家顺利通过续展，有19家支付公司牌照被注销。上述19家支付公司中，8家因违反相关规定，央行决定中止续展；有10家未提交牌照续展申请，央行决定不再续展；有1家支付公司，同样因违背相关规定，央行决定不予受理该公司牌照有效期续展申请。另外，还有8家支付公司在牌照有效期内已主动退出。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8847835.d.html</link>
-            <guid>2719116</guid>
-            <pubDate>Sun, 26 Jun 2022 11:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊拉克总理卡迪米访问伊朗】当地时间26日，伊拉克总理卡迪米抵达伊朗首都德黑兰，伊朗总统莱希举行欢迎仪式，双方将就双边关系、地区热点问题举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8847660.d.html</link>
-            <guid>2719115</guid>
-            <pubDate>Sun, 26 Jun 2022 11:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6月26日，沈阳市教育局发布紧急通知，鉴于6月27日沈阳市可能发生极端恶劣天气，为保障中小学生安全，6月27日全市中小学校停课一天、幼儿园停园一天。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8847541.d.html</link>
-            <guid>2719114</guid>
-            <pubDate>Sun, 26 Jun 2022 11:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和法国将向乌克兰提供更多援助】英国方面当地时间26日表示，英国首相约翰逊和法国总统马克龙在七国集团领导人峰会正式开始前一致同意向乌克兰提供更多援助。不过双方并未提供细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0657223.d.html</link>
-            <guid>2719113</guid>
-            <pubDate>Sun, 26 Jun 2022 11:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：乌克兰军方再次试图袭击蛇岛，但没有成功，俄罗斯“铠甲-S”防空导弹和火炮系统击落了一架敌方苏-25飞机和12枚火箭弹。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0656976.d.html</link>
-            <guid>2719112</guid>
-            <pubDate>Sun, 26 Jun 2022 11:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL科技：拟9.6亿元转让重庆中新融鑫财产份额】TCL科技公告，此前公司拟认缴出资15亿元参与投资重庆中新融鑫投资中心（有限合伙）（简称“重庆中新融鑫”），截至目前公司已实缴出资9亿元，尚有6亿元未出资。为聚焦资源于科技主赛道发展，配合公司已公告的融资项目需要，公司拟向TCL实业转让所持重庆中新融鑫全部财产份额，交易对价9.6亿元。此次交易预计不会对公司财务状况和经营成果产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0656818.d.html</link>
-            <guid>2719111</guid>
-            <pubDate>Sun, 26 Jun 2022 11:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统办公室主任：G7峰会应该对俄罗斯对基辅的袭击做出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8845603.d.html</link>
-            <guid>2719110</guid>
-            <pubDate>Sun, 26 Jun 2022 11:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本新增新冠肺炎确诊病例14238例 累计确诊超925万例】截至当地时间6月26日18时，日本全国新增新冠肺炎确诊病例14238例，新增死亡病例12例。截至目前，日本全国累计新冠肺炎确诊病例9256825例，累计死亡病例31129例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8845012.d.html</link>
-            <guid>2719109</guid>
-            <pubDate>Sun, 26 Jun 2022 11:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国家航空航天局将在澳大利亚举行首次商业航天发射】美国国家航空航天局（NASA）发布声明称，将于6月26日晚上从澳大利亚北部郊野发射一枚火箭，这是在澳大利亚的第一次商业航天发射，也是该机构第一次从商业航天港发射。这枚亚轨道火箭计划在澳大利亚中部标准时间晚上10点44分发射。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0655481.d.html</link>
-            <guid>2719108</guid>
-            <pubDate>Sun, 26 Jun 2022 11:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每天约16只基金分红 年内累计分红总额逾1400亿元】统计显示，截至目前，年内共有超2000只基金发布分红公告，累计分红总额逾1400亿元，是A股公司年内累计分红金额的两成以上。基金累计分红2896次，按照天数计算，相当于每一天约有16.5只基金分红。不论从分红次数和分红金额来看，债基独挑大梁。数据显示，债券型基金年内分红次数占比达到八成以上，分红金额占比则达到五成以上，年内实施分红的基金超七成录得正收益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8844603.d.html</link>
-            <guid>2719107</guid>
-            <pubDate>Sun, 26 Jun 2022 11:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统办公室主任：欧盟新制裁方案应包括对俄罗斯天然气的禁运。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0655163.d.html</link>
-            <guid>2719106</guid>
-            <pubDate>Sun, 26 Jun 2022 11:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【昂利康：放弃参股公司湖南新合新增资优先认购权】昂利康公告，根据公司实际情况，公司拟放弃参股公司湖南新合新生物医药有限公司（简称“新合新”）增资优先认购权。放弃增资优先认购权后，公司持有新合新的股权比例将由12.55%降至11.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0654637.d.html</link>
-            <guid>2719105</guid>
-            <pubDate>Sun, 26 Jun 2022 11:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【信达策略：存量资金补仓 带来了牛市的氛围】信达策略认为，最近2个月的上涨，场外增量资金非常少，但却有牛市的感觉，背后驱动市场上涨的主要力量是存量资金的仓位回补。2015年6月牛市结束后，6-9月市场调整幅度较大，随后新发基金规模迅速降温到冰点，随后指数快速反弹，反弹期间基金发行量回升幅度很小，存量的公募和私募有快速的仓位回补。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8843802.d.html</link>
-            <guid>2719104</guid>
-            <pubDate>Sun, 26 Jun 2022 10:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大反战组织——汉密尔顿停战联盟日前在汉密尔顿市中心举行示威活动，要求加拿大政府退出北约，不要继续给乌克兰提供军火。该组织同时呼吁加拿大政府把大笔的资金用于改善国内民生。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0654492.d.html</link>
-            <guid>2719103</guid>
-            <pubDate>Sun, 26 Jun 2022 10:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普利制药：注射用兰索拉唑通过仿制药一致性评价】普利制药公告，公司注射用兰索拉唑通过仿制药质量和疗效一致性评价。该药品用于口服疗法不适用的伴有出血的胃、十二指肠溃疡、急性应激溃疡、急性胃粘膜损伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8843459.d.html</link>
-            <guid>2719102</guid>
-            <pubDate>Sun, 26 Jun 2022 10:53:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【壶化股份：取得矿用产品安全标志证书】壶化股份公告，公司近日取得煤矿许用数码电子雷管安全标志证书。公司为国内行业首批获得该许可的3家企业之一，标志着公司具备了煤矿许用数码电子雷管生产、销售条件。公司地处产煤大省山西，国内首批获得该项许可，将使公司在拓展煤矿井下市场方面占得先发优势，有利于稳固国内市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8842898.d.html</link>
-            <guid>2719101</guid>
-            <pubDate>Sun, 26 Jun 2022 10:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本周123家上市公司披露机构调研情况 电子板块热度提升】本周（6月20日至26日），有123家上市公司披露了机构调研情况。从各行业板块披露机构调研情况的公司家数看，机械设备、基础化工依然位居第一、二位，分别有23家、15家公司获机构调研。电子板块的调研热度也有所提升，从上周的第六位升至第三位。同时，医药生物、电力设备、计算机等板块的获调研公司家数有所下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8842722.d.html</link>
-            <guid>2719100</guid>
-            <pubDate>Sun, 26 Jun 2022 10:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云铝股份：非公开发行限售股份3.04亿股28日起上市流通】云铝股份公告，公司非公开发行限售股份约3.04亿股将于6月28日起上市流通，该部分股份占公司总股本的8.75%。此次解除股份限售股东共计16位股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8842151.d.html</link>
-            <guid>2719099</guid>
-            <pubDate>Sun, 26 Jun 2022 10:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【七国集团领导人峰会在德国开幕】当地时间26日，为期三天的七国集团领导人峰会在德国巴伐利亚州的埃尔茂举行。德国是2022年七国集团的轮值主席国。俄乌局势是本次峰会的重要议题，同时提上议程的还包括有关气候保护、能源危机的讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8842141.d.html</link>
-            <guid>2719098</guid>
-            <pubDate>Sun, 26 Jun 2022 10:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰首都基辅南郊又传出两声爆炸声】乌克兰当地时间26日上午，也就是北京时间26日下午，乌克兰首都基辅南郊传出两声爆炸声。目前发生爆炸的原因尚不清楚。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0652483.d.html</link>
-            <guid>2719097</guid>
-            <pubDate>Sun, 26 Jun 2022 10:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西鄱阳湖水位退出警戒线 回归正常防汛期】今天（26日）15时55分，随着江西最后一个超警戒水文站点鄱阳湖标志性水文站星子站水位降至18.99米，退至19米警戒水位以下，江西各江河重点站均在警戒水位以下。6月21日，鄱阳湖水位全面超警。随着强降雨的结束，加之近期江西天气高温晴热，饶河、抚河、修河、赣江、信江五河来水减少，鄱阳湖水位持续下降。在持续了5天超警戒水位之后，鄱阳湖区水文监测站点水位相继退出警戒线，鄱阳湖结束了三级防汛应急响应，回归正常防汛期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0652190.d.html</link>
-            <guid>2719096</guid>
-            <pubDate>Sun, 26 Jun 2022 10:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫声明：美国总统拜登、德国总理朔尔茨讨论了减轻俄乌冲突对全球粮食和能源安全影响的努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0651865.d.html</link>
-            <guid>2719095</guid>
-            <pubDate>Sun, 26 Jun 2022 10:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本周9只新股网上申购 3D视觉领独角兽登陆A股】A股行情反弹，叠加近期新股发行价和发行市盈率下降，6月上市沪深新股首日无一破发的纪录本周继续保持。据目前安排，若无变化（6月27日到7月1日）共有9只新股申购，包括上证主板1只，科创板2只，创业板3只，北证3只。其中研发中国第一颗3D感知芯片的奥比中光即将登陆科创板6月28日启动申购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8841040.d.html</link>
-            <guid>2719094</guid>
-            <pubDate>Sun, 26 Jun 2022 10:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[唐宁街10号（英国首相府）：英国首相约翰和法国总统马克龙强调，需要支持乌克兰在冲突和未来任何谈判中加强影响力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0651323.d.html</link>
-            <guid>2719093</guid>
-            <pubDate>Sun, 26 Jun 2022 10:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：俄罗斯对基辅的导弹袭击是更加野蛮的行径。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8840732.d.html</link>
-            <guid>2719092</guid>
-            <pubDate>Sun, 26 Jun 2022 10:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱丽舍宫（法国总统府）：约翰逊告诉马克龙，他赞成加入欧洲政治共同体倡议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8840593.d.html</link>
-            <guid>2719091</guid>
-            <pubDate>Sun, 26 Jun 2022 10:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱丽舍宫（法国总统府）：法国、七国集团盟国将加强对乌克兰的支持，各方就支持的性质达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8840569.d.html</link>
-            <guid>2719090</guid>
-            <pubDate>Sun, 26 Jun 2022 10:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱丽舍宫（法国总统府）：法国支持禁止俄罗斯黄金出口，27个欧盟成员国现在需要进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0651066.d.html</link>
-            <guid>2719089</guid>
-            <pubDate>Sun, 26 Jun 2022 10:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6月26日0-12时，深圳无本土新增病例。（深圳卫健委）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8840368.d.html</link>
-            <guid>2719088</guid>
-            <pubDate>Sun, 26 Jun 2022 10:20:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱丽舍宫（法国总统府）：法国总统马克龙和英国首相约翰逊讨论了乌克兰问题与双边关系。法国认为七国集团免受通胀和衰退影响很重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8840062.d.html</link>
-            <guid>2719087</guid>
-            <pubDate>Sun, 26 Jun 2022 10:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱丽舍宫（法国总统府）：七国集团和四国集团将讨论伊朗问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8840028.d.html</link>
-            <guid>2719086</guid>
-            <pubDate>Sun, 26 Jun 2022 10:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱丽舍宫（法国总统府）：法国不反对价格上限，必须讨论最高价格。关于油价的讨论应将所有产油国都包括在内。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8839981.d.html</link>
-            <guid>2719085</guid>
-            <pubDate>Sun, 26 Jun 2022 10:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST雪发：公司及相关当事人收到《行政处罚事先告知书》】*ST雪发公告，公司收到证监会下发的《行政处罚事先告知书》，希努尔男装股份有限公司（现已更名雪松发展股份有限公司，即公司）涉嫌信披违法一案，已由证监会调查完毕，证监会拟作出行政处罚：对公司处以100万元罚款；对段冬东给予警告，并处以80万元罚款；对成保明给予警告，并处以50万元罚款；对洪鸣给予警告，并处以10万元罚款。公司及相关当事人就告知书相关事项拟向证监会陈述、申辩和听证。目前，公司经营情况正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizmscu8839885.d.html</link>
-            <guid>2719084</guid>
-            <pubDate>Sun, 26 Jun 2022 10:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东深圳口岸昨日检测出1名跨境货车司机核酸阳性】据“深圳口岸发布”公众号消息，6月25日，深圳口岸检测出1名跨境货车司机核酸阳性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-26/detail-imizirav0650263.d.html</link>
-            <guid>2719083</guid>
-            <pubDate>Sun, 26 Jun 2022 10:15:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
