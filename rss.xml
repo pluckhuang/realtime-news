@@ -4,11 +4,516 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 12 Jul 2022 16:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 19:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[纳指跌幅扩大至1%，此前涨近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1267752.d.html</link>
+            <guid>2738331</guid>
+            <pubDate>Tue, 12 Jul 2022 19:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.27%，报20893点，高水48点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1267486.d.html</link>
+            <guid>2738330</guid>
+            <pubDate>Tue, 12 Jul 2022 19:05:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数跌幅扩大至0.68%，纳指跌0.79%，均跌至盘中低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3124849.d.html</link>
+            <guid>2738329</guid>
+            <pubDate>Tue, 12 Jul 2022 19:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油日内重挫7%，现报98.92美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1267275.d.html</link>
+            <guid>2738328</guid>
+            <pubDate>Tue, 12 Jul 2022 19:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国央行预计第二季度GDP环比增长0.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3124554.d.html</link>
+            <guid>2738327</guid>
+            <pubDate>Tue, 12 Jul 2022 19:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国央行商业环境调查显示，本月进行提价的企业数量减少，劳动力短缺进一步加剧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3124547.d.html</link>
+            <guid>2738326</guid>
+            <pubDate>Tue, 12 Jul 2022 19:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国通胀报告出炉前，黄金稳定在9个月低点附近】金价在9个多月来的最低水平附近企稳，因市场预期本周美国通胀数据将决定美联储下一次加息的力度。担心全球经济衰退前景的投资者纷纷转向美元，本月美元已经上涨了2%以上，这限制了金价的上涨，尽管黄金受到美国国债收益率下降的支持。Liberum Capital分析师Tom Price称，金价走势波动不大，因为机构投资者都在等待美联储的利率决议。德国商业银行分析师Carsten Fritsch表示，金价可能很难出现显著或持久的上涨，不仅是因为美元走强，还因为黄金ETF持仓持续强劲的外流。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1267061.d.html</link>
+            <guid>2738325</guid>
+            <pubDate>Tue, 12 Jul 2022 18:59:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国多数地区联储银行6月份赞成上调贴现率50基点】美联储周二发布了6月初贴现率会议的纪要。在6月FOMC会议召开以及5月消费者价格数据显示通胀加速之前，12家地区联储银行中大多数银行的董事会支持上调贴现率50个基点。会议纪要显示，从6月2日至6月9日期间，12个地区联储银行中，11个银行的董事会投票赞成提高贴现率50个基点。纪要显示，明尼阿波利斯联储银行的董事会6月14日寻求上调贴现率75基点；该行也是唯一一个在CPI报告之后提出提高贴现率要求的地区联储银行。6月15日，FOMC将基准利率上调75个基点；美联储主席鲍威尔提到通胀高于预期和通胀预期上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1266324.d.html</link>
+            <guid>2738324</guid>
+            <pubDate>Tue, 12 Jul 2022 18:48:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉针对美国加州自动驾驶部门裁员发布长达60天的警告通知：裁员将影响到229名工人，San Mateo办公室将关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265986.d.html</link>
+            <guid>2738323</guid>
+            <pubDate>Tue, 12 Jul 2022 18:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：利比亚民族团结政府决定更换利比亚国家石油公司董事长和董事会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3123241.d.html</link>
+            <guid>2738322</guid>
+            <pubDate>Tue, 12 Jul 2022 18:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【地产股遭沪深港通“挑剔”，信息技术医疗保健受青睐】 据沪深交易所和港交所发布的沪深港通标的调整信息梳理，今年以来，有12只地产股被调出港股通标的，4只被纳入。6只地产股被调出陆股通，2只被纳入。与多只地产股被调出相对应的是，今年以来信息技术行业股票被纳入陆股通标的较多，合计有40只；医疗保健行业被纳入港股通标的较多，有16只。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265916.d.html</link>
+            <guid>2738321</guid>
+            <pubDate>Tue, 12 Jul 2022 18:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月13日02时29分在新疆阿克苏地区温宿县发生3.1级地震，震源深度12千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3123028.d.html</link>
+            <guid>2738320</guid>
+            <pubDate>Tue, 12 Jul 2022 18:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至2:20收盘，CBOT大豆跌4.63%，CBOT玉米跌6.84%，CBOT豆油跌5.87%，CBOT豆粕跌2.89%，CBOT小麦跌5.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265693.d.html</link>
+            <guid>2738319</guid>
+            <pubDate>Tue, 12 Jul 2022 18:36:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 8月天然气期货收跌4.09%，报6.1630美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122993.d.html</link>
+            <guid>2738318</guid>
+            <pubDate>Tue, 12 Jul 2022 18:36:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2208合约夜盘收跌4.87%，报646.50元人民币/桶。沪金夜盘收跌0.30%，沪银收跌0.64%。]]></title>
+            <guid>2738317</guid>
+            <pubDate>Tue, 12 Jul 2022 18:36:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原油期货结算价大幅收跌，WTI 8月原油期货收跌8.25美元，跌幅7.92%，报95.84美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265566.d.html</link>
+            <guid>2738316</guid>
+            <pubDate>Tue, 12 Jul 2022 18:34:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道琼斯工业平均指数跌破31200.00关口，最新报31199.83，日图涨0.08%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122855.d.html</link>
+            <guid>2738315</guid>
+            <pubDate>Tue, 12 Jul 2022 18:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会对方舟基金-21SHARES的比特币ETF的审批时间延长至8月30日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265479.d.html</link>
+            <guid>2738314</guid>
+            <pubDate>Tue, 12 Jul 2022 18:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至2:30收盘，沪金主力合约收跌0.30%，报377元/克，沪银主力合约收跌0.64%，报4187元/千克，SC原油主力合约收跌4.87%，报647元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265465.d.html</link>
+            <guid>2738313</guid>
+            <pubDate>Tue, 12 Jul 2022 18:32:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：全球累计新冠确诊病例达5.5429亿例】世卫组织网站最新数据显示，截至欧洲中部时间12日17时50分（北京时间23时50分），全球确诊病例较前一日增加494537例，达到554290112例；死亡病例增加700例，达到6351801例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122753.d.html</link>
+            <guid>2738312</guid>
+            <pubDate>Tue, 12 Jul 2022 18:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 7月13日（周三）晚盘收盘上涨0.11%报376.59元/克；上海黄金交易所白银T+D 7月13日（周三）晚盘收盘下跌0.26%报4171.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122709.d.html</link>
+            <guid>2738311</guid>
+            <pubDate>Tue, 12 Jul 2022 18:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2208合约夜盘收跌4.87%，报646.50元人民币/桶。沪金夜盘收跌0.30%，沪银收跌0.64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122693.d.html</link>
+            <guid>2738310</guid>
+            <pubDate>Tue, 12 Jul 2022 18:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：巴西政府将上调2022年GDP预期至增长2.0%，之前料增1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1265353.d.html</link>
+            <guid>2738309</guid>
+            <pubDate>Tue, 12 Jul 2022 18:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美光科技： 由于恶劣天气，广岛DRAM工厂的电力中断将延长。 运作恢复在较低的水平，将在下周提高产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122634.d.html</link>
+            <guid>2738308</guid>
+            <pubDate>Tue, 12 Jul 2022 18:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥总统洛佩斯向美国总统拜登提出两国合作的5点计划】当地时间7月12日，在与美国总统拜登的会晤中，墨西哥总统洛佩斯提出了墨美两国合作的5点计划。这些计划主要包括：第一，墨西哥保证两国边境线地区的汽油等燃料供应，达到双倍供应量，保证美国一侧民众可以到墨西哥给汽车加满油；第二，墨西哥向美国提供超过1000公里的输气管线，保证从得州到新墨西哥州、亚利桑那州以及加利福尼亚州的天然气运输；第三，暂时取消两国间部分农产品和商品关税，降低商品价格，抗击通货膨胀；第四，提出具体投资计划，稳固市场信心；第五，对已经在美国工作多年的移民提供办理身份的便利，同时让部分劳动力以临时签证身份进入美国。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122316.d.html</link>
+            <guid>2738307</guid>
+            <pubDate>Tue, 12 Jul 2022 18:23:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：要避免经济衰退，关键在于需要在多大程度上通过需求来控制通胀，而不是通过改善供应和降低大宗商品价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122267.d.html</link>
+            <guid>2738306</guid>
+            <pubDate>Tue, 12 Jul 2022 18:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰政府在议会信任投票中胜出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3122257.d.html</link>
+            <guid>2738305</guid>
+            <pubDate>Tue, 12 Jul 2022 18:22:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加拿大监管部门要求电信巨头Rogers解释大规模断网的原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1264992.d.html</link>
+            <guid>2738304</guid>
+            <pubDate>Tue, 12 Jul 2022 18:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：支持尽可能快速地加息至中性水平。现在说7月加息50还是75个基点还为时过早。很有可能需要加息至具有限制性的范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1264729.d.html</link>
+            <guid>2738303</guid>
+            <pubDate>Tue, 12 Jul 2022 18:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：英国央行在量化宽松决策上的独立性从未受到质疑。我从未与英国财政部就量化宽松决策的实质内容进行过任何对话。英国财政部批准量化宽松是一个“非常机械”的过程。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3121485.d.html</link>
+            <guid>2738302</guid>
+            <pubDate>Tue, 12 Jul 2022 18:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：上个月的总体通胀将受到不稳定的天然气价格数据的显著影响。零售价格已较6月份的平均水平有所下降，而不断下跌的油价和天然气期货价格表明，它们还将进一步下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3121464.d.html</link>
+            <guid>2738301</guid>
+            <pubDate>Tue, 12 Jul 2022 18:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：我们将在8月4日阐述我们对出售国债的看法。除了加息25个基点之外，还有更多选择摆在台面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1263535.d.html</link>
+            <guid>2738300</guid>
+            <pubDate>Tue, 12 Jul 2022 17:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国外交部长科隆纳：重启伊朗核协议的机会之窗将在几周后关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3120804.d.html</link>
+            <guid>2738299</guid>
+            <pubDate>Tue, 12 Jul 2022 17:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：英国央行的资产负债表不应永远保持庞大。我们不会向陷入困境的市场出售英国国债。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3120798.d.html</link>
+            <guid>2738298</guid>
+            <pubDate>Tue, 12 Jul 2022 17:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国外交部长科隆纳：伊朗一直采取拖延的姿态，这种情况无法持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3120777.d.html</link>
+            <guid>2738297</guid>
+            <pubDate>Tue, 12 Jul 2022 17:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源咨询机构EBW：目前原油市场受到两个方向力量的影响，一方面是过度紧张的现货市场，另一方面是后市需求方面的担忧和高油价对需求破坏的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3120773.d.html</link>
+            <guid>2738296</guid>
+            <pubDate>Tue, 12 Jul 2022 17:57:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥6月同店销售额同比增长7.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1263498.d.html</link>
+            <guid>2738295</guid>
+            <pubDate>Tue, 12 Jul 2022 17:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【坦桑尼亚总统证实不知名疾病在坦桑尼亚出现】当地时间7月12日，坦桑尼亚总统萨米娅·哈桑在达累斯萨拉姆的一场讲话中证实，有一种不知名的疾病在坦桑尼亚出现。患病者会有流鼻血和昏倒的症状。萨米娅·哈桑表示，这是一种从未在坦桑尼亚记录过的疾病。大多数病例出现在坦桑尼亚南部，包括林迪省和与莫桑比克交界的地区。目前，坦桑尼亚的医疗专家已经前往病发地区展开调查，医疗小组结束调查后将向公众公布更多细节。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1263241.d.html</link>
+            <guid>2738294</guid>
+            <pubDate>Tue, 12 Jul 2022 17:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 8月黄金期货收跌6.90美元，跌幅0.4%，报1724.80美元/盎司，续刷去年9月以来的最低价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3120498.d.html</link>
+            <guid>2738293</guid>
+            <pubDate>Tue, 12 Jul 2022 17:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：明年通胀应该会迅速下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1263201.d.html</link>
+            <guid>2738292</guid>
+            <pubDate>Tue, 12 Jul 2022 17:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新任外交部长科隆纳：对俄罗斯和乌克兰的谷物海运协议保持谨慎，因为莫斯科之前已经附加了条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3120395.d.html</link>
+            <guid>2738291</guid>
+            <pubDate>Tue, 12 Jul 2022 17:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品监督管理局（FDA）预计将授权诺瓦瓦克斯的新冠疫苗接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1263102.d.html</link>
+            <guid>2738290</guid>
+            <pubDate>Tue, 12 Jul 2022 17:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国央行行长：遏制通胀没有借口】英国央行行长贝利强调，让通胀率回到2％的目标水平没有任何“借口”，已经准备好采取“强有力”行动实现这一目标。这番讲话进一步强化了一种观点，即英国央行不惜冒经济增长放慢的风险，甚至经济衰退的风险，也要遏制物价上涨。英国的通胀率目前为9.1％，预计今年晚些时候将超过11％。作为回应，英国央行已经连续五次加息，使基准利率从0.1％升至1.25％，投资者几乎完全消化了下个月会出现罕见的加息50个基点的前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1263034.d.html</link>
+            <guid>2738289</guid>
+            <pubDate>Tue, 12 Jul 2022 17:49:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储在隔夜回购操作中接纳了200万美元的竞标。]]></title>
+            <guid>2738288</guid>
+            <pubDate>Tue, 12 Jul 2022 17:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：薪酬的上涨仍主要是由一次性奖金而非更高的基本利率推动的。英国企业仍然非常关注招聘的困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1262844.d.html</link>
+            <guid>2738287</guid>
+            <pubDate>Tue, 12 Jul 2022 17:49:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州新增8370例新冠肺炎确诊病例，新增39例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1262746.d.html</link>
+            <guid>2738286</guid>
+            <pubDate>Tue, 12 Jul 2022 17:48:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约联储在隔夜回购操作中接纳了200万美元的竞标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1262700.d.html</link>
+            <guid>2738285</guid>
+            <pubDate>Tue, 12 Jul 2022 17:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间7月12日，俄罗斯国防部副部长福明与到访的缅甸国防军总司令敏昂莱举行了会谈。会谈中，双方重申了深化军事技术等合作的意愿。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1261557.d.html</link>
+            <guid>2738284</guid>
+            <pubDate>Tue, 12 Jul 2022 17:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利总理：将在月内采取纾困措施应对高通胀】 当地时间7月12日，意大利总理德拉吉向媒体表示，将在不修改预算的前提下，于7月内出台新的经济纾困措施，以帮助企业和家庭应对高通胀。德拉吉说，除了已经拨付的330亿欧元纾困资金以外，意大利政府还将采取大量干预措施，包括与电费、燃气费、汽柴油消费税以及与个人财富和收入相关的措施。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3118689.d.html</link>
+            <guid>2738283</guid>
+            <pubDate>Tue, 12 Jul 2022 17:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大育空地区超十万公顷土地在今年野火季被烧毁】加拿大森林防火中心当地时间10日发布的一份报告显示，今年野火季，加拿大西北部育空地区有100998公顷的土地被烧毁，几乎是去年的五倍。育空地区的野火数量也明显增加，今年有227起火灾，而去年只有42起。据悉，气候变化是造成这种情况的原因之一。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3118653.d.html</link>
+            <guid>2738282</guid>
+            <pubDate>Tue, 12 Jul 2022 17:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音涨幅扩大至8%，6月份交付量达到2019年3月以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3118633.d.html</link>
+            <guid>2738281</guid>
+            <pubDate>Tue, 12 Jul 2022 17:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国成功发射天链二号03星】北京时间2022年7月13日00时30分，我国在西昌卫星发射中心使用长征三号乙运载火箭，成功将天链二号03星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。该卫星是我国第二代地球同步轨道数据中继卫星，主要用于为飞船等载人航天器、中低轨道资源卫星提供数据中继和测控服务，为航天器发射提供测控支持。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1261459.d.html</link>
+            <guid>2738280</guid>
+            <pubDate>Tue, 12 Jul 2022 17:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：担心美国是否有能力应对未来的衰退。担心大流行后的变化将使通货膨胀控制更加困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3118601.d.html</link>
+            <guid>2738279</guid>
+            <pubDate>Tue, 12 Jul 2022 17:30:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了96个对手方的2.146万亿美元。]]></title>
+            <guid>2738278</guid>
+            <pubDate>Tue, 12 Jul 2022 17:19:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰确认将在土耳其伊斯坦布尔就粮食运输问题进行谈判】 当地时间7月12日，乌克兰外交部发言人尼科连科表示，针对土耳其、俄罗斯和乌克兰的军事代表团以及联合国代表团将于当地时间13日在伊斯坦布尔举行的粮食运输问题相关会谈，乌克兰外交部发言人尼科连科表示，对于此次会谈，安全问题仍将是乌克兰最为关切的因素。尼科连科表示，乌克兰主张在联合国主持下解决乌克兰粮食运输问题。为此，乌克兰对联合国秘书长古特雷斯“积极努力寻找能够保障乌南部安全的解决方案”表示感谢。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1260721.d.html</link>
+            <guid>2738277</guid>
+            <pubDate>Tue, 12 Jul 2022 17:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Mubadala Invest Co.据称洽谈从日本软银集团手中收购资产管理公司Fortress Investment Group。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3117857.d.html</link>
+            <guid>2738276</guid>
+            <pubDate>Tue, 12 Jul 2022 17:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（7月12日），美联储逆回购工具使用规模为2.146万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3117843.d.html</link>
+            <guid>2738275</guid>
+            <pubDate>Tue, 12 Jul 2022 17:18:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：让经济软着陆“非常具有挑战性”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1260646.d.html</link>
+            <guid>2738274</guid>
+            <pubDate>Tue, 12 Jul 2022 17:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了96个对手方的2.146万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3117812.d.html</link>
+            <guid>2738273</guid>
+            <pubDate>Tue, 12 Jul 2022 17:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰国防部长与德国国防部长举行视频会晤】当地时间7月12日，乌克兰国防部长列兹尼科夫与德国国防部长兰布雷希特举行了视频会晤，双方讨论了进一步加强向乌克兰提供德国武器问题。列兹尼科夫随后在其官方社交媒体账户发布消息称，双方会谈富有成效，这将加强乌克兰的防御能力。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3117174.d.html</link>
+            <guid>2738272</guid>
+            <pubDate>Tue, 12 Jul 2022 17:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率在国债拍卖后继续上涨，最新报2.959%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3117094.d.html</link>
+            <guid>2738271</guid>
+            <pubDate>Tue, 12 Jul 2022 17:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：美联储有控制通货膨胀的工具和信誉。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116988.d.html</link>
+            <guid>2738270</guid>
+            <pubDate>Tue, 12 Jul 2022 17:04:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖10年期国债，得标利率2.960%（上次为3.030%），投标倍数2.34（上次为2.41）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1259823.d.html</link>
+            <guid>2738269</guid>
+            <pubDate>Tue, 12 Jul 2022 17:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：会对通胀压力更持久的迹象特别警惕。央行我们的工作是让通货膨胀持续回落到2%的目标，没有如果或但是。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116839.d.html</link>
+            <guid>2738268</guid>
+            <pubDate>Tue, 12 Jul 2022 17:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国保守党将会有8人竞逐约翰逊的继任者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1259633.d.html</link>
+            <guid>2738267</guid>
+            <pubDate>Tue, 12 Jul 2022 17:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：将在必要时采取有力行动，仍有迹象显示“成本和价格压力强劲”。均衡利率可能会维持在低位。]]></title>
+            <guid>2738266</guid>
+            <pubDate>Tue, 12 Jul 2022 17:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球现共有9200例猴痘病例 世卫建议各国重视猴痘流调】周二，世界卫生组织总干事谭德塞表示现在全球63个国家共有9200例猴痘病例。世卫组织建议各国政府实施流调，以帮助追踪、遏制病毒以及隔离感染者，务必阻止猴痘病毒继续传播。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116624.d.html</link>
+            <guid>2738265</guid>
+            <pubDate>Tue, 12 Jul 2022 17:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收跌3.72%，沪铜收跌3.57%，沪铝收跌2.66%，沪锌收跌1.02%，沪铅收跌0.90%，沪镍收跌0.95%，沪锡收跌2.21%。不锈钢夜盘收涨0.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116599.d.html</link>
+            <guid>2738264</guid>
+            <pubDate>Tue, 12 Jul 2022 17:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新增182006例新冠肺炎确诊病例，新增126例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116584.d.html</link>
+            <guid>2738263</guid>
+            <pubDate>Tue, 12 Jul 2022 17:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：早期迹象显示，货运成本供应放缓，且有报告称招聘更容易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1259400.d.html</link>
+            <guid>2738262</guid>
+            <pubDate>Tue, 12 Jul 2022 16:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货钯金日内大跌6.00%，现报2031.95美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116463.d.html</link>
+            <guid>2738261</guid>
+            <pubDate>Tue, 12 Jul 2022 16:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：预期通胀会下降，但不是立即的或可预测的。美联储将会有更多的加息。大宗商品价格下跌也有助于对抗通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1259328.d.html</link>
+            <guid>2738260</guid>
+            <pubDate>Tue, 12 Jul 2022 16:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国前卫生大臣贾维德退出了英国领导人的竞逐。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116194.d.html</link>
+            <guid>2738259</guid>
+            <pubDate>Tue, 12 Jul 2022 16:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收跌230美元，报7354美元/吨。LME期铝收跌20美元，报2360美元/吨。LME期锌收跌26美元，报3016美元/吨。LME期铅收跌4美元，报1938美元/吨。LME期镍收跌465美元，报21374美元/吨。LME期锡收跌689美元，报25574美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1259113.d.html</link>
+            <guid>2738258</guid>
+            <pubDate>Tue, 12 Jul 2022 16:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  电动汽车公司Rivian计划在周五举行全体员工会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3116015.d.html</link>
+            <guid>2738257</guid>
+            <pubDate>Tue, 12 Jul 2022 16:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rivian的CEO：公司将“考虑周到地”裁员，公司无法免疫于经济形势，公司财务状况良好，公司计划本周五开会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1258906.d.html</link>
+            <guid>2738256</guid>
+            <pubDate>Tue, 12 Jul 2022 16:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行声明：加拿大央行行长麦克勒姆从新冠肺炎中康复，将于周三通过视频对媒体发表利率决策讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1258643.d.html</link>
+            <guid>2738255</guid>
+            <pubDate>Tue, 12 Jul 2022 16:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油跌破96美元/桶，日内跌7.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1258556.d.html</link>
+            <guid>2738254</guid>
+            <pubDate>Tue, 12 Jul 2022 16:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nano Labs美国IPO首日开盘下跌33.8%，报7.61美元，此前给出的IPO发行价为每股11.50美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3115653.d.html</link>
+            <guid>2738253</guid>
+            <pubDate>Tue, 12 Jul 2022 16:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指刚刚突破11400.00关口，最新报11401.27，日图涨0.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1257886.d.html</link>
+            <guid>2738252</guid>
+            <pubDate>Tue, 12 Jul 2022 16:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫高级官员：现在宣布能源价格已经见顶还为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3114930.d.html</link>
+            <guid>2738251</guid>
+            <pubDate>Tue, 12 Jul 2022 16:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netflix正在与好莱坞电影公司谈判，以推动新的广告支持平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1257631.d.html</link>
+            <guid>2738250</guid>
+            <pubDate>Tue, 12 Jul 2022 16:34:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易所Coinbase寻求提高团队运营效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1257437.d.html</link>
+            <guid>2738249</guid>
+            <pubDate>Tue, 12 Jul 2022 16:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甘肃兰州发布通告进一步严格落实一周临时性管控，所有小区实行封闭式管理。（央视）]]></title>
+            <guid>2738248</guid>
+            <pubDate>Tue, 12 Jul 2022 16:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国金资管历时15月最终获批，将成第22家券商资管子公司，11家正排队】 7月12日晚间，国金证券公告，中国证监会核准国金证券设立国金证券资产管理有限公司从事证券资产管理业务，国金资管注册地为上海市，注册资本为3亿元人民币。自此，国金资管将成为业内第22家、也是年内首家获批设立的券商资产管理子公司。越来越多的券商加入申请设立资管子公司的行列。目前，包括中信证券、中金公司、中信建投、华创证券、申万宏源、国信证券、国联证券、华安证券、东兴证券、国海证券、万联证券等11家券商均在排队等待证监会审批。今年6月中旬，中金公司申请设立资管子公司获得证监会反馈意见。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1256902.d.html</link>
+            <guid>2738247</guid>
+            <pubDate>Tue, 12 Jul 2022 16:29:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国白宫备忘录：美国经济似乎正在过渡到就业和经济增长放缓的时期。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3112798.d.html</link>
@@ -97,514 +602,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3111786.d.html</link>
             <guid>2738232</guid>
             <pubDate>Tue, 12 Jul 2022 16:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：2023年全球原油需求增速预期为200万桶/日，此前预计为169万桶/日。预计2023年WTI原油和布伦特原油平均价格分别为89.75美元/桶和93.75美元/桶，此前预期为93.24美元/桶和97.24美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110944.d.html</link>
-            <guid>2738231</guid>
-            <pubDate>Tue, 12 Jul 2022 16:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部：将阿根廷2021/2022年度大豆产量预期从此前的4340万吨上调至4400万吨（市场预期为4332万吨）。将阿根廷玉米产量维持在5300万吨不变（市场预期为5238万吨）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1253838.d.html</link>
-            <guid>2738230</guid>
-            <pubDate>Tue, 12 Jul 2022 16:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫备忘录显示，美国经济似乎正进入就业和经济发展放缓的阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1253824.d.html</link>
-            <guid>2738229</guid>
-            <pubDate>Tue, 12 Jul 2022 16:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  WTI原油期货日内跌幅扩大至7%，报96.2美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1253790.d.html</link>
-            <guid>2738228</guid>
-            <pubDate>Tue, 12 Jul 2022 16:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月EIA当年短期前景美国原油产量预期 1191万桶/日，前值1192万桶/日。美国7月EIA当年天然气产量预期 962.3亿立方英尺/日，前值965亿立方英尺/日。美国7月EIA次年天然气产量预期 999.8亿立方英尺/日，前值1015.7亿立方英尺/日。美国7月EIA次年短期前景美国原油产量预期 1277万桶/日，前值1297万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110721.d.html</link>
-            <guid>2738227</guid>
-            <pubDate>Tue, 12 Jul 2022 16:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：预计2022年WTI原油价格为98.79美元/桶，之前预计为102.47美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110674.d.html</link>
-            <guid>2738226</guid>
-            <pubDate>Tue, 12 Jul 2022 16:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥将同美国投资者合作建造LNG工厂和化肥厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110620.d.html</link>
-            <guid>2738225</guid>
-            <pubDate>Tue, 12 Jul 2022 16:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA短期能源展望报告：预计2022年WTI原油和布伦特原油平均价格分别为98.79美元/桶和104.05美元/桶，此前预期为102.47美元/桶和107.37美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110592.d.html</link>
-            <guid>2738224</guid>
-            <pubDate>Tue, 12 Jul 2022 16:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫备忘录显示，汽油价格很可能在6月份预计的年度cpi涨幅中占据超过100%的比重。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110562.d.html</link>
-            <guid>2738223</guid>
-            <pubDate>Tue, 12 Jul 2022 16:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USDA月报公布后，CBOT大豆、玉米、小麦、豆油、豆粕主力合约均短线下挫。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110536.d.html</link>
-            <guid>2738222</guid>
-            <pubDate>Tue, 12 Jul 2022 16:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部（USDA）：预计美国期末小麦总库存6.39亿蒲式耳，分析师预期6.3712亿蒲式耳，USDA之前预计6.27亿蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110350.d.html</link>
-            <guid>2738221</guid>
-            <pubDate>Tue, 12 Jul 2022 16:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部（USDA）：预计美国期末玉米库存14.70亿蒲式耳，分析师预期14.3721亿蒲式耳，USDA之前预计14.00亿蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizirav3110315.d.html</link>
-            <guid>2738220</guid>
-            <pubDate>Tue, 12 Jul 2022 16:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：在美加墨三国协议下，有些关税可以立即暂停。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-13/detail-imizmscv1253349.d.html</link>
-            <guid>2738219</guid>
-            <pubDate>Tue, 12 Jul 2022 16:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：将拼多多(PDD.O)评级下调至持股观望，目标价为70美元】
-摩根士丹利分析师Eddy Wang将拼多多的评级从超配下调至持股观望，目标价为70美元。该分析师认为，拼多多的长期增长前景较好，自3月以来，其股价表现优于其他电子商务同行，且市场对其第二季度和下半年的业绩预期很高，他建议投资者等待一个更好的买入点。拼多多目前的估值“看起来是合理的”，该分析师补充说。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1253212.d.html</link>
-            <guid>2738218</guid>
-            <pubDate>Tue, 12 Jul 2022 15:58:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥承诺保证两倍的汽油供应以满足需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1253194.d.html</link>
-            <guid>2738217</guid>
-            <pubDate>Tue, 12 Jul 2022 15:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西打车软件“99”将与比亚迪合作测试电动汽车】据报道，巴西打车软件“99”周二表示，已与比亚迪股份签署合作协议，开始测试一款为此软件司机开发的电动汽车。测试将于本周在巴西圣保罗开始，目标是加快99车队采用电动汽车的进程。巴西的月活跃司机超过75万，用户超过2000万，99承诺到2025年在其平台上注册1万辆电动汽车。99的创新总监蒂亚戈·希波利托（Thiago Hipolito）表示：“在中国的大规模普及的电动汽车已经被平台上的司机所适应，这也带来了对相关基础设施的需求”，比如电池充电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3110102.d.html</link>
-            <guid>2738216</guid>
-            <pubDate>Tue, 12 Jul 2022 15:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国总检察长SUELLA BRAVERMAN：已经获得了足够的提名参加英国领导人竞选。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1253142.d.html</link>
-            <guid>2738215</guid>
-            <pubDate>Tue, 12 Jul 2022 15:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：许多美国人正在前往墨西哥购买天然气，希望美国的天然气价格能够下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3110035.d.html</link>
-            <guid>2738214</guid>
-            <pubDate>Tue, 12 Jul 2022 15:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国3个月/10年期国债收益率利差曲线触及69.31个基点，为2021年7月以来最小利差，最新报70.60个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1253043.d.html</link>
-            <guid>2738213</guid>
-            <pubDate>Tue, 12 Jul 2022 15:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雷诺和Vitesco Technologies将开发动力电子设备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3109739.d.html</link>
-            <guid>2738212</guid>
-            <pubDate>Tue, 12 Jul 2022 15:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：将奈飞(NFLX.O)目标价下调至220美元，维持持股观望评级】摩根士丹利分析师Benjamin Swinburne将对奈飞的目标价从300美元下调至220美元，并在该公司发布季度报告前维持对该股的持股观望评级。他认为，不断增加的宏观不利因素促使消费者缩减在流媒体方面支出，因此对奈飞净增量和利润率的共识预期可能存在风险。该分析师补充说，预计流失率上升和美元走强将对奈飞下半年的业绩产生影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3109701.d.html</link>
-            <guid>2738211</guid>
-            <pubDate>Tue, 12 Jul 2022 15:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：会见拜登是为了促进墨西哥人民的福祉。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3109607.d.html</link>
-            <guid>2738210</guid>
-            <pubDate>Tue, 12 Jul 2022 15:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX30指数7月12日（周二）收盘上涨63.76点，涨幅0.50%，报12896.20点；英国富时100指数7月12日（周二）收盘上涨10.41点，涨幅0.14%，报7207.00点；法国CAC40指数7月12日（周二）收盘上涨47.90点，涨幅0.80%，报6044.20点；欧洲斯托克50指数7月12日（周二）收盘上涨13.06点，涨幅0.38%，报3484.75点；西班牙IBEX35指数7月12日（周二）收盘下跌48.60点，跌幅0.60%，报8016.60点；意大利富时MIB指数7月12日（周二）收盘下跌81.70点，跌幅0.38%，报21486.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1252655.d.html</link>
-            <guid>2738209</guid>
-            <pubDate>Tue, 12 Jul 2022 15:50:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总理米舒斯京：由于粮食危机，俄罗斯农产品的需求有所上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1252618.d.html</link>
-            <guid>2738208</guid>
-            <pubDate>Tue, 12 Jul 2022 15:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国航空航天局发布韦伯空间望远镜拍摄的首批全套全彩宇宙深空图像】美国国家航空航天局与欧洲航天局、加拿大航天局合作，于当地时间7月12日10时30分在美国马里兰州格林贝尔特的美国国家航空航天局戈达德太空飞行中心进行直播，发布了韦伯空间望远镜拍摄的首批全套全彩宇宙深空图像和光谱数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1252379.d.html</link>
-            <guid>2738207</guid>
-            <pubDate>Tue, 12 Jul 2022 15:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【墨西哥国家水务委员会宣布墨西哥进入干旱紧急状态】墨西哥国家水务委员会宣布，由于当前墨西哥全国四分之三的地区缺少降水，大约一半的地区正在经历重度到极重度干旱，从7月13日起，墨西哥将进入干旱紧急状态。进入干旱紧急状态后，政府将实施包括管控大型用水产业、部分限制重点干旱地区企业用水量等措施，以保证普通民众生活用水供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1252255.d.html</link>
-            <guid>2738206</guid>
-            <pubDate>Tue, 12 Jul 2022 15:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧股收盘全线上涨，德国DAX指数涨0.57%，法国CAC40指数涨0.8%，英国富时100指数涨0.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1252229.d.html</link>
-            <guid>2738205</guid>
-            <pubDate>Tue, 12 Jul 2022 15:44:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Evercore ISI：将联合太平洋(UNP.N)目标价从245美元下调至236美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3109064.d.html</link>
-            <guid>2738204</guid>
-            <pubDate>Tue, 12 Jul 2022 15:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：将摩根大通目标价下调至127美元，维持减配评级】
-摩根士丹利分析师Betsy Graseck将对摩根大通的目标价从149美元下调至127美元，并维持对该股的减配评级。Graseck和其团队下调了该行覆盖范围内的美国银行和消费金融公司的预期，因为随着经济衰退风险上升，需要“把一些消费筹码从桌子上拿开”。该分析师将2023年的每股收益预期平均降低7%，将目标倍数平均降低8%，导致目标价下调幅度的中位数达15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3109056.d.html</link>
-            <guid>2738203</guid>
-            <pubDate>Tue, 12 Jul 2022 15:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（7月12日），ICE英国天然气期货收报244.02便士/千卡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1252040.d.html</link>
-            <guid>2738202</guid>
-            <pubDate>Tue, 12 Jul 2022 15:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Evercore ISI：将联合包裹(UPS.N)目标价从255美元下调至227美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3108913.d.html</link>
-            <guid>2738201</guid>
-            <pubDate>Tue, 12 Jul 2022 15:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.7229元，较周一夜盘收盘跌39点。成交量444.74亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251932.d.html</link>
-            <guid>2738200</guid>
-            <pubDate>Tue, 12 Jul 2022 15:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府发言人：政府将允许反对党工党进行信任投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251907.d.html</link>
-            <guid>2738199</guid>
-            <pubDate>Tue, 12 Jul 2022 15:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金跌逾5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251657.d.html</link>
-            <guid>2738198</guid>
-            <pubDate>Tue, 12 Jul 2022 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【DayDayCook放弃SPAC赴美上市 改以IPO方式上市】经营烹饪平台及饮食品牌的DayDayCook（日日煮）放弃通过特殊目的收购公司(SPAC)合并上市计划，改以首次公开发行IPO方式，继续赴美国纳斯达克上市。DayDayCook未有提供目标上市时间表，但宣布将进行IPO前新一轮融资，未提预计融资规模。创办人兼行政总裁朱嘉盈称，对赴美上市前景仍感兴奋，但在SPAC投资环境不利，决定以更直接方式上市，并获股东和董事会成员支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251643.d.html</link>
-            <guid>2738197</guid>
-            <pubDate>Tue, 12 Jul 2022 15:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Evercore ISI：将CSX运输(CSX.O)目标价从37美元下调至35美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251612.d.html</link>
-            <guid>2738196</guid>
-            <pubDate>Tue, 12 Jul 2022 15:35:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Evercore ISI：将联邦快递(FDX.N)目标价从307美元上调至318美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251596.d.html</link>
-            <guid>2738195</guid>
-            <pubDate>Tue, 12 Jul 2022 15:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五矿资源：MMG已批准于Kinsevere矿山开发Kinsevere扩建项目】项目包括新建新设施以及相关加工工艺的配置，当中涉及一座选矿厂、焙烧系统及钴回收系统，而现有SX-EW生产线将与之整合。于二零二二年七月十二日，MMG Kinsevere与中冶国际就选矿厂（构成加工设施的一部份）的具体工程设计而订立服务协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251593.d.html</link>
-            <guid>2738194</guid>
-            <pubDate>Tue, 12 Jul 2022 15:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登：美国在墨西哥边境进行历史性的基础设施投资，墨西哥也在其边境一侧进行基础设施投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251494.d.html</link>
-            <guid>2738193</guid>
-            <pubDate>Tue, 12 Jul 2022 15:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登：美国将在本财政年度把中美洲人的签证增加一倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251441.d.html</link>
-            <guid>2738192</guid>
-            <pubDate>Tue, 12 Jul 2022 15:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖52周期国债，得标利率2.960%（前次为3.020%，之前一次为2.100%），投标倍数3.17（前次为3.14）。]]></title>
-            <guid>2738191</guid>
-            <pubDate>Tue, 12 Jul 2022 15:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收涨0.47%，报416.96点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251254.d.html</link>
-            <guid>2738190</guid>
-            <pubDate>Tue, 12 Jul 2022 15:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收涨0.49%，报12894.67点。法国股指初步收涨0.81%，意大利股指初步收跌0.32%，英国股指初步收涨0.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251241.d.html</link>
-            <guid>2738189</guid>
-            <pubDate>Tue, 12 Jul 2022 15:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海纳国际：将达美航空(DAL.N)目标价下调至35美元，维持积极评级】海纳国际分析师Christopher Stathoulopoulos将对达美航空的目标价从47美元下调至35美元，并维持对该股的积极评级。该分析师表示，进入第二季度，预计美国航空公司的评论将是积极的，但认为还需要一个“清算事件”来提振股票；具体来说，就是下调2022财年和2023财年的运力指引，进而向上修正单位成本展望。他认为航空公司可能在秋季发布这些更新。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1251209.d.html</link>
-            <guid>2738188</guid>
-            <pubDate>Tue, 12 Jul 2022 15:30:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走低10点，现报107.85；英镑兑美元GBP/USD短线上扬逾20点，欧元兑美元EUR/USD短线上扬近20点。]]></title>
-            <guid>2738187</guid>
-            <pubDate>Tue, 12 Jul 2022 15:30:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美墨关系“至关重要”，移民问题是西半球一个共同的挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3108177.d.html</link>
-            <guid>2738186</guid>
-            <pubDate>Tue, 12 Jul 2022 15:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登在与墨西哥总统洛佩斯共同发表讲话时称，他认为墨西哥是一个“平等的伙伴”，他在过去的一年里建立了一个牢固的美墨关系框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3108147.d.html</link>
-            <guid>2738185</guid>
-            <pubDate>Tue, 12 Jul 2022 15:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神秘私募数亿“跟投” 徐翔家族有新“动静”】宁波东钱湖旅游度假区安石路777号，是宁波仁庆私募基金管理有限公司的注册地址，6月下旬，循着这一地址，记者锁定了一家名为“钱湖悦庄”的酒店，但被前台人员告知“这里没有投资机构”。这家位于宁波东钱湖景区、名不见经传的神秘私募，在不到一年的时间里，借助定增通道及二级市场“埋伏”了多只股票，均与徐翔有关。徐翔家族（父亲徐柏良、母亲郑素贞）控制的大恒科技和宁波中百，今年以来变得异常“活跃”，频频出手参与其它上市公司的定增项目。4月13日，谱尼测试增发募资结果出炉。在12名发行对象中，徐翔家族两家上市公司均在列。其中，大恒科技出资1.5亿认购了271.25万股；宁波中百出资1亿元认购了180.83万股。半个月之后，科翔股份的定增结果显示，宁波中百再次掏出5000万元认购了公司259.20万股股票。仁庆私募旗下的“仁庆仁和1号私募证券投资基金”出资1亿元认购了谱尼测试180.83万股。同一只私募产品，也认购了科翔股份518.40万股股份，对应的出资额也是1亿元，锁定期均为6个月。 (中证网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3108133.d.html</link>
-            <guid>2738184</guid>
-            <pubDate>Tue, 12 Jul 2022 15:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都第二批集中供地首日：22宗地全部成交，收金184亿元】 7月12日，四川省成都市第二批集中供地首日，22宗涉宅用地总成交金额184亿元，总建筑面积152.47万平方米。其中，10宗地底价成交，8宗地块达到最高限价进入“限价抽签”环节。从拿地企业来看，国企竞得16宗地块占首日成交地块数量的72.73%。第三方机构中国指数研究院分析，民营企业参与度热度增加，知名房企包括龙湖集团、旭辉控股集团、石榴集团、新希望地产、金地集团等；新面孔也不少，如成都华添房地产开发有限公司、四川鸿山实业集团有限公司、四川省雍景投资集团、金泰恒业房地产有限公司等。]]></title>
-            <guid>2738183</guid>
-            <pubDate>Tue, 12 Jul 2022 15:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二早些时候，欧元一度跌至与美元平价，为20年来首次。在过去的12个月里，美元兑欧元一直在走强。美联储在2022年相当激进地收紧利率，这有助于吸引投资者购买美元。与此同时，对欧洲天然气危机的担忧会进一步使买家对欧元避而远之，进而削弱欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3108053.d.html</link>
-            <guid>2738182</guid>
-            <pubDate>Tue, 12 Jul 2022 15:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：尼日利亚正努力封堵月内第二次油井泄漏。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250951.d.html</link>
-            <guid>2738181</guid>
-            <pubDate>Tue, 12 Jul 2022 15:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国(浙江)自由贸易试验区建设新闻发布会12日在浙江杭州举行】今年前5月，浙江自贸试验区以1/400的全省国土面积贡献了6.2%的新增注册企业、17.7%的实际利用外资。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250906.d.html</link>
-            <guid>2738180</guid>
-            <pubDate>Tue, 12 Jul 2022 15:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：萨摩亚查塔姆岛的Gataivai村庄发生5.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250854.d.html</link>
-            <guid>2738179</guid>
-            <pubDate>Tue, 12 Jul 2022 15:24:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指涨超100点，成分股波音涨约6.5%领跑，WBA涨超3.0%，3M涨超2.0%，苹果和高盛涨约1.9%，雪佛龙则跌超1.7%，微软跌2.5%，Salesforce.com跌超4.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250838.d.html</link>
-            <guid>2738178</guid>
-            <pubDate>Tue, 12 Jul 2022 15:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯1-6月预算盈余1.374亿卢布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250803.d.html</link>
-            <guid>2738177</guid>
-            <pubDate>Tue, 12 Jul 2022 15:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利将微软的目标价从372美元下调至354美元，同时维持增持评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3107544.d.html</link>
-            <guid>2738176</guid>
-            <pubDate>Tue, 12 Jul 2022 15:21:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国政府将阻止反对党工党周三在议会举行信任投票的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250500.d.html</link>
-            <guid>2738175</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙拉斯乌尔德斯山谷山林火灾已烧毁超2500公顷土地】当地时间7月12日，发生在西班牙埃斯特雷马杜拉大区卡塞雷斯省拉斯乌尔德斯山谷的数起山林火灾已经导致约2500公顷土地被烧毁，卡斯蒂利亚-莱昂大区萨拉曼卡省的约100公顷土地同样因本次火灾被烧毁。西班牙卡斯蒂利亚-莱昂大区报告称，火灾的演变走势和近日的高温天气将使得消防工作极为复杂，消防工作预计还将持续数日，该大区已请求军事应急部队协助灭火。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250474.d.html</link>
-            <guid>2738174</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：政府认为没有必要通过新措施增加赤字。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250419.d.html</link>
-            <guid>2738173</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度财长：需要继续应对通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250405.d.html</link>
-            <guid>2738172</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局称正与SpaceX保持密切联系，因为该公司正在调查其星际飞船助推器爆炸事故。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1250384.d.html</link>
-            <guid>2738171</guid>
-            <pubDate>Tue, 12 Jul 2022 15:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国开行副行长周清玉被免职】7月12日下午，国家开发银行副行长周清玉有关部门发文宣布免职。而他按理应于2022年9月年满退休年龄。目前国开行官网领导班子一栏已经更新了相关信息。（财新）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3106895.d.html</link>
-            <guid>2738170</guid>
-            <pubDate>Tue, 12 Jul 2022 15:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度财长：印度政府将继续监控物价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249860.d.html</link>
-            <guid>2738169</guid>
-            <pubDate>Tue, 12 Jul 2022 15:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内涨幅达0.50%，现报0.6140。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249814.d.html</link>
-            <guid>2738168</guid>
-            <pubDate>Tue, 12 Jul 2022 15:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国称向乌克兰新提供的17亿美元援助将用于医疗领域】美国国际开发署在当地时间7月12日的一份声明中说，来自美国国际开发署、财政部和世界银行的17亿美元资金是为了缓解俄乌冲突以来乌克兰的严重预算赤字，确保乌克兰政府能够应对关键需求，包括通过支付医疗工作者的工资来提供医疗等基本服务。乌克兰卫生部长维克多·利亚什科（Viktor Liashko）说，由于战争的巨大负担，支付卫生工作者的工资每月都变得更加困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249427.d.html</link>
-            <guid>2738167</guid>
-            <pubDate>Tue, 12 Jul 2022 15:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯新设分管工业贸易副总理】当地时间7月12日，俄罗斯总统普京签署命令，在俄政府内新设置分管工业和贸易的副总理。俄罗斯总理米舒斯京提议由俄工业贸易部部长曼图罗夫担任新设的副总理一职。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249395.d.html</link>
-            <guid>2738166</guid>
-            <pubDate>Tue, 12 Jul 2022 15:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：政府不能在最后通牒下工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249316.d.html</link>
-            <guid>2738165</guid>
-            <pubDate>Tue, 12 Jul 2022 15:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美布两油持续下挫，日内均跌超7%。WTI原油现报96.31美元/桶，布伦特原油现报99.50美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3106158.d.html</link>
-            <guid>2738164</guid>
-            <pubDate>Tue, 12 Jul 2022 15:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD日内涨幅达0.50%，现报0.6765。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3106080.d.html</link>
-            <guid>2738163</guid>
-            <pubDate>Tue, 12 Jul 2022 15:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理德拉基：意大利经济仍在增长，但存在许多风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249209.d.html</link>
-            <guid>2738162</guid>
-            <pubDate>Tue, 12 Jul 2022 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西经济部长：燃油价格上涨过快对巴西人口造成了影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3106056.d.html</link>
-            <guid>2738161</guid>
-            <pubDate>Tue, 12 Jul 2022 15:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货日内大跌6.00%，现报6.039美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3106015.d.html</link>
-            <guid>2738160</guid>
-            <pubDate>Tue, 12 Jul 2022 15:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国数千万人联袂上演“大辞职” 但冲动之后的懊悔之心谁人知】今年前5个月大约2000万美国人辞职，掀起一轮来势汹汹的辞职浪潮。但根据人工智能求职平台Joblist过去三个月对超过1.5万名求职者进行的一项研究，超过25%的辞职人员正在反思他们的选择是否正确。调查发现，随着就业市场状况行将发生改变，许多求职者感到更紧迫。大约一半的求职者预计未来六个月劳动力市场将恶化。在辞职后找到新工作的受访者中，有42%的人表示新工作没有达到预期。懊悔的程度因职业而异，调查显示，疫情期间压力巨大的医护人员对辞职的懊悔程度最低，仅14%的人表示后悔。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249148.d.html</link>
-            <guid>2738159</guid>
-            <pubDate>Tue, 12 Jul 2022 15:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为27，表明市场处在恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249129.d.html</link>
-            <guid>2738158</guid>
-            <pubDate>Tue, 12 Jul 2022 15:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【WTI原油重挫近7% 疫情和衰退担忧笼罩市场】原油在美国交易时段大幅下挫，因疫情担忧加剧了对全球经济放缓的担忧。大宗商品市场看跌气氛弥漫，疫情令人对需求面感到忧虑，甚至盖过了供应面紧张的影响。BOK Financial交易部门高级副总裁Dennis Kissler表示，“原油价格上午仍处于极端压力之下，随着消费者信心的下滑以及疫情形势，市场仍然处于守势。”尽管有经济衰退忧虑，但仍有几个能源机构认为供应紧张局面势将恶化。国际能源署署长比罗尔认为能源供应最紧张的时候还在后头，欧佩克对2023年的初步展望认为油市供应紧张情况未见缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249115.d.html</link>
-            <guid>2738157</guid>
-            <pubDate>Tue, 12 Jul 2022 15:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至23:00收盘，国内期货主力合约几乎全线下跌。燃油跌超8%，棕榈跌超6%，棉花跌6%，沥青、PTA跌超5%，短纤、豆油、棉纱跌超4%，焦煤、液化石油气（LPG）跌超3%，热卷、螺纹、橡胶、菜油、焦炭、豆二跌近3%；涨幅方面，玻璃涨0.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1249086.d.html</link>
-            <guid>2738156</guid>
-            <pubDate>Tue, 12 Jul 2022 15:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国宏桥信托投资集团：将Roblox(RBLX.N)目标价下调至57美元，维持买入评级】宏桥信托投资集团分析师Clark Lampen将对Roblox的目标价从61美元下调至57美元，但维持对该股的买入评级。考虑到5月份的指标和跟踪数据显示用户增长放缓，Lampen下调了对该股的预期，以反映“温和的”日活数量（DAU）展望。他仍然认为随着Roblox继续寻求新的货币化机会，他的预期有可能上升到共识预期水平。该分析师表示，随着时间的推移，广告和体验中的设置将增加15亿美元的预订量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1248342.d.html</link>
-            <guid>2738155</guid>
-            <pubDate>Tue, 12 Jul 2022 14:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旷达科技：参股公司芯投微拟获五家投资方共投资5亿元】旷达科技公告，义乌韦豪鋆轩一期私募股权投资基金合伙企业(有限合伙)、天津韦豪海河一期股权投资合伙企业(有限合伙)、宁波甬欣韦豪三期半导体产业投资合伙企业(有限合伙)、宁波镇海瀚鋆股权投资合伙企业(有限合伙)、合肥产业投促高新创业投资基金合伙企业(有限合伙)五家投资方拟以货币出资的方式分别对芯投微投资。投资金额总计为5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3105067.d.html</link>
-            <guid>2738154</guid>
-            <pubDate>Tue, 12 Jul 2022 14:54:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳“跨境理财通”跨境汇划金额超4亿元】 深圳银保监局局长张利星12日透露，“跨境理财通”试点落地以来起步平稳。截至6月末，深圳辖区共24家银行获试点资格，开立“跨境理财通”相关账户12560个，办理资金跨境汇划合计4.04亿元，双向投资产品交易额2.37亿元，约占粤港澳大湾区“跨境理财通”业务总量的三分之一。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3105032.d.html</link>
-            <guid>2738153</guid>
-            <pubDate>Tue, 12 Jul 2022 14:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数下跌至五个月低位】波罗的海干散货运价指数周二下跌至近五个月低位，因海岬型船运价指数下跌。波罗的海整体干散货运价指数跌68点，或3.3%，至2013点，为2月18日以来最低。海岬型船运价指数跌116点，或4.9%，至2249点。海岬型船日均获利减少958美元，至18655美元。巴拿马型船运价指数下滑76点或3.5%，至2096点。巴拿马型船日均获利下滑679美元，至18867美元。超灵便型散货船运价指数下滑29点，至2123点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1248250.d.html</link>
-            <guid>2738152</guid>
-            <pubDate>Tue, 12 Jul 2022 14:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯洛文尼亚总理：西巴尔干国家在加入欧盟的过程中取得的阶段性进展应得到奖励，以此作为激励。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3104979.d.html</link>
-            <guid>2738151</guid>
-            <pubDate>Tue, 12 Jul 2022 14:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯央行：人民币需求在6月份显著增长】俄罗斯央行报告称，散户投资者在6月份人民币买盘中所占份额为13.9%，卖盘份额为5.5%。在莫斯科交易所的外汇交易中，人民币兑卢布交易占比升至11%；4月份为6%，2月份不到1%。人民币供应增加的原因在于出口商提高了人民币在利润中所占份额。美元/人民币的散户交易额从5月份的3.3亿元人民币激增至54亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizmscv1248214.d.html</link>
-            <guid>2738150</guid>
-            <pubDate>Tue, 12 Jul 2022 14:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7月12日0时至16时，海南海口新增2例确诊病例和7例无症状感染者。（央视）]]></title>
-            <guid>2738149</guid>
-            <pubDate>Tue, 12 Jul 2022 14:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所燃油期货主力合约下跌8.04%，报2998.0元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3104527.d.html</link>
-            <guid>2738148</guid>
-            <pubDate>Tue, 12 Jul 2022 14:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月NFIB中小企业乐观程度指数录得89.5，创2013年1月以来新低；商业状况预期指数录得-61，创有记录以来新低。通胀仍是小企业面临的首要问题，34%的业主表示这是他们经营业务中最重要的一个问题，比5月份增加了6个百分点，为1980年四季度以来最高水平。NFIB首席经济学家称，除了包括通胀和工人短缺在内的直接挑战之外，经济政策的前景也不令人鼓舞。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-12/detail-imizirav3104464.d.html</link>
-            <guid>2738147</guid>
-            <pubDate>Tue, 12 Jul 2022 14:48:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
