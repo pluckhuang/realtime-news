@@ -4,11 +4,590 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 14 Jul 2022 16:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 19:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【王毅：当前中美关系处在关键时期】国务委员兼外长王毅表示，中美双方此次在巴厘岛进行了长时间会晤，就如何改善中美关系和妥善应对国际地区重大挑战进行了充分、坦诚的沟通。双方都认为这次会晤具有实质性，也具有建设性，也为下阶段两国高层交往积累了条件。我们都认为当前中美关系处在关键时期，保持这样的经常性沟通是必要的，也是有益的。中方主动向美方打出“四份清单”，三份是分别要求美方消除两国关系中的负面因素，一份旨在探索推进两国互利合作，这体现了中方的原则性和建设性。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3465299.d.html</link>
+            <guid>2741289</guid>
+            <pubDate>Thu, 14 Jul 2022 19:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【世卫组织：全球累计新冠确诊病例超5.5689亿例】世卫组织网站最新数据显示，截至欧洲中部时间14日17时54分（北京时间23时54分），全球确诊病例较前一日增加1014731例，达到556897312例；死亡病例增加1844例，达到6356812例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3465261.d.html</link>
+            <guid>2741288</guid>
+            <pubDate>Thu, 14 Jul 2022 19:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦下调汽油和柴油价格】7月14日，巴基斯坦总理夏巴兹·谢里夫表示，由于现在国际市场的汽油价格正在下降，政府决定将汽油价格每升下调18.50卢比，柴油价格每升下调40.54卢比 ，以最大程度地减轻消费者的负担。下调后的汽油价格为每升230.24卢比，柴油价格为每升236卢比。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1601049.d.html</link>
+            <guid>2741287</guid>
+            <pubDate>Thu, 14 Jul 2022 19:06:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.91%，报20526点，低水225点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600885.d.html</link>
+            <guid>2741286</guid>
+            <pubDate>Thu, 14 Jul 2022 19:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：白俄罗斯用白俄罗斯卢布支付外汇债务是违约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3464696.d.html</link>
+            <guid>2741285</guid>
+            <pubDate>Thu, 14 Jul 2022 19:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲真正的风险点爆发：意大利总理德拉吉想辞职，欧元兑美元再失平价位】德拉吉欲辞职的消息发布后，意大利股债期货均跳水双杀，10年期基债收益率升幅扩大、上破3.50%。德拉吉辞呈被总统拒绝后市场信心恢复，欧元兑美元升破平价位。分析称，这是欧央行下周宣布加息前，在最坏情况下出现的政治危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600679.d.html</link>
+            <guid>2741284</guid>
+            <pubDate>Thu, 14 Jul 2022 19:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【追随通胀大势，英特尔宣布对多种产品涨价，最高可达20%】英特尔准备在今年秋季对家用电脑和服务器CPU，以及Wi-Fi芯片等周边产品提高价格。针对不同产品，涨价幅度可能从数个百分点到10%-20%不等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600649.d.html</link>
+            <guid>2741283</guid>
+            <pubDate>Thu, 14 Jul 2022 19:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【冰火两重天，汽车上市公司上半年业绩分化加剧】在产业竞争加剧的背景下，汽车上市公司今年上半年的业绩分化也更加明显。7月14日，多家汽车上市公司披露2022年业绩预告。从净利表现来看，行业内整体呈现冰火两重天态势。其中，比亚迪、长安汽车上半年业绩预喜，海马汽车、ST众泰、北汽蓝谷预计报告期内净利亏损，亏损幅度从千万元至亿元不等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600639.d.html</link>
+            <guid>2741282</guid>
+            <pubDate>Thu, 14 Jul 2022 19:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德拉吉政府的去留多次反转 导致意大利市场重挫】在意大利总理马里奥·德拉吉表示将向总统提出辞职之后，意大利债券和股指期货跌至盘中低点，欧元兑美元跌回平价之下。他的辞呈后来被总统拒绝。在德拉吉宣布将辞职之后，欧元一度跌至0.9984美元，但仍高于早些时候的盘中低点。2022年9月的10年期国债期货跌破122，为6月份以来最低，也低于21日移动均线。基准股指的期货合约延续跌势，当日跌幅超过5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600431.d.html</link>
+            <guid>2741281</guid>
+            <pubDate>Thu, 14 Jul 2022 18:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国驻乌克兰大使馆发布安全警告 敦促在乌美国人尽快撤离】美国驻乌克兰大使馆当地时间14日发布安全警告称，乌克兰各地的安全局势继续充满不可预测性，美国驻乌克兰大使馆敦促美国公民不要前往乌克兰，乌克兰境内的美国人则应立即使用私人交通工具离开乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600395.d.html</link>
+            <guid>2741280</guid>
+            <pubDate>Thu, 14 Jul 2022 18:56:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德发言人：公司内部没有任何招聘限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600368.d.html</link>
+            <guid>2741279</guid>
+            <pubDate>Thu, 14 Jul 2022 18:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在斯里兰卡政府的官方请求下，马尔代夫政府批准了斯里兰卡空军载着斯里兰卡总统拉贾帕克萨的飞机进入该国的外交许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1600164.d.html</link>
+            <guid>2741278</guid>
+            <pubDate>Thu, 14 Jul 2022 18:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国总检察长苏拉·布雷弗曼将支持英国外交大臣伊丽莎白·特拉斯竞逐英国保守党党魁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3464074.d.html</link>
+            <guid>2741277</guid>
+            <pubDate>Thu, 14 Jul 2022 18:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国电力公司EDF将在7月14日-15日期间暂停法国Dampierre 3号核反应堆的运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3463979.d.html</link>
+            <guid>2741276</guid>
+            <pubDate>Thu, 14 Jul 2022 18:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东清远：佛冈县发现3名新冠病毒无症状感染者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3462855.d.html</link>
+            <guid>2741275</guid>
+            <pubDate>Thu, 14 Jul 2022 18:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油持续回升，WTI原油转涨，此前跌超6%，布伦特原油跌幅收窄至0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3462818.d.html</link>
+            <guid>2741274</guid>
+            <pubDate>Thu, 14 Jul 2022 18:41:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  由于经济形势不明朗，贝莱德领导层放慢了部分职位的招聘步伐。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598836.d.html</link>
+            <guid>2741273</guid>
+            <pubDate>Thu, 14 Jul 2022 18:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通财报传递的信号：早点为经济“飓风”做准备吧】摩根大通首席执行官戴蒙依然认为投资者要为迎接经济“飓风”做好准备，因为其担忧已经越来越近，而一些金融混乱已经逐步显露。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3462790.d.html</link>
+            <guid>2741272</guid>
+            <pubDate>Thu, 14 Jul 2022 18:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：最近一周，美国贷款基金流出12.2亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3462782.d.html</link>
+            <guid>2741271</guid>
+            <pubDate>Thu, 14 Jul 2022 18:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国货币监理署对美国银行作出1.25亿美元罚款的决定】当地时间7月14日，美国货币监理署经过评估，对美国银行作出1.25亿美元民事罚款的决定，理由是该银行违反了与银行管理预付卡计划相关的法律。货币监理署还命令银行向因其违法行为而受到伤害的消费者提供补救措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598761.d.html</link>
+            <guid>2741270</guid>
+            <pubDate>Thu, 14 Jul 2022 18:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际知名投行看好A股，重申高配观点】二季度以来，A股相对海外市场表现强势。基于对中国经济和国内宏观政策的信心，高盛、瑞信等多家外资机构近期重申看好A股，北上资金也开始对重点公司全面增持。数据显示，截至7月14日，4月以来A股市场北上资金累计净流入达865.77亿元。其中，6月份北上资金净买入729.6亿元，创出年内新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3462704.d.html</link>
+            <guid>2741269</guid>
+            <pubDate>Thu, 14 Jul 2022 18:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 8月原油期货收跌0.52美元，跌幅0.54%，报95.78美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598532.d.html</link>
+            <guid>2741268</guid>
+            <pubDate>Thu, 14 Jul 2022 18:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西经济部调整2022年度GDP增长预期和通胀预期】当地时间14日，巴西经济部政策秘书处发布最新数据，将2022年国内生产总值（GDP）增长预期从1.5%调整至2%，将通胀预期从7.9%下调至7.2%。政策秘书处称，已批准的立法措施对燃料、电力和通信价格会产生影响，因此下调了2022年通胀预期。而导致今年GDP预期增长的重要因素则是考虑到劳动力市场和实际收入总量的变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598521.d.html</link>
+            <guid>2741267</guid>
+            <pubDate>Thu, 14 Jul 2022 18:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受益煤价高企，上市煤企半年报集中预喜】虽然在保供稳价政策下，国内煤炭价格较2021年四季度的异常高价有所回落，但上半年，煤价整体稳定在高位区间，行业企业盈利水平向好。下半年“迎峰度夏”叠加供暖季补库需求支撑下，机构给予煤企持续高利润预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598431.d.html</link>
+            <guid>2741266</guid>
+            <pubDate>Thu, 14 Jul 2022 18:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】上海黄金交易所黄金T+D 7月15日（周五）晚盘收盘下跌0.78%报372.25元/克；上海黄金交易所白银T+D 7月15日（周五）晚盘收盘下跌3.48%报4046.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598420.d.html</link>
+            <guid>2741265</guid>
+            <pubDate>Thu, 14 Jul 2022 18:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘主力合约收盘】截至2:30收盘，沪金主力合约收跌0.86%，报374元/克，沪银主力合约收跌3.60%，报4075元/千克，SC原油主力合约收跌1.09%，报644元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3462374.d.html</link>
+            <guid>2741264</guid>
+            <pubDate>Thu, 14 Jul 2022 18:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行：德国经济正在“步入衰退”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3462240.d.html</link>
+            <guid>2741263</guid>
+            <pubDate>Thu, 14 Jul 2022 18:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美股低开高走 纳指率先转涨】美股低开高走，纳指率先转涨，此前一度跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598222.d.html</link>
+            <guid>2741262</guid>
+            <pubDate>Thu, 14 Jul 2022 18:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国得克萨斯州就联邦堕胎指导意见起诉美国政府】当地时间7月14日，美国得克萨斯州就联邦最新堕胎指导意见起诉美国政府。据悉，美国卫生与公众服务部在最新指导意见中称，联邦法律要求医院在出现医疗紧急情况，或是病人的健康或生命受到威胁时提供堕胎服务，得克萨斯州的诉讼则称美国政府此举“试图将全国的每一个急诊室变成无预约的堕胎诊所”，且藐视最高法院关于“罗诉韦德案”的裁决，该州要求法院发布永久禁令，禁止政府执行该指南。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1598144.d.html</link>
+            <guid>2741261</guid>
+            <pubDate>Thu, 14 Jul 2022 18:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉基将于下周早些时候在议会发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461960.d.html</link>
+            <guid>2741260</guid>
+            <pubDate>Thu, 14 Jul 2022 18:21:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储监察长：对美联储前官员卡普兰和罗森格伦的交易的调查正在进行中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461909.d.html</link>
+            <guid>2741259</guid>
+            <pubDate>Thu, 14 Jul 2022 18:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数转涨，此前一度跌2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597974.d.html</link>
+            <guid>2741258</guid>
+            <pubDate>Thu, 14 Jul 2022 18:20:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年清盘基金数量破百，多只次新基金成“迷你基”】在A股近日呈震荡态势的背景下，多只“迷你基”清盘压力加大。截至7月14日，月内已有十余只基金发布交易提示公告称，因连续多个工作日基金资产净值低于一定金额，基金产品可能触发合同终止情形。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461847.d.html</link>
+            <guid>2741257</guid>
+            <pubDate>Thu, 14 Jul 2022 18:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美银看衰美股，大砍标普500指数年末目标位20%】美银预计，美国将于2022年下半年启动温和衰退，将年末标普500指数目标点位从之前的4500点下调至3600点，并下调每股收益EPS增长预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461841.d.html</link>
+            <guid>2741256</guid>
+            <pubDate>Thu, 14 Jul 2022 18:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国签发一般许可证，授权与俄罗斯进行有关化肥、种子、粮食作物和人类食品的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597909.d.html</link>
+            <guid>2741255</guid>
+            <pubDate>Thu, 14 Jul 2022 18:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉下调乌克兰国家天然气公司（Naftogaz）评级至“C”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461816.d.html</link>
+            <guid>2741254</guid>
+            <pubDate>Thu, 14 Jul 2022 18:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甘肃省兰州市新增23个高风险区，14个中风险区，1处降为低风险区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597886.d.html</link>
+            <guid>2741253</guid>
+            <pubDate>Thu, 14 Jul 2022 18:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利10年期国债收益率短线飙升近14个基点，现报3.512%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597881.d.html</link>
+            <guid>2741252</guid>
+            <pubDate>Thu, 14 Jul 2022 18:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【沙特报告该国出现首例猴痘病例】当地时间7月14日，沙特阿拉伯卫生部发布公告，通报该国出现首例猴痘确诊病例。卫生部在公告中透露，这一病例来自国外，目前正在首都利雅得接受治疗，健康情况稳定，卫生部也正在对该病例密切接触者的身体状况进行监控。]]></title>
+            <guid>2741251</guid>
+            <pubDate>Thu, 14 Jul 2022 18:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙银行巨头BBVA：预计墨西哥2022年GDP将增长2%，高于此前预计的1.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597523.d.html</link>
+            <guid>2741250</guid>
+            <pubDate>Thu, 14 Jul 2022 18:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行将因存在欺诈行为而面临美国货币总稽核办公室（OCC）开出的1.25亿美元罚单。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597436.d.html</link>
+            <guid>2741249</guid>
+            <pubDate>Thu, 14 Jul 2022 18:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储监察长：一旦我们正在进行的评估完成，我们将通知美联储董事会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461318.d.html</link>
+            <guid>2741248</guid>
+            <pubDate>Thu, 14 Jul 2022 18:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta将允许Facebook用户拥有最多5个个人帐号。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597368.d.html</link>
+            <guid>2741247</guid>
+            <pubDate>Thu, 14 Jul 2022 18:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储监察长：我们没有找到证据证明美联储主席鲍威尔违反了我们办公室调查的与交易活动有关的法律、规则、条例或政策的指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461207.d.html</link>
+            <guid>2741246</guid>
+            <pubDate>Thu, 14 Jul 2022 18:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储监察长：我们没有找到证据证明前美联储前副主席克拉里达违反了与交易活动有关的法律、规则、条例或政策的指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461169.d.html</link>
+            <guid>2741245</guid>
+            <pubDate>Thu, 14 Jul 2022 18:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月15日01时55分在四川绵阳市北川县（北纬31.78度，东经104.21度）发生3.0级地震，震源深度14千米。]]></title>
+            <guid>2741244</guid>
+            <pubDate>Thu, 14 Jul 2022 18:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦储备委员会监察长发布对美联储官员金融交易行为的审查报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1597100.d.html</link>
+            <guid>2741243</guid>
+            <pubDate>Thu, 14 Jul 2022 18:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福特、SK On敲定美国电动汽车电池合作项目】福特汽车和韩国电池制造商SK On及其子公司周四敲定成立一家合资企业，在美国建造和运营电池生产设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3461024.d.html</link>
+            <guid>2741242</guid>
+            <pubDate>Thu, 14 Jul 2022 18:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：07月15日01时55分在四川绵阳市北川县附近（北纬31.79度，东经104.24度）发生3.1级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2741241</guid>
+            <pubDate>Thu, 14 Jul 2022 17:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总统要求意大利总理德拉基在议会发表讲话，以判断局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1596785.d.html</link>
+            <guid>2741240</guid>
+            <pubDate>Thu, 14 Jul 2022 17:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线波动不大，报1.0010。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3460714.d.html</link>
+            <guid>2741239</guid>
+            <pubDate>Thu, 14 Jul 2022 17:55:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总统拒绝了意大利总理德拉基的辞呈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1596711.d.html</link>
+            <guid>2741238</guid>
+            <pubDate>Thu, 14 Jul 2022 17:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：预计美国高收益基金本周会有6.524亿美元的资金流出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3460583.d.html</link>
+            <guid>2741237</guid>
+            <pubDate>Thu, 14 Jul 2022 17:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【债券投资者押注衰退的交易才刚刚开始】尽管美国债券市场出现了剧烈波动，但交易员们正显示出越来越大的信心，他们认为，经济衰退的警钟只会越来越响。6月份CPI再次飙升至40年来的最高水平，强化了美联储将继续积极收紧货币政策的可能性。随着加息对经济的影响扩大，经济增长将陷入停滞的风险加大。美联储的措施使得投资者大举押注较长期债券，他们预计，如果美国经济陷入衰退，较长期债券将有更好的表现。“美联储确实在通胀问题上错过了良机，让通胀变得根深蒂固，因此加息100个基点肯定是可以考虑的，"Aptus Capital Advisors投资组合经理John Luke Tyner表示。“收益率曲线现在可能在告诉我们一些严肃的事情。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1596649.d.html</link>
+            <guid>2741236</guid>
+            <pubDate>Thu, 14 Jul 2022 17:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[因高温天气，丰田削减美国得州工厂的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1596185.d.html</link>
+            <guid>2741235</guid>
+            <pubDate>Thu, 14 Jul 2022 17:43:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储布拉德称，如果数据继续向不利的方向发展，年底前联邦基金利率超过4%是有可能的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3459631.d.html</link>
+            <guid>2741234</guid>
+            <pubDate>Thu, 14 Jul 2022 17:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表办公室（USTR）：美国和墨西哥宣布解决松下工厂劳资纠纷的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1595579.d.html</link>
+            <guid>2741233</guid>
+            <pubDate>Thu, 14 Jul 2022 17:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德称，6月CPI数据表明美联储需要“迅速转向中性并超越中性”的策略。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3459526.d.html</link>
+            <guid>2741232</guid>
+            <pubDate>Thu, 14 Jul 2022 17:35:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京签署允许在境外开展军事行动时采取特别经济措施的法律】根据俄罗斯法律信息网14日发布的文件，俄总统普京当天签署一项法律，允许俄政府在俄武装力量境外开展行动时采取特别经济措施。文件规定，为保障俄武装力量、军事组织和机构等在境外开展反恐及其他行动，俄政府有权采取特别经济措施为其拨款并提供物资保障、临时恢复动员生产、分配国家储备物资、延长相关人员工作时长并要求其在夜间、休息日和节假日期间工作等。文件还规定，相关法人无权拒绝签署俄政府的国家采购合同等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1595462.d.html</link>
+            <guid>2741231</guid>
+            <pubDate>Thu, 14 Jul 2022 17:33:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德称，目前不支持加息100个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1595408.d.html</link>
+            <guid>2741230</guid>
+            <pubDate>Thu, 14 Jul 2022 17:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银：将9月底和2022年底的金价预测下调至1600美元/盎司，此前预期分别为1800美元和1700美元。2023年6月底的目标价是1650美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3459315.d.html</link>
+            <guid>2741229</guid>
+            <pubDate>Thu, 14 Jul 2022 17:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芬兰能源企业富腾（Fortum）：继续与德国政府进行建设性会谈，尚未就德国能源巨头Uniper相关问题做出任何决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3459216.d.html</link>
+            <guid>2741228</guid>
+            <pubDate>Thu, 14 Jul 2022 17:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大银行加息致加元对美元汇率跌至20个月来最低】加拿大银行宣布加息100个基点一天后，加元对美元汇率7月14日跌至20个月来的最低点。加元在早盘交易中对美元汇率一度跌至1加元兑换75.62美分的低点，是2020年11月4日以来的最低水平；随后又回升至76.06美分。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3459203.d.html</link>
+            <guid>2741227</guid>
+            <pubDate>Thu, 14 Jul 2022 17:29:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊日内涨幅扩大至5.00%，现报1173美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3459115.d.html</link>
+            <guid>2741226</guid>
+            <pubDate>Thu, 14 Jul 2022 17:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：上调巴西2022年GDP增幅预期至2.0%，之前料增1.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458959.d.html</link>
+            <guid>2741225</guid>
+            <pubDate>Thu, 14 Jul 2022 17:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：下次会议加息75个基点可以将利率提高到中性水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458866.d.html</link>
+            <guid>2741224</guid>
+            <pubDate>Thu, 14 Jul 2022 17:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利总理德拉基宣布将辞职】意大利总理德拉基表示，他将在周四辞去意大利总理职务，此前他的执政联盟中的一个政党没有参加信任投票。“我今晚将向共和国总统递交辞呈，”德拉基称。“支持这个政府的民族团结联盟已不复存在，”他补充说。德拉基领导的联合政府中的一个政党“五星运动党”反对一项旨在降低通胀和能源成本上升的新法令。咨询公司Teneo的联合总裁Wolfango Piccoli分析称，意大利“五星运动党”的举动主要是由这个陷入困境的政党内部普遍存在的纷争引发的，而不是与其他领导人的重大政策分歧引发的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458611.d.html</link>
+            <guid>2741223</guid>
+            <pubDate>Thu, 14 Jul 2022 17:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德支持在7月会议上加息75个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1594616.d.html</link>
+            <guid>2741222</guid>
+            <pubDate>Thu, 14 Jul 2022 17:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【葡萄牙山林火灾已致1死135伤，政府延长应急状态至17日】当地时间7月7日至14日，葡萄牙共计记录了813起规模不等的山林火灾。在此期间，葡萄牙的山林火灾已经造成1人死亡，135人不同程度受伤。截至当地时间11日的数据显示，本次火灾已使该国约6400公顷土地被烧毁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1594548.d.html</link>
+            <guid>2741221</guid>
+            <pubDate>Thu, 14 Jul 2022 17:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储在固定利率逆回购操作中总计接纳了97个对手方的2.207万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458419.d.html</link>
+            <guid>2741220</guid>
+            <pubDate>Thu, 14 Jul 2022 17:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储柯林斯称解决通胀过高问题是当务之急】本月履新的波士顿联储行长柯林斯在她的首次公开讲话中表示，通胀过高，降低通胀是央行的当务之急。柯林斯称，尽管就业增长强劲，但美国经济在疫情后仍面临挑战。“我知道这对我们的经济来说是一个非常具有挑战性的时期，”柯林斯说。“虽然在非常严重的疫情冲击后就业已经反弹，但通胀过高，解决这个问题是我和同事的当务之急。”她在视频中没有提及自己对货币政策前景的看法。这位决策者两周后将首次在FOMC投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458289.d.html</link>
+            <guid>2741219</guid>
+            <pubDate>Thu, 14 Jul 2022 17:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯里兰卡议会议长办公室：斯里兰卡议会议长将于当地时间上午7点30分正式宣布斯里兰卡总统拉贾帕克萨的辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458216.d.html</link>
+            <guid>2741218</guid>
+            <pubDate>Thu, 14 Jul 2022 17:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7月14日0时至24时，青海西宁市新增阳性检出者1例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458143.d.html</link>
+            <guid>2741217</guid>
+            <pubDate>Thu, 14 Jul 2022 17:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利股指期货扩大跌幅至4.9％，此前意大利总理德拉基表示将辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3458127.d.html</link>
+            <guid>2741216</guid>
+            <pubDate>Thu, 14 Jul 2022 17:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：7月13日当周，美国未季调的外国金融商业票据余额减少39亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3457704.d.html</link>
+            <guid>2741215</guid>
+            <pubDate>Thu, 14 Jul 2022 17:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：7月13日当周，美国未经季调的商业票据余额减少4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1593640.d.html</link>
+            <guid>2741214</guid>
+            <pubDate>Thu, 14 Jul 2022 17:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：7月13日当周美国经季调的商业票据余额增加61亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3457520.d.html</link>
+            <guid>2741213</guid>
+            <pubDate>Thu, 14 Jul 2022 17:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收跌1.86%，沪铜收跌1.65%，沪铝收涨0.14%，沪锌收跌1.62%，沪铅收跌2.16%，沪镍收跌8.03%，沪锡收跌2.77%。不锈钢夜盘收跌1.88%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1593410.d.html</link>
+            <guid>2741212</guid>
+            <pubDate>Thu, 14 Jul 2022 17:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦瓦克斯下跌28%，创最近两年最大盘中跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1593270.d.html</link>
+            <guid>2741211</guid>
+            <pubDate>Thu, 14 Jul 2022 16:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国科学家在小麦感条锈病机制及广谱抗病材料创制领域取得重大突破】7月14日晚间，国际顶级期刊Cell（《细胞》）在线刊发西北农林科技大学植物免疫团队历经18年的研究成果——发现了小麦中协助条锈菌感染的“真凶”感病基因，并通过敲除感病基因，使得小麦不易遭受条锈菌的侵染，开辟了抗病小麦育种的新思路和新途径。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1593242.d.html</link>
+            <guid>2741210</guid>
+            <pubDate>Thu, 14 Jul 2022 16:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股跌幅扩大】热门中概股跌幅扩大，哔哩哔哩跌6.8%，爱奇艺、欢聚跌5%，汽车之家、贝壳、阿里巴巴跌逾4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3457161.d.html</link>
+            <guid>2741209</guid>
+            <pubDate>Thu, 14 Jul 2022 16:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股航空股走弱】美股航空股走弱，捷蓝航空跌2.6%，西空航空跌1.8%，达美航空、联合大陆航空跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3457135.d.html</link>
+            <guid>2741208</guid>
+            <pubDate>Thu, 14 Jul 2022 16:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯外交部发言人扎哈罗娃表示，由于西方向基辅供应武器，并计划为乌克兰军事装备提供维修，俄罗斯决定暂停保加利亚和捷克企业维修直升机的许可证。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3457099.d.html</link>
+            <guid>2741207</guid>
+            <pubDate>Thu, 14 Jul 2022 16:57:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线跌幅扩大至37点，现报0.9986。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3456930.d.html</link>
+            <guid>2741206</guid>
+            <pubDate>Thu, 14 Jul 2022 16:54:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收跌156美元，报7170美元/吨。LME期铝收跌19美元，报2336美元/吨。LME期锌收跌76美元，报2875美元/吨。LME期铅收跌120美元，报1834美元/吨。LME期镍收跌1748美元，报19402美元/吨。LME期锡收跌1046美元，报24318美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3456855.d.html</link>
+            <guid>2741205</guid>
+            <pubDate>Thu, 14 Jul 2022 16:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利国债期货跌至日内低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1592880.d.html</link>
+            <guid>2741204</guid>
+            <pubDate>Thu, 14 Jul 2022 16:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉基：“五星运动”党不参加信任投票从政治角度来看非常重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3456789.d.html</link>
+            <guid>2741203</guid>
+            <pubDate>Thu, 14 Jul 2022 16:51:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉基：我将于今晚向总统递交辞呈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3456659.d.html</link>
+            <guid>2741202</guid>
+            <pubDate>Thu, 14 Jul 2022 16:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利总理德拉基：支持本届政府的“民族团结”联盟已不复存在。我再也没有继续任职的条件了。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1592710.d.html</link>
+            <guid>2741201</guid>
+            <pubDate>Thu, 14 Jul 2022 16:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线走低逾20点，报0.9995。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3456372.d.html</link>
+            <guid>2741200</guid>
+            <pubDate>Thu, 14 Jul 2022 16:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利政府声明显示，意大利总理德拉基将辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1592379.d.html</link>
+            <guid>2741199</guid>
+            <pubDate>Thu, 14 Jul 2022 16:46:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登批准明尼苏达州重大灾难声明】当地时间7月14日，白宫官网发表声明称，总统拜登已于当日批准明尼苏达州重大灾难声明。他下令提供联邦援助，以帮助州、部落和地方在4月22日至6月15日期间受严重风暴和洪水影响地区的恢复工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3456183.d.html</link>
+            <guid>2741198</guid>
+            <pubDate>Thu, 14 Jul 2022 16:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间14日，据斯里兰卡媒体报道，维克拉马辛哈定于当地时间7月15日宣誓就任斯里兰卡代理总统。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1592280.d.html</link>
+            <guid>2741197</guid>
+            <pubDate>Thu, 14 Jul 2022 16:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯供应减少之际 德国开始动用天然气库存】俄罗斯减少供应之下，德国开始从冬季储备中提取天然气。根据德国联邦网络机构的数据，天然气库存的提取量超过了注入量，库存水平为64.5%。这显示，自俄罗斯上月把通过北溪管道输送的天然气供应量削减60%以来，德国的天然气供应状况正趋恶化。“当前情况紧张，而且不排除情况恶化的可能性，”该机构在声明中称，“德国的供应安全目前有保障。”德国方面曾警告称，目前正处于暂停维护阶段的北溪管道可能不会在7月晚些时候维护结束后全面恢复。数周来，俄罗斯通过乌克兰的输送也已减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3456160.d.html</link>
+            <guid>2741196</guid>
+            <pubDate>Thu, 14 Jul 2022 16:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大将恢复对国际旅客随机进行强制性新冠病毒检测】加拿大政府当地时间7月14日宣布，从下周起，将恢复对抵达该国四个主要机场的国际旅客随机进行强制性新冠病毒检测。加拿大交通部长奥马尔·阿尔加布拉在一份新闻通报中宣布，从7月19日开始，抵达多伦多、卡尔加里、温哥华和蒙特利尔的完全接种疫苗的国际旅客可能会接受随机的强制新冠病毒检测，被要求检测的旅客必须在抵达后一天内完成所有检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1591907.d.html</link>
+            <guid>2741195</guid>
+            <pubDate>Thu, 14 Jul 2022 16:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【习近平：共建“一带一路”，新疆不再是边远地带，而是一个枢纽地带】习近平总书记12日下午来到乌鲁木齐国际陆港区，听取整体情况介绍，通过实时画面察看中欧班列（乌鲁木齐）集结中心各功能区和阿拉山口口岸、霍尔果斯口岸现场作业情况，并同工作人员及现场办事人员亲切交流。习近平说，共建“一带一路”倡议提出这些年来，硕果累累。随着共建“一带一路”深入推进，新疆不再是边远地带，而是一个核心区、一个枢纽地带，你们做的是具有历史意义的事情，已经取得很好的成绩，再接再厉，前途光明。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3455764.d.html</link>
+            <guid>2741194</guid>
+            <pubDate>Thu, 14 Jul 2022 16:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯计划在10月份在一个全国性平台上推出石油交易】俄罗斯希望通过制定新基准来控制油价。一份文件显示，俄罗斯主要部门、俄罗斯国内石油生产商和俄罗斯央行计划在10月份在一个全国性平台上推出石油交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3455677.d.html</link>
+            <guid>2741193</guid>
+            <pubDate>Thu, 14 Jul 2022 16:37:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：欧盟委员会将在2030年之前向葡萄牙提供230亿欧元资金支持。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3455282.d.html</link>
@@ -26,582 +605,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1591036.d.html</link>
             <guid>2741190</guid>
             <pubDate>Thu, 14 Jul 2022 16:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利比索兑美元跌幅扩大至4%，刷新日低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1590900.d.html</link>
-            <guid>2741189</guid>
-            <pubDate>Thu, 14 Jul 2022 16:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：在通胀问题上，我们在预测上犯了异常大的错误，我们需要负责。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1590859.d.html</link>
-            <guid>2741188</guid>
-            <pubDate>Thu, 14 Jul 2022 16:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：拉丁美洲将广泛受益于大宗商品价格上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1590776.d.html</link>
-            <guid>2741187</guid>
-            <pubDate>Thu, 14 Jul 2022 16:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【地产链走势出现分化，拖了反弹后腿？这些后周期板块值得关注】自4月底以来，A股权益市场逐步回暖，多个板块都迎来了一波反弹。然而，地产链的反弹力度却拖了后腿，内部各大板块的走势更是出现了分化。细分来看，6月以来，地产链上表现较为强劲的仍是家电、家具等隶属于地产后周期的板块。业内人士认为，原材料价格走弱，叠加较大比例的更新需求，是地产后周期表现更优的主要原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1590739.d.html</link>
-            <guid>2741186</guid>
-            <pubDate>Thu, 14 Jul 2022 16:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯希望通过制定新基准来控制油价。一份文件显示，俄罗斯主要部门、俄罗斯国内石油生产商和俄罗斯央行计划在10月份在一个全国性平台上推出石油交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3454527.d.html</link>
-            <guid>2741185</guid>
-            <pubDate>Thu, 14 Jul 2022 16:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：事实上没有看到加拿大元升值那么多，这意味着我们必须通过提高利率来做更多的事情。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3454414.d.html</link>
-            <guid>2741184</guid>
-            <pubDate>Thu, 14 Jul 2022 16:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  加拿大央行行长麦克勒姆：目标是迅速提高利率，至少达到或略高于中性区间的上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1590371.d.html</link>
-            <guid>2741183</guid>
-            <pubDate>Thu, 14 Jul 2022 16:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美布两油跌幅均收窄至2%以内，WTI原油现报94.44美元/桶，较日低回弹近4美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3454203.d.html</link>
-            <guid>2741182</guid>
-            <pubDate>Thu, 14 Jul 2022 16:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国政府加快公布新金融规则的改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1590238.d.html</link>
-            <guid>2741181</guid>
-            <pubDate>Thu, 14 Jul 2022 16:22:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国利率期货市场对美联储7月份加息100个基点的押注从86%降至50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1590144.d.html</link>
-            <guid>2741180</guid>
-            <pubDate>Thu, 14 Jul 2022 16:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：在通胀开始下降之前，它可能会“进一步”上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3453877.d.html</link>
-            <guid>2741179</guid>
-            <pubDate>Thu, 14 Jul 2022 16:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁财长：秘鲁计划向500万人提供社会援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3453826.d.html</link>
-            <guid>2741178</guid>
-            <pubDate>Thu, 14 Jul 2022 16:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒讲话后，美国2年期与10年期国债收益率曲线倒挂收窄到16.1个基点，此前为27.6个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3453614.d.html</link>
-            <guid>2741177</guid>
-            <pubDate>Thu, 14 Jul 2022 16:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁财长：俄乌冲突影响秘鲁粮食生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1589651.d.html</link>
-            <guid>2741176</guid>
-            <pubDate>Thu, 14 Jul 2022 16:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国商品期货交易委员会（CFTC）将34家未注册的外国实体列入红色名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3453452.d.html</link>
-            <guid>2741175</guid>
-            <pubDate>Thu, 14 Jul 2022 16:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比利时副首相兼外交大臣维尔梅斯宣布辞职】据比利时《晚报》等多家当地媒体14日消息，比利时副首相兼外交大臣维尔梅斯当天向比利时国王菲利普正式递交辞呈，后者接受了维尔梅斯的辞职请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1589414.d.html</link>
-            <guid>2741174</guid>
-            <pubDate>Thu, 14 Jul 2022 16:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME三个月期镍下跌近9%，至19300美元/吨，为2021年12月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3452995.d.html</link>
-            <guid>2741173</guid>
-            <pubDate>Thu, 14 Jul 2022 16:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平在新疆乌鲁木齐市考察调研】12日下午至13日上午，习近平总书记在新疆乌鲁木齐市考察了新疆大学、乌鲁木齐国际陆港区、天山区固原巷社区、新疆维吾尔自治区博物馆，了解新疆加强人才培养、统筹疫情防控和经济社会发展、扎实推进民族团结进步、铸牢中华民族共同体意识等情况。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1588634.d.html</link>
-            <guid>2741172</guid>
-            <pubDate>Thu, 14 Jul 2022 16:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广西桂林发现1例新冠肺炎无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3452492.d.html</link>
-            <guid>2741171</guid>
-            <pubDate>Thu, 14 Jul 2022 16:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利与德国10年期国债息差下降6个基点，至206个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1588425.d.html</link>
-            <guid>2741170</guid>
-            <pubDate>Thu, 14 Jul 2022 16:02:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行：将年底结构流动性盈余预期维持在3.5-4.0万亿卢布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizirav3452371.d.html</link>
-            <guid>2741169</guid>
-            <pubDate>Thu, 14 Jul 2022 16:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件】2022年7月15日 周五① 待定 美国总统拜登出访沙特② 09:30 中国70个大中城市住宅售价月报③ 10:00 中国第二季度GDP年率④ 17:00 欧元区5月季调后贸易帐⑤ 20:30 加拿大5月批发销售月率⑥ 20:30 美国6月零售销售月率⑦ 20:30 美国6月进口物价指数月率⑧ 20:30 美国7月纽约联储制造业指数⑨ 21:00 美联储布拉德发表讲话⑩ 21:15 美国6月工业产出月率⑪ 22:00 美国5月商业库存月率⑫ 22:00 美国7月密歇根大学消费者信心指数初值⑬ 次日01:00 美国至7月15日当周石油钻井总数⑭ 次日03:30 美国CFTC公布周度持仓报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1588228.d.html</link>
-            <guid>2741168</guid>
-            <pubDate>Thu, 14 Jul 2022 16:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丙二醇事件致计提 麦趣尔上半年预亏1.3亿元-1.95亿元】丙二醇事件将乳企麦趣尔(002719)推上了舆论的风口浪尖。7月14日晚披露的业绩预告显示，公司预计上半年净亏损1.3亿元-1.95亿元，上年同期盈利1094万元。麦趣尔今年上半年亏损的原因很简单，主要是受公司纯牛奶中检出丙二醇事件的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-15/detail-imizmscv1588198.d.html</link>
-            <guid>2741167</guid>
-            <pubDate>Thu, 14 Jul 2022 16:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：意大利总理德拉吉还没有递交辞呈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3452130.d.html</link>
-            <guid>2741166</guid>
-            <pubDate>Thu, 14 Jul 2022 15:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：去中心化金融最终可能会改变传统金融市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1588142.d.html</link>
-            <guid>2741165</guid>
-            <pubDate>Thu, 14 Jul 2022 15:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Needham：将Roblox(RBLX.N)目标价上调至45美元，维持买入评级】Needham分析师Bernie McTernan将对Roblox的目标价从40美元上调至45美元，并维持对该股的买入评级。该分析师引用了他与该公司17名开发人员的对话，他们对Roblox的货币化环境、广告机会和用户生成内容（UGC）市场的前景表示乐观。他指出，此次讨论还反映出与去年相比，平台上的参与度和创作的便利性都在上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1588090.d.html</link>
-            <guid>2741164</guid>
-            <pubDate>Thu, 14 Jul 2022 15:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国交通部批准美国航空公司复飞古巴多地航班】当地时间7月13日，美国交通部官员批准了美国航空公司恢复飞往古巴五个目的地航班的请求，这些航班在2019年特朗普政府大幅削减两国之间的航空服务时被停止。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3452060.d.html</link>
-            <guid>2741163</guid>
-            <pubDate>Thu, 14 Jul 2022 15:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：缩表的影响力在宣布缩表的时候最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3452010.d.html</link>
-            <guid>2741162</guid>
-            <pubDate>Thu, 14 Jul 2022 15:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CIBC私人财富管理资深能源交易员Rebecca Babin：需求数据走软，宏观风险因素完全压倒了实物市场基本面吃紧，油价自由落体式下跌。未来几周的风险偏向下行，使得最为坚定的多头也处于观望模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587971.d.html</link>
-            <guid>2741161</guid>
-            <pubDate>Thu, 14 Jul 2022 15:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都一男子被指偷孩子双脚被绑 警方：系故意裸露身体】7月14日，成都崇州市公安局官方微博发布《通报》。有市民反映，当日11时许，崇州市崇阳街道白石市场附近一男子“偷孩子”被当场抓住，并被绑住双脚。警方回应，系故意裸露身体。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451955.d.html</link>
-            <guid>2741160</guid>
-            <pubDate>Thu, 14 Jul 2022 15:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哥伦比亚发生山体滑坡致一学校被埋 多名学生被困】当地时间14日上午，哥伦比亚安蒂奥基亚省发生一起山体滑坡，一所学校被泥土掩埋，尚不清楚具体伤亡人数，但据现场工作人员表示，有多名学生被困，目前当地已展开搜救工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587917.d.html</link>
-            <guid>2741159</guid>
-            <pubDate>Thu, 14 Jul 2022 15:55:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：美国抵押贷款利率回升至5.51% 可能进一步给房地产市场降温】房地美公告称，30年期抵押贷款平均利率从上周的5.3%升至5.51%。去年年底，该利率为3.11%。美国的抵押贷款利率正在以数十年罕见的速度飙升，并已经导致房地产市场开始疲软。鉴于高利率和高房价，很多购房者已经放弃找房。之前房地产涨势最旺的地区，放缓尤其明显，例如旧金山、圣何塞等城市。Redfin的数据显示，全国范围内越来越多购房交易被取消，比例达到2020年4月以来最高水平。房地美首席经济学家Sam Khater表示，鉴于利率达到十多年最高水平，房价居高不下，且通胀持续影响消费者，负担能力对许多美国人来说仍然是购房的主要障碍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587827.d.html</link>
-            <guid>2741158</guid>
-            <pubDate>Thu, 14 Jul 2022 15:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【在岸人民币兑美元较周三夜盘收跌382个基点】在岸人民币兑美元（CNY）北京时间23:30收报6.7581元，较周三夜盘收盘跌382点。成交量453.88亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587711.d.html</link>
-            <guid>2741157</guid>
-            <pubDate>Thu, 14 Jul 2022 15:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受连年干旱等多重因素影响，美国大盐湖水位降至新低】受连年干旱等多重因素影响，美国犹他州大盐湖水位本月降至有记录以来的新低。专家警告，大盐湖水位还会继续降低，恐将在卫生健康、生态和经济领域带来难题。据路透社14日报道，美国西部地区已持续干旱20年，这是造成大盐湖水位显著降低的重要因素。此外，多年来的工农业活动和居民用水等情况导致流入大盐湖的水量越来越少，湖水水位不断降低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451741.d.html</link>
-            <guid>2741156</guid>
-            <pubDate>Thu, 14 Jul 2022 15:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：事后看来，美联储应该更早开始缩债。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451734.d.html</link>
-            <guid>2741155</guid>
-            <pubDate>Thu, 14 Jul 2022 15:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【R.F. Lafferty：将Canoo(GOEV.O)目标价下调至17美元，重申买入评级】R.F. Lafferty分析师Jaime Perez将对Canoo的目标价从20美元下调至17美元，并重申对该股的买入评级。Perez在一份研究报告中告诉投资者，Canoo近日宣布与沃尔玛签订了至多1万辆车的电动汽车车队采购协议，合同价值约为3亿美元。该分析师称，目标价下调反映了该股股份增加的影响。他还将对Canoo 2023年的营收预期下调了1亿美元至7亿美元，以反映管理层对2023年1.4万-1.6万辆交付量指引区间的低端。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451730.d.html</link>
-            <guid>2741154</guid>
-            <pubDate>Thu, 14 Jul 2022 15:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：如果我们不控制通货膨胀，将造成各种影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587582.d.html</link>
-            <guid>2741153</guid>
-            <pubDate>Thu, 14 Jul 2022 15:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年上半年 新风空调线上销售额同比暴增431%】截至7月12日，高温时间已持续30天。伴随着高温天气，空调成了居家必备产品。在各地的线下家电卖场里，近期的空调销售和气温一样火热。在多家线下门店，格力、美的、TCL、海尔等空调品牌都在主推自家的新风空调产品。数据显示，2022年上半年，新风空调线上销售额同比暴增431%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587565.d.html</link>
-            <guid>2741152</guid>
-            <pubDate>Thu, 14 Jul 2022 15:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股三大股指跌幅均收窄至1%以内】美股三大股指跌幅均收窄至1%以内。截至目前，纳指跌0.76%，标普500指数跌0.92%，道指跌0.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451484.d.html</link>
-            <guid>2741151</guid>
-            <pubDate>Thu, 14 Jul 2022 15:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：噩梦般的情景是失业率和通胀高企。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587354.d.html</link>
-            <guid>2741150</guid>
-            <pubDate>Thu, 14 Jul 2022 15:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：如果失业率上升到5%，那将是相当低的水平，在历史中也不算太差。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451253.d.html</link>
-            <guid>2741149</guid>
-            <pubDate>Thu, 14 Jul 2022 15:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：在加息100个基点的预期方面 市场可能有点超前了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587221.d.html</link>
-            <guid>2741148</guid>
-            <pubDate>Thu, 14 Jul 2022 15:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】德国DAX30指数7月14日（周四）收盘下跌241.21点，跌幅1.89%，报12515.11点；英国富时100指数7月14日（周四）收盘下跌120.87点，跌幅1.69%，报7035.50点；法国CAC40指数7月14日（周四）收盘下跌84.83点，跌幅1.41%，报5915.41点；欧洲斯托克50指数7月14日（周四）收盘下跌58.32点，跌幅1.69%，报3395.65点；西班牙IBEX35指数7月14日（周四）收盘下跌137.58点，跌幅1.73%，报7807.32点；意大利富时MIB指数7月14日（周四）收盘下跌715.33点，跌幅3.36%，报20571.00点。]]></title>
-            <guid>2741147</guid>
-            <pubDate>Thu, 14 Jul 2022 15:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：我们不想对昨天的通胀数据做出下意识的反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451179.d.html</link>
-            <guid>2741146</guid>
-            <pubDate>Thu, 14 Jul 2022 15:45:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：要在下次会议上加息超过75个基点，我需要评估未来几周的数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451171.d.html</link>
-            <guid>2741145</guid>
-            <pubDate>Thu, 14 Jul 2022 15:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大股指跌幅均收窄至约1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451164.d.html</link>
-            <guid>2741144</guid>
-            <pubDate>Thu, 14 Jul 2022 15:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线下挫35点，现报108.49；英镑兑美元GBP/USD短线上扬40点，欧元兑美元EUR/USD短线上扬35点。]]></title>
-            <guid>2741143</guid>
-            <pubDate>Thu, 14 Jul 2022 15:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：不明白为何我们一定会遭受经济衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1587095.d.html</link>
-            <guid>2741142</guid>
-            <pubDate>Thu, 14 Jul 2022 15:44:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Benchmark：重申Unity Software(U.N)卖出评级，目标价为27美元】Benchmark分析师Mike Hickey重申了对Unity的卖出评级，目标价为27美元。Hickey在一份研究报告中告诉投资者，Unity宣布通过价值44亿美元的全股票交易方式收购ironSource是“惊人的”，这相当于其2022财年调整后EBITDA预期共识的35倍。该分析师对激进的收购策略持谨慎态度，因为在一个需要以严格的价格获得生产性资产的市场上，这种收购策略为不可能实现的理想化增长目标支付了过高的价格。他认为Unity的执行团队是不可信的，他强调了Unity首席执行官在电子艺界任职期间执行了鲁莽的收购策略，然而未能实现增长并最终导致价值受到损害。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451097.d.html</link>
-            <guid>2741141</guid>
-            <pubDate>Thu, 14 Jul 2022 15:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：通货膨胀正在“摧毁”人们的心态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451022.d.html</link>
-            <guid>2741140</guid>
-            <pubDate>Thu, 14 Jul 2022 15:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：预测经济衰退是非常困难的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3451019.d.html</link>
-            <guid>2741139</guid>
-            <pubDate>Thu, 14 Jul 2022 15:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纳斯达克中国金龙指数跌幅扩大至2.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586948.d.html</link>
-            <guid>2741138</guid>
-            <pubDate>Thu, 14 Jul 2022 15:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：在3.6%的失业率下发生经济衰退是不可思议的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586939.d.html</link>
-            <guid>2741137</guid>
-            <pubDate>Thu, 14 Jul 2022 15:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒重申不想过度加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586936.d.html</link>
-            <guid>2741136</guid>
-            <pubDate>Thu, 14 Jul 2022 15:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储柯林斯：对经济来说，这是一个非常具有挑战性的时期。]]></title>
-            <guid>2741135</guid>
-            <pubDate>Thu, 14 Jul 2022 15:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股收盘全线下跌 主要股指均跌超1%】欧股收盘全线下跌，主要股指均跌超1%。德国DAX指数跌1.86%，法国CAC40指数跌1.41%，英国富时100指数跌1.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450830.d.html</link>
-            <guid>2741134</guid>
-            <pubDate>Thu, 14 Jul 2022 15:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储柯林斯：对经济来说，这是一个非常具有挑战性的时期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450767.d.html</link>
-            <guid>2741133</guid>
-            <pubDate>Thu, 14 Jul 2022 15:38:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储柯林斯：通胀太高，解决通胀是当务之急。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586662.d.html</link>
-            <guid>2741132</guid>
-            <pubDate>Thu, 14 Jul 2022 15:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰共同基金行业客户资金连续外流九个月】Chamber of Fund and Asset Management（IZFiA）网站数据显示，波兰6月共同基金行业资金净外流21.5亿波兰兹罗提，5月净外流20.9亿兹罗提。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450605.d.html</link>
-            <guid>2741131</guid>
-            <pubDate>Thu, 14 Jul 2022 15:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田汽车(TM.N)发言人：已经缩减了位于得州的装配厂的生产规模，以节约能源并应对半导体短缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450591.d.html</link>
-            <guid>2741130</guid>
-            <pubDate>Thu, 14 Jul 2022 15:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：我认为中性利率是2-2.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586562.d.html</link>
-            <guid>2741129</guid>
-            <pubDate>Thu, 14 Jul 2022 15:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储理事沃勒：昨天之后应该就肯定了将加息75个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586449.d.html</link>
-            <guid>2741128</guid>
-            <pubDate>Thu, 14 Jul 2022 15:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：我们知道这份通胀报告会很难看，但现实比想象的还要难看。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586395.d.html</link>
-            <guid>2741127</guid>
-            <pubDate>Thu, 14 Jul 2022 15:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖四周期国债，得标利率1.980%（前次为1.530%），投标倍数2.75（前次为2.87）。拍卖八周期国债，得标利率2.270%（前次为1.840%），投标倍数2.47（前次为2.77）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450323.d.html</link>
-            <guid>2741126</guid>
-            <pubDate>Thu, 14 Jul 2022 15:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：美国银行账户中仍有大量过剩储蓄。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450310.d.html</link>
-            <guid>2741125</guid>
-            <pubDate>Thu, 14 Jul 2022 15:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国司法部断然拒绝谷歌公司为了避免反垄断诉讼而做出的让步。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450295.d.html</link>
-            <guid>2741124</guid>
-            <pubDate>Thu, 14 Jul 2022 15:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储7月加息溢价回落 此前Waller表示支持加75个基点】在美联储理事Waller发表讲话表示支持加息75个基点后，覆盖7月政策会议的OIS略微下降。覆盖7月会议的OIS合约的利率一度跌至2.44%以下，收在2.46%左右，而盘中高点是2.525%。该利率意味着押注美联储7月加息约88个基点，低于周三收盘时的91个基点。更远期，OIS定价到12月会议加息约210个基点，接近周三收盘水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586253.d.html</link>
-            <guid>2741123</guid>
-            <pubDate>Thu, 14 Jul 2022 15:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：周五的零售销售数据将显示消费者支出的强劲水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586217.d.html</link>
-            <guid>2741122</guid>
-            <pubDate>Thu, 14 Jul 2022 15:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：俄罗斯央行不愿管理西方银行在当地的分支机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586191.d.html</link>
-            <guid>2741121</guid>
-            <pubDate>Thu, 14 Jul 2022 15:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌1.93%，报12509.94点。法国股指初步收跌1.40%，意大利股指初步收跌3.38%，英国股指初步收跌1.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450184.d.html</link>
-            <guid>2741120</guid>
-            <pubDate>Thu, 14 Jul 2022 15:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌1.56%，报406.35点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450171.d.html</link>
-            <guid>2741119</guid>
-            <pubDate>Thu, 14 Jul 2022 15:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟经济委员真蒂洛尼：疲软的欧元目前没有优势。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1586076.d.html</link>
-            <guid>2741118</guid>
-            <pubDate>Thu, 14 Jul 2022 15:29:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国石化与8家单位签署氢能产业链建设合作协议】据中国石化新闻办消息，在14日举行的氢能应用现代产业链建设推进会暨高质量发展论坛上，中国石化所属相关企业分别与河南机场集团、宝武清洁能源公司、一汽解放公司、上海重塑、中国氢能联盟、中国船级社、上海交通大学材料学院氢科学中心、国家电投武汉绿动氢能公司等8家单位签署氢能产业链建设合作协议，携手打造氢能应用现代产业链、推动氢能产业高质量发展。]]></title>
-            <guid>2741117</guid>
-            <pubDate>Thu, 14 Jul 2022 15:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信信托57亿元疑似无法兑付，有投资人认购千万苦等84天未果】中信信托旗下一款产品疑似无法正常兑付。投资人在等待147天后，依然没有结果。7月14日，身在北京的某位投资人表示，当天三名投资人跟中信信托的经理和律师等7名人员在北京总部进行了一次线下沟通，主要围绕产品兑付、后续解决措施等问题。上述投资人表示，“没有什么实质性的进展，也没有任何承诺，但是对方表现得比较乐观。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3450049.d.html</link>
-            <guid>2741116</guid>
-            <pubDate>Thu, 14 Jul 2022 15:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加密货币借贷平台Celsius申请破产】加密货币借贷平台Celsius Network已根据美国破产法第11章申请破产保护。一个月前，该公司冻结了客户提款，加入了其他遭受数字资产崩盘打击的受害者的行列。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3449941.d.html</link>
-            <guid>2741115</guid>
-            <pubDate>Thu, 14 Jul 2022 15:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【油价再度大跌，跌破关键技术支撑位，抹去俄乌冲突来所有涨幅】WTI原油日内跌幅超5%，报91.44美元/桶，布伦特原油日内跌幅达4.5%，报95.06美元/桶。当前，油价已跌破关键的200日移动平均线，并创下俄乌冲突爆发以来的最低水平。此前，WTI原油和布油均已陷入技术性熊市，较高点下挫超过20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585880.d.html</link>
-            <guid>2741114</guid>
-            <pubDate>Thu, 14 Jul 2022 15:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯里兰卡议长：将核实总统拉贾帕克萨辞呈的真实性，确保所有法律程序完成，并将于周五发布正式通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585837.d.html</link>
-            <guid>2741113</guid>
-            <pubDate>Thu, 14 Jul 2022 15:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易商数据显示，今年4-6月，沙特至少进口了64.7万吨俄罗斯燃料油，是去年同期进口量的两倍多。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3449768.d.html</link>
-            <guid>2741112</guid>
-            <pubDate>Thu, 14 Jul 2022 15:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟拟对乌克兰的武器融资增加到25亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585612.d.html</link>
-            <guid>2741111</guid>
-            <pubDate>Thu, 14 Jul 2022 15:22:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：下次会议之前的通胀预期数据将有助于影响我对7月会议加息规模的看法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585506.d.html</link>
-            <guid>2741110</guid>
-            <pubDate>Thu, 14 Jul 2022 15:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高途(GOTU.N)盘中涨幅扩大至13%，最高触及2.01美元。其他中概在线教育股涨跌互现，新东方(EDU.N)涨2.36%，好未来(TAL.N)跌2.8%，有道(DAO.N)跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3449468.d.html</link>
-            <guid>2741109</guid>
-            <pubDate>Thu, 14 Jul 2022 15:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织：非洲地区人畜共患疾病暴发呈上升趋势】世界卫生组织非洲区域主任玛奇迪索·穆蒂14日在刚果（布）首都布拉柴维尔召开的线上记者会上说，2012年至2022年间，非洲地区人畜共患疾病暴发的数量与2001年至2011年相比上升了63%。人畜共患疾病是指动物和人类之间自然传染的疾病，包括埃博拉、猴痘等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585423.d.html</link>
-            <guid>2741108</guid>
-            <pubDate>Thu, 14 Jul 2022 15:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国ICE棉花期货触及跌停，现报83.71美分/磅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3449380.d.html</link>
-            <guid>2741107</guid>
-            <pubDate>Thu, 14 Jul 2022 15:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙泉股份发预亏 半年度净亏损4700万至6100万元 同比由盈转亏】龙泉股份(002671.SZ)披露2022年半年度业绩预告，该公司预计半年度归属于上市公司股东的净亏损4700万至6100万元，同比由盈转亏。扣除非经常性损益后的净亏损5750万至7450万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585343.d.html</link>
-            <guid>2741106</guid>
-            <pubDate>Thu, 14 Jul 2022 15:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【木林森发预减 半年度净利润1.85亿至2.05亿元 同比降68.27%至71.36%】木林森(002745.SZ)披露2022年半年度业绩预告，该公司预计半年度归属于上市公司股东的净利润1.85亿至2.05亿元，同比下降68.27%至71.36%。扣除非经常性损益后的净利润1.75亿至1.95亿元，同比下降66.15%至69.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585301.d.html</link>
-            <guid>2741105</guid>
-            <pubDate>Thu, 14 Jul 2022 15:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申通快递发预盈，半年度净利润1.7亿元-2亿元，同比扭亏为盈】申通快递(002468.SZ)发布2022年半年度业绩预告，预计归属于上市公司股东的净利润1.7亿元-2亿元，同比扭亏为盈。扣除非经常性损益后的净利润1.55亿元-1.85亿元，同比扭亏为盈。基本每股收益0.11元/股–0.13元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585274.d.html</link>
-            <guid>2741104</guid>
-            <pubDate>Thu, 14 Jul 2022 15:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟下调明年经济增长预期】欧盟委员会14日发布的夏季经济预测报告说，欧盟维持今年经济增长预期不变，但下调明年增长预期。报告预计，2022年欧盟经济将增长2.7%，2023年将增长1.5%；2022年欧元区经济将增长2.6%，2023年放缓至1.4%。2022年欧盟年均通胀率为8.3%，欧元区为7.6%；2023年欧盟年均通胀率降至4.6%，欧元区为4.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3449218.d.html</link>
-            <guid>2741103</guid>
-            <pubDate>Thu, 14 Jul 2022 15:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【启迪环境发预亏，半年度净亏损1.7亿元-2.5亿元】启迪环境(000826.SZ)发布2022年半年度业绩预告，预计归属于上市公司股东的净亏损1.7亿元-2.5亿元。扣除非经常性损益后的净亏损1.7亿元-2.1亿元。基本每股亏损0.15元/股–0.20元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1585158.d.html</link>
-            <guid>2741102</guid>
-            <pubDate>Thu, 14 Jul 2022 15:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟经济委员真蒂洛尼：欧盟-意大利关系牢固，不受政治影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3449010.d.html</link>
-            <guid>2741101</guid>
-            <pubDate>Thu, 14 Jul 2022 15:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟经济委员真蒂洛尼：德拉吉强有力的领导为意大利带来了益处。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3448959.d.html</link>
-            <guid>2741100</guid>
-            <pubDate>Thu, 14 Jul 2022 15:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国抵押贷款利率在经历了两周的下跌后再次回升】据房地美数据，30年期固定抵押贷款利率从前一周的5.30%上升至5.51%，虽然低于6月下旬的5.81%，但平均水平仍较年初高出逾2个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3448940.d.html</link>
-            <guid>2741099</guid>
-            <pubDate>Thu, 14 Jul 2022 15:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉贾帕克萨正式辞去斯里兰卡总统职务】据斯里兰卡媒体报道，当地时间7月14日，戈塔巴雅·拉贾帕克萨正式向斯议长递交辞呈，辞去斯里兰卡总统职务。]]></title>
-            <guid>2741098</guid>
-            <pubDate>Thu, 14 Jul 2022 15:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗：现在美联储7月加息100个基点是最大可能性】美国通胀刷新四十年最高纪录后，花旗的经济学家现在认为，美联储7月底开会时加息100个基点是最有可能的结果。“委员会6月曾表示，它会对每个月的通胀数据作出回应，” 花旗集团经济学家Andrew Hollenhorst等人周四在致客户的报告中写道，“我们现在预计美联储将在本月晚些时候的会议上加息100个基点。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3448718.d.html</link>
-            <guid>2741097</guid>
-            <pubDate>Thu, 14 Jul 2022 15:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线回落30点，现报108.71；英镑兑美元GBP/USD短线回弹超30点，欧元兑美元EUR/USD短线回弹35点。]]></title>
-            <guid>2741096</guid>
-            <pubDate>Thu, 14 Jul 2022 15:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储：研究表明缩表的影响温和，等同于不超过三次25个基点的加息】美国亚特兰大联储银行经济学家Bin Wei的一项新的研究显示，美联储缩小8.9万亿美元资产负债表逐步产生的影响，等同于不超过三次、每次25个基点的加息。在周四发表的一篇论文中，该经济学家估计，美联储以被动方式分三年将2.2万亿美元美债脱手，等同于在正常时期将当前的联邦基金利率上调29个基点，但相当于动荡时期加息74个基点。这暗示，为了应对通胀，相比于加息，缩减资产规模会产生相对温和的影响。美联储官员和华尔街经济学家已经表示，所谓的量化紧缩对于经济的影响存在普遍的不确定性。Bin Wei表示，他的估计存在“巨大的不确定性”，“金融市场环境，美债发行的期限结构，以及项目执行情况暗示，可以随着时间推移逐步了解到更多信息，用以调整对于影响的估计。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1584653.d.html</link>
-            <guid>2741095</guid>
-            <pubDate>Thu, 14 Jul 2022 15:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟经济委员真蒂洛尼：由于天然气供应减少，部分地区可能会出现经济负增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizmscv1584585.d.html</link>
-            <guid>2741094</guid>
-            <pubDate>Thu, 14 Jul 2022 15:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰铢兑美元跌至2006年以来最低水平】泰铢跌至2006年以来最低水平，因为对全球衰退风险的担忧刺激了投资者的避险需求，并推动美元兑多数主要对手货币走高。泰国央行周四表示，即使菲律宾和新加坡等国意外收紧政策，该行也不会就基准利率召开临时会议。泰铢当日一度下跌1.3%，触及36.677泰铢兑1美元，是2006年以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-14/detail-imizirav3448464.d.html</link>
-            <guid>2741093</guid>
-            <pubDate>Thu, 14 Jul 2022 15:08:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
