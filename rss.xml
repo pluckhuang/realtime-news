@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 17 Jul 2022 16:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 19:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[天津7月18日新增2名本土新冠病毒阳性感染者，均为主动就医筛查发现。（央视）]]></title>
+            <guid>2743334</guid>
+            <pubDate>Sun, 17 Jul 2022 18:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁波奉化休闲渔船侧翻事故已致6人死亡】据“奉化发布”消息，截至7月18日零时35分，发生在宁波奉化区翡翠湾码头的休闲渔船侧翻事故，已致6人经抢救无效死亡，另有1人正在紧急搜救中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizirav4027446.d.html</link>
+            <guid>2743333</guid>
+            <pubDate>Sun, 17 Jul 2022 18:19:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【利比亚宣布恢复中断近3个月的港口石油出口】当地时间7月17日，利比亚石油和天然气部发表声明，宣布正式恢复已中断近3个月的港口石油出口。今年4月，利比亚国家石油公司宣布该国最大油田沙拉拉油田等遭遇“不可抗力”，石油生产被迫中断。7月15日，由利比亚民族团结政府新任命的国家石油公司总裁法尔哈特宣布解除该国油田和港口的“不可抗力”状态。法尔哈特表示，利比亚将全面恢复所有石油产区的生产活动，日产量将于近期恢复至300万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizmscv2155425.d.html</link>
+            <guid>2743332</guid>
+            <pubDate>Sun, 17 Jul 2022 18:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德总理：在决定欧盟外交和安全政策时 欧盟成员国不应保留一票否决权 】 当地时间17日，德国总理朔尔茨在媒体发表专栏文章表示，欧盟必须成为地缘政治的参与者，在决定欧盟的外交和安全政策时，欧盟成员国不应再保留一票否决权。朔尔茨称，俄乌冲突改变了欧洲和世界的安全格局，以此为转折点，需要采取行动维护德国的安全、维护欧盟主权和国际秩序。德国已经设立了1000亿欧元的国防特别基金，这标志着德国安全政策的最大转折。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizmscv2155356.d.html</link>
+            <guid>2743331</guid>
+            <pubDate>Sun, 17 Jul 2022 18:17:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【市场消息：中国香港特区料批准3岁以下幼童接种新冠疫苗 科兴最有希望】香港卫生专家预计将在8月建议政府允许三岁以下的幼童接种新冠疫苗。消息人士称，科兴疫苗被认为是最实际的选择。政府的疫苗委员会可能会在下个月就年龄范围达成一致。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizirav4011505.d.html</link>
@@ -594,30 +617,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2076901.d.html</link>
             <guid>2743229</guid>
             <pubDate>Sun, 17 Jul 2022 08:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本研究：BA.5毒株具备此前流行毒株5种变异特征 更易侵入人体细胞】据日本《读卖新闻》17日报道，近期，奥密克戎BA.5亚型毒株致日本疫情急剧扩散。日本专家认为，BA.5毒株具备迄今为止广泛传播的阿尔法、德尔塔等毒株的5种变异特征，传染性比BA.2毒株更强。此外，BA.5毒株的传染性和逃逸人类免疫反应能力或进一步增强。 (海外网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2076486.d.html</link>
-            <guid>2743228</guid>
-            <pubDate>Sun, 17 Jul 2022 08:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【哈尔斯：控股股东拟转让11.85%股份】哈尔斯公告，控股股东吕强先生拟通过协议转让的方式向龚文华先生、魏迪波女士分别转让2100万股、2800万股股份，合计占公司总股本的11.85%，转让价款共计2.87亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2075922.d.html</link>
-            <guid>2743227</guid>
-            <pubDate>Sun, 17 Jul 2022 08:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【万孚生物：公司的艾滋自测产品已通过世界卫生组织的预认证】万孚生物公告，公司的艾滋自测产品已通过世界卫生组织的预认证，被世界卫生组织列入体外诊断产品推荐采购清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2075859.d.html</link>
-            <guid>2743226</guid>
-            <pubDate>Sun, 17 Jul 2022 08:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【水羊股份：拟以4450万欧元购买EviDenS de Beauté SAS 90.05%的股权】水羊股份公告，全资子公司拟以4450万欧元购买Kazokou SAS 及 Orsay 53 SAS合计持有的 EviDenS de Beauté SAS （以下简称“标的公司”）90.05%的股权，并以500万欧元平价购买原股东持有的标的公司年初已宣派但未支付的股利形成的债权，本次交易金额合计4950万欧元。标的公司旗下拥有化妆品品牌 EviDenS de Beauté。本次收购完成后，标的公司 EviDenS de Beauté SAS 将纳入公司合并报表范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2075810.d.html</link>
-            <guid>2743225</guid>
-            <pubDate>Sun, 17 Jul 2022 08:27:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
