@@ -4,11 +4,562 @@
         <title>新浪新闻</title>
         <link>https://pluckhuang.github.io/realtime-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 25 Jul 2022 16:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 19:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://pluckhuang.github.io/realtime-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【首批合资理财公司产品到期 八成收益率低于基准】多家合资理财公司在国内陆续开业、发布产品，吸引了众多投资者“尝鲜”。然而，受今年上半年股市及债市波动等因素影响，银行系理财产品曾一度超千只产品跌破净值。对于部分主打“固收+”产品的合资理财公司而言，今年上半年日子属实“不好过”。截至7月25日，首批到期的合资理财公司产品共有23只，其中有八成实际收益率低于业绩比较基准。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516443.d.html</link>
+            <guid>2752156</guid>
+            <pubDate>Mon, 25 Jul 2022 19:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股猴痘概念股尾盘继续走高，GeoVax Labs(GOVX.O)涨超170%，Tonix Pharmaceuticals(TNXP.O)涨超54%，SIGA Technologies(SIGA.O)涨超31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516432.d.html</link>
+            <guid>2752155</guid>
+            <pubDate>Mon, 25 Jul 2022 19:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西三个州首府将启用5G信号】巴西国家通信管理局顾问莫伊塞斯·莫雷拉当地时间25日表示，继巴西首都巴西利亚启用5G通信信号之后，该国米纳斯吉拉斯州首府贝洛奥里藏特、帕拉伊巴州首府若昂佩索阿和南里奥格兰德州首府阿雷格里港将在7月29日正式启用5G信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516394.d.html</link>
+            <guid>2752154</guid>
+            <pubDate>Mon, 25 Jul 2022 19:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳指跌超1%，但中概股拼多多逆市涨超3%】 美股尾盘，纳斯达克100指数跌幅扩大至约1.2%，成分股Align跌5.7%领跌，Idexx实验室跌5.2%，电动汽车生产商Lucid集团跌4.9%，Datadog跌4.5%，TEAM跌超4.0%，OKTA跌3.6%，迈威尔科技、奥多比、英伟达至多跌超3.5%，网易则仍然涨约1.5%，京东涨超1.8%，拼多多涨约3.3%。标普500指数跌0.4%，刷新日低至3946点下方。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516278.d.html</link>
+            <guid>2752153</guid>
+            <pubDate>Mon, 25 Jul 2022 19:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊失守1500美元/枚，日内跌幅6.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516246.d.html</link>
+            <guid>2752152</guid>
+            <pubDate>Mon, 25 Jul 2022 19:07:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家安全委员会发言人：美国将继续与国际社会探讨通过陆路增加对乌克兰粮食出口的选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516213.d.html</link>
+            <guid>2752151</guid>
+            <pubDate>Mon, 25 Jul 2022 19:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家安全委员会发言人：俄罗斯对敖德萨的袭击使人们严重怀疑俄罗斯在粮食协议上的信誉。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516123.d.html</link>
+            <guid>2752150</guid>
+            <pubDate>Mon, 25 Jul 2022 19:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数下跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3516080.d.html</link>
+            <guid>2752149</guid>
+            <pubDate>Mon, 25 Jul 2022 19:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨0.42%，报20647点，高水84点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3515971.d.html</link>
+            <guid>2752148</guid>
+            <pubDate>Mon, 25 Jul 2022 19:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登政府计划任命一名全国猴痘疫情协调员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402962.d.html</link>
+            <guid>2752147</guid>
+            <pubDate>Mon, 25 Jul 2022 19:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货日内大涨6.00%，现报8.687美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3515962.d.html</link>
+            <guid>2752146</guid>
+            <pubDate>Mon, 25 Jul 2022 19:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：拜登政府考虑宣布猴痘疫情为卫生紧急事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402936.d.html</link>
+            <guid>2752145</guid>
+            <pubDate>Mon, 25 Jul 2022 18:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：只要我们相互理解，就没有理由不与埃及举行高层会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3515899.d.html</link>
+            <guid>2752144</guid>
+            <pubDate>Mon, 25 Jul 2022 18:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：南非将废止对私营发电商的许可证规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402542.d.html</link>
+            <guid>2752143</guid>
+            <pubDate>Mon, 25 Jul 2022 18:49:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽蒙特矿业(NEM.N)绩后跌近14%，Q2净利润同比下降约40%至3.87亿美元，并下调全年黄金产量指引。其他美股黄金股普遍下跌，哈莫尼黄金(HMY.N)、金罗斯黄金(KGC.N)跌超4%，巴里克黄金(GOLD.N)跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402491.d.html</link>
+            <guid>2752142</guid>
+            <pubDate>Mon, 25 Jul 2022 18:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：土耳其将增加从伊朗的石油和天然气购买。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402454.d.html</link>
+            <guid>2752141</guid>
+            <pubDate>Mon, 25 Jul 2022 18:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：不管白宫怎么拗 美国经济仍然看似在迈向衰退】分析机构指出，美国白宫可能正在试图改变对衰退的定义，想要掩盖经济不佳的局面。芝加哥联储国民活动指数很好地反映了美国经济正在陷入潜在衰退的走向。这似乎证实了亚特兰大联储GDPNow模型的预测，即第二季增速为-1.6%。若果真如此，那美国经济将连续两个季度出现负增长，也就是俗称的衰退。但这并不是坏消息，虽然经济增长放缓，但这会引起美联储的注意，只要加息暂停，对风险资产来说就是福音，美元则将面临压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3515411.d.html</link>
+            <guid>2752140</guid>
+            <pubDate>Mon, 25 Jul 2022 18:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非总统拉马福萨表示，将向议会提交立法，以解决增加电力容量的障碍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402362.d.html</link>
+            <guid>2752139</guid>
+            <pubDate>Mon, 25 Jul 2022 18:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国：非洲之角的旱情正持续加剧】当地时间7月25日，联合国人道主义事务协调厅表示，非洲之角正遭受四十多年来最严重的干旱。埃塞俄比亚、肯尼亚和索马里的部分地区遭遇连续四个雨季的降水不足，民众面临饥饿的威胁，这也是至少四十年来少见的气候极端事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402344.d.html</link>
+            <guid>2752138</guid>
+            <pubDate>Mon, 25 Jul 2022 18:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：南非将废止私营发电商的许可规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5402335.d.html</link>
+            <guid>2752137</guid>
+            <pubDate>Mon, 25 Jul 2022 18:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织25日公布的最新数据显示，全球累计新冠确诊病例超5.669亿例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3515039.d.html</link>
+            <guid>2752136</guid>
+            <pubDate>Mon, 25 Jul 2022 18:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁猴痘确诊病例升至203例】秘鲁卫生部当地时间7月25日报告称，该国猴痘确诊病例目前已升至203例，感染者来自全国8个地区，其中175例集中在首都利马。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401882.d.html</link>
+            <guid>2752135</guid>
+            <pubDate>Mon, 25 Jul 2022 18:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：北约扩张“并非易事”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514873.d.html</link>
+            <guid>2752134</guid>
+            <pubDate>Mon, 25 Jul 2022 18:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Argus：将联合健康(UNH.N)目标价上调至650美元，维持买入评级】Argus分析师David Toung将联合健康的目标价从580美元上调至650美元，并维持对该股的买入评级。联合健康此前发布了第二季度业绩并上调了业绩指引。该分析师认为，该公司在其管理式医疗和Optum业务方面提供了坚实的增长动力，并补充说，顶线增长和利润率扩张正在推动其维持行业领先的投资回报率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514853.d.html</link>
+            <guid>2752133</guid>
+            <pubDate>Mon, 25 Jul 2022 18:38:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据报道，欧盟各国部长将在当地时间周二召开的能源理事会特别会议上讨论在减少天然气需求上达成政治协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401757.d.html</link>
+            <guid>2752132</guid>
+            <pubDate>Mon, 25 Jul 2022 18:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国能源监管机构：在11月份之前完成天然气储备计划“不现实”】 当地时间25日，德国能源监管机构联邦网络局局长穆勒表示，德国目前天然气储备量约为66%，按照目前的进度，在11月1日之前完成90%或95%的储备是“不现实”的，如果“北溪-1”天然气管道只能维持40%左右的输气量，那么到11月份之前德国最多只能储备80%至85%的天然气。联邦政府和联邦网络局的目标是节省20%的天然气使用，为冬季做准备。截至目前，德国天然气消费量与去年同期相比下降了14%。穆勒表示：“如果不付出额外的努力，我们无法在冬季之前完成储备目标。”（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514833.d.html</link>
+            <guid>2752131</guid>
+            <pubDate>Mon, 25 Jul 2022 18:37:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 8月天然气期货收涨5.16%，报8.7270美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514811.d.html</link>
+            <guid>2752130</guid>
+            <pubDate>Mon, 25 Jul 2022 18:36:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：土耳其不会在瑞典、芬兰的要求上妥协。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514789.d.html</link>
+            <guid>2752129</guid>
+            <pubDate>Mon, 25 Jul 2022 18:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：土耳其对芬兰、瑞典解决恐怖主义问题抱有期望。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401659.d.html</link>
+            <guid>2752128</guid>
+            <pubDate>Mon, 25 Jul 2022 18:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 9月原油期货收涨2.00美元，涨幅2.11%，报96.70美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401643.d.html</link>
+            <guid>2752127</guid>
+            <pubDate>Mon, 25 Jul 2022 18:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：洛克希德马丁(LMT.N)与美国国防部的合同预期将包括375架F-35战斗机，总价值约300亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401634.d.html</link>
+            <guid>2752126</guid>
+            <pubDate>Mon, 25 Jul 2022 18:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞银：企业盈利推动7月股市的上涨 标普500指数有望录得去年10月以来最大月涨幅】瑞银全球财富管理首席投资官Mark Haefele说，截至目前已经发布第二季度财报的公司中，60%销售超预期，75%利润超预期。“总体而言，利润增长正在放缓，但没有下降，”他说。对企业盈利可以经受通胀暴涨、鹰派央行和潜在衰退这组完美风暴冲击的乐观情绪，推动了7月股市的上涨，标普500指数有望录得去年10月以来最大月涨幅。虽然公司的业绩指引已经开始反映高成本带来的压力，但瑞银全球财富管理策略师表示，消费支出仍然坚挺，特别是在旅游相关行业。“航空公司、酒店和信用卡公司表明休闲需求强劲，企业支出正在增加，”Haefele写道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514664.d.html</link>
+            <guid>2752125</guid>
+            <pubDate>Mon, 25 Jul 2022 18:34:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2209合约夜盘收涨0.48%，报655.20元人民币/桶。沪金夜盘收跌0.47%，沪银收跌0.98%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514612.d.html</link>
+            <guid>2752124</guid>
+            <pubDate>Mon, 25 Jul 2022 18:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国社民党主席称支持推迟淘汰核电项目】 德社民党主席埃斯肯表示，支持推迟淘汰核电项目，联邦政府目前正在对此进行研究商讨。德国目前正面临能源危机，联邦政府已宣布将推迟部分煤炭发电厂和石油发电厂的关闭，一些已经关闭的煤炭发电厂和石油发电厂也将重启工作至冬季结束。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514597.d.html</link>
+            <guid>2752123</guid>
+            <pubDate>Mon, 25 Jul 2022 18:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 7月26日（周二）晚盘收盘下跌0.48%报374.9元/克；上海黄金交易所白银T+D 7月26日（周二）晚盘收盘下跌0.82%报4098.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514572.d.html</link>
+            <guid>2752122</guid>
+            <pubDate>Mon, 25 Jul 2022 18:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至2:30收盘，沪金主力合约收跌0.47%，报376元/克，沪银主力合约收跌0.98%，报4128元/千克，SC原油主力合约收涨0.48%，报655元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514565.d.html</link>
+            <guid>2752121</guid>
+            <pubDate>Mon, 25 Jul 2022 18:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际粮价高位震荡 专家称对国内CPI影响可控】今年以来，国际粮食价格高位震荡。以小麦为例，数据显示，今年3月7日，芝加哥期货交易所（CBOT）小麦期货收盘价为13.113美元/蒲式耳，较年初上涨72%。此后波动调整，截至7月22日收盘，报7.555美元/蒲式耳，较3月7日高点下跌超42%，整体仍处相对高位。国际粮食价格高位震荡，对我国影响几何？多位接受《证券日报》记者采访的业内人士认为，当前我国粮食安全形势较好，国际粮价的剧烈波动对我国CPI影响可控。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514553.d.html</link>
+            <guid>2752120</guid>
+            <pubDate>Mon, 25 Jul 2022 18:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【月内公募基金发行“结构性”特征凸显 定档待发产品向权益类倾斜】伴随A股市场持续震荡，公募基金发行市场出现较为明显的“结构性”特征。7月份以来，中证1000ETF、中证上海环交所碳中和ETF等相关主题基金发行备受投资者追捧，而若剔除这些亮点基金产品，基金发行市场整体热度较6月份有所下滑。而基金公司乐观看待下半年公募基金发行市场。总体来看，已经定档发行的新基金产品布局有从较低风险类别的稳健型基金向权益类基金倾斜的明显趋势。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401299.d.html</link>
+            <guid>2752119</guid>
+            <pubDate>Mon, 25 Jul 2022 18:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：呼吁粮食协议相关各方尊重他们签署的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401291.d.html</link>
+            <guid>2752118</guid>
+            <pubDate>Mon, 25 Jul 2022 18:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：通胀和新冠肺炎疫情导致的（生产）延误将影响F-35战斗机的订单规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5401215.d.html</link>
+            <guid>2752117</guid>
+            <pubDate>Mon, 25 Jul 2022 18:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌解雇认为其AI系统有意识的工程师】谷歌解雇了一位名为Blake Lemoine的软件工程师，该工程师认为公司的对话应用语言模型(Language Model for Dialogue Applications)是一个拥有权利的人，很可能有了灵魂。LaMDA是一个内部系统，用于构建模仿语音的聊天机器人。谷歌最初于6月暂停了Lemoine的职务。谷歌在一份声明中表示，公司已经评估了Lemoine的主张，并发现这些主张没有依据。谷歌表示，“令人遗憾的是，尽管在这个问题上进行了长时间的接触，Blake仍然选择持续违反从业和数据安全方面的明确政策，其中包括保护产品信息的需要。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514053.d.html</link>
+            <guid>2752116</guid>
+            <pubDate>Mon, 25 Jul 2022 18:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特王储公布“THE LINE”城市项目设计方案】沙特王储穆罕默德·本·萨勒曼当地时间25日晚公布了“THE LINE”城市项目设计方案。穆罕默德对外界表示，这一项目代表了可持续发展的开创性模式和与自然和谐相处的理念。按照介绍，“THE LINE”项目是一个名副其实的线性城市，全长接近170公里长，仅有200米宽，建筑物高度超过500米，可容纳约900万人居住和生活。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3514031.d.html</link>
+            <guid>2752115</guid>
+            <pubDate>Mon, 25 Jul 2022 18:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非总统：南非正面临一场全国性的能源危机，南非的目标是提高南非国家电力公司（ESKOM）的产能，提高PVT发电量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3513957.d.html</link>
+            <guid>2752114</guid>
+            <pubDate>Mon, 25 Jul 2022 18:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（7月25日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.64%，报314.50欧元/吨。油菜籽期货跌0.90%，报631.75欧元/吨。]]></title>
+            <guid>2752113</guid>
+            <pubDate>Mon, 25 Jul 2022 18:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西7月份前16个工作日铁矿石发货量均值为152万吨/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3513802.d.html</link>
+            <guid>2752112</guid>
+            <pubDate>Mon, 25 Jul 2022 18:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国首相约翰逊告诉朋友，如果保守党成员支持他，他不想辞职，将继续留任。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5400481.d.html</link>
+            <guid>2752111</guid>
+            <pubDate>Mon, 25 Jul 2022 18:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国航空监管部门：波音777飞机存在燃料箱爆炸隐患，敦促各航司赶紧检修】 美国监管部门正勒令众多承运波音公司（BA）777宽体飞机的美国航空公司修复相关飞机，从而打消各方针对该机型的潜在顾虑——燃料箱爆炸风险。在一份草拟的适航性指令中，美国联邦航空管理局（FAA）敦促各飞机运营商检查波音777飞机，安装特氟龙（Teflon）套筒/封圈/垫片，并加固飞机中部、左侧、以及右侧主燃料箱的特定零部件，此命令涉及到282架飞行器。此前，FAA已于2017年发布类似的指令，要求检修更多数目的777机型——从777-200机型到流行款777-300 ER等多个系列。FAA在文件中表示，此举意在“防范故障电流或雷击造成飞机主油箱和中部燃料箱产生内部电弧，若电弧遇到易燃的航空燃料气体，可能就会造成燃料箱爆炸，进而造成飞行器损毁”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5400311.d.html</link>
+            <guid>2752110</guid>
+            <pubDate>Mon, 25 Jul 2022 18:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【监管部门明确IPO审核计时 保荐人不得拖延回复】近日，记者从投行人士处获悉，有个别保荐人或发行人利用规则漏洞拖延回函时间。深交所创业板上市审核中心为此明确，保荐人原则上应在收到审核部门修改意见后的10个工作日内提交符合要求的审核问询回复及相关申报文件，若确有必要，可以提交延期申请，原则上延期同样不能超过10个工作日。如果延期后仍未能提交符合要求的问询回复及相关文件，那么深交所将恢复发行人端计时。有业内人士表示，该规定对投行和发行人的回复效率提出了更高的要求。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3513324.d.html</link>
+            <guid>2752109</guid>
+            <pubDate>Mon, 25 Jul 2022 18:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯官员表示，俄罗斯传染猴痘风险概率非常低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3513297.d.html</link>
+            <guid>2752108</guid>
+            <pubDate>Mon, 25 Jul 2022 18:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“当代系”退场提速 湖北国资接盘天风证券】天风证券股东变动有了最新进展，“当代系”正加速退出。昨日晚间，天风证券披露，湖北国资企业宏泰集团董事会一致同意收购人福医药持有的天风证券7.85%股权。天风证券此前曾公告，此番转让金额为21.24亿元。上述交易完成后，多年持股的“当代系”将基本退出，天风证券持股5%以上的股东全部变为国资背景，国有资本主导的混合所有制股权结构将更明晰。这也意味着，如果后续监管审批顺利，湖北国资和武汉国资在获取券商牌照方面将有新突破，分别成为天风证券和九州证券的主要股东。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3513246.d.html</link>
+            <guid>2752107</guid>
+            <pubDate>Mon, 25 Jul 2022 18:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【昔日百亿独角兽爆雷 创始人：我们不是骗子】备受关注的汇桔网迎来最新进展。7月25日晚间，广州黄埔公安发布最新公告称，广州博鳌纵横网络科技有限公司（汇桔网）涉嫌非法吸收公众存款犯罪，广州市公安局黄埔区分局已立案侦查，并对涉案主要犯罪嫌疑人依法采取刑事强制措施。目前，案件正在进一步侦办中。2014年起，博鳌纵横先后获得厚朴投资、黑马基金、IDG资本、粤民投等知名PE/VC投资，最高时估值超过13亿美元（约合90亿人民币），是当时知识产权领域知名的“独角兽”企业。2020年9月29日，谢旭辉在汇桔网公众号发布文章《汇桔的心路与求索——给知商客户与所有关心支持汇桔的社会各界一封告白书》，自陈“汇桔目前账上是真没有钱，现金流极度紧张，而不是大家认为的我们有钱故意拖欠不支付工资”，但他并未提出拖欠薪资的具体解决方案，只说到在9月底，如果严格控制各项支出的话，汇桔基本上可以实现当月收支平衡，正常营收能基本上覆盖当月支出，不再处于失血状态。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5400156.d.html</link>
+            <guid>2752106</guid>
+            <pubDate>Mon, 25 Jul 2022 18:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【职业教育风生水起 上市公司跨界“执教”】扬杰科技党委书记、副董事长梁瑶7月25日表示：“今年是第一年大规模招生，最新报名学生已超过500名。”扬州智能科技技工学校是A股功率半导体企业扬杰科技打造的职业技能院校，也是国家鼓励上市公司、行业龙头企业举办职业教育下的一个缩影。特别是随着今年5月新修订的《职业教育法》 正式实施，首次明确职业教育与普通教育具有同等重要地位，参与职教的主体从传统的民办高教，已经逐步拓展到各行各业的上市公司。记者采访了解到，在职业教育领域，上市公司发挥各自专长，正在探索产教融合的新路径，打造从育人到用人的“直通车”，尝试打破隐性门槛，破解当下学生“就业难”与企业“招工难”的尴尬局面。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5400132.d.html</link>
+            <guid>2752105</guid>
+            <pubDate>Mon, 25 Jul 2022 18:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土防长与乌基础设施部部长就黑海粮食运输问题通电话】当地时间7月25日，土耳其国防部长阿卡尔与乌克兰基础设施部部长库布拉科夫通电话。土耳其国防部发布的声明称，阿卡尔对于乌克兰港口粮食即将开始外运表示满意，并称本周最重要的就是让第一艘运粮船尽快启运。阿卡尔强调，土耳其将继续为粮食运输尽自己的一份力量。目前，伊斯坦布尔联合协调中心的工作在继续进行。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5400090.d.html</link>
+            <guid>2752104</guid>
+            <pubDate>Mon, 25 Jul 2022 17:59:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 8月黄金期货收跌0.5%，报1719.1美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3513153.d.html</link>
+            <guid>2752103</guid>
+            <pubDate>Mon, 25 Jul 2022 17:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国又一铁路工会宣布将在8月罢工】据报道，英国运输业职工协会宣布就薪酬、工作保障和条件等行业争议问题采取行动，将在8月份罢工两天。该协会表示，罢工将分别在8月18日和20日进行，7家火车运营公司的数千名工作人员将参加罢工行动。据介绍，这是英国运输业职工协会几十年来第一次采取铁路行业范围的罢工行动。另外，英国全国铁路、海运和运输工人工会此前已宣布分别在7月27日、8月18日和8月20日罢工，4万多名工作人员和14家火车运营公司参加罢工行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5400078.d.html</link>
+            <guid>2752102</guid>
+            <pubDate>Mon, 25 Jul 2022 17:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：阿尔及利亚国家石油公司（Sonatrach）发现三个新的国内油气田。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3513125.d.html</link>
+            <guid>2752101</guid>
+            <pubDate>Mon, 25 Jul 2022 17:58:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙特内里费岛火势趋于稳定 多地山林火灾仍处在活跃状态】截至当地时间7月25日下午，西班牙多个大区发生的山林火灾仍未得到控制，其中卡斯蒂利亚-莱昂大区的萨莫拉、布尔戈斯等省份山林火灾仍在继续。西班牙加纳利大区政府报告称，7月21日起特内里费岛发生的山林火灾火势已趋于稳定，火势未继续大规模蔓延，但大区政府同时警告称，本次火灾仍有复发的可能。截至目前，本次火灾已造成约2700公顷土地被烧毁，位于特内里费岛的泰德国家公园地区环境或受到火灾的严重破坏。加利西亚大区的山林火灾已经持续10天，累计造成约30000公顷土地被摧毁，该大区多个省份的山火仍处在活跃状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5399278.d.html</link>
+            <guid>2752100</guid>
+            <pubDate>Mon, 25 Jul 2022 17:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国会将推迟至9月份再发布关于稳定币市场监管的立法草案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5399208.d.html</link>
+            <guid>2752099</guid>
+            <pubDate>Mon, 25 Jul 2022 17:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）等监管部门正勒令众多承运波音公司（BA）777宽体飞机的美国航空公司修复相关飞机，从而打消各方针对该机型的潜在顾虑——燃料箱爆炸风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5399118.d.html</link>
+            <guid>2752098</guid>
+            <pubDate>Mon, 25 Jul 2022 17:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：因投资者为美联储大幅加息做准备 金价下跌】有机构分析，美联储本周预计将再加息75个基点。由于投资者权衡美联储收紧货币政策的前景和对经济放缓的担忧，在录得5月份以来最大单周涨幅后，黄金有所回落。美国前财政部长也曾表示对美国经济软着陆可能性的怀疑。随着美联储收紧政策和美元走强削弱了黄金作为避险资产的吸引力，盖过了对通胀和经济放缓的担忧，金价正走向第四个月下跌。投资者对黄金的兴趣减弱，导致以黄金为支撑的交易所交易基金持有量连续第六周下降，这对黄金构成了额外的下行压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5399104.d.html</link>
+            <guid>2752097</guid>
+            <pubDate>Mon, 25 Jul 2022 17:35:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间7月25日，克里米亚宣布将其危险等级提升至“高”级别。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5399065.d.html</link>
+            <guid>2752096</guid>
+            <pubDate>Mon, 25 Jul 2022 17:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比尔·盖茨将价值9.55亿美元的迪尔公司股票赠予基金会】据上周五提交给美国证券交易委员会(SEC)的公告，微软(MSFT.O)联合创始人比尔·盖茨将300多万股迪尔股份(DE.N)股票赠送给比尔及梅琳达·盖茨基金会，是盖茨承诺向该基金会捐赠200亿美元资金的一部分。迪尔公司的股票上周四收于316.54美元，此次捐赠总价值约为9.553亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3511889.d.html</link>
+            <guid>2752095</guid>
+            <pubDate>Mon, 25 Jul 2022 17:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其国防部表示，土耳其国防部长告诉乌克兰国防部长，尽快进行粮食出口走廊的第一批运输非常重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5398539.d.html</link>
+            <guid>2752094</guid>
+            <pubDate>Mon, 25 Jul 2022 17:22:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得州达拉斯市警方：拉夫菲尔德机场枪击案中只有嫌疑人受伤，嫌疑人为一名37岁女子，在售票柜台附近开枪。在被警方击中后，该名女子已被送往医院治疗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5398517.d.html</link>
+            <guid>2752093</guid>
+            <pubDate>Mon, 25 Jul 2022 17:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利7月12日新增23,669例新冠肺炎病例，新增104例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5398447.d.html</link>
+            <guid>2752092</guid>
+            <pubDate>Mon, 25 Jul 2022 17:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【捷克一国家公园发生森林火灾 大火越过边境进入德国】当地时间24日，位于捷克靠近德国边境的捷克瑞士国家公园发生森林火灾。25日，据当地消防队透露，由于受到风势的影响，原本已被控制的火势开始蔓延，越过边境进入德国。来自德国的消防队也出现在现场。据捷克媒体报道，大火位于车辆难以抵达的地区，覆盖面积约为2.5公顷。起火原因尚不清楚，公园管理人员怀疑是人为行为所致。随着捷克各地出现高温和干燥的天气状况，捷克水文气象研究所已经在全国范围内发布了火灾警告。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5398318.d.html</link>
+            <guid>2752091</guid>
+            <pubDate>Mon, 25 Jul 2022 17:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储周一逆回购工具使用规模为2.192万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3511390.d.html</link>
+            <guid>2752090</guid>
+            <pubDate>Mon, 25 Jul 2022 17:18:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京：俄罗斯航空运输业受到西方制裁影响】当地时间7月25日，俄罗斯总统普京表示，因受西方国家制裁，俄罗斯航空运输业受到影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3511265.d.html</link>
+            <guid>2752089</guid>
+            <pubDate>Mon, 25 Jul 2022 17:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得州达拉斯爱田机场发生枪击事件】 当地时间7月25日，美国得克萨斯州达拉斯爱田机场（Dallas Love Field Airport）发生枪击事件，警方表示目前正在调查此事件，尚无其他信息可以透露。达拉斯爱田机场位于达拉斯市中心西北地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3511176.d.html</link>
+            <guid>2752088</guid>
+            <pubDate>Mon, 25 Jul 2022 17:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国农业部：预计食品通胀在2023年缓解之前仍会恶化】根据美国农业部的预测，今年食品通胀将比此前预期的更严重，然后在2023年有所缓解。美国连续第六个月上调了对2022年食品通胀的年度预测，目前预计2022年食品通胀中期将增长9%，高于一个月前8%的增幅。主要原因是家禽、乳制品和谷物价格上涨。不过，随着明年通胀率将从历史水平回落，美国消费者有望“喘口气”。在对2023年的初步估计中，美国农业部预计食品价格将上涨3%。许多食品价格预计将回到接近长期趋势的通胀水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3510987.d.html</link>
+            <guid>2752087</guid>
+            <pubDate>Mon, 25 Jul 2022 17:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院Murkowski的新冠肺炎病毒检测结果呈阳性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5397734.d.html</link>
+            <guid>2752086</guid>
+            <pubDate>Mon, 25 Jul 2022 17:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财政部拍卖450亿美元两年期国债，得标利率3.015%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5397604.d.html</link>
+            <guid>2752085</guid>
+            <pubDate>Mon, 25 Jul 2022 17:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国7月25日报告新增11195例新冠肺炎确诊病例和130例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5397536.d.html</link>
+            <guid>2752084</guid>
+            <pubDate>Mon, 25 Jul 2022 17:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨0.59%，沪铜收涨0.56%，沪铝收跌1.03%，沪锌收跌0.55%，沪铅收跌0.07%，沪镍收涨0.81%，沪锡收跌0.54%。不锈钢夜盘收跌0.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5397469.d.html</link>
+            <guid>2752083</guid>
+            <pubDate>Mon, 25 Jul 2022 17:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基：乌克兰已做好准备将通过黑海港口出口粮食】乌克兰国家通讯社当地时间7月25日报道称，乌克兰总统泽连斯基当天表示，乌克兰已经做好一切准备，将根据在伊斯坦布尔签署的协议开始通过黑海出口粮食。泽连斯基同时表示，只有乌克兰方面可以在乌克兰的水域进行检查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5397453.d.html</link>
+            <guid>2752082</guid>
+            <pubDate>Mon, 25 Jul 2022 17:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收涨26美元，报7479美元/吨。LME期铝收跌67美元，报2408美元/吨。LME期锌收跌7美元，报2986美元/吨。LME期铅收跌14美元，报2004美元/吨。LME期镍收涨106美元，报22228美元/吨。LME期锡收跌317美元，报24630美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3510504.d.html</link>
+            <guid>2752081</guid>
+            <pubDate>Mon, 25 Jul 2022 16:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国经济部发言人否认俄罗斯天然气供应减少将引发德国的第三级能源天然气紧急情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3510493.d.html</link>
+            <guid>2752080</guid>
+            <pubDate>Mon, 25 Jul 2022 16:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货日内涨超4%，现报8.525美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3510428.d.html</link>
+            <guid>2752079</guid>
+            <pubDate>Mon, 25 Jul 2022 16:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：印尼一氨肥工厂在发生爆炸事故之后关闭，事故原因仍在调查中。该工厂年产能为90万吨氨（气）和120万吨尿素。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3510421.d.html</link>
+            <guid>2752078</guid>
+            <pubDate>Mon, 25 Jul 2022 16:56:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）发布达拉斯拉夫菲尔德机场进港航班停飞公告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3510398.d.html</link>
+            <guid>2752077</guid>
+            <pubDate>Mon, 25 Jul 2022 16:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得克萨斯州达拉斯市警方表示，有报道称达拉斯拉夫菲尔德机场发生枪击事件。目前警方正在调查，仍无进一步消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5397096.d.html</link>
+            <guid>2752076</guid>
+            <pubDate>Mon, 25 Jul 2022 16:51:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富国银行：将迪士尼(DIS.N)目标价下调至130美元，维持超配评级】富国银行分析师Steven Cahall将迪士尼的目标价从153美元下调至130美元，并维持对该股的超配评级。该分析师仍然看好迪士尼，认为未来的催化剂包括Disney+订户净增量的进展超出投资者预期，以及可能推出的ESPN+套餐。尽管如此，Cahall仍削减对Disney+订户、消费品、游戏和出版部门(CPGP)和广告业务的预期，以反映经济衰退的影响。他认为，需要重新调整预期，使其与股价相协调。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5396554.d.html</link>
+            <guid>2752075</guid>
+            <pubDate>Mon, 25 Jul 2022 16:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩：将恢复从乌克兰进口小麦。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5396518.d.html</link>
+            <guid>2752074</guid>
+            <pubDate>Mon, 25 Jul 2022 16:42:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古特雷斯任命李军华为联合国副秘书长 主管经济与社会事务】联合国秘书长安东尼奥·古特雷斯宣布任命来自中国的李军华为主管经济与社会事务的联合国副秘书长。李军华将接任中国的刘振民担任该职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3509696.d.html</link>
+            <guid>2752073</guid>
+            <pubDate>Mon, 25 Jul 2022 16:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：利比亚7月份将出口1926万桶石油，或62.1万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3509678.d.html</link>
+            <guid>2752072</guid>
+            <pubDate>Mon, 25 Jul 2022 16:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[装货订单和彭博汇编的货轮追踪数据显示：至7月21日当周，美国对欧洲的汽油进口较之前一周下滑34%，至14.5万桶/日，创1月中旬以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5396429.d.html</link>
+            <guid>2752071</guid>
+            <pubDate>Mon, 25 Jul 2022 16:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴黎奥运会和残奥会口号公布】巴黎奥运会即将迎来开幕倒计时两周年之际，巴黎奥组委于25日公布了2024年巴黎奥运会和残奥会的口号：“OUVRONS GRAND LES JEUX”，中文可以叫“奥运更开放”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5396013.d.html</link>
+            <guid>2752070</guid>
+            <pubDate>Mon, 25 Jul 2022 16:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌军方称英国首批“风暴”防空系统已抵达乌克兰】乌克兰国家通讯社当地时间7月25日报道称，英国首批6套“风暴”防空系统（Stormer HVM）已经抵达乌克兰，并已经在前线运作。据报道，“风暴”防空系统为短程防空系统，主要是为了应对攻击直升机和低空飞行飞机对装甲编队构成的威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5395989.d.html</link>
+            <guid>2752069</guid>
+            <pubDate>Mon, 25 Jul 2022 16:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土美国防部长就黑海粮食运输等问题通电话】土耳其国防部当地时间7月25日发表声明称，当日土耳其国防部长阿卡尔与美国国防部长奥斯汀通电话。双方就黑海粮食运输、反恐问题、土耳其-希腊关系、F16战机采购等国防和安全问题交换了意见。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3509126.d.html</link>
+            <guid>2752068</guid>
+            <pubDate>Mon, 25 Jul 2022 16:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝莱德策略师：本周美联储会后市场波动将增加】贝莱德策略师预计，在美联储本周再次加息75个基点后，市场将出现更多波动。波动将持续直到“美联储在经济增长与通胀之间作出取舍”。预计美联储“在转变态度之前会过分收紧利率，对经济增长造成严重损害”。策略师指出，市场似乎预计美国经济会出现典型的放缓，即增长和通胀都将减弱。这意味着美国通胀数据可能超出预期，并导致市场再次迅速为更高的利率路径定价，还会导致股市再次下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3509030.d.html</link>
+            <guid>2752067</guid>
+            <pubDate>Mon, 25 Jul 2022 16:30:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德众汽车：成为三家湖南附属公司，分别经营新能源汽车品牌赛力斯、小鹏汽车等】德众汽车7月25日发布三则对外投资情况，湖南德远新能源汽车集团有限公司（系湖南德众汽车销售服务股份有限公司全资子公司）于2022年6月29日设立全资子公司怀化宝悦汽车销售服务有限公司，注册地为怀化市，注册资本为人民币500 万元，占注册资本的100%，经营品牌：新能源汽车-赛力斯（AITO）。湖南德远新能源汽车集团有限公司（系湖南德众汽车销售服务股份有限公司全资子公司）于2022年7月5日设立全资子公司怀化众浩汽车销售服务有限公司，注册地址为怀化市，注册资本为人民币500万元，占注册资本的100%，经营品牌:新能源汽车-小鹏汽车。湖南德远新能源汽车集团有限公司（系湖南德众汽车销售服务股份有限公司全资子公司）拟设立全资子公司铜仁众浩汽车销售服务有限公司，注册地址为铜仁市，注册资本为人民币500万元，占注册资本的100%，经营品牌：新能源汽车-赛力斯（AITO）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3508922.d.html</link>
+            <guid>2752066</guid>
+            <pubDate>Mon, 25 Jul 2022 16:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【有“锂”就是牛 30亿大手笔分红来了】藏格矿业7月25日公布中报显示，上半年该公司实现归母净利润23.97亿元，同比增长438.01%。最值得关注的是，这家盐湖提锂龙头拿出了其上市以来最豪分红方案，拟拿出近30亿元向全体股东每10股派发现金18.98元(含税)。截至6月30日，藏格矿业市值为549亿元，股东总人数为3.79万户，以此计算平均每个股东将分红近8万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3508869.d.html</link>
+            <guid>2752065</guid>
+            <pubDate>Mon, 25 Jul 2022 16:27:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[联合国秘书长发言人：预计装载乌克兰谷物的第一批货轮将在数日内从黑海启航。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3508852.d.html</link>
@@ -56,552 +607,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5394991.d.html</link>
             <guid>2752057</guid>
             <pubDate>Mon, 25 Jul 2022 16:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国发言人：乌克兰粮食黑海出口协议各方在俄罗斯周六袭击敖德萨后再次确认了他们作出的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5394955.d.html</link>
-            <guid>2752056</guid>
-            <pubDate>Mon, 25 Jul 2022 16:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西门子能源：上周初，德国当局向西门子能源提供了向俄罗斯运输涡轮机所需的所有文件。 然而，缺少的是把涡轮机进口到俄罗斯的海关文件。俄罗斯天然气工业股份公司意识到了这一点。 目前，我们认为涡轮机与已实施或宣布的天然气供应削减之间没有任何联系。 对涡轮机进行维护一直是例行程序。在过去10年的维护中，没有出现任何重大事故。加拿大政府已经同意，由西门子能源在蒙特利尔维护的涡轮机可以从加拿大运输到德国，这将促进未来所有的涡轮机维护工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5394950.d.html</link>
-            <guid>2752055</guid>
-            <pubDate>Mon, 25 Jul 2022 16:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国能源部料将向通用汽车（GM）电池合资公司提供25亿美元贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3508070.d.html</link>
-            <guid>2752054</guid>
-            <pubDate>Mon, 25 Jul 2022 16:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股票基金仓位逼近九成，大盘成长风格获青睐】权益市场的升温，推升了公募基金的整体加仓热情。根据天相投顾统计，二季度末，股票型基金平均仓位达88.14%，较一季度末增加近1个百分点；混合型基金平均股票仓位为72.26%，较一季度末增加4.8个百分点。具体来看，1430只基金的股票仓位在90%及以上，股票仓位在80%至90%的基金有995只，而在一季度，上述仓位水平的基金数量分别为1298只和998只。国海证券分析，二季度公募基金小盘风格配置比例整体回落，其中小盘成长与小盘平衡仓位回落明显。大盘风格方面，大盘成长获得大幅加仓，而大盘价值遭遇较大减持。板块层面，二季度公募基金增持港股、科创板和北交所股票，主板与创业板股票配置比例回落。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5394851.d.html</link>
-            <guid>2752053</guid>
-            <pubDate>Mon, 25 Jul 2022 16:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西门子能源：涡轮机的运输可以立即开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5394689.d.html</link>
-            <guid>2752052</guid>
-            <pubDate>Mon, 25 Jul 2022 16:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7月24日24时至7月25日23时，玛曲县新增4例新冠肺炎无症状感染者，本轮新冠肺炎疫情累计报告感染者20例。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3507898.d.html</link>
-            <guid>2752051</guid>
-            <pubDate>Mon, 25 Jul 2022 16:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国发言人：首批从黑海港口出口乌克兰粮食的船只可能在几天内出发。联合协调中心将与航运业联系，在不久的将来公布船舶（出港）的详细程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3507877.d.html</link>
-            <guid>2752050</guid>
-            <pubDate>Mon, 25 Jul 2022 16:10:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[利比亚国家公共卫生研究所：利比里亚发现首例猴痘阳性病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5394641.d.html</link>
-            <guid>2752049</guid>
-            <pubDate>Mon, 25 Jul 2022 16:10:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基任命新的乌克兰特别作战力量司令】乌克兰总统泽连斯基当地时间7月25日任命霍列诺克代替加拉冈为新的乌克兰特别作战力量司令。乌克兰特别作战力量成立于2016年，负责执行在乌东部的军事行动。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3507699.d.html</link>
-            <guid>2752048</guid>
-            <pubDate>Mon, 25 Jul 2022 16:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于生产延迟，丰田汽车(TM.N)首次取消部分SUV订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3507567.d.html</link>
-            <guid>2752047</guid>
-            <pubDate>Mon, 25 Jul 2022 16:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊：将在接下来的几个月里推出一个名为亚马逊卖家钱包（Amazon Seller Wallet）的新工具，以简化亚马逊的销售体验。]]></title>
-            <guid>2752046</guid>
-            <pubDate>Mon, 25 Jul 2022 16:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰皇家壳牌：将投资英国北海寒鸦气田，该项目预计将在本世纪20年代中期上线，其峰值产量将占英国北海天然气产量的6%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3507513.d.html</link>
-            <guid>2752045</guid>
-            <pubDate>Mon, 25 Jul 2022 16:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国商务大臣夸滕将与北海石油、天然气公司会面，讨论能源暴利税。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizmscv3507361.d.html</link>
-            <guid>2752044</guid>
-            <pubDate>Mon, 25 Jul 2022 16:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃兰州6地降为中风险区】兰州市新冠肺炎疫情联防联控领导小组办公室刚刚发布通告：根据国务院联防联控机制《新型冠状病毒防控方案（第九版）》有关规定，经专家组综合评估研判，自即日起，将城关区草场街市政家属院、东岗街道兰泰小区院内48中学、东岗街道东岗世纪新村D区4-3栋、铁路西村街道达祥南苑小区、五泉街道五泉下广场马金龙麻辣烫店、雁园街道刘家滩自建房片区（金徽财富中心以西、飞雁街以东、温馨家园以南、高新创新园区以北）等6个区域由高风险区降为中风险区。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5393963.d.html</link>
-            <guid>2752043</guid>
-            <pubDate>Mon, 25 Jul 2022 16:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰10月份交付的批发天然气价格上涨10.15%，至181.75欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-26/detail-imizirav5393896.d.html</link>
-            <guid>2752042</guid>
-            <pubDate>Mon, 25 Jul 2022 16:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利(MS.N)：Gokul Laroia将继续担任摩根士丹利亚太区的首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3507024.d.html</link>
-            <guid>2752041</guid>
-            <pubDate>Mon, 25 Jul 2022 15:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟批准巴伐利亚北欧Imvanex疫苗用于预防猴痘】 当地时间7月25日，丹麦生物医药公司巴伐利亚北欧（Bavarian Nordic）发布消息称，欧盟委员会已根据欧洲药品管理局 (EMA) 上周的建议，批准其Imvanex疫苗作为猴痘保护剂上市销售。 此前，巴伐利亚北欧的这款疫苗已在美国和加拿大获准用于预防猴痘，但在欧盟仅获准用于治疗天花。]]></title>
-            <guid>2752040</guid>
-            <pubDate>Mon, 25 Jul 2022 15:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国能源部计划向Ultium Cells LLC提供25亿美元贷款，帮助其在俄亥俄州、田纳西州和密歇根州建设新的锂离子电池制造设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506920.d.html</link>
-            <guid>2752039</guid>
-            <pubDate>Mon, 25 Jul 2022 15:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利：Alan Thomas和Gokul Laroia将成为股票业务的全球联席主管。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5393590.d.html</link>
-            <guid>2752038</guid>
-            <pubDate>Mon, 25 Jul 2022 15:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周一（7月25日），ICE英国天然气期货收涨2.45%，报320.47便士/千卡。TTF基准荷兰天然气期货欧市尾盘涨8.58%，报176.450欧元/兆瓦时。ICE柴油期货收报1055.75美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506873.d.html</link>
-            <guid>2752037</guid>
-            <pubDate>Mon, 25 Jul 2022 15:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃天水甘谷县5区域调整风险等级 全县高风险区清零】甘肃省天水市甘谷县新型冠状病毒肺炎疫情联防联控领导小组办公室发布通告，经综合评估研判，自2022年7月26日0时起，谢家湾乡汪家山庄村三组和安远镇南城村一组由高风险区调整为中风险区；礼辛镇上街村、安远镇南城村二组、安远镇北城村一组和新兴镇甘摩社区滨河豪庭小区由中风险区调整为低风险区。截至目前，全县无高风险区，共有中风险区4个，为礼辛镇下街村、礼辛镇尉坪村河湾自然村、谢家湾乡汪家山庄村三组和安远镇南城村一组。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506793.d.html</link>
-            <guid>2752036</guid>
-            <pubDate>Mon, 25 Jul 2022 15:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：欧洲投资银行将向乌克兰提供16.3亿美元援助以解决紧急需求，其中10.7亿美元将立即拨出。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5393485.d.html</link>
-            <guid>2752035</guid>
-            <pubDate>Mon, 25 Jul 2022 15:54:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽蒙特矿业(NEM.N)：预计今年的成本将在此前预期的5%基础上再上涨7%；其中1/3左右的上涨与人工成本有关。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506761.d.html</link>
-            <guid>2752034</guid>
-            <pubDate>Mon, 25 Jul 2022 15:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报6.7520元，较上周五夜盘收盘跌2点。成交量416.24亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506754.d.html</link>
-            <guid>2752033</guid>
-            <pubDate>Mon, 25 Jul 2022 15:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：南非总统拉马福萨将于当地时间今晚20点（北京时间次日凌晨2点）就南非能源危机发表全国讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5393434.d.html</link>
-            <guid>2752032</guid>
-            <pubDate>Mon, 25 Jul 2022 15:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯宣布进一步下调北溪管道输气量】俄罗斯天然气工业股份公司在一份声明中表示，从莫斯科时间周三上午7点开始，北溪1号管道的天然气流量削减至输气能力的20％左右。俄气解释称，该管线另外一台涡轮机将进行维护，会停止使用。这是对欧洲极其紧张的能源市场的又一打击，该地区天然气价格持续飙升。ICIS天然气分析主管TomMarzec-Manser表示，这次北溪管道输气量的再度削减虽然令人遗憾但也属意料之中，现在的关键问题是这种输气状态会持续多久。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5393249.d.html</link>
-            <guid>2752031</guid>
-            <pubDate>Mon, 25 Jul 2022 15:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX30指数7月25日（周一）收盘下跌41.36点，跌幅0.31%，报13212.32点；英国富时100指数7月25日（周一）收盘上涨31.52点，涨幅0.43%，报7307.89点；法国CAC40指数7月25日（周一）收盘上涨20.73点，涨幅0.33%，报6237.55点；欧洲斯托克50指数7月25日（周一）收盘上涨7.26点，涨幅0.20%，报3603.75点；西班牙IBEX35指数7月25日（周一）收盘上涨31.68点，涨幅0.39%，报8083.28点；意大利富时MIB指数7月25日（周一）收盘上涨185.02点，涨幅0.87%，报21397.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506420.d.html</link>
-            <guid>2752030</guid>
-            <pubDate>Mon, 25 Jul 2022 15:48:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中钢协骆铁军与印度钢铁协会举行视频会议】7月25日下午，中国钢铁工业协会副会长骆铁军与印度钢铁协会秘书长萨赫（Alok Sahay）等举行视频会议，双方就中印钢铁行业运行情况、铁矿石、炼焦煤等资源贸易以及中印两国钢铁协会未来加强合作的领域等进行了交流。印方介绍了印度经济及钢铁行业情况。新冠疫情后，印度粗钢产量和消费量快速增长，去年分别达到1.2亿吨和1.06亿吨，印度已成为仅次于中国的全球第二大产钢国。双方还就印度近期对铁矿石和球团出口加征关税、各自国内焦煤供应及进口等进行了交流，介绍了相关情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506160.d.html</link>
-            <guid>2752029</guid>
-            <pubDate>Mon, 25 Jul 2022 15:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：欧盟可能会调整欧盟委员会有关在未来几个月引入强制性天然气需求削减程序的建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5392812.d.html</link>
-            <guid>2752028</guid>
-            <pubDate>Mon, 25 Jul 2022 15:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行：苹果(AAPL.O)业绩应好于同行 维持买入评级】德银分析师Sidney Ho预计，在充满挑战的环境下，苹果(AAPL.O)Q3业绩将好于同行。Ho认为，尽管宏观不确定性继续挑战消费者支出，但苹果将保持低个位数的同比增长。Ho在研报中称，苹果对供应链的管理比上季度计划的要好，同时在智能手机和个人电脑业务本就困难的一个季度继续扩大市场份额。展望未来，他预计苹果公司的前景将“更加谨慎”，以反映当前的环境，这可能会导致指引（若苹果选择给出指引）低于华尔街的估计。他认为苹果是“动荡市场中一个很好的藏身之处”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3506090.d.html</link>
-            <guid>2752027</guid>
-            <pubDate>Mon, 25 Jul 2022 15:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计美国总电力需求将分别在2023/24/25年继续下降至-1.7%、-0.3%和0.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5392765.d.html</link>
-            <guid>2752026</guid>
-            <pubDate>Mon, 25 Jul 2022 15:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：近期的经济形势放缓进一步反映了2021年下半年的强劲消费基数效应的影响，近期加密货币价格下跌和向权益证明的转变，都减少了挖矿的用电量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505962.d.html</link>
-            <guid>2752025</guid>
-            <pubDate>Mon, 25 Jul 2022 15:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股主要指数多数收涨，德国DAX30指数跌0.31%，英国富时100指数涨0.43%，法国CAC40指数涨0.33%，欧洲斯托克50指数涨0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5392548.d.html</link>
-            <guid>2752024</guid>
-            <pubDate>Mon, 25 Jul 2022 15:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：假设最近的重新开放趋势继续下去，美国实际GDP增速在2022年下半年同比放缓至1.1%，我们的模型显示，美国电力需求增长的强劲势头将结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505817.d.html</link>
-            <guid>2752023</guid>
-            <pubDate>Mon, 25 Jul 2022 15:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰防长：未来有可能接收来自美国的F-16战机】当地时间7月25日，乌克兰国防部长列兹尼科夫在接受媒体采访时表示，乌克兰政府已经与工程专家进行了磋商，未来将有可能在部分乌克兰机场安装新设备以接收来自美国的F-16战机。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505792.d.html</link>
-            <guid>2752022</guid>
-            <pubDate>Mon, 25 Jul 2022 15:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计2022年下半年美国总电力需求同比将下降1.7%（住宅-5.7%，商业+1.3%，工业+0.2%）。]]></title>
-            <guid>2752021</guid>
-            <pubDate>Mon, 25 Jul 2022 15:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗原子能组织主席25日表示，在恢复履行伊朗核问题全面协议前，国际原子能机构在伊朗核设施内运行的部分监控设备将保持关闭状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505665.d.html</link>
-            <guid>2752020</guid>
-            <pubDate>Mon, 25 Jul 2022 15:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登将与美敦力公司、洛克希德·马丁公司和康明斯公司的CEO就半导体芯片立法进行线上会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5392233.d.html</link>
-            <guid>2752019</guid>
-            <pubDate>Mon, 25 Jul 2022 15:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据报道，梅赛德斯-奔驰在德国拉施塔特的工厂目前生产受限并将停产一周，原因是部分半导体元件供应受阻。据报道，梅赛德斯-奔驰发言人周一表示，未来一周，由于持续的供应瓶颈，拉斯塔特工厂将停产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5392202.d.html</link>
-            <guid>2752018</guid>
-            <pubDate>Mon, 25 Jul 2022 15:33:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率2.520%（前次为2.470%），投标倍数2.95（前次为2.97）。拍卖六个月期国债，得标利率2.920%（前次为2.910%），投标倍数3.16（前次为2.65）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505499.d.html</link>
-            <guid>2752017</guid>
-            <pubDate>Mon, 25 Jul 2022 15:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前高盛副总裁被控从事内幕交易，高盛表示正在配合美国司法部和美国证券交易委员会的调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505404.d.html</link>
-            <guid>2752016</guid>
-            <pubDate>Mon, 25 Jul 2022 15:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌0.09%，报425.33点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505369.d.html</link>
-            <guid>2752015</guid>
-            <pubDate>Mon, 25 Jul 2022 15:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌0.63%，报13168.70点。法国股指初步收涨0.26%，意大利股指初步收涨0.53%，英国股指初步收涨0.21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5392045.d.html</link>
-            <guid>2752014</guid>
-            <pubDate>Mon, 25 Jul 2022 15:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总统发言人25日表示，德国总统施泰因迈尔的官邸将不再在夜间开灯，以节省电力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391984.d.html</link>
-            <guid>2752013</guid>
-            <pubDate>Mon, 25 Jul 2022 15:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大工业部长：电信公司Rogers未能有效告知公众断网问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505232.d.html</link>
-            <guid>2752012</guid>
-            <pubDate>Mon, 25 Jul 2022 15:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【复星医药：关于新冠药物阿兹夫定片的最新定价还未出来】复星医药宣布与真实生物就阿兹夫定达成了战略合作。复星医药方面对表示，关于新冠药物阿兹夫定片的最新定价，目前结果还未出来。2022年4月27日，新华制药曾公告过与真实生物签署了《战略合作协议》，即真实生物同意新华制药为其拥有的阿兹夫定等产品在中国及经双方同意的其他国家的产品生产商和经销商。真实生物内部人员称，复星医药发布的与该公司合作的消息属实，但未回复与新华制药合作的最新进展。另外，新华制药也未发布相关进展公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391894.d.html</link>
-            <guid>2752011</guid>
-            <pubDate>Mon, 25 Jul 2022 15:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【3200亿元专项债驰援！中小银行“补血”，提升风险抵御能力】地方政府发行专项债补充中小银行资本正在推进。银保监会有关部门负责人日前表示，近期还要批准一些地方的专项债发行方案，预计到8月底，将完成全部3200亿元额度的分配工作。近两年来，各地陆续推出专项债用于补充银行资本的计划，拓宽了中小银行融资渠道，并推动中小银行完善内部治理，健全内控机制。业内人士分析，中小银行资本充足情况需要重点关注，后续还需多举措缓解中小银行资本压力，提升其服务支持实体经济的能力。（中证报）]]></title>
-            <guid>2752010</guid>
-            <pubDate>Mon, 25 Jul 2022 15:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿尔及利亚Sonatrach宣布新发现石油和天然气储藏。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391850.d.html</link>
-            <guid>2752009</guid>
-            <pubDate>Mon, 25 Jul 2022 15:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰农业部副部长：制定了粮食协议后，乌克兰粮食出口可能达到每月350万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391792.d.html</link>
-            <guid>2752008</guid>
-            <pubDate>Mon, 25 Jul 2022 15:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝莱德策略师：警告美联储会后将出现更多市场波动】 贝莱德策略师预计，在美联储本周加息后，市场将出现更多波动。他们写道，波动率持续发生直到“央行在增长与通胀的鲜明对比之前作出取舍。”策略师Jean Boivin和Wei Li等人表示，他们预计美联储“在转向之前会过分收紧利率，对经济增长造成严重损害”。策略师们指出，市场利率预期的最大月度变化是疫情爆发前20年平均水平的两倍多，市场似乎预计经济会出现典型的放缓，即增长和通胀都将减弱。“这意味着通胀数据可能超出预期，并导致市场再次迅速为更高的利率路径定价，”导致股市再次下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391780.d.html</link>
-            <guid>2752007</guid>
-            <pubDate>Mon, 25 Jul 2022 15:26:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛：将美国运通(AXP.N)目标价从170美元上调至180美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505101.d.html</link>
-            <guid>2752006</guid>
-            <pubDate>Mon, 25 Jul 2022 15:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京非住宅房屋征收与补偿新规征求意见 将统一认定标准】北京市住建委近日发布《征求<关于进一步规范国有土地上非住宅房屋征收评估与补偿工作的通知（试行）>意见的通知》。《通知》统一了非住宅房屋用途认定标准，明确无论征收什么性质的非住宅房屋，评估时应坚持房地一体，房屋用途统一与市基准地价土地用途分类相对应，解决了非住宅房屋用途认定标准不统一的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505074.d.html</link>
-            <guid>2752005</guid>
-            <pubDate>Mon, 25 Jul 2022 15:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：梅赛德斯拉施塔特工厂本周因芯片短缺原因停产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3505019.d.html</link>
-            <guid>2752004</guid>
-            <pubDate>Mon, 25 Jul 2022 15:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为39，表明市场处在恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3504875.d.html</link>
-            <guid>2752003</guid>
-            <pubDate>Mon, 25 Jul 2022 15:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paypal：推出新的移动Safari浏览器扩展功能，以推进购物服务的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3504805.d.html</link>
-            <guid>2752002</guid>
-            <pubDate>Mon, 25 Jul 2022 15:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德经济部：将密切关注天然气形势。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3504652.d.html</link>
-            <guid>2752001</guid>
-            <pubDate>Mon, 25 Jul 2022 15:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通：上调广汽集团(02238.HK)目标价至10.5港元，评级中性】摩通研报指出，中国汽车市场疲软情况可能持续到年底。5月至6月汽车板块升势强劲，因此出现回调，6月下旬起中国汽车股自近期高位累积回落12%，扭转了5月份政策刺激及疫情放缓所带来的升幅。市场憧憬下半年潜在需求强劲，大多数OEM厂商仍坚持全年批发目标，但该行表示，高期望可能会导致更大的失望，包括上半年汽车股盈利表现或逊于预期，以及下半年需求复苏可能未足够，因此维持第一季时订立的预测。该行看好比亚迪股份(01211.HK)及广汽，预期第二季将实现稳健盈利表现；预测吉利汽车(00175.HK)上半年盈利将按年跌24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391246.d.html</link>
-            <guid>2752000</guid>
-            <pubDate>Mon, 25 Jul 2022 15:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在俄罗斯表示将减少北溪1号天然气流量后，德国全年基本负荷电价上涨4.6%，至350欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391156.d.html</link>
-            <guid>2751999</guid>
-            <pubDate>Mon, 25 Jul 2022 15:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫医师：美国总统拜登出现鼻塞症状，和轻微的嗓音沙哑问题。拜登不存在呼吸短促问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5391069.d.html</link>
-            <guid>2751998</guid>
-            <pubDate>Mon, 25 Jul 2022 15:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰次日交付的批发天然气价格上涨8.15%，至175.75欧元/兆瓦时；荷兰8月份交付的批发天然气价格上涨8.86%，至175欧元/兆瓦时；荷兰9月份交付的批发天然气价格上涨7.54%，至174.75欧元/兆瓦时。]]></title>
-            <guid>2751997</guid>
-            <pubDate>Mon, 25 Jul 2022 15:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：前高盛副总裁被指控内幕交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3504220.d.html</link>
-            <guid>2751996</guid>
-            <pubDate>Mon, 25 Jul 2022 15:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GeoVax Labs(GOVX.O)涨幅扩大至100%，报1.27美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3504101.d.html</link>
-            <guid>2751995</guid>
-            <pubDate>Mon, 25 Jul 2022 15:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：日本那霸西北方139公里处发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3504047.d.html</link>
-            <guid>2751994</guid>
-            <pubDate>Mon, 25 Jul 2022 15:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利油企埃尼集团：在阿尔及利亚Berkine北部海岸盆地发现了另一个油井，新发现在生产测试期间，该井产油量为1300桶/日，伴生气产量约为2百万标准立方英尺/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3503948.d.html</link>
-            <guid>2751993</guid>
-            <pubDate>Mon, 25 Jul 2022 15:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国未来一年电价涨至481.50欧元/兆瓦时，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3503880.d.html</link>
-            <guid>2751992</guid>
-            <pubDate>Mon, 25 Jul 2022 15:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：META将对Facebook视频创作者引入音乐收入分成。 Meta表示，在Facebook上引入音乐收入共享，使创作者更容易将使用许可音乐的视频盈利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5390596.d.html</link>
-            <guid>2751991</guid>
-            <pubDate>Mon, 25 Jul 2022 15:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登将继续按计划服用Paxlovid新冠药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3503690.d.html</link>
-            <guid>2751990</guid>
-            <pubDate>Mon, 25 Jul 2022 15:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：拜登医生的信中指出，拜登的脉搏、血压和体温都正常，拜登的新冠症状现在几乎完全消除了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5390398.d.html</link>
-            <guid>2751989</guid>
-            <pubDate>Mon, 25 Jul 2022 15:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内盘期货夜市收盘涨跌各异，菜油涨超2.5%，但焦煤跌超2.6%焦炭跌约3.5%】螺纹期货夜盘收跌1.42%，热卷收跌0.73%；铁矿石期货收涨0.35%。焦炭夜盘收跌3.48%，焦煤收跌2.58%。菜油夜盘收涨2.54%，豆一、沥青、玉米、橡胶、淀粉至多涨1.82%，豆油、棕榈、PP、PTA、塑料、豆二、玻璃、LPG、短纤、纯碱、燃油、豆粕至多涨0.96%。粳米、低硫燃油、20号胶、PVC、白糖、纸浆夜盘则至多收跌0.72%，甲醇、棉纱、苯乙烯、菜粕、棉花至多收跌1.78%，乙二醇跌2.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5390358.d.html</link>
-            <guid>2751988</guid>
-            <pubDate>Mon, 25 Jul 2022 15:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国经济部：和制裁相关的批准涡轮机交付的条件已得到满足。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5390116.d.html</link>
-            <guid>2751987</guid>
-            <pubDate>Mon, 25 Jul 2022 15:03:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国内期货主力合约涨跌分化。菜油涨超2%，豆一、沥青涨近2%。跌幅方面，焦炭跌超3%，焦煤、乙二醇（EG）跌超2%，棉花跌近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5390088.d.html</link>
-            <guid>2751986</guid>
-            <pubDate>Mon, 25 Jul 2022 15:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德经济部：俄罗斯减少供应不存在技术上的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5390039.d.html</link>
-            <guid>2751985</guid>
-            <pubDate>Mon, 25 Jul 2022 15:02:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国内期货夜盘收盘涨跌参半，黑色系领跌。焦炭跌3%，焦煤跌2%，螺纹、乙二醇、苯乙烯、棉花跌1%；菜籽油涨2%，豆一、玉米、沥青、橡胶涨1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3503213.d.html</link>
-            <guid>2751984</guid>
-            <pubDate>Mon, 25 Jul 2022 15:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【政策支持数字经济行业，机构看好行业主赛道，本月“点赞”了25只股】今日晚间，国务院办公厅发布关于同意建立数字经济发展部际联席会议制度的函，根据《“十四五”数字经济发展规划》部署，为加强统筹协调，不断做强做优做大我国数字经济，经国务院同意，建立数字经济发展部际联席会议制度。政策支持下，机构认为，我国数字经济将持续蓬勃发展。平安证券研报指出，我国数字基础设施建设积极推进，数字经济发展成效显著，数字经济规模全球领先。受益于我国政府对数字经济的高度重视，我国数字经济将持续蓬勃发展。持续看好数字经济主赛道。数据显示，机构7月以来已给出25只数字经济个股“买入”评级，其中恒生电子获得29家机构看好，瑞银证券给出78元/股的最新买入价。此外，三七互娱、用友网络、中科创达、东方财富、北方华创、纳思达、紫光股份均获得10家以上机构给出买入评级。业绩方面，已有16家数字经济行业上市公司披露2022年上半年业绩预告，其中5家预增，北方华创预计今年上半年净利润同比增长130%~160%；鹏鼎控股预计今年上半年净利润同比增长120%~130%。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5389976.d.html</link>
-            <guid>2751983</guid>
-            <pubDate>Mon, 25 Jul 2022 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹期货夜盘收跌1.42%，热卷收跌0.73%；铁矿石期货收涨0.35%。焦炭夜盘收跌3.48%，焦煤收跌2.58%。]]></title>
-            <guid>2751982</guid>
-            <pubDate>Mon, 25 Jul 2022 15:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据报道，加拿大不列颠哥伦比亚省警方就兰里市的多起枪击案件发布警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5389772.d.html</link>
-            <guid>2751981</guid>
-            <pubDate>Mon, 25 Jul 2022 14:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯库尔斯克州州长称乌克兰边境村庄被炮击，击中了电信塔。（卫星社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5389711.d.html</link>
-            <guid>2751980</guid>
-            <pubDate>Mon, 25 Jul 2022 14:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德官员：周二北溪一号天然气的指定流量减半。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502941.d.html</link>
-            <guid>2751979</guid>
-            <pubDate>Mon, 25 Jul 2022 14:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内涨幅达0.50%，现报136.75。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502925.d.html</link>
-            <guid>2751978</guid>
-            <pubDate>Mon, 25 Jul 2022 14:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今年夏季，超过90%的拥有空调的美国人都在开空调，因夏季变得越来越热和越来越长。更高的空调使用量正在给电网带来压力并增加碳排放，这将进一步导致全球变暖。虽然空调在全球其他地方并不常见（如欧洲只有不到10%的家庭拥有空调），但随着夏季极端气温变得越来越普遍，预计这一数字还会增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502898.d.html</link>
-            <guid>2751977</guid>
-            <pubDate>Mon, 25 Jul 2022 14:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沪惠保累计赔付金额超7.5亿元，单次最大赔付58.7万元】上海城市定制型商业补充医疗保险“沪惠保”首年度赔付数据出炉。7月25日，“沪惠保”官方披露的数据显示，2021年版“沪惠保”总赔款7.5亿元，平均每天赔款金额202.74万元，共保体共受理报案21.68万件，已结案件21.26万件。其中，单案件赔付最高58.71万元，由一名46岁急性复发性胰腺炎疾病患者申请赔付。就赔付年龄结构看，在获赔受益人中，年龄最小的仅1周岁，年龄最大的达到104周岁。26-65周岁占比达52.94%，0-25岁占比为1.48%，65岁以上占比达45.58%。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5389412.d.html</link>
-            <guid>2751976</guid>
-            <pubDate>Mon, 25 Jul 2022 14:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：预计美联储将继续采取激进的政策紧缩模式，以防止美国通胀预期上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502629.d.html</link>
-            <guid>2751975</guid>
-            <pubDate>Mon, 25 Jul 2022 14:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：到2023年底，需求疲软和供应方面的一些改善将稳步压低美国的通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502607.d.html</link>
-            <guid>2751974</guid>
-            <pubDate>Mon, 25 Jul 2022 14:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：今年美国的通胀仍将高于目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5389252.d.html</link>
-            <guid>2751973</guid>
-            <pubDate>Mon, 25 Jul 2022 14:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：美国经济目前的基本面仍然强劲，但宏观经济动荡至少还将持续一年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502553.d.html</link>
-            <guid>2751972</guid>
-            <pubDate>Mon, 25 Jul 2022 14:51:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：美国经济增长明显放缓，但仍有可能避免陷入衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502523.d.html</link>
-            <guid>2751971</guid>
-            <pubDate>Mon, 25 Jul 2022 14:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：预计到2023年，美国失业率将从目前3.6%的低水平升至略高于4.0%的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502512.d.html</link>
-            <guid>2751970</guid>
-            <pubDate>Mon, 25 Jul 2022 14:51:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：考虑到美联储收紧政策以抑制通胀带来的影响，下调了美国2022-23年的经济增长预期；目前预计2022年美国实际GDP增速为2.1%，2023年为1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502426.d.html</link>
-            <guid>2751969</guid>
-            <pubDate>Mon, 25 Jul 2022 14:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国7月商业景气指数降至两年来低点】德国伊弗经济研究所25日公布的数据显示，受能源价格高企和天然气短缺风险影响，经季节调整后，德国7月商业景气指数从上月的92.2点降至88.6点，为2020年6月以来最低值。数据显示，构成商业景气指数的4项指标，即制造业、服务业、贸易和建筑业均环比显著下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5388979.d.html</link>
-            <guid>2751968</guid>
-            <pubDate>Mon, 25 Jul 2022 14:49:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申达股份：今年以来累计获得政府补助819.28万元】申达股份7月25日晚间公告，2022年1月1日至本公告日，公司及子公司累计收到与收益相关的政府补助819.28万元，其中，公司获得的补助为507.90万元，其余为子公司所获得的补助。合计占公司2021年度经审计归属于上市公司股东净利润的23.14%。按照相关规定，公司将上述与收益相关的政府补助列入其他收益等科目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502246.d.html</link>
-            <guid>2751967</guid>
-            <pubDate>Mon, 25 Jul 2022 14:49:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Italgas的CEO Paolo Gallo：并不认为意大利2022年冬季将面临天然气供应风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizirav5388961.d.html</link>
-            <guid>2751966</guid>
-            <pubDate>Mon, 25 Jul 2022 14:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦卢比对美元汇率跌至230:1 再创历史新低】7月25日，巴基斯坦卢比对美元汇率在银行间市场的盘中交易中再次创下历史新低。根据巴基斯坦国家银行（SBP）的数据，卢比对美元汇率盘中已跌至230:1。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-25/detail-imizmscv3502127.d.html</link>
-            <guid>2751965</guid>
-            <pubDate>Mon, 25 Jul 2022 14:47:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
